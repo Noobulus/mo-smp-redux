@@ -508,6 +508,11 @@ hash = "05ab115365fb3de4507d557865eee6a8e828d0800bc7980236185c4b948d1d6d"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "4030ef46ebf2eb0396c9eb6c9f228fe6be4556be0d8632ef3d9e7d0f3c27b74a"
+metafile = true
+
+[[files]]
 file = "mods/bundle-pins.pw.toml"
 hash = "ab46e199edeec40be9257af33b82ca2402625ba4fce0722274623bd2f919dc9b"
 metafile = true
@@ -814,6 +819,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "b465b646e5499dd0bbea8905fca7b01265fe013bf36ccba2c92e822e7f9c24df"
 metafile = true
 
 [[files]]
