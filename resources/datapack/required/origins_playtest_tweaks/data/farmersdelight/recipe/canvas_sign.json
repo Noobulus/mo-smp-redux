@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "tag": "minecraft:signs"
+    },
+    {
+      "item": "farmersdelight:canvas"
+    }
+  ],
+  "result": {
+    "id": "farmersdelight:canvas_sign"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "flower_boxes",
+    "key": {
+        "#": {
+            "item": "arts_and_crafts:cork_planks"
+        },
+        "D": {
+            "item": "minecraft:dirt"
+        },
+        "S": {
+            "item": "arts_and_crafts:cork_slab"
+        }
+    },
+    "pattern": [
+        "SDS",
+        "###"
+    ],
+    "result": {
+        "count": 3,
+        "id": "everycomp:af/arts_and_crafts/cork_flower_box"
+    }
+}

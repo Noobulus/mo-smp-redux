@@ -1,0 +1,4 @@
+{
+	// (Dedicated Servers Only) Whether to enable fake gamerules for various server.properties fields.
+	enableFakeServerRules: true
+}

@@ -1,0 +1,15 @@
+ {
+	"powers": [
+        "maddy_origins:photophobic",
+		"maddy_origins:necrotic",
+		"maddy_origins:scavenger",
+		"maddy_origins:grave_goods",
+		"maddy_origins:un_undead",
+        "maddy_origins:fire_resistant_grace_period"
+	],
+	"icon": {
+		"id": "minecraft:rotten_flesh"
+	},
+	"order": 0,
+	"impact": 3
+}

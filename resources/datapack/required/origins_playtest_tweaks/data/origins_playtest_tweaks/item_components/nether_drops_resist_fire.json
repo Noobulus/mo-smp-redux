@@ -1,0 +1,14 @@
+{
+  "targets": [
+    "minecraft:nether_star",
+    "minecraft:blaze_powder",
+    "minecraft:blaze_rod",
+    "minecraft:magma_cream",
+    "minecraft:ghast_tear",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian"
+  ],
+  "components": {
+    "minecraft:fire_resistant": {}
+  }
+}

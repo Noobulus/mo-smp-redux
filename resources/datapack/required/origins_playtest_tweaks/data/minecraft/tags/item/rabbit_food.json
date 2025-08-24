@@ -1,0 +1,17 @@
+{
+    "values": [
+        {
+            "id": "farmersdelight:pumpkin_slice",
+            "required": false
+        },
+        "minecraft:melon_slice",
+        "minecraft:glistering_melon_slice",
+        "minecraft:apple",
+        "minecraft:golden_apple",
+        "minecraft:enchanted_golden_apple",
+        {
+            "id": "farmersdelight:hamburger",
+            "required": false
+        }
+    ]
+}

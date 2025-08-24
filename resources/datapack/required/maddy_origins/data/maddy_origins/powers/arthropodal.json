@@ -1,0 +1,19 @@
+{
+    "type": "origins:multiple",
+    "night_vision": {
+        "type": "origins:night_vision",
+        "strength": 0.25
+    },
+    "bane_sensitive_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:sensitive_to_bane_of_arthropods"
+    },
+    "powder_snow_walking_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:powder_snow_walkable_mobs"
+    },
+    "infested_immune_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:immune_to_infested"
+    }
+}

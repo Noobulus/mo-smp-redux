@@ -1,0 +1,14 @@
+ {
+	"powers": [
+		"maddy_origins:durable",
+		"maddy_origins:dense",
+		"maddy_origins:inorganic",
+		"maddy_origins:inviolable",
+		"maddy_origins:repair"
+	],
+	"icon": {
+		"id": "minecraft:brick"
+	},
+	"order": 0,
+	"impact": 3
+}

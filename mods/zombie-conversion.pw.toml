@@ -1,0 +1,13 @@
+name = "Zombie Conversion"
+filename = "zombieconversion-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eGikR5ck/versions/nlSNTD1y/zombieconversion-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "fb9a8aaf8bd7caa6a33c14d969b3757b0cd768c32c0ec1a92824e0884644810f431d211d0fce2b353a8112c94badff052f91c854a55d3033e1a9c7491105a38a"
+
+[update]
+[update.modrinth]
+mod-id = "eGikR5ck"
+version = "nlSNTD1y"

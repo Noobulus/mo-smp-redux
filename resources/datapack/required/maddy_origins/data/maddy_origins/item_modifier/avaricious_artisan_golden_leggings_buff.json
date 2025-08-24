@@ -1,0 +1,32 @@
+[
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "maddy_origins:leggings_armor",
+        "attribute": "minecraft:generic.armor",
+        "amount": 5,
+        "operation": "add_value",
+        "slot": "legs"
+      },
+      {
+        "id": "maddy_origins:leggings_knockback_resistance",
+        "attribute": "minecraft:generic.knockback_resistance",
+        "amount": 0.05,
+        "operation": "add_value",
+        "slot": "legs"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:max_damage": 270,
+      "minecraft:item_name": "{\"translate\": \"name.maddy_origins:artisan_golden_leggings\"}"
+    }
+  },
+  {
+    "function": "minecraft:reference",
+    "name": "maddy_origins:avaricious_artisan_base"
+  }
+]

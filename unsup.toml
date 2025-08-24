@@ -1,0 +1,19 @@
+[flavor_groups.sodium]
+name = "Sodium Content"
+description = "Full-fat or low sodium? Sodium may perform poorly on some systems.\n Odds are you already know if this is you!"
+side = "client"
+[[flavor_groups.sodium.choices]]
+id = "fullfat"
+name = "Full-Fat"
+description = "Installs Sodium and related mods - this option is probably what you want!"
+[[flavor_groups.sodium.choices]]
+id = "lowsodium"
+name = "Low Sodium"
+description = "Sodium and other mods that require it will not be installed."
+
+[metafile.sodium]
+flavors = ["fullfat"]
+[metafile.iris]
+flavors = ["fullfat"]
+[metafile.indium]
+flavors = ["fullfat"]

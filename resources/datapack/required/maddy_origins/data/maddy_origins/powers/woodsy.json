@@ -1,0 +1,116 @@
+{
+    "type": "origins:multiple",
+    "axe_boolean": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 1,
+        "hud_render": {
+            "should_render": false
+        }
+    },
+    "update_axe_boolean": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:if_else",
+            "condition": {
+                "type": "origins:equipped_item",
+                "equipment_slot": "mainhand",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "tag": "minecraft:axes"
+                    }
+                }
+            },
+            "if_action": {
+                "type": "origins:change_resource",
+                "resource": "maddy_origins:woodsy_axe_boolean",
+                "change": 1,
+                "operation": "set"
+            },
+            "else_action": {
+                "type": "origins:change_resource",
+                "resource": "maddy_origins:woodsy_axe_boolean",
+                "change": 0,
+                "operation": "set"
+            }
+        },
+        "interval": 1
+    },
+    "axe_mining_speed_flat_bonus": {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:player.mining_efficiency",
+        "modifier": {
+            "operation": "add_base_late",
+            "amount": 2
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:woodsy_axe_boolean",
+            "comparison": "!=",
+            "compare_to": 0
+        }
+    },
+    "axe_swing_speed_flat_bonus": {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:generic.attack_speed",
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 0.2
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:woodsy_axe_boolean",
+            "comparison": "!=",
+            "compare_to": 0
+        }
+    },
+    "axe_mining_speed_percent_bonus": {
+        "type": "origins:modify_break_speed",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:mineable/axe"
+        },
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 0.3
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:woodsy_axe_boolean",
+            "comparison": "!=",
+            "compare_to": 0
+        }
+    },
+    "invisible_in_bushes": {
+        "type": "origins:invisibility",
+        "condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:sneaking"
+                },
+                {
+                    "type": "origins:in_block",
+                    "block_condition": {
+                        "type": "origins:all_of",
+                        "conditions": [
+                            {
+                                "type": "origins:in_tag",
+                                "tag": "maddy_origins:woodsy_hideable"
+                            },
+                            {
+                                "type": "origins:offset",
+                                "condition": {
+                                    "type": "origins:in_tag",
+                                    "tag": "maddy_origins:woodsy_hideable"
+                                },
+                                "y": 1
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

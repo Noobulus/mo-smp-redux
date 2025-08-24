@@ -1,0 +1,28 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config (or just use Forge)",
+  "types": {
+    "wood_type": {
+      "gardens_of_the_dead.soulblight": true,
+      "gardens_of_the_dead.whistlecane": true,
+      "arts_and_crafts.cork": true
+    },
+    "leaves_type": {
+      "arts_and_crafts.cork": true
+    }
+  },
+  "entries": {
+    "wood_type": {
+      "farmersdelight.cabinet": true,
+      "another_furniture.drawer": true,
+      "another_furniture.table": true,
+      "another_furniture.flower_box": true,
+      "another_furniture.shelf": true,
+      "dramaticdoors.short_door": true,
+      "another_furniture.shutter": true,
+      "dramaticdoors.tall_door": true,
+      "another_furniture.bench": true,
+      "another_furniture.chair": true
+    },
+    "leaves_type": {}
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:quartz"
+    },
+    "T": {
+      "tag": "minecraft:planks"
+    },
+    "X": {
+      "item": "minecraft:copper_ingot"
+    },
+    "G": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "pattern": [
+    " G#",
+    " TG",
+    "X  "
+  ],
+  "result": {
+    "id": "minecraft:spyglass"
+  }
+}

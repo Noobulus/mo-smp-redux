@@ -1,0 +1,55 @@
+{
+    "type": "origins:multiple",
+    "bonus_oxygen": {
+        "type": "origins:attribute",
+        "modifier": {
+            "id": "*:*",
+            "attribute": "minecraft:generic.oxygen_bonus",
+            "operation": "add_value",
+            "amount": 3
+        }
+    },
+    "bonus_water_speed": {
+        "type": "origins:modify_swim_speed",
+        "modifier": {
+            "id": "*:*",
+            "operation": "add_multiplied_total",
+            "amount": 0.5
+        }
+    },
+    "water_night_vision": {
+        "type": "origins:night_vision",
+        "strength": 0.15,
+        "condition": {
+            "type": "origins:submerged_in",
+            "fluid": "minecraft:water"
+        }
+    },
+    "better_water_vision": {
+        "type": "origins:attribute",
+        "modifier": {
+            "id": "*:*",
+            "attribute": "additionalentityattributes:player.water_visibility",
+            "operation": "add_value",
+            "amount": 32
+        }
+    },
+    "lessened_underwater_mining_penalty": {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:player.submerged_mining_speed",
+        "modifiers": [
+            {
+                "operation": "add_total_late",
+                "amount": 0.1
+            },
+            {
+                "operation": "min_total",
+                "amount": 0.4
+            }
+        ]
+    },
+    "impaling_sensitive_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:sensitive_to_impaling"
+    }
+}

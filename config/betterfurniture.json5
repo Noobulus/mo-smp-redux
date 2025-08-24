@@ -1,0 +1,7 @@
+{
+	// Defines if any furniture is enabled at all. If set to false, all furniture will be disabled.
+	furnitureEnabled: true,
+	tablesEnabled: true,
+	chairsEnabled: true,
+	stoolsEnabled: true
+}

@@ -1,0 +1,25 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "flower_boxes",
+    "key": {
+        "#": {
+            "item": "gardens_of_the_dead:whistlecane_planks"
+        },
+        "D": {
+            "item": "minecraft:dirt"
+        },
+        "S": {
+            "item": "gardens_of_the_dead:whistlecane_slab"
+        }
+    },
+    "pattern": [
+        "SDS",
+        "###"
+    ],
+    "result": {
+        "count": 3,
+        "id": "everycomp:af/gardens_of_the_dead/whistlecane_flower_box"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "type": "origins:multiple",
+    "powder_snow_walking_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:powder_snow_walkable_mobs"
+    },
+    "freeze_immune_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:freeze_immune_entity_types"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "origins:multiple",
+    "fall_immunity": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:is_fall"
+        }
+    },
+    "knockback_resist": {
+        "type": "origins:attribute",
+        "modifier": {
+            "id": "*:*",
+            "attribute": "minecraft:generic.knockback_resistance",
+            "operation": "add_value",
+            "amount": 0.5
+        }
+    },
+    "explosion_knockback_resist": {
+        "type": "origins:attribute",
+        "modifier": {
+            "id": "*:*",
+            "attribute": "minecraft:generic.explosion_knockback_resistance",
+            "operation": "add_value",
+            "amount": 0.5
+        }
+    }
+}

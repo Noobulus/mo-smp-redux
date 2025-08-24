@@ -1,0 +1,21 @@
+{
+    "id_substrings": {
+        ".": "button"
+    },
+    "source_family": [
+        {
+            "pattern": "#",
+            "output_token": ".",
+            "output_count": 1
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_buttons",
+            "pattern": "#",
+            "output_token": ".",
+            "output_count": 4,
+            "category": "building"
+        }
+    ]
+}

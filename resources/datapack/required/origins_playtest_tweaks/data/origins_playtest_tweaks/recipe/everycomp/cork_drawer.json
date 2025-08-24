@@ -1,0 +1,26 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "drawers",
+    "key": {
+        "#": {
+            "item": "arts_and_crafts:cork_planks"
+        },
+        "S": {
+            "item": "arts_and_crafts:cork_slab"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "###",
+        "S/S",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "everycomp:af/arts_and_crafts/cork_drawer"
+    }
+}

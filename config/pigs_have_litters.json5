@@ -1,0 +1,4 @@
+{
+	// Comma-separated list of Probability:Count - probabilities should sum to 100.
+	"litterSizingChances": "50:1,30:2,20:3"
+}

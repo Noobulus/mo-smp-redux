@@ -1,0 +1,52 @@
+{
+    "common_ingredients": {
+        "|": "stick",
+        "!": "chain"
+    },
+    "id_substrings": {
+        "*": "sign",
+        "^": "hanging"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "###",
+                "###",
+                " | "
+            ],
+            "output_token": "*",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "! !",
+                "%%%",
+                "%%%"
+            ],
+            "output_token": "^",
+            "output_count": 6
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_signs",
+            "pattern": [
+                "#",
+                "|"
+            ],
+            "output_token": "*",
+            "output_count": 2,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_cheaper_hanging_signs",
+            "pattern": [
+                "!",
+                "%"
+            ],
+            "output_token": "^",
+            "output_count": 2,
+            "category": "building"
+        }
+    ]
+}

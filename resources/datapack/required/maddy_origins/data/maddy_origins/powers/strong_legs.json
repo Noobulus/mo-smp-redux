@@ -1,0 +1,40 @@
+{
+	"type": "origins:multiple",
+	"faster_sprinting": {
+		"type": "origins:conditioned_attribute",
+		"modifier": {
+			"id": "*:*",
+			"attribute": "minecraft:generic.movement_speed",
+			"operation": "add_multiplied_total",
+			"amount": 0.25
+		},
+		"tick_rate": 1,
+		"condition": {
+			"type": "origins:sprinting"
+		}
+	},
+	"sneak_jump": {
+		"type": "origins:modify_jump",
+		"condition": {
+			"type": "origins:sneaking"
+		},
+		"modifier": {
+			"operation": "add_base_early",
+			"amount": 0.425
+		}
+	},
+    "air_speed_scales_with_speed": {
+        "type": "origins:attribute_modify_transfer",
+        "class": "modify_air_speed",
+        "attribute": "minecraft:generic.movement_speed",
+        "multiplier": 0.75
+    },
+    "fall_resistance": {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:generic.safe_fall_distance",
+        "modifier": {
+            "operation": "add_base_early",
+            "amount": 5
+        }
+    }
+}

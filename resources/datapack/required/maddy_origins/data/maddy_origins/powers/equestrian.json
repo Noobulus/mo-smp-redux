@@ -1,0 +1,36 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:riding_action",
+                "action": {
+                    "type": "origins:apply_effect",
+                    "effects": [
+                        {
+                            "id": "minecraft:resistance",
+                            "duration": 100,
+                            "amplifier": 1,
+                            "show_particles": false,
+                            "show_icon": false
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "id": "minecraft:resistance",
+                    "duration": 100,
+                    "show_particles": false,
+                    "show_icon": false
+                }
+            }
+        ]
+    },
+    "interval": 20,
+    "condition": {
+        "type": "origins:riding"
+    }
+}

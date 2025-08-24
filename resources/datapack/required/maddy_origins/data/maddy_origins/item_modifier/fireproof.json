@@ -1,0 +1,18 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "translate": "lore.maddy_origins:fireproofed",
+        "color": "gray"
+      }
+    ],
+    "mode": "append"
+  },
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:fire_resistant": {}
+    }
+  }
+]

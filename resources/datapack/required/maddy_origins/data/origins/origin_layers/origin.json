@@ -1,0 +1,26 @@
+{
+  "replace": true,
+  "loading_priority": 1,
+  "order": 0,
+  "enabled": true,
+  "origins": [
+    "origins:human",
+    "maddy_origins:construct",
+    "maddy_origins:critter",
+    "maddy_origins:avian",
+    "maddy_origins:undead",
+    "maddy_origins:cured",
+    "maddy_origins:slimefolk",
+    "maddy_origins:netherdweller",
+    "maddy_origins:insect",
+    "maddy_origins:outcast",
+    "maddy_origins:amphibian"
+  ],
+  "allow_random": true,
+  "exclude_random": [
+    "origins:human",
+    "maddy_origins:cured"
+  ],
+  "allow_random_unchoosable": false,
+  "hidden": false
+} 

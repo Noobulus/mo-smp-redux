@@ -1,0 +1,102 @@
+{
+    "type": "origins:multiple",
+    "cooldown": {
+        "type": "origins:cooldown",
+        "cooldown": 80,
+        "hud_render": {
+            "should_render": false
+        }
+    },
+    "updraft_while_gliding": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:add_velocity",
+                    "y": 1,
+                    "server": false
+                },
+                {
+                    "type": "origins:trigger_cooldown",
+                    "power": "maddy_origins:updraft_cooldown"
+                },
+                {
+                    "type": "origins:play_sound",
+                    "sound": "maddy_origins:origin.avian.updraft"
+                }
+            ]
+        },
+        "interval": 1,
+        "condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:on_block",
+                    "inverted": true
+                },
+                {
+                    "type": "origins:resource",
+                    "resource": "maddy_origins:updraft_cooldown",
+                    "comparison": "==",
+                    "compare_to": 0
+                },
+                {
+                    "type": "origins:any_of",
+                    "conditions": [
+                        {
+                            "type": "origins:resource",
+                            "resource": "maddy_origins:glide_condition_boolean",
+                            "comparison": "!=",
+                            "compare_to": 0
+                        },
+                        {
+                            "type": "origins:fall_flying"
+                        }
+                    ]
+                },
+                {
+                    "type": "origins:raycast",
+                    "distance": 12,
+                    "direction": {
+                        "y": -1
+                    },
+                    "block": true,
+                    "entity": false,
+                    "shape_type": "outline",
+                    "fluid_handling": "any",
+                    "block_condition": {
+                        "type": "origins:any_of",
+                        "conditions": [
+                            {
+                                "type": "origins:in_tag",
+                                "tag": "maddy_origins:updraft_blocks"
+                            },
+                            {
+                                "type": "origins:all_of",
+                                "conditions": [
+                                    {
+                                        "type": "origins:in_tag",
+                                        "tag": "maddy_origins:updraft_blocks_when_lit"
+                                    },
+                                    {
+                                        "type": "origins:block_state",
+                                        "property": "lit",
+                                        "value": true
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "origins:fluid",
+                                "fluid_condition": {
+                                    "type": "origins:in_tag",
+                                    "tag": "maddy_origins:updraft_fluids"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}

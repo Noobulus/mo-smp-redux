@@ -1,0 +1,9 @@
+ {
+  "values": [
+    "minecraft:brick",
+    "minecraft:nether_brick",
+    "minecraft:copper_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot"
+  ]
+}

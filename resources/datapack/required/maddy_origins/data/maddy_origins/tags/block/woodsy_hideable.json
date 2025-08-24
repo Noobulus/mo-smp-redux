@@ -1,0 +1,21 @@
+{
+    "values": [
+        "#minecraft:tall_flowers",
+        "minecraft:tall_grass",
+        "minecraft:sugar_cane",
+        "minecraft:tall_seagrass",
+        "minecraft:kelp_plant",
+        "minecraft:weeping_vines",
+        "minecraft:weeping_vines_plant",
+        "minecraft:twisting_vines",
+        "minecraft:twisting_vines_plant",
+        {
+            "id": "farmersdelight:rice",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:rice_panicles",
+            "required": false
+        }
+    ]
+}

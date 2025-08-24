@@ -1,0 +1,31 @@
+{
+    "common_ingredients": {
+        "|": "stick"
+    },
+    "id_substrings": {
+        "#": "wool"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "###",
+                "###",
+                " | "
+            ],
+            "output_token": "*",
+            "output_count": 1
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_banners",
+            "pattern": [
+                "#",
+                "|"
+            ],
+            "output_token": "*",
+            "output_count": 1,
+            "category": "building"
+        }
+    ]
+}

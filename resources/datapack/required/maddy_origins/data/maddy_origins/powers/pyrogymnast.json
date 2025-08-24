@@ -1,0 +1,79 @@
+{
+    "type": "origins:multiple",
+    "fire_immunity": {
+        "type": "origins:fire_immunity"
+    },
+    "lava_negates_falls": {
+        "condition": {
+            "type": "origins:fluid_height",
+            "fluid": "minecraft:lava",
+            "comparison": "!=",
+            "compare_to": 0
+        },
+        "type": "origins:modify_damage_taken",
+        "damage_condition": {
+            "type": "origins:name",
+            "name": "fall"
+        },
+        "modifier": {
+            "operation": "multiply_base_multiplicative",
+            "amount": -1
+        }
+    },
+    "lava_swimming": {
+        "type": "origins:swimming",
+        "condition": {
+            "type": "origins:fluid_height",
+            "fluid": "minecraft:lava",
+            "comparison": "!=",
+            "compare_to": 0
+        }
+    },
+    "lava_vision": {
+        "type": "origins:lava_vision",
+        "s": 0,
+        "v": 24
+    },
+    "faster_lava_wading": {
+        "type": "origins:modify_attribute",
+        "attribute": "additionalentityattributes:generic.lava_speed",
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 0.6
+        }
+    },
+    "lava_speed_compensation": {
+        "type": "origins:modify_velocity",
+        "modifier": {
+            "amount": -0.6,
+            "operation": "multiply_total_multiplicative"
+        },
+        "axes": [
+            "x",
+            "y",
+            "z"
+        ],
+        "condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:fluid_height",
+                    "fluid": "minecraft:lava",
+                    "comparison": "!=",
+                    "compare_to": 0
+                },
+                {
+                    "type": "origins:swimming"
+                }
+            ]
+        }
+    },
+    "lava_depth_strider_compensation": {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:generic.water_movement_efficiency",
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 2
+        }
+    }
+}

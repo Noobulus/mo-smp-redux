@@ -1,0 +1,144 @@
+{
+    "values": [
+        {
+            "id": "build_tools:cloud_bucket",
+            "required": false
+        },
+        {
+            "id": "moonlight:placeable_item",
+            "required": false
+        },
+        {
+            "id": "origins:orb_of_origin",
+            "required": false
+        },
+        {
+            "id": "porting_lib:area_selector",
+            "required": false
+        },
+        {
+            "id": "everycomp:all_woods",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_oak",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_spruce",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_birch",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_jungle",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_acacia",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_dark_oak",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_crimson",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_warped",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_mangrove",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:table_cherry",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_oak",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_spruce",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_birch",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_jungle",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_acacia",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_dark_oak",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_crimson",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_warped",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_mangrove",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:chair_cherry",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_oak",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_spruce",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_birch",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_jungle",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_acacia",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_dark_oak",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_crimson",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_warped",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_mangrove",
+            "required": false
+        },
+        {
+            "id": "betterfurniture:stool_cherry",
+            "required": false
+        }
+    ]
+}

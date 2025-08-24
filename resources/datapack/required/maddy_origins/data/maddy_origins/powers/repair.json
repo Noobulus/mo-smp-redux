@@ -1,0 +1,494 @@
+{
+    "type": "origins:multiple",
+    "no_regen": {
+        "type": "origins:disable_regen"
+    },
+    "repair_brick": {
+        "type": "origins:edible_item",
+        "entity_action": {
+            "type": "origins:heal",
+            "amount": 2
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:brick"
+            }
+        },
+        "food_component": {
+            "nutrition": 0,
+            "saturation": 0,
+            "can_always_eat": true
+        },
+        "consume_animation": "eat",
+        "consume_sound": "maddy_origins:origin.construct.repair.brick",
+        "condition": {
+            "type": "origins:relative_health",
+            "comparison": "<",
+            "compare_to": 1
+        }
+    },
+    "repair_brick_when_used": {
+        "type": "origins:action_on_being_used",
+        "bientity_action": {
+            "type": "origins:target_action",
+            "action": {
+                "type": "origins:and",
+                "actions": [
+                    {
+                        "type": "origins:heal",
+                        "amount": 2
+                    },
+                    {
+                        "type": "origins:play_sound",
+                        "sound": "maddy_origins:origin.construct.repair.brick"
+                    }
+                ]
+            }
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:brick"
+            }
+        },
+        "held_item_action": {
+            "type": "origins:consume"
+        },
+        "condition": {
+            "type": "origins:relative_health",
+            "comparison": "<",
+            "compare_to": 1
+        }
+    },
+    "repair_brick_tooltip": {
+        "type": "origins:tooltip",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:brick"
+            }
+        },
+        "text": {
+            "type": "translatable",
+            "translate": "tooltip.maddy_origins:repair_brick",
+            "color": "gray"
+        }
+    },
+    "repair_nether_brick": {
+        "type": "origins:edible_item",
+        "entity_action": {
+            "type": "origins:heal",
+            "amount": 1
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:nether_brick"
+            }
+        },
+        "food_component": {
+            "nutrition": 0,
+            "saturation": 0,
+            "can_always_eat": true
+        },
+        "consume_animation": "eat",
+        "consume_sound": "maddy_origins:origin.construct.repair.nether_brick",
+        "condition": {
+            "type": "origins:relative_health",
+            "comparison": "<",
+            "compare_to": 1
+        }
+    },
+    "modify_nether_brick": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:nether_brick"
+            }
+        },
+        "eat_ticks_modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 2
+        }
+    },
+    "repair_nether_brick_when_used": {
+        "type": "origins:action_on_being_used",
+        "bientity_action": {
+            "type": "origins:target_action",
+            "action": {
+                "type": "origins:and",
+                "actions": [
+                    {
+                        "type": "origins:heal",
+                        "amount": 1
+                    },
+                    {
+                        "type": "origins:play_sound",
+                        "sound": "maddy_origins:origin.construct.repair.nether_brick"
+                    }
+                ]
+            }
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:nether_brick"
+            }
+        },
+        "held_item_action": {
+            "type": "origins:consume"
+        },
+        "condition": {
+            "type": "origins:relative_health",
+            "comparison": "<",
+            "compare_to": 1
+        }
+    },
+    "repair_nether_brick_tooltip": {
+        "type": "origins:tooltip",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:nether_brick"
+            }
+        },
+        "text": {
+            "type": "translatable",
+            "translate": "tooltip.maddy_origins:repair_nether_brick",
+            "color": "gray"
+        }
+    },
+    "repair_copper": {
+        "type": "origins:edible_item",
+        "entity_action": {
+            "type": "origins:heal",
+            "amount": 2
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:copper_ingot"
+            }
+        },
+        "food_component": {
+            "nutrition": 0,
+            "saturation": 0,
+            "can_always_eat": true
+        },
+        "consume_animation": "eat",
+        "consume_sound": "maddy_origins:origin.construct.repair.copper",
+        "condition": {
+            "type": "origins:relative_health",
+            "comparison": "<",
+            "compare_to": 1
+        }
+    },
+    "modify_copper": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:copper_ingot"
+            }
+        },
+        "eat_ticks_modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.25
+        }
+    },
+    "repair_copper_when_used": {
+        "type": "origins:action_on_being_used",
+        "bientity_action": {
+            "type": "origins:target_action",
+            "action": {
+                "type": "origins:and",
+                "actions": [
+                    {
+                        "type": "origins:heal",
+                        "amount": 2
+                    },
+                    {
+                        "type": "origins:play_sound",
+                        "sound": "maddy_origins:origin.construct.repair.copper"
+                    }
+                ]
+            }
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:copper_ingot"
+            }
+        },
+        "held_item_action": {
+            "type": "origins:consume"
+        },
+        "condition": {
+            "type": "origins:relative_health",
+            "comparison": "<",
+            "compare_to": 1
+        }
+    },
+    "repair_copper_tooltip": {
+        "type": "origins:tooltip",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:copper_ingot"
+            }
+        },
+        "text": {
+            "type": "translatable",
+            "translate": "tooltip.maddy_origins:repair_copper",
+            "color": "gray"
+        }
+    },
+    "repair_iron": {
+        "type": "origins:edible_item",
+        "entity_action": {
+            "type": "origins:heal",
+            "amount": 6
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "food_component": {
+            "nutrition": 0,
+            "saturation": 0,
+            "can_always_eat": true
+        },
+        "consume_animation": "eat",
+        "consume_sound": "maddy_origins:origin.construct.repair.iron",
+        "condition": {
+            "type": "origins:relative_health",
+            "comparison": "<",
+            "compare_to": 1
+        }
+    },
+    "modify_iron": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "eat_ticks_modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.25
+        }
+    },
+    "repair_iron_when_used": {
+        "type": "origins:action_on_being_used",
+        "bientity_action": {
+            "type": "origins:target_action",
+            "action": {
+                "type": "origins:and",
+                "actions": [
+                    {
+                        "type": "origins:heal",
+                        "amount": 6
+                    },
+                    {
+                        "type": "origins:play_sound",
+                        "sound": "maddy_origins:origin.construct.repair.iron"
+                    }
+                ]
+            }
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "held_item_action": {
+            "type": "origins:consume"
+        },
+        "condition": {
+            "type": "origins:relative_health",
+            "comparison": "<",
+            "compare_to": 1
+        }
+    },
+    "repair_iron_tooltip": {
+        "type": "origins:tooltip",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "text": {
+            "type": "translatable",
+            "translate": "tooltip.maddy_origins:repair_iron",
+            "color": "gray"
+        }
+    },
+    "repair_gold": {
+        "type": "origins:edible_item",
+        "entity_action": {
+            "type": "origins:heal",
+            "amount": 2
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:gold_ingot"
+            }
+        },
+        "food_component": {
+            "nutrition": 0,
+            "saturation": 0,
+            "can_always_eat": true,
+            "effects": [
+                {
+                    "effect": {
+                        "id": "minecraft:absorption",
+                        "duration": 4800,
+                        "amplifier": 1
+                    }
+                },
+                {
+                    "effect": {
+                        "id": "minecraft:absorption",
+                        "duration": 7200
+                    }
+                }
+            ]
+        },
+        "consume_animation": "eat",
+        "consume_sound": "maddy_origins:origin.construct.repair.gold"
+    },
+    "modify_gold": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:gold_ingot"
+            }
+        },
+        "eat_ticks_modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 1
+        }
+    },
+    "repair_gold_when_used_without_artisan": {
+        "type": "origins:action_on_being_used",
+        "bientity_action": {
+            "type": "origins:target_action",
+            "action": {
+                "type": "origins:and",
+                "actions": [
+                    {
+                        "type": "origins:heal",
+                        "amount": 2
+                    },
+                    {
+                        "type": "origins:apply_effect",
+                        "effects": [
+                            {
+                                "id": "minecraft:absorption",
+                                "duration": 4800,
+                                "amplifier": 1
+                            },
+                            {
+                                "id": "minecraft:absorption",
+                                "duration": 7200
+                            }
+                        ]
+                    },
+                    {
+                        "type": "origins:play_sound",
+                        "sound": "maddy_origins:origin.construct.repair.gold"
+                    }
+                ]
+            }
+        },
+        "bientity_condition": {
+            "type": "origins:actor_condition",
+            "condition": {
+                "type": "origins:power",
+                "power": "maddy_origins:avaricious_artisan",
+                "inverted": true
+            }
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:gold_ingot"
+            }
+        },
+        "held_item_action": {
+            "type": "origins:consume"
+        }
+    },
+    "repair_gold_when_used_with_artisan": {
+        "type": "origins:action_on_being_used",
+        "bientity_action": {
+            "type": "origins:target_action",
+            "action": {
+                "type": "origins:and",
+                "actions": [
+                    {
+                        "type": "origins:heal",
+                        "amount": 6
+                    },
+                    {
+                        "type": "origins:apply_effect",
+                        "effects": [
+                            {
+                                "id": "minecraft:absorption",
+                                "duration": 4800,
+                                "amplifier": 1
+                            },
+                            {
+                                "id": "minecraft:absorption",
+                                "duration": 7200
+                            }
+                        ]
+                    },
+                    {
+                        "type": "origins:play_sound",
+                        "sound": "maddy_origins:origin.construct.repair.gold"
+                    }
+                ]
+            }
+        },
+        "bientity_condition": {
+            "type": "origins:actor_condition",
+            "condition": {
+                "type": "origins:power",
+                "power": "maddy_origins:avaricious_artisan"
+            }
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:gold_ingot"
+            }
+        },
+        "held_item_action": {
+            "type": "origins:consume"
+        }
+    },
+    "repair_gold_tooltip": {
+        "type": "origins:tooltip",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:gold_ingot"
+            }
+        },
+        "text": {
+            "type": "translatable",
+            "translate": "tooltip.maddy_origins:repair_gold",
+            "color": "gray"
+        }
+    }
+}

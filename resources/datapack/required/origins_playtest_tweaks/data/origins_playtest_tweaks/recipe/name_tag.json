@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "C": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:name_tag"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:name_tag"
+  }
+}

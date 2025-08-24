@@ -1,0 +1,23 @@
+{
+    "type": "origins:multiple",
+    "take_more_damage_from_fire": {
+        "type": "origins:modify_damage_taken",
+        "damage_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:is_fire"
+        },
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 0.5
+        }
+    },
+    "burn_twice_as_long": {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:generic.burning_time",
+        "modifier": {
+            "id": "*:*",
+            "operation": "multiply_total_multiplicative",
+            "amount": 1
+        }
+    }
+}

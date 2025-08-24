@@ -1,0 +1,100 @@
+{
+    "id_substrings": {
+        "~": "stair",
+        "=": "slab",
+        "_": "pressure_plate",
+        "#": "!ingot"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "#  ",
+                "## ",
+                "###"
+            ],
+            "output_token": "~",
+            "output_count": 4
+        },
+        {
+            "pattern": [
+                "###"
+            ],
+            "output_token": "=",
+            "output_count": 6
+        },
+        {
+            "pattern": [
+                "##"
+            ],
+            "output_token": "_",
+            "output_count": 1
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_2x2_stairs",
+            "pattern": [
+                "# ",
+                "##"
+            ],
+            "output_token": "~",
+            "output_count": 3,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_buffed_stairs",
+            "pattern": [
+                "#  ",
+                "## ",
+                "###"
+            ],
+            "output_token": "~",
+            "output_count": 6,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_2x2_slabs",
+            "pattern": [
+                "##"
+            ],
+            "output_token": "=",
+            "output_count": 4,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_3x3_slabs",
+            "pattern": [
+                "###"
+            ],
+            "output_token": "=",
+            "output_count": 6,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_stairs_to_block",
+            "pattern": "~",
+            "output_token": "#",
+            "output_count": 1,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_2x2_slabs_to_blocks",
+            "pattern": [
+                "==",
+                "=="
+            ],
+            "output_token": "#",
+            "output_count": 2,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_2x2_pressure_plate_replacement",
+            "pattern": [
+                "=="
+            ],
+            "output_token": "_",
+            "output_count": 2,
+            "category": "building"
+        }
+    ]
+}

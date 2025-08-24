@@ -1,0 +1,14 @@
+{
+	"powers": [
+        "maddy_origins:deadeye",
+        "maddy_origins:shunned",
+        "maddy_origins:ravenous",
+        "maddy_origins:woodsy",
+        "maddy_origins:equestrian"
+	],
+	"icon": {
+		"id": "minecraft:crossbow"
+	},
+	"order": 0,
+	"impact": 2
+}

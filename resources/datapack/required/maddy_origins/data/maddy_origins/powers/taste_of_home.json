@@ -1,0 +1,44 @@
+{
+    "type": "origins:multiple",
+    "modify_preferred": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "maddy_origins:taste_of_home_preferred"
+            }
+        },
+        "food_modifiers": [
+            {
+                "operation": "multiply_total_multiplicative",
+                "amount": 0.25
+            },
+            {
+                "operation": "add_total_late",
+                "amount": 1
+            }
+        ],
+        "saturation_modifiers": [
+            {
+                "operation": "multiply_total_multiplicative",
+                "amount": 0.25
+            },
+            {
+                "operation": "add_total_late",
+                "amount": 2
+            }
+        ],
+        "eat_ticks_modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.5
+        }
+    },
+    "hunger_immunity": {
+        "type": "origins:effect_immunity",
+        "effect": "minecraft:hunger"
+    },
+    "nausea_immunity": {
+        "type": "origins:effect_immunity",
+        "effect": "minecraft:nausea"
+    }
+}

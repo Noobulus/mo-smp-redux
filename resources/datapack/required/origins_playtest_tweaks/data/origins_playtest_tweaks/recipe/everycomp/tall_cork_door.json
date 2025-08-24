@@ -1,0 +1,19 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "group": "tall_wooden_door",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "arts_and_crafts:cork_door"
+    }
+  },
+  "result": {
+    "id": "everycomp:dd/arts_and_crafts/tall_cork_door",
+    "count": 2
+  }
+}

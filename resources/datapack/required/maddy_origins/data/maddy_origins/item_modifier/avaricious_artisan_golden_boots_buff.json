@@ -1,0 +1,32 @@
+[
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "maddy_origins:boots_armor",
+        "attribute": "minecraft:generic.armor",
+        "amount": 2,
+        "operation": "add_value",
+        "slot": "feet"
+      },
+      {
+        "id": "maddy_origins:boots_knockback_resistance",
+        "attribute": "minecraft:generic.knockback_resistance",
+        "amount": 0.05,
+        "operation": "add_value",
+        "slot": "feet"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:max_damage": 234,
+      "minecraft:item_name": "{\"translate\": \"name.maddy_origins:artisan_golden_boots\"}"
+    }
+  },
+  {
+    "function": "minecraft:reference",
+    "name": "maddy_origins:avaricious_artisan_base"
+  }
+]

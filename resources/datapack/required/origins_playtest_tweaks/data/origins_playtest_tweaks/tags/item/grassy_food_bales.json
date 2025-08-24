@@ -1,0 +1,18 @@
+{
+    "replace": true,
+    "values": [
+        "minecraft:hay_block",
+        {
+            "id": "farmersdelight:rice_bale",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:rice_bag",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:straw_bale",
+            "required": false
+        }
+    ]
+}

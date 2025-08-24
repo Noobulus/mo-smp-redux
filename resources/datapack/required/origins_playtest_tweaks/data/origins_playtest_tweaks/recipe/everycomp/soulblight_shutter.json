@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "shutters",
+    "key": {
+        "S": {
+            "item": "gardens_of_the_dead:soulblight_slab"
+        }
+    },
+    "pattern": [
+        "SS",
+        "SS",
+        "SS"
+    ],
+    "result": {
+        "count": 4,
+        "id": "everycomp:af/gardens_of_the_dead/soulblight_shutter"
+    }
+}

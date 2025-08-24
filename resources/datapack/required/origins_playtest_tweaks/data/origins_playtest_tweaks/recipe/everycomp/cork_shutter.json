@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "shutters",
+    "key": {
+        "S": {
+            "item": "arts_and_crafts:cork_slab"
+        }
+    },
+    "pattern": [
+        "SS",
+        "SS",
+        "SS"
+    ],
+    "result": {
+        "count": 4,
+        "id": "everycomp:af/arts_and_crafts/cork_shutter"
+    }
+}

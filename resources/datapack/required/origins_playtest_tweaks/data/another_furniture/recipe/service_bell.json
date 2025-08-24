@@ -1,0 +1,28 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "E": {
+      "item": "minecraft:end_crystal"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    " N ",
+    "IEI",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "another_furniture:service_bell"
+  }
+}

@@ -1,0 +1,34 @@
+{
+    "id_substrings": {
+        "=": "wall"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "###",
+                "###"
+            ],
+            "output_token": "=",
+            "output_count": 6
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_wall_to_block",
+            "pattern": "=",
+            "output_token": "#",
+            "output_count": 1,
+            "category": "building"
+        },
+	{
+            "id_suffix": "_vanilla_recipe_dammit",
+            "pattern": [
+                "###",
+                "###"
+            ],
+            "output_token": "=",
+            "output_count": 6,
+            "category": "building"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "#R#"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:note_block"
+  }
+}

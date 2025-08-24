@@ -1,0 +1,49 @@
+{
+    "common_ingredients": {
+        "|": "stick"
+    },
+    "id_substrings": {
+        "-": "gate",
+        "=": "fence"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "#|#",
+                "#|#"
+            ],
+            "output_token": "=",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "|#|",
+                "|#|"
+            ],
+            "output_token": "-",
+            "output_count": 1
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_fences",
+            "pattern": [
+                "#|#",
+                "#|#"
+            ],
+            "output_token": "=",
+            "output_count": 6,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_cheaper_fence_gates",
+            "pattern": [
+                "|#|",
+                "|#|"
+            ],
+            "output_token": "-",
+            "output_count": 2,
+            "category": "building"
+        }
+    ]
+}

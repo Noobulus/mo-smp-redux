@@ -1,0 +1,26 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "drawers",
+    "key": {
+        "#": {
+            "item": "gardens_of_the_dead:whistlecane_planks"
+        },
+        "S": {
+            "item": "gardens_of_the_dead:whistlecane_slab"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "###",
+        "S/S",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "everycomp:af/gardens_of_the_dead/whistlecane_drawer"
+    }
+}

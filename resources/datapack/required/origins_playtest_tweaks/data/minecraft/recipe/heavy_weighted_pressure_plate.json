@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "id": "minecraft:heavy_weighted_pressure_plate"
+  }
+}

@@ -1,0 +1,45 @@
+{
+    "type": "origins:multiple",
+    "modify_honey": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:honey_bottle"
+            }
+        },
+        "food_modifier": {
+            "operation": "add_base_late",
+            "amount": 2
+        },
+        "saturation_modifier": {
+            "operation": "add_base_late",
+            "amount": 2
+        },
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:apply_effect",
+                    "effects": [
+                        {
+                            "id": "minecraft:speed",
+                            "duration": 2400
+                        },
+                        {
+                            "id": "minecraft:haste",
+                            "duration": 2400
+                        },
+                        {
+                            "id": "minecraft:resistance",
+                            "duration": 2400
+                        }
+                    ]
+                },
+                {
+                    "type": "origins:extinguish"
+                }
+            ]
+        }
+    }
+}

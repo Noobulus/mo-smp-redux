@@ -1,0 +1,286 @@
+{
+    "origin.avian.updraft": {
+        "sounds": [
+            {
+                "name": "mob/breeze/idle_air1",
+                "pitch": 0.5
+            },
+            {
+                "name": "mob/breeze/idle_air2",
+                "pitch": 0.5
+            },
+            {
+                "name": "mob/breeze/idle_air3",
+                "pitch": 0.5
+            },
+            {
+                "name": "mob/breeze/idle_air4",
+                "pitch": 0.5
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.avian.updraft"
+    },
+    "origin.construct.repair.brick": {
+        "sounds": [
+            {
+                "name": "block/decorated_pot/step1",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/decorated_pot/step2",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/decorated_pot/step3",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/decorated_pot/step4",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/decorated_pot/step5",
+                "pitch": 1.2
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.construct.repair"
+    },
+    "origin.construct.repair.nether_brick": {
+        "sounds": [
+            {
+                "name": "block/nether_bricks/step1",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/nether_bricks/step2",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/nether_bricks/step3",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/nether_bricks/step4",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/nether_bricks/step5",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/nether_bricks/step6",
+                "pitch": 1.2
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.construct.repair"
+    },
+    "origin.construct.repair.copper": {
+        "sounds": [
+            {
+                "name": "block/copper/break1",
+                "pitch": 0.9
+            },
+            {
+                "name": "block/copper/break2",
+                "pitch": 0.9
+            },
+            {
+                "name": "block/copper/break3",
+                "pitch": 0.9
+            },
+            {
+                "name": "block/copper/break4",
+                "pitch": 0.9
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.construct.repair"
+    },
+    "origin.construct.repair.iron": {
+        "sounds": [
+            {
+                "name": "block/netherite/break1",
+                "pitch": 1.1,
+                "volume": 0.95
+            },
+            {
+                "name": "block/netherite/break1",
+                "pitch": 1.2,
+                "volume": 0.95
+            },
+            {
+                "name": "block/netherite/break2",
+                "pitch": 1.1,
+                "volume": 0.95
+            },
+            {
+                "name": "block/netherite/break2",
+                "pitch": 1.2,
+                "volume": 0.95
+            },
+            {
+                "name": "block/netherite/break3",
+                "pitch": 1.1,
+                "volume": 0.95
+            },
+            {
+                "name": "block/netherite/break3",
+                "pitch": 1.2,
+                "volume": 0.95
+            },
+            {
+                "name": "block/netherite/break4",
+                "pitch": 1.1,
+                "volume": 0.95
+            },
+            {
+                "name": "block/netherite/break4",
+                "pitch": 1.2,
+                "volume": 0.95
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.construct.repair"
+    },
+    "origin.construct.repair.gold": {
+        "sounds": [
+            {
+                "name": "block/netherite/step1",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/netherite/step2",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/netherite/step3",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/netherite/step4",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/netherite/step5",
+                "pitch": 1.2
+            },
+            {
+                "name": "block/netherite/step6",
+                "pitch": 1.2
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.construct.repair"
+    },
+    "origin.avian.lose_feather": {
+        "sounds": [
+            {
+                "name": "mob/zombie/woodbreak",
+                "pitch": 1.6,
+                "volume": 0.2
+            },
+            {
+                "name": "mob/zombie/woodbreak",
+                "pitch": 1.8,
+                "volume": 0.2
+            },
+            {
+                "name": "mob/zombie/woodbreak",
+                "pitch": 2,
+                "volume": 0.2
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.avian.lose_feather"
+    },
+    "origin.cured.infect": {
+        "sounds": [
+            "mob/zombie/infect"
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.cured.infect"
+    },
+    "origin.undead.converted": {
+        "sounds": [
+            "mob/zombie/unfect"
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.undead.converted"
+    },
+    "origin.undead.cure": {
+        "sounds": [
+            "mob/zombie/remedy"
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.undead.cure"
+    },
+    "origin.netherdweller.fireproof": {
+        "sounds": [
+            {
+                "name": "mob/magmacube/jump1",
+                "pitch": 1.2
+            },
+            {
+                "name": "mob/magmacube/jump2",
+                "pitch": 1.2
+            },
+            {
+                "name": "mob/magmacube/jump3",
+                "pitch": 1.2
+            },
+            {
+                "name": "mob/magmacube/jump4",
+                "pitch": 1.2
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.netherdweller.fireproof"
+    },
+    "origin.slimefolk.splat": {
+        "sounds": [
+            {
+                "name": "mob/slime/small1",
+                "pitch": 0.9
+            },
+            {
+                "name": "mob/slime/small2",
+                "pitch": 0.9
+            },
+            {
+                "name": "mob/slime/small3",
+                "pitch": 0.9
+            },
+            {
+                "name": "mob/slime/small4",
+                "pitch": 0.9
+            },
+            {
+                "name": "mob/slime/small5",
+                "pitch": 0.9
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.slimefolk.splat"
+    },
+    "origin.construct.inviolable_activated": {
+        "sounds": [
+            {
+                "name": "block/decorated_pot/step1",
+                "pitch": 0.8,
+                "volume": 0.5
+            },
+            {
+                "name": "block/decorated_pot/step2",
+                "pitch": 0.8,
+                "volume": 0.5
+            },
+            {
+                "name": "block/decorated_pot/step3",
+                "pitch": 0.8,
+                "volume": 0.5
+            },
+            {
+                "name": "block/decorated_pot/step4",
+                "pitch": 0.8,
+                "volume": 0.5
+            },
+            {
+                "name": "block/decorated_pot/step5",
+                "pitch": 0.8,
+                "volume": 0.5
+            }
+        ],
+        "subtitle": "maddy_origins.subtitles.origin.construct.inviolable_activated"
+    }
+}

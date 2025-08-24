@@ -1,0 +1,107 @@
+{
+    "type": "origins:multiple",
+    "no_food": {
+        "type": "origins:prevent_item_use",
+        "item_condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:food"
+                },
+                {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "tag": "origins:ignore_diet"
+                    },
+                    "inverted": true
+                },
+                {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "tag": "maddy_origins:repair_ingredients"
+                    },
+                    "inverted": true
+                }
+            ]
+        }
+    },
+    "no_potions_or_others": {
+        "type": "origins:prevent_item_use",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "maddy_origins:inorganic_prevented_non_foods"
+            }
+        }
+    },
+    "no_cakes_and_such": {
+        "type": "origins:prevent_block_use",
+        "block_condition": {
+            "type": "origins:in_tag",
+            "tag": "maddy_origins:inorganic_prevented_blocks"
+        }
+    },
+    "no_exhaustion": {
+        "type": "origins:modify_exhaustion",
+        "modifier": {
+            "operation": "set_total",
+            "amount": 0
+        }
+    },
+    "damage_immunities": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:in_tag",
+            "tag": "maddy_origins:inorganic_immune_to"
+        }
+    },
+    "hunger_immunity": {
+        "type": "origins:effect_immunity",
+        "effect": "minecraft:hunger"
+    },
+    "no_saturation_on_spawn": {
+        "type": "origins:action_on_callback",
+        "entity_action_gained": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:exhaust",
+                    "amount": 200
+                }
+            ]
+        },
+        "entity_action_respawned": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:exhaust",
+                    "amount": 200
+                }
+            ]
+        }
+    },
+    "no_hunger": {
+        "type": "origins:action_over_time",
+        "interval": 20,
+        "entity_action": {
+            "type": "origins:feed",
+            "nutrition": 2,
+            "saturation": 0
+        }
+    },
+    "underwater_breathing_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:can_breathe_under_water"
+    },
+    "no_insomnia": {
+        "type": "origins:modify_insomnia_ticks",
+        "modifier": {
+            "operation": "set_total",
+            "amount": 0
+        }
+    },
+    "fatigue_immunity": {
+        "type": "origins:effect_immunity",
+        "effect": "minecraft:mining_fatigue"
+    }
+}

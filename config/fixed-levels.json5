@@ -1,0 +1,14 @@
+{
+	// Enables custom exp levels. Disable to use vanilla calculations.
+	"useCustomExpLevels": true,
+	// Curve mode calculation is XPToNextLevel = (baseXPForOneLevel + (experienceLevel * curveModeMultiplier)).
+	"curveMode": false,
+	// The amount of exp to go from level 0 to level 1. If curve mode is off, this amount is for every level.
+	"baseXPForOneLevel": 40,
+	// The multiplier used in the curve mode calculation.
+	"curveModeMultiplier": 2,
+	// When enabled, limits the amount of exp needed for the next level for vanilla and custom curve mode.
+	"useExpCap": false,
+	// This sets the max amount of exp needed for the next level if using vanilla or custom curve mode.
+	"maxExpForNextLevel": 107
+}

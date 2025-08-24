@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#minecraft:is_player_attack",
+    "#minecraft:is_projectile",
+    "#minecraft:is_explosion",
+    "minecraft:mob_attack"
+  ]
+}

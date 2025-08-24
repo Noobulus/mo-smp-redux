@@ -1,0 +1,24 @@
+{
+    "source_family": [
+        {
+            "pattern": [
+                "##",
+                "##"
+            ],
+            "output_token": "@",
+            "output_count": 3
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_buffed_wood",
+            "pattern": [
+                "##",
+                "##"
+            ],
+            "output_token": "@",
+            "output_count": 4,
+            "category": "building"
+        }
+    ]
+}

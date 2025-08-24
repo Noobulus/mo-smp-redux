@@ -1,0 +1,18 @@
+{
+    "values": [
+        "#minecraft:parrot_poisonous_food",
+        "minecraft:cookie",
+        {
+            "id": "farmersdelight:chocolate_pie",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:chocolate_pie_slice",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:hot_chocolate",
+            "required": false
+        }
+    ]
+}

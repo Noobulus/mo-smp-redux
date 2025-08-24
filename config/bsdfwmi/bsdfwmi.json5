@@ -1,0 +1,50 @@
+{
+	// Change Tick Rate for Overworld
+	"tickOverworld": true,
+	// Change Tick Rate for Nether
+	"tickNether": true,
+	// Change Tick Rate for End
+	"tickEnd": true,
+	// Change Tick Rate for Living Entities | Default: trueDoesn’t affect Player Entities
+	"getChangeTickRateLivingEntities": true,
+	// Change Tick Rate for Player's Vehicle Entities | Default: falseOnly when player is mounted
+	"getChangeTickRateVehicleEntities": false,
+	// Change Tick Rate for Hostile Entities | Default: true
+	"getChangeTickRateHostileEntities": true,
+	// Change Tick Rate based on TPS for Item Entities | Default: true
+	"getChangeTickRateItemEntities": false,
+	// Change Tick Rate based on TPS for Block Entities | Default: false
+	"getChangeTickRateBlockEntities": false,
+	// Change Tick Rate based on TPS for Nether Portal Blocks | Default: true
+	"getChangeTickRateNetherPortalBlock": false,
+	// Change mode 0 = Weak Mode1 = Intermediate Mode2 = Strong Mode| Default: 0
+	"performanceMode": 2,
+	// Specific Tick Rate for Living EntitiesIf set to 0, it will do the Tick Rate based on TPS
+	"specificTickRateLivingEntities": 0,
+	// Specific Tick Rate for Item EntitiesIf set to 0, it will do the Tick Rate based on TPS
+	"specificTickRateItemEntities": 0,
+	// Specific Tick Rate for Block EntitiesIf set to 0, it will do the Tick Rate based on TPS
+	"specificTickRateBlockEntities": 0,
+	// Specific Tick Rate for Nether Portal BlocksIf set to 0, it will do the Tick Rate based on TPS
+	"specificTickRateNetherPortalBlocks": 0,
+	// Distance to Detect Other Item Entities | Default: 3.0 blocksMin Distance: 0.5 blocks / Max Distance: 10 blocksIf there is ServerCore, this is disabled, change it in ServerCore configs
+	"distanceItemEntities": 3.0,
+	// Max Spawn Mobs from Spawners | Default: 6 Mobs
+	"maxSpawnerMobs": 6,
+	// Spawn Range around a Spawner Block | Default: 4 Blocks
+	"spawnerRange": 4,
+	// Monster SpawnGroup Max Capacity | Default: 70
+	"monsterSpawnGroupCapacity": 70,
+	// Creature SpawnGroup Max Capacity | Default: 10
+	"creatureSpawnGroupCapacity": 10,
+	// Ambient SpawnGroup Max Capacity | Default: 15
+	"ambientSpawnGroupCapacity": 15,
+	// Axolotls / Underground Water Creature / Water Creature SpawnGroup Max Capacity | Default: 5
+	"value5SpawnGroupCapacity": 5,
+	// Water Ambient SpawnGroup Max Capacity | Default: 20
+	"waterAmbientSpawnGroupCapacity": 20,
+	// Tick Time required for Mob Entities to Despawn | Default: 600
+	"mobDespawnTime": 20,
+	// Chance required for Mob Entities to Despawn | Default: 600
+	"mobDespawnChance": 20
+}

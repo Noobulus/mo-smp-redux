@@ -1,0 +1,23 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "benches",
+    "key": {
+        "S": {
+            "item": "gardens_of_the_dead:whistlecane_slab"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "/  ",
+        "SSS",
+        "/ /"
+    ],
+    "result": {
+        "count": 3,
+        "id": "everycomp:af/gardens_of_the_dead/whistlecane_bench"
+    }
+}

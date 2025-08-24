@@ -1,0 +1,14 @@
+{
+	"powers": [
+        "maddy_origins:ultralight",
+        "maddy_origins:venomous",
+        "maddy_origins:honey_lover",
+        "maddy_origins:arthropodal",
+        "maddy_origins:combustible"
+	],
+	"icon": {
+		"id": "minecraft:string"
+	},
+	"order": 0,
+	"impact": 2
+}

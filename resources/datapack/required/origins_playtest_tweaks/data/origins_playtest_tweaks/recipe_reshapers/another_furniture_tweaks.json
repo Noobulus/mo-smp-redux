@@ -1,0 +1,268 @@
+{
+    "common_ingredients": {
+        "|": "stick",
+        "&": "dirt",
+        "!": "torch",
+        "?": "composter"
+    },
+    "id_substrings": {
+        "~": "wool",
+        "=": "slab",
+        "C": "chair",
+        "S": "stool",
+        "B": "bench",
+        "H": "shutter",
+        "T": "tall_stool",
+        "L": "lamp",
+        "U": "shelf",
+        "V": "table",
+        "F": "flower_box",
+        "E": "curtain",
+        "W": "sofa",
+        "D": "drawer"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "- -",
+                "- -",
+                "---"
+            ],
+            "output_token": "?",
+            "output_count": 1,
+            "remove": false
+        },
+        {
+            "pattern": [
+                "# ",
+                "##",
+                "||"
+            ],
+            "output_token": "C",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "|  ",
+                "===",
+                "| |"
+            ],
+            "output_token": "B",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "@~@",
+                "| |"
+            ],
+            "output_token": "S",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "==",
+                "==",
+                "=="
+            ],
+            "output_token": "H",
+            "output_count": 4
+        },
+        {
+            "pattern": [
+                "@~@",
+                "|||",
+                "| |"
+            ],
+            "output_token": "T",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                " ~ ",
+                "~!~",
+                " | "
+            ],
+            "output_token": "L",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "###",
+                "|  "
+            ],
+            "output_token": "U",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "###",
+                "| |"
+            ],
+            "output_token": "V",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "=&=",
+                "###"
+            ],
+            "output_token": "F",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "||",
+                "~~",
+                "~~"
+            ],
+            "output_token": "E",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "#~ ",
+                "#~~",
+                "| |"
+            ],
+            "output_token": "W",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "###",
+                "=|=",
+                "###"
+            ],
+            "output_token": "D",
+            "output_count": 1
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_tweaked_chairs",
+            "pattern": [
+                "| ",
+                "##",
+                "||"
+            ],
+            "output_token": "C",
+            "output_count": 2,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_benches",
+            "pattern": [
+                "| ",
+                "==",
+                "||"
+            ],
+            "output_token": "B",
+            "output_count": 2,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_stools",
+            "pattern": [
+                "~",
+                "-"
+            ],
+            "output_token": "S",
+            "output_count": 1,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_shutters",
+            "pattern": [
+                "===",
+                "==="
+            ],
+            "output_token": "H",
+            "output_count": 3,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_tall_stools",
+            "pattern": [
+                "~",
+                "@",
+                "|"
+            ],
+            "output_token": "T",
+            "output_count": 1,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_lamps",
+            "pattern": [
+                "~",
+                "!",
+                "@"
+            ],
+            "output_token": "L",
+            "output_count": 1,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_shelves",
+            "pattern": [
+                "###",
+                "|  "
+            ],
+            "output_token": "U",
+            "output_count": 4,
+            "category": "misc"
+        },
+        {
+        "id_suffix": "_tweaked_tables",
+            "pattern": [
+                "###",
+                "| |"
+            ],
+            "output_token": "V",
+            "output_count": 4,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_flower_boxes",
+            "pattern": [
+                "=&=",
+                "###"
+            ],
+            "output_token": "F",
+            "output_count": 4,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_curtains",
+            "pattern": [
+                "|",
+                "~"
+            ],
+            "output_token": "E",
+            "output_count": 1,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_sofas",
+            "pattern": [
+                "| ",
+                "~~",
+                "||"
+            ],
+            "output_token": "W",
+            "output_count": 2,
+            "category": "misc"
+        },
+        {
+            "id_suffix": "_tweaked_drawers",
+            "pattern": [
+                "###",
+                "= =",
+                "###"
+            ],
+            "output_token": "D",
+            "output_count": 1,
+            "category": "misc"
+        }
+    ]
+}

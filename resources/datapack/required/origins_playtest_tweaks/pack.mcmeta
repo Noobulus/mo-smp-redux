@@ -1,0 +1,83 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "haugh"
+  },
+  "filter": {
+    "block": [{
+        "namespace": "build_tools",
+        "path": "recipe/cloud_bucket.json"
+    },
+    {
+        "path": "advancement/recipe.*"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "advancement/nether/use_lodestone"
+    },
+    {
+        "namespace": "betterfurniture",
+        "path": "recipe/chair.*"
+    },
+    {
+        "namespace": "betterfurniture",
+        "path": "recipe/stool.*"
+    },
+    {
+        "namespace": "betterfurniture",
+        "path": "recipe/table.*"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/lead.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/packed_mud.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/painting.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/bread.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/cutting/.*_trapdoor.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/cutting/.*_sign.json"
+    },
+    {
+        "namespace": "farmersdelight",
+        "path": "recipe/cutting/.*_door.json"
+    },
+    {
+        "namespace": "everycomp",
+        "path": "recipe/af/.*"
+    },
+    {
+        "namespace": "everycomp",
+        "path": "recipe/dd/.*"
+    },
+    {
+        "namespace": "everycomp",
+        "path": "recipe/fd/.*"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/hay_block.json"
+    },
+    {
+        "namespace": "comforts",
+        "path": "recipe/rope_and_nail.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/scaffolding.json"
+    }]
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "id_substrings": {
+        "*": "_candle",
+        "@": "_dye"
+    },
+    "source_family": [
+        {
+            "pattern": "|@",
+            "output_token": "*",
+            "output_count": 1
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_dyed_candles",
+            "pattern": [
+                "|||",
+                "|@|",
+                "|||"
+            ],
+            "output_token": "*",
+            "output_count": 8,
+            "category": "misc"
+        }
+    ]
+}

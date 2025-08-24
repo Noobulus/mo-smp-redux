@@ -1,0 +1,2847 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/CoroUtil/General.toml"
+hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
+
+[[files]]
+file = "config/HorseBuff.toml"
+hash = "ddbebe1a8833b3717eeec13dcb214d82b5c66abf5c943676141d5a11ee9085b2"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/axesareweapons.json5"
+hash = "d504a8f3a482b6c0dd3dbc5ce93e25d0f1f0728fc03f359c2c2e4733ab782c59"
+
+[[files]]
+file = "config/betterfurniture.json5"
+hash = "406be99f256c94d31ed0c9507c14da7e36eeff3703327b68d250137aadbfa74d"
+
+[[files]]
+file = "config/brainierbees.properties"
+hash = "c6f9def940add188b7d8eb68c09da0591ada334aa55e4b24a046e08d8e768ea6"
+
+[[files]]
+file = "config/bsdfwmi/bsdfwmi.json5"
+hash = "ba88fc49daa5d65fc3ca1b520fdb2fb16e6a50eee93a23ca5d2365ca2d4356e4"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
+
+[[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "a9887024ab932bdb397edbed1c6fc1d886033212f201c96eb0dd78eaa96981de"
+
+[[files]]
+file = "config/cobblegen-meta.json5"
+hash = "b1dfb0d7502b981bc41e34512a767e9b5073aca2e9d6af10452eb84bb2db906e"
+
+[[files]]
+file = "config/cobblegen.json5"
+hash = "04415418bcea703749191a554703ebd4fecd36b6e5a439c8b714141fc9a416cf"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/comforts-common.toml"
+hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
+
+[[files]]
+file = "config/comforts-server.toml"
+hash = "20d86f6b502b02d41e1ae3e25a73d9aa689d52203baf8a0c727bb670251ad9cf"
+
+[[files]]
+file = "config/connectiblechains.toml"
+hash = "0e90f3e1102154437f7caaafaf84b26b8538ab8e304a9a7f0ce3f13e7979533f"
+
+[[files]]
+file = "config/data-loader.json"
+hash = "f476c1f7ff31376f1d4e7564f1ae647ba988d84554d4c8f2bfd2dac52cd8c146"
+
+[[files]]
+file = "config/debugify.json"
+hash = "e7ed47713ff6f09bcfd5c9f7779097ca7349e1d4d155e3c417c13667d6cf2a9b"
+
+[[files]]
+file = "config/dramaticdoors-startup.toml"
+hash = "ee4c4f849b571ddce8328359c809d74fe83b341607a10be55d0faa3fb90289b4"
+
+[[files]]
+file = "config/dummmmmmy-common.json"
+hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
+
+[[files]]
+file = "config/enchantmentdisabler-config.json5"
+hash = "0eed1f159b7a9df3da43afd9a9226669f17ae09b791bda669fe4f7b45f53da65"
+
+[[files]]
+file = "config/everycomp-common.json"
+hash = "76be96157bf939be7e76c05670568939db296daba1216dd80bd1a9a9feeeffd3"
+
+[[files]]
+file = "config/everycomp-entries.json"
+hash = "7ab8739b650a628fbe569df0d5bbf75661e9763816c25ac1722a6c6511d07c94"
+
+[[files]]
+file = "config/everycomp-hazardous.properties"
+hash = "9ca4d692e8772bbedb2b6fb75910fb30b5761c8e24dc6e451af2ee45517c721d"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "b15e935386c6b1c8a9ec606bcb516df64f07a439e54254b916d8db31fb7ced77"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "fabb25d19d77cc9c88ccaae62326ebdc1dfa7b33bad3d152f933e1ac66167ff8"
+
+[[files]]
+file = "config/fastpaintings-common.json"
+hash = "c7afd3747ad6aa19ea226bbfa51471a9315572b3cd323cb4a25ad7bcb8c6774b"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/fixed-levels.json5"
+hash = "098a99e2a5a4a77c133cef19984b4993531e8e6d2bb06e49c9e0b8788a3d635d"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
+
+[[files]]
+file = "config/granulargamerules.json5"
+hash = "0bdeb65a9261ae426ee70ce754f2059303a29f62ef04053f9f1d2ae90d9473b0"
+
+[[files]]
+file = "config/harvest_with_ease-common.toml"
+hash = "34c46c268008a790442fc410aae585220d95f7dd4eb9eb0dfa5b6d9de9896596"
+
+[[files]]
+file = "config/indypets.json"
+hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
+
+[[files]]
+file = "config/jamlib/known_suspicious_jars.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jumpoverfences.toml"
+hash = "c5b1ab6e46ec8963c229f5474195af4ed263740032d58c19157bf9e81ba84e4e"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "8249c4577b72ce55b003d7eb8e910e68620b7cacfcc686308bfec9f078315bc2"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
+file = "config/netherite_horse_armor.json5"
+hash = "85a68b058dc4988d208028d1b45f48f0487cd3bb9f97b1ad4290b5e1eeea0465"
+
+[[files]]
+file = "config/nethermap.toml"
+hash = "4854d5612fee14c39ba056a0fa731233172df6723b7f5882261d56139e4be2e9"
+
+[[files]]
+file = "config/nohostilesaroundcampfire.json5"
+hash = "b724d15f7fc25ce235ddff8e9c27a3137f94f7826d9a2390df8df1d2a5cc8a91"
+
+[[files]]
+file = "config/onsoulfire.json"
+hash = "3764a4493ebb116e7318ba0d2753033f115eb4c73aec8301a4ca3a14a07eb7d9"
+
+[[files]]
+file = "config/origins_server.json"
+hash = "ca1abedee71303d77e26a281dca7403fe8a5aeea6f706cd33833d5cbf86de2ef"
+
+[[files]]
+file = "config/pal.properties"
+hash = "9bd850707a07e9eb59ecbff6a86384ce7521784492431ba09de00fa950ebe81e"
+
+[[files]]
+file = "config/pehkui/config.json"
+hash = "22a6ec961fb61ce3f23d3479e5e277f315cb7625f28231f09865ae95ffcbcefe"
+
+[[files]]
+file = "config/pigs_have_litters.json5"
+hash = "e5b7adb2bbaab8fc7ef0b9534d43c85cd99042d173a935cead487998bba327bb"
+
+[[files]]
+file = "config/porting_lib_config.toml"
+hash = "87154eb96a740b4dcac84beb61488f6950ed87a49eaa66c2302a8f7bb4cd1c87"
+
+[[files]]
+file = "config/power_config.json5"
+hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
+
+[[files]]
+file = "config/preferred-gamerules.properties"
+hash = "c6c1d2d117b0b20f1ab96f7d7505e65a1697915737014bafae989dbad6f6cbac"
+
+[[files]]
+file = "config/sit!/server-config.json"
+hash = "87c4b4ace0221addc06b36542eec3535f44911a06b206ffc710ecc6fb7564ed9"
+
+[[files]]
+file = "config/smarterfarmers-common.json"
+hash = "7f05739c4fc5504fd0410f6d5b3518b83e3c50e911e84bb9e4b74c6f95e7c460"
+
+[[files]]
+file = "config/sootychimneys-common.toml"
+hash = "c115485d6dfc5ef6da828b18b15ae63b2c68a7f0bc5e626cd399d19dda4e4232"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
+
+[[files]]
+file = "config/stackdeobf.json"
+hash = "ab7ea0a22b66e8d4b6eebbeace63fa71dfc830afaa0649c89a62c18df65a8808"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "499d188162ddcf7fcf450cdcdc96bd41ac582501ecad5ed4a74dd9ed6b01990a"
+
+[[files]]
+file = "config/toastbegone.toml"
+hash = "9bba528ef54ce3f8eaa9aefb6c7a010bf7762d594440a08bf36f4877060721a8"
+
+[[files]]
+file = "config/unloaded-activity.json"
+hash = "855e335b591262fb4e5f1d2b4579c621b36d24fa842f00e7ba400026cb37ca08"
+
+[[files]]
+file = "config/vanityslots-server.toml"
+hash = "9809c24f7f50079843c63f6b1e54dc5e93611efe97c99d8d53e1685b4a1d9941"
+
+[[files]]
+file = "config/watut-common.toml"
+hash = "8b982a13bd0d8b4b557b1fcd3621a2bc362443b561679be23e4ecfa215581152"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "config/yosbr/config/MouseTweaks.cfg"
+hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
+
+[[files]]
+file = "config/yosbr/config/accessories.json5"
+hash = "2f79fe66b3c4b7e7038925ce9cfea55a5cb09c61c2e3e39f8c045cc3c1da0e12"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/yosbr/config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/yosbr/config/clientsort.json"
+hash = "ab26ce658550fe6d901624dfb6c86331ccf1c38e0e34eb4905fe6b736800f234"
+
+[[files]]
+file = "config/yosbr/config/dummmmmmy-client.json"
+hash = "0d438def63397d10785ff877ff1997067e89736f80a0d4aa6a2809adb0f2b3fc"
+
+[[files]]
+file = "config/yosbr/config/emi.css"
+hash = "fbd8ead2a0a50eaf730585b63723419a733407fd9073ea7d6dd57494af33120a"
+
+[[files]]
+file = "config/yosbr/config/enchdesc.json"
+hash = "dbee969646c0210c5b5a953b5d192bf04d828ae46fbfb49ab764f8d2aad827ad"
+
+[[files]]
+file = "config/yosbr/config/entity_model_features.json"
+hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "17178ec49b40bf1c72ff90fa433bc5e0a9f0c1a8f1f40701b3a4efc167e1a714"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "81b6afd82e5ab2ca45b5fc0f025ef5638b3d2df534dbc05bb7e399042706c961"
+
+[[files]]
+file = "config/yosbr/config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "08bb984a442581b23aa5f3a7961825be50de6a3ea858d105cbe42fedb0276716"
+
+[[files]]
+file = "config/yosbr/config/guicompass.json5"
+hash = "cf2ef48d2e444c1686a980b7e195e7e9c1b073a727811e550c3b800251982288"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "04a6e284d6da6b566d1ee8974ae2f5072d25bdc08a83b65a9c0704473a535d3a"
+
+[[files]]
+file = "config/yosbr/config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/yosbr/config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/yosbr/config/jade/jade.json"
+hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
+
+[[files]]
+file = "config/yosbr/config/jade/plugins.json"
+hash = "ff2d7180416b5f4ba8b8505103ac6487ecd0ac7ba94e0e09b1961a5f14797a34"
+
+[[files]]
+file = "config/yosbr/config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/yosbr/config/jade/sort-order.json"
+hash = "c302f4304f9e843e2371a5ab849424ebdaed21f989ceb355f9e8f8421eec25d8"
+
+[[files]]
+file = "config/yosbr/config/modelfix-client.json"
+hash = "b55936928438ab49ebc8086579cd2218faf14d777fd15ec6eee895dbcadb667d"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "748cb550ed31f0d7f2a8faf26cd0c659826ae10cfabc4a89eee7d32eed98f157"
+
+[[files]]
+file = "config/yosbr/config/moonlight-client.json"
+hash = "4f661a3ceeff589d5489ae70ce0729b018c7d324bacf08293c614e32401bbbea"
+
+[[files]]
+file = "config/yosbr/config/overflowingbars-client.toml"
+hash = "763aac197ab52524700b6eff40821f2b0306d21b53f559eb197ba57b384b337c"
+
+[[files]]
+file = "config/yosbr/config/reacharound.json"
+hash = "ceab7e15384455070c35f175593eefe20bccbdee77c53325575525f4efab88c6"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "021b618bc5fbc5952ca5560ee191f6eab8bf661c5921dc7764ccb048326a08b3"
+
+[[files]]
+file = "config/yosbr/config/simplefog.json"
+hash = "f57fad623a4d05f111b923cf126984f15830f8dc24b10d048002b079d47e9257"
+
+[[files]]
+file = "config/yosbr/config/sit!/sitting-config.json"
+hash = "3c2510f21429a264b882a5ff2e9fa2637ecd5338bfada21415fe202dae57192d"
+
+[[files]]
+file = "config/yosbr/config/smoothskies.json"
+hash = "6d42e7f3443246e2102bd1a29cfe6a13c7733ca0d8a45b8a1bc65512d346a406"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
+
+[[files]]
+file = "config/yosbr/config/sootychimneys-client.toml"
+hash = "a59191cb60cdc9bf715f30e1d1ca21cc845c5930c89aae96a5f0873d01d87157"
+
+[[files]]
+file = "config/yosbr/config/watut-client.toml"
+hash = "f4c9cf297940147112dbbc65c6ae351f92829f8889fa0c91d14019431eeb6206"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "6a0481760b3293318021c1621ba536eace096cefe2d4e3f1f157f445dcb06bab"
+
+[[files]]
+file = "icon.png"
+hash = "241cb6e6d09d75a75cc5e53b3b343336d2089a44ca47f8e73794f3672ce6d513"
+
+[[files]]
+file = "mods/ShowMeWhatYouGot-1.21.1-1.3.1.jar"
+hash = "0f7038a12a9ebf586426c75f15fdb537ba4269083529400fc29b854cd190939e"
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "5a7a1c4a5c087b66a57edd1067ba0048b3f6edb3fa0fc1449ffaff8d09a1e81b"
+metafile = true
+
+[[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "a994ae9f75079a5ab89396a91751ab2f03dde4dbe595eb3761e6fc3746fba1ce"
+metafile = true
+
+[[files]]
+file = "mods/additionalentityattributes.pw.toml"
+hash = "5cbeaac6d3e9c4448ce9e790f8d3072d9c23cb29c849a6ef6760977ec09107ad"
+metafile = true
+
+[[files]]
+file = "mods/adjusted-phantom-spawns.pw.toml"
+hash = "9d80496e247f43839c3789520cbad2707da532a5b6165d6f567c990e79e8c891"
+metafile = true
+
+[[files]]
+file = "mods/allay-behave.pw.toml"
+hash = "2a5dd47c645d2539d7722ac7ef572eeeb1b8b290e3a190e099212b85a0692f58"
+metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "36b311ab2c828ad8c490b539ae0cffdac8438be7c997a71a1c782af924114c15"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "60cd797dfe0cc7a6be4762120a05eed6e7068111b267e4da5993ef2229ce74dc"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/armor-trim-item-fix.pw.toml"
+hash = "64692962f8ba0d4515682ef2b55507a036c41e072d74bf82cf3b23d9e17c96f6"
+metafile = true
+
+[[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "a7c083cdfd0a94c22a4ed744a234a4a6e52b23d1d497d944db004070c5e97768"
+metafile = true
+
+[[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "064816e4959da51774d36e41bee51b265eb053cf6ffe66dc5abbc2795da6b705"
+metafile = true
+
+[[files]]
+file = "mods/axes-are-weapons.pw.toml"
+hash = "98f900ff9f44bd7a27867c3e8e7757ea2b9cf3b9a11d0f567bea629103ddcf71"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ecb1e63b15ddbaf45af311d4d97c5cea8338df18514e3369700f47ba599e8e16"
+metafile = true
+
+[[files]]
+file = "mods/bandutys-dfwmi.pw.toml"
+hash = "ad4a96b699bc043974c748739703ee81ab00a2df97bf99bdd0765c25bdd0cc44"
+metafile = true
+
+[[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "b0e5fd52c2c511e862d9e32abc6050468f52cef242a0e37f6629ae1869227621"
+metafile = true
+
+[[files]]
+file = "mods/better-furniture.pw.toml"
+hash = "1f05e9377751660de14102df1ac6ffca4684759ce6151db9b0c7eb7450ef82ab"
+metafile = true
+
+[[files]]
+file = "mods/better-impaling.pw.toml"
+hash = "788d94206d238b08ef6c56af5fd01b2bdd6ca3baa04e27b4b6d6521801015fa4"
+metafile = true
+
+[[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "168009c9e42bde0e33bd898c188f747ad6acb7a90e7d32e4e9f6e7f46fb6ef5f"
+metafile = true
+
+[[files]]
+file = "mods/blame-log.pw.toml"
+hash = "1f9ea8c9fdecbdf356283f370efdbe27e774ad73718e68399c798e6442b399b7"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "e806de71f80ccfa6e9cbcc73e9192eeb5efad691d620dc42bab52454ffd92d39"
+metafile = true
+
+[[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "cc3c46250286b41f429f69ac3a8e01e1194afc951cc77101032cddaccc051f12"
+metafile = true
+
+[[files]]
+file = "mods/branded-logs.pw.toml"
+hash = "f7f80641227bc16b46fe13c9100ad7f1ad0e9ffb2d437d7f17cfb0eac4f0babd"
+metafile = true
+
+[[files]]
+file = "mods/bundle-pins.pw.toml"
+hash = "ab46e199edeec40be9257af33b82ca2402625ba4fce0722274623bd2f919dc9b"
+metafile = true
+
+[[files]]
+file = "mods/bundle-scroll.pw.toml"
+hash = "5d217c8ce2812fbb2661ab2a5637b5846a03bf5073de68ca5c2f1333e84bf25e"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "136593ec659bd0d255a70cd1fa9ee8dac89f942915fc6c14f46d9c783e89341e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "bbff83f5167e56b5cfd947b314b3193110d94425c2f45b385e19624a7c5346ef"
+metafile = true
+
+[[files]]
+file = "mods/centered-crosshair.pw.toml"
+hash = "a67f5aabcc83e6f8af0ea1a775b6e25c96eee4acda5803de1fd986b268522976"
+metafile = true
+
+[[files]]
+file = "mods/chais-build-tools.pw.toml"
+hash = "3445c4b0b5e1a7a9e99ec38e6203f8d4ae9ca0ada07fd951ac0c16e728254589"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+metafile = true
+
+[[files]]
+file = "mods/chicken-nerf.pw.toml"
+hash = "836c96f4790e102857a44c3cbdb8a245dec2e0c0a5c00581c32ef6c82d95f698"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "7b24565cbfed71b13cb435ef15b237a2a5175eab719310a37e6ca640f248e2d8"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "8c1018171a8d9d87d0ba576a5a30530b8f6ab3b6c5b356aebad0f5d4fa280c4a"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "e43ec2832e62efbb8625a0ccb57de93c7fa2bdcb1f53ecf6f60824cac738a9a1"
+metafile = true
+
+[[files]]
+file = "mods/clifftree.pw.toml"
+hash = "986eebee5adc37912c90cee8d8048199c8d987b6a09befce4a8c7f15acca622f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/cobblegen.pw.toml"
+hash = "dbaebbad933cf00bd1127e9ca53c78e40e8a2a53fc556ef07c60d35e4ba75db0"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+hash = "1e9cf49b10df527b58d04dee159080a32f88b7f61cd7ef1084d791655c15752f"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "dd7d56c815477073adfcb718c933d2b7cd08cb4c29d26d2409b9b8feac55d3fe"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
+metafile = true
+
+[[files]]
+file = "mods/copper-grates-bubble.pw.toml"
+hash = "d0d372f88ba2afb1b5e197f97c2c112f199a5ea6b2a1336d05e6a699afff452e"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "455d633469dbcd76deca1297e4db65322e66fefe62b2df5a1752e027384b7c3b"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
+hash = "cc91ff5c3286c387df7304de706d3d5c85ea0676175f21f2677e9d7436e48c5a"
+metafile = true
+
+[[files]]
+file = "mods/dataloader.pw.toml"
+hash = "db09817086e9e99df3784b74e4a74ef57eceef537ef8443e9d50dacb5040e83f"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "94c8335f5c328b50389c520f9e17da458ee86f5043c7ba0bc7b289ce47c26f2b"
+metafile = true
+
+[[files]]
+file = "mods/dyed-item-frames.pw.toml"
+hash = "32fac2de620b983e64492c47ecc33f6a5b318c60e635dc7de783b49680076279"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "cfa21c2c893a24bf733371344eb682c359f6ebc7810f2fefe2aba5fb9f4ce83a"
+metafile = true
+
+[[files]]
+file = "mods/eleron.pw.toml"
+hash = "31ed7b8d68906190b3c4df4a156a30dfd0c7f19367077ebdd56523d14f68e8a3"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f436fa1c712cb1aaaa8fc833c07838b1ba7b719958d11540a758ec74152c500d"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "559829422c0b39e55c7e7224940337de1630284027d2aca0a0e214fc9ca42b92"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-disabler.pw.toml"
+hash = "4857787aa341bf6451c83305b6c0851d4a8f48860686d61a4c4ec3239e659826"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
+metafile = true
+
+[[files]]
+file = "mods/entity-pin-cushions.pw.toml"
+hash = "98fc45453fdac86d361d4d16736983534d93f1c4006bcece0502070d259126d4"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "bb86568b5daae326e5fb8157a9d643ffd7398dde4b663cd2d8b1a922a72f2b9d"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "80c54802303925188e17006fdbaad0c05c007d2e35a107ecfb238ff6118e402a"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "abdb5264b469712604f1fcb31698ad4a76810eeb9d6fa1de6f86962b7dec3f3a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "c9eb80fbd0e9d83487e302be6d3f43f07523a5e818f7f7550d591c400a13571f"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "ad92549045da15a3558974bc0729e8c0efb2441fb109f75030e48d7715196d73"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
+file = "mods/fixed-levels.pw.toml"
+hash = "240b227b89d215fe7fb4708bcc21133ad8e88deeb0ab42e0d7113151c7c27104"
+metafile = true
+
+[[files]]
+file = "mods/florum-sporum.pw.toml"
+hash = "66190ca1ec9b26f35f59d88262a3818e687fa7408a55ad8e415900549a672495"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "5ca392cf6ef19f056bd3f880f3b15322d3e327312671236737344d319d6c742b"
+metafile = true
+
+[[files]]
+file = "mods/gardens-of-the-dead.pw.toml"
+hash = "278c2824fdb7567aed6969f512823e68ca782f7421264960518e056166908fe2"
+metafile = true
+
+[[files]]
+file = "mods/give-me-a-new-splash-text.pw.toml"
+hash = "e27ea67a982c4f40fceedb819a7e956821cc287c49dbbfbe996117f247220bdc"
+metafile = true
+
+[[files]]
+file = "mods/granular-gamerules.pw.toml"
+hash = "922992af9a71d3c951ed4f244fda48cbca475f2fd450aea4d5e81e0dcd0f5b09"
+metafile = true
+
+[[files]]
+file = "mods/gui-compass.pw.toml"
+hash = "7a084dc9bd31c21f07f5c475b6941d13d1cda1d4531f4cc097bf6c285c5937ac"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "3ae4961d72a92288288f709695d8e84cc427a144ee80b2773ca7f0c02b99bd62"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
+metafile = true
+
+[[files]]
+file = "mods/improved-anvils.pw.toml"
+hash = "08fe46bf55fe5528a8fdaba97955b724d4a0be9c83c19225fb00913c632903a9"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
+metafile = true
+
+[[files]]
+file = "mods/indypets.pw.toml"
+hash = "109022e47e5783880c2d78c4b1945f5a6d93198e968b6ddd156fac193f8b9e34"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "0382e17bb9cfb6e3f111ddcc69438cfa45dfa43d367651f736ab0e2a065f69c6"
+metafile = true
+
+[[files]]
+file = "mods/ironrod_1.21.1-1.0.3.jar"
+hash = "ee669e6966575bc3f0c35deb53672286f73c23cd439bab14108f4cabf0031efc"
+
+[[files]]
+file = "mods/item-components.pw.toml"
+hash = "a5409a49315db37eb8fde4b72dd462cb3f1c5430c0f6c5f76ea45920cc05a002"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "9e595153249a629ccec80745e4ec61b4b656d3e2d0bf81935e3da4d2c4f35e28"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "67ad5c2acf84ac2657b079a341b2771012d5050cbd900f423ded03404efc5de2"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "ed9cb377eff8bcf156163dc3b4d125b568cd2c300a5402e12fffe56602dcc0c6"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "6f48870f0d0b7cd6fc1ea6b2dc52331a0284b4f37c6d923d88d6ef2a4e00d043"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+metafile = true
+
+[[files]]
+file = "mods/map-tooltip.pw.toml"
+hash = "68167641fe33832f6bc3eac33825ddc85f40175d9ab2941406e251a9a2534104"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "fc3d57a9785779bf8dc937f4ee976c218f6b5ddbaba25d6d609391a6e3fb49c4"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "ca47bd1fc08ce111a6fc9bf93a8e85772365db69d674fca445c329248ffc50f3"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "4d2f963afd70835e8b5edd7e18a6e236ee4a1dbbabead3bc0e796462056448c0"
+metafile = true
+
+[[files]]
+file = "mods/no-enchant-block.pw.toml"
+hash = "292d07bc16e85e42604ee12c14f8b2cb1edf1f7063bb371f2923b692e2159f6c"
+metafile = true
+
+[[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "1c6fdc9722579b3fbe2354f9886ee61cf18ee554f6ba44b47efd9b92161d0a12"
+metafile = true
+
+[[files]]
+file = "mods/on-soul-fire.pw.toml"
+hash = "460905660fb355ffb970de6bc76298cc216bf61c1a7343ffd815441476d84b61"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "a761fd033a60aa43ead7c3309c092a985af4c452ef6bfa10854b8bd1799543fe"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "88c410db35e0f78c6c699dbd801215407d590b49fb3bbfd0d2094b5def538b4d"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
+file = "mods/pigs-have-litters-1.1.1+1.21.1-metadatatweaked.jar"
+hash = "94d51e592a8a5a6271609365b2c1f2cdaf38866ed6fc5b85f149e4487e0b7364"
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
+metafile = true
+
+[[files]]
+file = "mods/preferred-gamerules.pw.toml"
+hash = "1348184baa1f4fc4f0115889dc4c5d49d50ca53307bb55fd98fcc12008731b21"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
+metafile = true
+
+[[files]]
+file = "mods/pumpkin-pie-delight.pw.toml"
+hash = "d267f5d688bb45aaa185af8bd0493161a6dcba9626d6b3afd0ebf98b0cf17d2b"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "dd4b5f371bf4737672ed5bde3a1e45690541ab23cc32236ca2019aba603e51d2"
+metafile = true
+
+[[files]]
+file = "mods/rabbit-pathfinding-fix.pw.toml"
+hash = "12dbd202d2280fd3c56965172ed6039f7fa612a34bdb5a995c52e9110e50a9d0"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "f5aa8a4410d84e6ab5dd3797e2b900b26f669bd801ace7aab19ed987c4a05001"
+metafile = true
+
+[[files]]
+file = "mods/realms-button-remover.pw.toml"
+hash = "2bc72b153e29b9da415a3649b859659c31cf6840cadd34ccf5dfc011be79d372"
+metafile = true
+
+[[files]]
+file = "mods/rebind-narrator.pw.toml"
+hash = "207c2a73badfeca6051b7e9d86a9b3addb43e6d325f0f2cea432ddbd1bd814ef"
+metafile = true
+
+[[files]]
+file = "mods/recipe-reshaper.pw.toml"
+hash = "f7ae92f6acebc16de62831091aeb4d3f81cbed1adade8c614ad1f55afd95e347"
+metafile = true
+
+[[files]]
+file = "mods/recipes.pw.toml"
+hash = "172a658be9fa46cb9a34044985a954711c4cdfa66c6c3396e74b3a979ec9ceac"
+metafile = true
+
+[[files]]
+file = "mods/reusable-vault-blocks.pw.toml"
+hash = "78b3108ac13beeaf742ed04176b1a1d456072aaa2a32f2335870c88ff8474f6e"
+metafile = true
+
+[[files]]
+file = "mods/revamped-worldborder.pw.toml"
+hash = "a92309c5e01f4376f907deb5b01f05205e424908ade2bbac3238499437cd9d6e"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
+file = "mods/selfcare-hive.pw.toml"
+hash = "453c51620896b7aed180d37564a26e352d3f973fd3d941ed522ff1533e4b0cef"
+metafile = true
+
+[[files]]
+file = "mods/shearable-vines.pw.toml"
+hash = "1f88d10f53b421f85c531660b720fd45bad7fc3ee173407a718f0d572ad33d5b"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "4dc08fba8bbc2f015d56b0b0184bd19d2f9b897654d275151e7a3dbb9ee1792f"
+metafile = true
+
+[[files]]
+file = "mods/simple-netherite-horse-armor.pw.toml"
+hash = "02845c4794b9bfc924d6a2b0b130e6f1a93ddc07a7bce6c19e008d29002f995e"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "9bdcdf6050b27b23f7f575d958c4efb4fb54b92b833934807ac86ce1463f3504"
+metafile = true
+
+[[files]]
+file = "mods/simplefog.pw.toml"
+hash = "042d4f9d86d5382866b1ac151d42628e6f5dcb7d50a0d8fd35a4e580e469a85c"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "def501315e9a9e64158bf09267c070a952529939d494eaac96baad0cf9455d8c"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "b2438d0c5776f221374ed31bf8b2176274aead4ee58cb3a5c0643b998a2d41da"
+metafile = true
+
+[[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "1598dd205de0948591eb17af819482ad9a27a8848eabeface61095fb1c85bd6f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6c1e39822b75339afddef8504a135345c119de71004ca135c442eeea4088d475"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "455e8e97d9f3e1614cada30012763c3a0cec329c5f0323796feea884361ba5d9"
+metafile = true
+
+[[files]]
+file = "mods/soul-candles.pw.toml"
+hash = "82a5aec14a1a4df4abee8bd9ff4944de5486f55d7c19ac21e0fb19f49760a4f6"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
+file = "mods/sticky-enchanting-lapis.pw.toml"
+hash = "a9ea5f14e0692d18b942ecedcd787437a8089dbdeb307e3c016b71db0388524d"
+metafile = true
+
+[[files]]
+file = "mods/toastbegone.pw.toml"
+hash = "13bf50723c91f5a9103560ed84ab2309a6bfa6b77362101e4f2dd01102eed508"
+metafile = true
+
+[[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "852560445f4c0ea1ff1486149861fce36f4755dd2f20c63c86a3f1f98557be94"
+metafile = true
+
+[[files]]
+file = "mods/vanity.pw.toml"
+hash = "df15fb1cbaf1cada75ab7d8d975b07997feb85e48352c8d5bd688fcb9726cb85"
+metafile = true
+
+[[files]]
+file = "mods/vault-timing.pw.toml"
+hash = "9fd0441483c53a42f3bf2fd182bc026b87d16d30b3c178931933e58e192ca61f"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "935be1426f9fd50cf30a6953142eb490cb4b445e1739d5552d074828b69e2ba6"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "52fe379cac9fc7ea76fd7c527fddfe50f0c48fa5aef351acca40bde83228d185"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "mods/zombie-conversion.pw.toml"
+hash = "357c6da2d89d4ed7bc8d422a5f3b78ba71a958aa2c7bc2c0e0ebb07f9c5ea10c"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/NoZombieSieges.zip"
+hash = "16a6159cb45b4ca8a6c63d2a479ecf4c12b32e08b3d2a7b98182adc0e8f3251b"
+
+[[files]]
+file = "resources/datapack/required/Tidying_3_Even_Tidier.zip"
+hash = "c35dd51a8dd5a89a6918d38951d11015eb7fdf2046750b6b2e90188a537967a7"
+
+[[files]]
+file = "resources/datapack/required/bundle/data/minecraft/advancement/recipes/tools/bundle.json"
+hash = "c0427aa39217e52393a3c42a209f676f5151db0990acf6dcced180406baf803f"
+
+[[files]]
+file = "resources/datapack/required/bundle/data/minecraft/recipe/bundle.json"
+hash = "b62f7e0e450ad3dd9dd1fbcab5ca9df88bf50c59f1ebce75d97c5ef8710788fa"
+
+[[files]]
+file = "resources/datapack/required/bundle/pack.mcmeta"
+hash = "2df89a377d53ee7c4ef481a5e6ccc7a2ca0258a96fb19cead422490d5c36f3ce"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/advancement/starting_gear/grave_goods.json"
+hash = "6d227964a85e2d82b4679661f34e57a4228b710f11ec938c0acac4e3563fc0f8"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/advancement/starting_gear/heirloom_coat.json"
+hash = "2e758f90612b9c7c8947c220467f4cacea907e3664633ce013a0ea2c8359e6a3"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_axe_buff.json"
+hash = "b9fc7bdb65e7a12313aff34cb2da42fa8c99e9f9b6d264ea69063d924aaa8d11"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_base.json"
+hash = "347a791968ffb088601de8e4f7ca9e68255a209285af90d27999b422c8a6ee5c"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_golden_boots_buff.json"
+hash = "b5ce25914653cd7c9a90b481854b8a45aab923dd599e28d4b87ed92d0a01d65a"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_golden_chestplate_buff.json"
+hash = "7938f296ea20f7fb262246af4fc7338e945b47079b98d9200f0615acce85e124"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_golden_helmet_buff.json"
+hash = "c5d02fa4fa7fb47dc09aae9986612f3b326b71ed0ea87df776587df151404639"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_golden_leggings_buff.json"
+hash = "b008e26c24534db72a2ec876066037463a6035c342bf8057941710f2bde024c0"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_hoe_buff.json"
+hash = "6de9a3c546ac5078052c2f75b02e67a396cd7decdac8d1679e7629605553b4ca"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_knife_buff.json"
+hash = "8ce283e45b8ae016be858d6c74a6aa7f81bc7af166065819f3aec00701839e97"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_leather_boots_buff.json"
+hash = "1e3c47a302c6e0bacd67dd3c1417fb9cbba45fafdb777844dfa72b994187faeb"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_leather_chestplate_buff.json"
+hash = "4e74ed340a353f25c26af81a23683c406aaa8a6d7db14c5f76036af0280da280"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_leather_helmet_buff.json"
+hash = "79a39ee8a641e2bc5fb6cf629a8123e07647d0f44b6b0f79a34e1e145db7b7ec"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_leather_leggings_buff.json"
+hash = "349d7b51f67a1f62c6d9f98ca9a62dd476f643ee7ed1d18a1dea7640f67a8b73"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_pickaxe_buff.json"
+hash = "7935a0e31682b26110396fedf386e1332369c458a3ba5e86be0db17719b8fb9a"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_shovel_buff.json"
+hash = "d39eb66ebc8d549bab5fc537d03628293b554a13de13d6803e39b48ec3c77482"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_sword_buff.json"
+hash = "aacba3eb8c148ec1fa054c97c80eed106556ad25ff61bba18a45033a6de03d1f"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_tool_base.json"
+hash = "a680fcf6914b2a3eada2988ba3906fc0e13e3a0f67eee6910ba8c2198ba067dd"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/fireproof.json"
+hash = "995747e73d68c52d43d153becf7873f7a3b7fb3fc4623f058e3fa139f1994610"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/heirloom_coat.json"
+hash = "6365fe44704a6620b2479fcc8a6e5b3ab6c91411c92a4fb9bcd98c16fcbfbb99"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/loot_table/advancement/grave_goods.json"
+hash = "088a0dbabbae33da5ce2cfa4bcb156ef5f677415cce7d20254f0d00bf559c841"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/loot_table/advancement/heirloom_coat.json"
+hash = "d800604ad06869e793bc801fe53d2551549e5f361bdda712143ecfbe0081afdd"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/amphibian.json"
+hash = "6ec5c9fc1761317636a6dc91c063cf94b05190cf100d09a9c0a3f7f12fcc92f5"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/avian.json"
+hash = "d88f10763dc6df36a53da71d6c2d73f4dd70fda43b195db1eb07879dc9246c44"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/construct.json"
+hash = "7a8a2be0b4854196ea215e61dd963db78f0ac017ffe087df95b162270599f579"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/critter.json"
+hash = "c56d6b6dcbde30c5a3c937d946891175bad5e9ad9b09dae4bcf7e1e73d0439a6"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/cured.json"
+hash = "6cef146cf4646a066a914ef0e4b5c485cb89acbdb3fe10d596cb00ced8f1e272"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/insect.json"
+hash = "b7857691e90107d8a40ae4c7ef53eac8f9940ef894b4af1aa316be3fafcbb3af"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/netherdweller.json"
+hash = "8f7d48455f7b87eb9de1701226ade130c73a4ed3ef6c826e7f243fd512376489"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/outcast.json"
+hash = "856c602f9e2e3bc24ea2c6e1081b15a4c4c8cf26645463e9b0b71d72ac5f434f"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/slimefolk.json"
+hash = "23079fc8a945b1d3dcff6c8844032471c84e8313e8f4e39122cbc38aefdd3308"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/undead.json"
+hash = "7bc6ec07e99aaa32fa1473c6da7f013234c5f9aa71fc17fdffe7954e7c7db229"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/animal_arms.json"
+hash = "ace0678d0217cdf99682cd68f61257371ce05fb58a063b0db20b58540b3cc986"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/aquatic_taste.json"
+hash = "bccbbf7e373d446e347a40aeb445406cb0d4863e57d0e2f12ef336a0f05fe9f6"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/arthropodal.json"
+hash = "ef368307bcca5dc7ba32cfd4ccf12cd5055d560563c2d7a4589feb157e40719a"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/avaricious_artisan.json"
+hash = "5b3d50265b2fd2f2c22b559c0e49c024de264686dc29a7e94ee8793a964606d0"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/basking.json"
+hash = "9ec4ec65f8b6c8d54297a058c135500123ba771001fae7db55d20d849b60333e"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/bouyant.json"
+hash = "65766acddb2006a470ea4701211369c846647d175596c0cec2110366944aeb2b"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/brittle.json"
+hash = "6ab422d8a2756ecd76aee73d2fc30dcec0493c0c56e73ddfa8ba89056606e834"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/cold_sensitive.json"
+hash = "4fd93b1d4e7f7b35bb93e38d581e177aa00d67e0d5948dce07c6a16d6cdd36a1"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/combustible.json"
+hash = "9d6d8ef011b0fcda1e617011d87a912c4b5b786b358df292eb7e2a189c5a84a6"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/dead_again.json"
+hash = "56d7d06b0c423f4ebb82bf788373dc0e4d6b5b30dd67856095f0cd20d26f01a9"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/deadeye.json"
+hash = "c81952228ac1994459171f44b62d574ecb96fa788599466f96e7adcb273bb751"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/dense.json"
+hash = "43948461125a63b6446a7b2671508a494291ccd4fd3ed829cd6551026b2e3b6b"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/durable.json"
+hash = "8e5827f43bc2f332c737dcdb91f53c752d970a9aab6e5cd8bdfeda347266587e"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/equestrian.json"
+hash = "9bb73fa0a702f3582c3dddedfb40cda2826ffcd07500c15b766a23cad7811ea8"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/feeble.json"
+hash = "349b66fd5dbaf4007d1e88022da93018c1e038cb3391ba06667ce9b8843afc2d"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/fire_resistant_grace_period.json"
+hash = "09316b768527b7aa291ec5a9f908a1f40eb59906bedcb19aa479c02c175ebb8b"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/glide.json"
+hash = "8421bf3bbd03fc385f3f4ea411c4f4336199e6d84f48ecbf90c5c17da9b21d67"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/granivorous.json"
+hash = "47a34240e765c6412009213c6f04ae7706f7a2ff28bca4d0f65634481a8bf541"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/grave_goods.json"
+hash = "b31812f7691c041e7cbefb7458136410e0edb23b6b5579e85c9307b4036fbf2e"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/heirloom_coat.json"
+hash = "a219be52c680ce59c0023277c76361b33a4c1c49ad36f6a00c9cafa8447d715e"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/honey_lover.json"
+hash = "dc36ca1ed0cf7ee969df93dfade9fd12ab15725dab42f8cfa7aed816703f4586"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/hydrophilic.json"
+hash = "7c3637cad9da95d5731a0a8fdde76a894baf35fa560f83bc7314bbfc1412b49a"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/ill_fitting.json"
+hash = "a2adbc3459b7cf627549d630e9d5b9137e23ad1dfe1c662cc332ca6dda5118e9"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/infernal_secrets.json"
+hash = "fef87fc9bcc214982aa867b291e874952417f3d5c280810d8de6cd8568687e28"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/inorganic.json"
+hash = "38fb29c1b44e89c1ebb8d147643337b19c26e14009d11c43dd97c2a31a6fa548"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/insatiable.json"
+hash = "ef070606819e773601152f70396e4a67844b8cd9dd1c76051133e83bb87d2d57"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/inviolable.json"
+hash = "d8ace18f570fd7480d6610bdda1b8ecb75b6cec401fd79d3bddcbe0f1aa507ae"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/necrotic.json"
+hash = "c090c589a0471eeccc6d2598750761739daf4690aadf05bae0b2e8bd8bd69181"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/permeable.json"
+hash = "67150f38660723a275c47b7d69d974f5037946788417f665da78f379aca3db12"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/photophobic.json"
+hash = "e471448f9af5fac89120221b50d6e52634c9759a71fb056ca415876d6c5b1a67"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/pyrogymnast.json"
+hash = "6b1ae5df6b8dc96635867b0083c06a822af0bfc76450f01a4df8200d8524a638"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/ravenous.json"
+hash = "47f85f0c3d9cef9da4c3672ca41d2d4c9e9a3cbd1222d3afd44b9f8a51bf4632"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/repair.json"
+hash = "7a9680e6ee60fa6b5901942714637dd5fee84fbce72aeae0faa4365685bca9ac"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/savory_diet.json"
+hash = "9ad6c573506966f94a1157344716633fd83f7dc2751cf435093304f83b7e2c34"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/scavenger.json"
+hash = "2a1d93370fcc4bbb158fdd90cc360ecee6a30e030f02435a313dceb9d2428c6e"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/semi_aquatic.json"
+hash = "de15bdbd9dbe10dc3dbfaf0b1c13c2eff242e60f4af5578c07e1c7adbd886fb8"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/shock_absorbent.json"
+hash = "c58c4367ba1bc412af8662a039ec4c5e4f54e8cdc45a8310fe14cefc82ac7402"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/shunned.json"
+hash = "b6c57229ed5bd0560ab2d8f6ae358b09d712f1cb24e0d6359137ed6c1a3561b9"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/small_appetite.json"
+hash = "548011f4d4012979f322a2cdc895a95c0183d48b64c9f564893dd7be5a9ab02a"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/splat.json"
+hash = "84727da0950bf862dccc1cb50adfb3b014e9338a5a185554e6fddb6b31d11a9c"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/strong_legs.json"
+hash = "e6da5591fbc45c61cc4ad9f911d46fa1ef65b279c68ac56a40092c8dd25aa8f3"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/taste_of_home.json"
+hash = "619486c14abf18263d316e9ad794f2137e5899f34e778b8b6da35785b9e3456b"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/ultralight.json"
+hash = "532ed1d8d57a7a288d99b24b932ac2d17579b95a3621651755ac582df5895b1a"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/un_undead.json"
+hash = "25fef3dd057eff681742ab9f973f7a74b0fc2c8702bfea5cc6f4abd1144a9696"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/updraft.json"
+hash = "b4488e409896f8856cf3cfd4b497d85d5ee825167d73ec0b184e7a7404af852e"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/venomous.json"
+hash = "bd459175f37f44f04ead6959d75b25bc651207e87a5fb6e4b34630e96a9649f7"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/warm_fur.json"
+hash = "c2e0b57411f5fc53d944e6ce4c0c55fa5a005133693ff4d0ac444fe76087919a"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/wet_slap.json"
+hash = "16538193435499faa6ffb4629a1a94d8d5b0e99bcb379667ac30764ff33e5814"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/woodsy.json"
+hash = "d04a0c16e1a16089a098218a198ae296e0ce257cf3e2d80a4bfd584a606206fc"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/basking_blocks.json"
+hash = "babf1c9b553de47d0f5946021be905c59919211670f41360150803b77328188d"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/basking_blocks_when_lit.json"
+hash = "2143d778748e435bd84188e4cf12b1da4887bbc70465d90397918b65e446790e"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/infernal_secrets_mineable.json"
+hash = "53d8987e446ef63e73c04f65bab60844a14a9a3bccfe68e297ba7cc3dcc43f24"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/inorganic_prevented_blocks.json"
+hash = "5aa8c40888ed77d9c23e544204921b639bffa77e367bbb902dcaa3ff432b6957"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/updraft_blocks.json"
+hash = "babf1c9b553de47d0f5946021be905c59919211670f41360150803b77328188d"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/updraft_blocks_when_lit.json"
+hash = "79198c7bee649e5bbf8a0dfe48e1dacdc1239897aef80e9286cc6920012646a3"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/warm_blocks.json"
+hash = "bf7e2c043418b172cc455b19fc394a019a95ce4b6af1c91be4b57d1bfa82793e"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/warm_blocks_when_lit.json"
+hash = "f130baca00c9dce49121af6d6410e36e1d235482d19a3bb3e38cfe7e524078ae"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/woodsy_hideable.json"
+hash = "6cd4e165cb00eb6635becc50fa158b00f42dae6e2205718afe9b89d449daf3a8"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/damage_type/brittle_weak_to.json"
+hash = "c14c2d453d81aef3f1127739f5d7b8df0a86f9a7e760919f90b6bc77e365c023"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/damage_type/inorganic_immune_to.json"
+hash = "ff53f12f99e3ba0bacbb893170224ced8e898c3433daeedb0367e0f0f5312b25"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/damage_type/inviolable_applies_against.json"
+hash = "225e1e5de2760bd3d1023460c1f4928a6c6820ce9c547255f8b74160e123f07f"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/damage_type/splat_applies_against.json"
+hash = "bc8ef1fc17df01c97badc6123cf8d632a453debd405ff088ff773f8737bca812"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/entity_type/entities_that_shun.json"
+hash = "67729caf4efa3e764a2c1ea98b0b85e61bb34ba13ec37113150aae2aca0d7881"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/entity_type/scavenger_foodsteal_immune.json"
+hash = "bb66caafa85dd18589db9dab594b90b85128b207c9d7ed7042f5b9fe8f171bc6"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/entity_type/scavenger_lifesteal_immune.json"
+hash = "0a9c446057390f6dd67403e300a29a18166efaaf95975e26734003ee09f5d2b5"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/fluid/basking_fluids.json"
+hash = "f7cf09ce6e0ef5724b68a8535afbe512a9b255f9276fdb0a174f90fde7fab5f0"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/fluid/updraft_fluids.json"
+hash = "f7cf09ce6e0ef5724b68a8535afbe512a9b255f9276fdb0a174f90fde7fab5f0"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/fluid/warm_fluids.json"
+hash = "9b2c139db29a54f30ba40ff6c8579b28c3f144f07f7f698a012c05e7316a5ee4"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/aquatic_taste_preferred.json"
+hash = "18fe5258dd56c42c92942a0010cb113100bc8d4578297b153e3cbfb5010f9c33"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/aquatic_taste_snacks.json"
+hash = "3cd975417bb86aee1255ca7bf15bb07958d3b5dc43944e7d094aa70ed906cdcd"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/avaricious_artisan_modifiable.json"
+hash = "bbf587260c8553ee932a7bb2cfd6f8a60c3dc3ead438a32c9c3d22d0f604c206"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/berries.json"
+hash = "ac354b24cd21d593b42c143aa1f3f2a81533557c16fd80981a21b2ea4947d04a"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/fruit_products.json"
+hash = "c6137c525693cee82fa95fd20a8e1b212d8acd53ed00f080a8912d9c1f8d1209"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/grain_products.json"
+hash = "3010560078fac4bc2e61b993def5b5a936ad2ddf5b987fa019a3ecfecab15ca8"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/granivore_harmful.json"
+hash = "b0e442683dbcfa8ecfb2092bfac003143271c39d194bd7f84d9516b51846dadd"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/granivore_preferred.json"
+hash = "ffa4eee1fc0690f6c18250cf70a7d5ea66020a83874b0b50c48d7bd6ad935bf8"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/heavy_armor.json"
+hash = "1ff2fa0facfed1696ed824fef204af0f35a8ff5cddf743c91c6decc0c5e9d795"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/hydrophilic_drinks.json"
+hash = "7ab160c52f842569cc148c731527830c64ac5e3e0cf142616890c5bf9824d514"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/hydrophilic_other_drinkables.json"
+hash = "c59b63011767a163d408fefe897a862ba9285ce095ba8ceee1ff94a50ec6779f"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/inorganic_prevented_non_foods.json"
+hash = "a62a7dc33876005b33b375fc998594a68b77574245644e3ad5c7f505aedebc58"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/insatiable_no_speed_buff.json"
+hash = "bb82695e52e5a29fc4adb85b6e9c17a8f5dee11f163279f6cc920052fada74fa"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/nether_foods.json"
+hash = "b53ccf90bae3e03e69b485a6ab546a9adf9fab113ee6ac4ebc68e3ca3df56dfc"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/ravenous_penalizes.json"
+hash = "236f5e08c5f2c252c36a7c8b548fbeccbfb8d766ee44a02f45bf1186c510c59c"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/repair_ingredients.json"
+hash = "86dd5852008bda9d3db9531abfb78f98856fe811f3510c9f18add39d05df9480"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/savory_diet_exempt.json"
+hash = "dfce8e03f9e96cf448d629182b629a97388109dc78ad48a2019d039e28c8ec33"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/savory_diet_preferred.json"
+hash = "7c7511251b98c3b4cc1ea6b617c7d46da3464e7dd37bc3288091c07ba3429b70"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/seeds.json"
+hash = "6e39da9ef3b583a0c97dec425d9d1d109861571bb132a23f7c61a8cb05a96c37"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/taste_of_home_preferred.json"
+hash = "eb28c85190a602494f5a54d35600654886d174e32bee78d5e114c82cdee79e2c"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/undead_cures.json"
+hash = "8b55a713e67dc77125a7737f66c912347184a0966e9b4e83bd611a48963b1ca8"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/data/origins/origin_layers/origin.json"
+hash = "be96b8d7de00148ddf11335aa801399dee00ff02a85f7bef28d4f93ac94c5525"
+
+[[files]]
+file = "resources/datapack/required/maddy_origins/pack.mcmeta"
+hash = "46af43c6ee3256bb80925fbe0ca5a1c3926318938d73cf84509d2d17f3d4bb0f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/furniture_hammer.json"
+hash = "f833c28a5dd1d6479e7e7ab5f328367f2f55eac59a72731ff434e3a6502c3692"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/service_bell.json"
+hash = "d65820b2df9eef0a21d232c8007bcc8b3dbdf635b20ef838fd5f5f9a545539c3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_acacia.json"
+hash = "f519a3656e4db68e50393747f3b138d2f8ad0fcec6f4ef7ab3f05300a2b5a221"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_birch.json"
+hash = "6feb677287a97f36d537fffe8aca153aa03a1f3f7722eea3d125552cd497c2c3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_cherry.json"
+hash = "fce33067a32bfb65a0c6cba4e1e800e69138fc9b11a54ad09d7da7d94b923b5c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_crimson.json"
+hash = "5ff615e9df0f8a87e497cddada9e866d8bb80a1349e4fbcaccf84b3f84c1725d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_dark_oak.json"
+hash = "7e995db2bc195aa0e1ce54dd5b305232b3dff8c91cbbcda376698c0cfde09fd3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_jungle.json"
+hash = "924a71b21852702d6a86800be95b0dbbb5a541937d125de920671c6be491a9eb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_mangrove.json"
+hash = "50aa744ac1fbea701d4ba375e8825ceb8d1faeb3c8e70a176ad4a19493c3c383"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_oak.json"
+hash = "aa4083d35a30fb356054dc9b61dac015563092fc51a6303916d8b207d16c36af"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_spruce.json"
+hash = "f050957fe0ba54978c648002dbb9acf6c0d80c81554a183caaaff1c3a8948da6"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/chair_warped.json"
+hash = "a0b76ee4043ee910201ad90837d5aaa5983af7842d8ae681887162709c2ac258"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_acacia.json"
+hash = "d9f7eb96ac3226f6097f39d0a7122353821f48c7a7c0dfbf3ee590f86c25cd28"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_birch.json"
+hash = "2ea498507109b7da7f5a48f5421e07d93645b1c77c599c6863fc30f0731e651e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_cherry.json"
+hash = "efff358d3251478be95f6dc712f141b1183ae6773d321256d19042e1b41c133c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_crimson.json"
+hash = "ba36955fa59141966c0bdb3d82696769e7a3ac0db2865fd2db416d729de97a02"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_dark_oak.json"
+hash = "6d1c7012e2da64e9872a9853e9d3f0fbb99d652b682b94611b0f4e7fbd30acd9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_jungle.json"
+hash = "bf673d480693f801383c6382f21e97d445ffa9a65e962ec5b4f4da2e71406410"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_mangrove.json"
+hash = "0c2ca0375e8601ee2ad2007e8f4e4af47787e6c31485accfd7b56e7d61936e65"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_oak.json"
+hash = "a18f17347ad545d61c13695ad0644dcca7934813fd01af21c0bbb87deafeb28e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_spruce.json"
+hash = "221ee8b459e5aaad2f819f04ecf18c7a80717babb3a40f4bf504972a79d8afa9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/stool_warped.json"
+hash = "9ad13ec0230bf99ec4630a633e9a03d44386b7f6565a81b95c7f67fcd99834b1"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_acacia.json"
+hash = "90b1c3058c0ed4cbc58558af4096ed5d1fa8039e22ac61bdeea175e90a014c68"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_birch.json"
+hash = "2b1ca62b694491fe981f885c0f6f247306aeee1cccab2bb9a6af941a83f96fdb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_cherry.json"
+hash = "469d1b1756153bd2ea8bf75fa4825ad225181d2a94e780b64d101535ff4b20dd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_crimson.json"
+hash = "aa56d8be31398e9055445e7940b4e33968408d35c08e8861b0036386e3b591fe"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_dark_oak.json"
+hash = "7c8ae2cb63f54a36f3efc30ce59fd3367319ab2d0ebe6ff35463f3f140887cf8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_jungle.json"
+hash = "b1c8a4aaba68c6c4044383419f004a36ab53b7c21ca7c9a747acc402cfaab68e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_mangrove.json"
+hash = "3fcfcc0e9356ca100db7bbc15464cfc354d1c98f1f11fc77b39b007f0b12d0bf"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_oak.json"
+hash = "46377e423c53c2c2e21f85ed9e0fcdcd0e47e967db32ef462c5674da4b60e5c4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_spruce.json"
+hash = "1932a6bd500cdff34b21d3f1e6b387a33a98a3a23486389f52264a601326bbdb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture/loot_table/blocks/table_warped.json"
+hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
+hash = "81b773b6c07c39e60e46fe404411f54b4809aabbc9ea59e6c92c84a4792af253"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
+hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cutting/melon.json"
+hash = "2be2a4e413719e54981e6ee6afd8f179548d8d5de855a91e11ffd1255f9b3a81"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/hanging_canvas_sign.json"
+hash = "77457e573a17cea89ea8a17664a21192310a9dc683613ab681c66c86eb6e9c6d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/melon_popsicle.json"
+hash = "8f23d294d382bc3335d3d97e75082a5968affe46d34c6736a22115ee13ed8a37"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/advancement/adventure/use_lodestone.json"
+hash = "060454d44a58fa99d443d23ec891ac5ed52a9177f3c48dbf7c3c7da8057d219d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/dimension_type/the_nether.json"
+hash = "d20b9c26f662d6f4d3c5aa67659a01b217446cee9523e980d37c189b188da8af"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/beetroots.json"
+hash = "2ee21fb3849cc7103de2cc94289c5fc17282d5eb30ac86aaa71ba52c1632b4c4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/dark_oak_leaves.json"
+hash = "5e2af952ffad8273b1806ab187dcaae7d7a722c3caea64852d1244e39e94bbfd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/jungle_leaves.json"
+hash = "0ac9850b8c685ed935d3f6fe4cf5703bab21c7a075296b4a6e2de0d73f4cb3d6"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/melon.json"
+hash = "de94b2564d215ee14b8b2e1b9e2a81ea4233ed0d15b068daa2554e420943790d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/nether_quartz_ore.json"
+hash = "bcd44f6876e63d906436ecf46d4969a3ba106132a672051d1da4457c7093cc9b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/oak_leaves.json"
+hash = "50596765fcb6d59f8ce1f561915423f1f33d552fcd8649e4dc6745a889f2a474"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/sea_lantern.json"
+hash = "58c2dd9c492bda82c5e92cc449eed75c219c7fa1f98dea21e899e25e128c2866"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/activator_rail.json"
+hash = "7f545e9ff5efad12e4b8311fa3dda5940411afaa6a37b1385a5c134be321ff46"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/armor_stand.json"
+hash = "0df4e76be1b6b9c4d139e486bbcffbf026d914fa8abbe105328ce80527f482b4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/arrow.json"
+hash = "117cfbb34c3c2afaffd7967bcc00f85b10855963a91dbdb7beeb5d91cbbb77ab"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/bamboo_block.json"
+hash = "76115717f49b2c85d5b6df791cbf9a7133b0c70c424a0e92300090d7cb6056d2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/bamboo_planks.json"
+hash = "52b0e72578d0b46d3daf6b477914e75184b0889148ab365c8b4e3c18f2ca9cc9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/beehive.json"
+hash = "a604bcf5672126ec21a718ebd5229d210b09af196edd83399f453e64638592f9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/blast_furnace.json"
+hash = "e3c9dd11f0c2eadf6e6dbf42459c2dcf5c4877ff75b7559141cb3b6375fcc244"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/blue_ice.json"
+hash = "e7954c55b48dbdb44cb4ff788a9373b6420b4dca7f8a68e11fd1fc323c9dad24"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/brush.json"
+hash = "a10f042817effd4ec373d1c00bf0d845b3dcc7c7a27107a3b1d819e02f62fcf9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/campfire.json"
+hash = "05b602c583243807e2eb20fa373421bba6fa947e953da04f181b85664d504546"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/candle.json"
+hash = "987a8b32a4ab6e70ad19e0394c59c70203b25d6dfcade92c906ef0a785b95fd5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/chain.json"
+hash = "387e9116dcfae74db20a0cb8a33a27fc46a800f890546309f368b53a5c80a58e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/comparator.json"
+hash = "70796bff4428f7603f24558d373c760c956dc57ea74ec6ebb229a848ea5c45f2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/copper_block.json"
+hash = "b4bbcd1950c8a126c4fef3ba4eed2109c19c42406f1860807e5e40a6fd6e3422"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/copper_ingot.json"
+hash = "2626a47681888a2252b0f9d40f9448e9e3b4c615f05523beed94ce2f6f448608"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/copper_ingot_from_waxed_copper_block.json"
+hash = "ba62ae592830b5e62f52f74810558a5144399bcebf188cc6679422cfb45e05fb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/crossbow.json"
+hash = "93eb358a8a393950bf5cf7d58ecdd5d018d3ac1f3f9db00cabdc0b326090c72d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/dark_prismarine.json"
+hash = "fffb48e45fb36be567b05e2d65b11bfaee8949e2dd93f932d95cb391a8c667dd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/detector_rail.json"
+hash = "a940f030767c6ad4559c4325ff86a27b3f373a834fb2e261babe1ab44002173b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/dispenser.json"
+hash = "cdf2091927334c2e8d96edfad69b06d40143252dbd2b1913a760694b3167a770"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/dropper.json"
+hash = "9ebfe66895315435529c5735e9e2cb563ed4b6a43db1057f7a6954f5cf51f775"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/glass_bottle.json"
+hash = "7caf8af23f8ca6c223af492c178196afaf40e2af56ba99f5363d8af68563dcc8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/glistering_melon_slice.json"
+hash = "b7ccccacdba6abd0dbada9b4faac4d7e45f4f3c7818583fca3b278beb7545e98"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/gold_nugget_from_blasting.json"
+hash = "8d62e20695a33d2ec539cffb624b7b1a5c4a4f70d4bf98ba79c43fd27dbbf278"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/gold_nugget_from_smelting.json"
+hash = "a250188e0bfbc4584634a0fb1811150ed5826a59b2486efd48eae8065fe0296b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/golden_carrot.json"
+hash = "a25c32f88d3f31aa0a142b33169be0a2b92cc9a32e962a60436ac6271d35f695"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/green_dye.json"
+hash = "15e87884b346f01cd02665d32c979587e2932fe1b1b8eaa8c4531e0a9ec67642"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/heavy_weighted_pressure_plate.json"
+hash = "5da77f7606186f6555be0d59f4f2610e7e1edb9073c7f73f1cc62f0dc95f154c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/hopper.json"
+hash = "6d1655a94ba53643625f4eedba700c5afdcfb469ed67d89e4d35253ed07e13ec"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/iron_bars.json"
+hash = "967074331b98765c63abe79166ba138c4f113b3a7b637dfd0341b4770245336e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/iron_nugget_from_blasting.json"
+hash = "c939fb9b88d24e6bec6f0508f0b61d18629bb537eef657e0aeb780e46a48b334"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/iron_nugget_from_smelting.json"
+hash = "52d00a6ad73ab5b38534ba67aed9a91140b438d37069bb710c4005685dc56397"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/iron_trapdoor.json"
+hash = "206db681e11a238fa29bb4c7f54801e1c41aaac7b62d91b03a5b761ac2c15583"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/jack_o_lantern.json"
+hash = "213d63212629b60539adcad144c06123acd5e83265c32c9fba01039ace142492"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/jukebox.json"
+hash = "39322907f9c3f9fc7d0bd67edd3210e11a287d25c83ba4390023d7ed11469f6b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/ladder.json"
+hash = "a0490e93028f51662deaf15f945cdd762d3b7c4b2175d0a29463141b6200fd7a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/lantern.json"
+hash = "a91ad9ce25004bdf352be5ac27757fe4efa6be8b06070f0b833408ea5df2007c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/lever.json"
+hash = "3a49158ecc7724b3e8aff480fcfbf3adfe656d3bd4b0c514bfdccf40097e2c72"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/light_weighted_pressure_plate.json"
+hash = "309a17b66485d30596ba688c7831d757c65190ee05639a83cdce5ca38431584e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/lightning_rod.json"
+hash = "732bdc74cb67bf3e1b01f23cc77572d2319f3c26355716d481b51266579f866d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/lodestone.json"
+hash = "8d2a5bff5b2c98239ab577002990c1581a99be305b5db5bd23059a5ab1b30235"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/map.json"
+hash = "cfcbc10d99c13ef1564171c962e8b021213301ac81495fbd1ec95bae71bd6e1d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/melon.json"
+hash = "7441befafa760fd01ada40e946a65bb324854ac3e615d926a4f04ae781fa3dfa"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/nether_wart_block.json"
+hash = "2adb4323dc206718d4311ad9260328418f273a20ba14a1ea98a41e325e15aeed"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/note_block.json"
+hash = "a9bc77a6feb917e7edaaa2bdeb65ac4a8d15cbda5eb2579fe73dee40c7ccb5a3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/observer.json"
+hash = "cf80809a71874a2db9fa8d8eb6e95387c3416396be93e5eb28c68981ec479ae5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/packed_ice.json"
+hash = "4e0d653330627b1669d80ed48897f204c372d91ba2f24ed13fb07198a879d993"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/piston.json"
+hash = "b33f5f567fd6f4c6a87787909673aefb28de0cecfe7df4a82f3a9d8b5292e116"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/powered_rail.json"
+hash = "a841e7c09c77725e3de8685c3c449224bb41e8ea301cb23b3eb2ecd531afe7b9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/prismarine.json"
+hash = "dba69b2b6b4bf35d024eb877dd4769ec6b2b5a0a01c1914d67f09f36ea4fa8dc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/prismarine_bricks.json"
+hash = "7ee87adca475a528be5f48200e916c89a8e9bfeeb86e40b46927fc534f7392d8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/rail.json"
+hash = "a27fc3ed01b048a9fcb5bbafb73627b0dbd1aa9ba82e971ac71ebc070a20c172"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/redstone_lamp.json"
+hash = "8c0b96bfef8b74200ff48874dfd56ec2536ac600267e0b99ecc231781a029620"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/redstone_torch.json"
+hash = "5e2d6eea740853284f9733a480c454d1cfa81d3a62676dce09f128fbac15c40f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/repeater.json"
+hash = "abce31d9f2d5c5d83b78f36f254155afed55dffdc99ae958c3b2664228b5a29e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/sea_lantern.json"
+hash = "ce6f98fcabb8bf3568755f70dd91e76fbfc33f6e637fb1b91cb18c6deb3561a8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/soul_lantern.json"
+hash = "c121bdb13f8f1b6bcead8ca470e9e2c3e098ed475f578067014bf17052be8c67"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/spectral_arrow.json"
+hash = "ee449baee652c1de9f2f0c0e6a7a2e5478fbb1d5e50c2be25e0292190f59d59d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/spyglass.json"
+hash = "ca1f1560d6f2e70a9371cda40d67e60b42b1e1bf17c260dc5524b99cc471aa66"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/sugar_from_beetroot.json"
+hash = "a5aa206b4cf15c50e21cbe047ffa55b6b8969975c4a584fcdb73f826f828993e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/target.json"
+hash = "44d0a407baf3a473805ca227c91820bfd3cf962dbe0bba616b0cb66146058a1f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/tinted_glass.json"
+hash = "d87fe9e988fc101ac23259ff80d01e9fabd00773c5c765caaf8d686cc778f2f7"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/tnt.json"
+hash = "0bab128275057ce506cf4062bffac2d33434c3997bc11f974ed6a822751bc70f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/armadillo_food.json"
+hash = "dc26544cbfcaef9965b700f12b8baf7919a292bc23df525dbff7b804bd6b1f02"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/axolotl_food.json"
+hash = "87261475805040bf6dc4e6c1fa9d21167f4e57063a9681c20f3ec07791201884"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/bee_food.json"
+hash = "169309ce043a76a94a8f60acf3e4e8062d4cedfd461049948391be8ac6e76aab"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/cow_food.json"
+hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/frog_food.json"
+hash = "c04e5cb8125d78e5acc0f8d29a53a69a81a23b388fc1ea599752e5767641cc8c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/goat_food.json"
+hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/pig_food.json"
+hash = "5aa8f8880901475582ad80e2ae1f82a610a8098baa47abe2e17427bddeb6370f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/rabbit_food.json"
+hash = "afc0453e22858eb209e6667e538263abf1ca3d2d8f687b0ee0c1f67df651057a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/sheep_food.json"
+hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/sniffer_food.json"
+hash = "9b6b236408d3d3b031d40d4276b730cd6f7f6456cee202131e2f50711361ba52"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
+hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/bleached_bed.json"
+hash = "a140c8945956b1d8a5a4836ff956ecadd7513732ccccc642326f7f8ba09fa9dc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/golden_carrot.json"
+hash = "af3e24782304abff77b7bf4d06957e27511eeebf38dc7eb4a4c8c73607b7090f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/mace.json"
+hash = "bee183d588775f676513975756e04a25ec4f530c237b2f1055f685255d34bf89"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_drops_resist_fire.json"
+hash = "cc6172437e29a191af9a328410c9474ccb1c1a7aa841fced006d4a596aaa807a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_woods_resist_fire.json"
+hash = "09d79c637f3ac12aab2653613f15a237db5e5d90ec7d48ff3659bb6353896aac"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/netherite.json"
+hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
+hash = "4eb89f6bd0cf7e2510f282e2982d561099c8283c4bde750d7c4bab82ade2264c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/spyglass.json"
+hash = "29e5c4d644e0aa4ddce7fdc8fdb8fe1a75515b62931316cb340ef3f938329524"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/stews.json"
+hash = "d0c16489f863c2d4812f28f1b1163c27d5e37d6e2b2bc3da74ea114e8c60a909"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/trident.json"
+hash = "6a4fc720b422e193b1fb9fe504e52d2f31a9b444de3807e3df18171e9e20b1ab"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/vanity_armors.json"
+hash = "973d141b7fde72cf3c83e79dfce149b6d637347c9d5029f50c5825604ccd3235"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bamboo_block_uncraft.json"
+hash = "0aeb7fcc854345d9f423cd16afebea95d49a076d532429922cee6d6f54c6e09d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brain_coral_block.json"
+hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
+hash = "369e470317d27c327020da9f40ebd4270d1b947b7a00382d26d7f4dcda261ddd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/benches.json"
+hash = "4345b19f1603df0bf8a860115f35a62baa2f29b7af99387ab6a6dfad4a820728"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/buttons.json"
+hash = "83ee5f74eb03f38c1b99fdb361c96f53b84326caf1b0279ef8261149ff229804"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/canvas_signs.json"
+hash = "bd38c1477a82c0125026792ff7a26212bc6d14bced5fbd346bb65be51dcee195"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/chairs.json"
+hash = "1f433eb702c8d5e317e3761b3fcdd01dc335f7c2f6a98a5a0ace8da18c9252c3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/cork_log.json"
+hash = "d4cbc252d0e921c44db1acaa0cdb8da9f6756aee9867fec944a4b5f9080bc0e6"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/cork_wood.json"
+hash = "7ff37bef0e9037135cb948910f13baaf2a1b95e084a779324b5e9aabd47abd88"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/doors.json"
+hash = "f09168ebc5f28c7cbcf6b2eeffbcbfe31054f62280fdab91ba9b1c77730c3ca3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/fence_gates.json"
+hash = "8fa0d406849c6c4e7698054d3cc84ec95a90b5274dcda49018675491630b658d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/fences.json"
+hash = "cbff1b875dac768a127fa069919dc670e9d45e3da71852d3295126573acac717"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/flower_boxes.json"
+hash = "5f2e6ee814578e2760a49003777b411148b826e1832e37d173260f17bfa70e68"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/hanging_canvas_signs.json"
+hash = "78182b6f0becd11abdf318e8e0677fadc3e0370249b801e422604ad60114949d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/hanging_signs.json"
+hash = "4a788f123a6874100083959f39429358b6e208efceff948c156ef184bc434826"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/pressure_plates.json"
+hash = "ba872923b43e3afb15bc8bf7f8ff00af6b900554c2ab78f16e743d6ed06c67e8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/shelves.json"
+hash = "1eebbb15b711c3fdb2159669e1599f85bdab06770d63f6aae2cf196ec53c3f0d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/short_doors.json"
+hash = "786f9775d7a31b23d1b121afb929809a97a179449ebc2abca24eb67d453b8ce9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/shutters.json"
+hash = "efdfee586262eecd5889f968521a9e4c9477fc213bfb3c22b7219c78de9fff84"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/signs.json"
+hash = "3d7da5bd6ef2fee2a12dec179fa23d9605db7e8129b03f2fa092f1177cdead26"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/soulblight_hyphae.json"
+hash = "d3c21fd8322137ca37ab8eb4e82b4f71a9c586452add51b9fb0e3eb7dd43aa1a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/soulblight_stem.json"
+hash = "27293f8b77b1b7022c8688a1d8672dd0b876df52e613c6c4b5d0f601ffafda98"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/tables.json"
+hash = "f8fdb8940fb28d9802d41493ba7cfe19125149a52e29d56d04cca11162b12e71"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/tall_doors.json"
+hash = "99b592e37e9fa3215f500de52a703fae81d76ed978c93861ae0d4a36992e1c53"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/trapdoors.json"
+hash = "1e55d5c6a5ba7ae2917e8e2eb75cbc20f05a8156ad4d275f549462230aa771f9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/dead_brain_coral_block.json"
+hash = "da48bdf712e22e5e28e840f1f707a12beeb0bd790dc8b629efb0e676c717cfff"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/dead_bubble_coral_block.json"
+hash = "a9f67623f1f717ff8e9563023572550a870a9f35178dd9be9c976a3f47eb5f26"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/dead_fire_coral_block.json"
+hash = "b82c4c1a270fed4cd99f90b6ec59f1b78251b720dd843122257a0c905722b53d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/dead_horn_coral_block.json"
+hash = "92d1a27b665fcfec8799bd506449807a6e32d909c701c9f29645ebbfa3ac376b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/dead_tube_coral_block.json"
+hash = "133ff921431077f15647bf49fd30e9c6eea4c82bebf60ca4e7cf9addd0ec2645"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/dirt.json"
+hash = "e86f2d2ce6edfcaa0bc3e5cd96629101179dc30f6921ce9aa7f4898c4bf6cda0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_bench.json"
+hash = "f4e2c2e96725cd8f3e4b405e5bd029093c794bced773d2c76f4a95ca4af7409c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_cabinet.json"
+hash = "b3e9a522cb7fba0692738d45b69e7ec10e01a2e5ca443d85eeec7337709f7a93"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_chair.json"
+hash = "82412a1722a79b998bafe9a4288d2c1da6d56dcbda2d9e4a50081282d803b2bc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_drawer.json"
+hash = "456c0daa9b37eceea6492bf0d42bb9a2b9287750de6e6fffa256120c7f2b029d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_flower_box.json"
+hash = "a62a8419284c67568000fd564da48a05102b53df8ee0ed51e75c1b3048271615"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_shelf.json"
+hash = "1514fa9b9951afa9864bf69af78ed3a250761e3ee70168a72a3316f6006e3c1b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_shutter.json"
+hash = "0bfef851da056863481d27f4d43039a8adf403ccaa85ccff23895a44219015bd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_table.json"
+hash = "dc3ca507e13796133f7672bd31aa82daae1ed140f3f5484425b3e32f3eff8d20"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/short_cork_door.json"
+hash = "173c047c27a89039728ca0807ae8e33ae04249febe50dc2bf42e01e42d760044"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_bench.json"
+hash = "ed249918939d3951aa72f5c2cbfb1d4c26bcfcfae3c962517312de9deb63e16b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_cabinet.json"
+hash = "381cfb24b3e0384f7b8b11fb86587afb2af9527a8bbb4f03aae381a077ce0468"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_chair.json"
+hash = "9a06eb2f7db0caf156e57c1ac080c173a89564ff90859c68369e890fb159263a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_drawer.json"
+hash = "9f0cc68a24dd3f6fc08c3f6f0a5480feec3d98772e3bbd113c509f42d3d3abbf"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_flower_box.json"
+hash = "d0243f44fa462e16c03b2e7f196ee23571f82ca7ddf3e7f9944a47d1dabcfcd8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_shelf.json"
+hash = "18ac4aa861f01dcb18c4506f8ba76efae4ddc478b271131ecf78fc001f1a3f65"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_shutter.json"
+hash = "49a3b8bc5dd8ee2081ae2e653633bb3fc27f30c1ab90652cd9697e66ad052087"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_table.json"
+hash = "451173da08593c52e1abe4a667e32131d190f9a6db40f08a4f9df1bc2181b389"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/tall_cork_door.json"
+hash = "c98840bf28a79794a3b54c60f94b551f98bd3f65e4b60be7954993e9c7f8fc16"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_bench.json"
+hash = "0baec09afa9df510a59910bb6e13f952f91707f8f591577dd0f5917d5a90b604"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_cabinet.json"
+hash = "2cc747bfadd055502e904a0543f5e9e827274882a7ff560ae2af9163ad24b97e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_chair.json"
+hash = "b284b27d195d883c7463dde8dc5e815c438fff3d86d11d71a020ee2864fe2b03"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_drawer.json"
+hash = "ae6a38f76cb474b75d9f2029269e3b6fc91608bf74d79f59cde3057e4034e0b2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_flower_box.json"
+hash = "db9252d7f9cbc292209a59ac0eb5306a98bc095095f1944cf6b325a866b94c8b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_shelf.json"
+hash = "93806ce52d2949c7c7490667b798c42fa5f4b03e83d996b878d7a22cd25cc27a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_shutter.json"
+hash = "716b3cac453a634a8cdf494d82ad803a3df4b0f2f4adb95fc83485e39703d71b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_table.json"
+hash = "61ccbdfb2a91ba95b312cec571f89060b99761591efb67997ed7ae5a4d1df7f5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fire_coral_block.json"
+hash = "62106853219d24a6d3067951ab397ce8672e8429922d086c56955c3879ed0f76"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/flint.json"
+hash = "173d16a7d686ef41921230ac3f690151fa4ef291cd941ac8cf961b6375696248"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/gold_block_from_blasting_raw_gold_block.json"
+hash = "b8862a0bd6f3c1ae73cc298bbc5c404307cc3781043472374d7a2d5bcb61e856"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/gold_block_from_smelting_raw_gold_block.json"
+hash = "505b0ea3c058468cdb25e8c3b6d78012eb36cd49b8143e309a96ef1b9db7a339"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/green_dye_from_crafting_cactus.json"
+hash = "aa91eee2c4722ae28326e43a08d5dc118b0acb6e3036350027351e346b19b06f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/horn_coral_block.json"
+hash = "59e200ef773f790547b0e48c852af9c5d519a2be6d0f2a60887ce2b25b31b681"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/iron_block_from_blasting_raw_iron.json"
+hash = "729d5dad7075801ab4b3046f9ad0210fb8be0f1286971b9e01f0aa55612a956f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/iron_block_from_smelting_raw_iron.json"
+hash = "08f7179957680c535e6aa647ae4f30d3b63b756ce166001b084cb481c4d78175"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/mix_brown_dye.json"
+hash = "5caa0f429e9cb85238ab62517621981504675d2529bf8b973eeb2d8c713c083b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/mix_green_dye.json"
+hash = "eda9308632ee46f77bcfecb11508753dea72c1ed60243c85a3db889a2c04536e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/name_tag.json"
+hash = "f848a4d9b7ea5dfcccd193a093b317c13d5fdad19c1d738ab15dd95e02f4fce1"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/netherite_ingot_from_blasting.json"
+hash = "0edded1b3ac83348bf835fb7b3c17f7bc1b89f81e7212e9f77b4cdd33e1924a3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/netherite_ingot_from_smelting.json"
+hash = "ec423ec1e54123566ace287d60a35e9cf214fb29790da5c9667f65cf945bdaa0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/saddle.json"
+hash = "0a554e5c683bf1ea996924b67af9ba7752ec019f8d7e1a7e04d1c5475778ae6f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/tube_coral_block.json"
+hash = "9989c7afd2f88b7d79e72d14a386d28aa095cc9fc4a9a246d42f9f1e992415bc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/wood_campfire.json"
+hash = "fe192c07d758e74cee4ccdb65281ced6c6149edfd6d66f74bd0611acc72efa15"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/another_furniture_tweaks.json"
+hash = "993df69c37cc79058735e577d08200dac142c674dd05f407e335629198d28349"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/banner_encheapening.json"
+hash = "fc222eae0b48786c4a7ac442cf2bb48daa6e998e3910a122504c5ec8d9de7cdd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/candle_dyeing_buff.json"
+hash = "649cb08b1539617305b9a153e4065643ea29d66e0189c3fcce3d129b83adadca"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/carpet_encheapening.json"
+hash = "c02c06cabaedba508e23a09b05c2a4175640752881ae02d26dc5d36a7cc030ba"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/comforts_tweaks.json"
+hash = "f9cde7521ddd1fecd098e8764bb116295cb6fb5d909aa76ac526922e3058b4e5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_cutting_buff.json"
+hash = "b50d9a1e8a6ebb216cffe702a250d12da705fdfaeedd0d4abf2ca5d67ac18c27"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/door_and_trapdoor_buff.json"
+hash = "c01b88f63ef4b282b2d63e4f8eb5962f46ad68e6d8df03511f2c8cc92390d85a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/eight_blocks.json"
+hash = "3bdb6c2ef3c7d55ca68cf617331e0267b10cbc5735a0c4b8d53fdb108c1d8eeb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/fence_encheapening.json"
+hash = "55f733621b152e6849fd1082b8c54bcd5f72c24f904fb343ab554bf10cb1d847"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/free_and_reduced_drip.json"
+hash = "104418c19da590e727aca8fc3d41bfb3a743242aa82b1e10db965d59a6291ead"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/pane_buff.json"
+hash = "392f8414f9808d04592583dbacf2441bc1e38363f1504476839a516384498be9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/sign_encheapening.json"
+hash = "7a4534ae5b605b3efcdbb7f1aeb4f6deee2fc801959884ef45251197af28e5bb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/stair_slab_pressure_plate_omnibus.json"
+hash = "fc50cf8da718a12a0c1eb52f5f79e5edf5125107141b7f22f461674c86aabf22"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/wall_uncrafting.json"
+hash = "6680a4a63355e511b16bd166b4fe65e09289b44ffd7231eb88dba01b6d290ea4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/whatever_go_my_button.json"
+hash = "726faa0caeb3b87a138130411d06e12c2af455a3800db57512c78a62871dc2aa"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/wood_buff.json"
+hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/grassy_food_bales.json"
+hash = "e8bc3916e04afad914dd6a712f0537917029e94a27fffe5abe26a0241b1395ae"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/vanity_armors.json"
+hash = "cd8f2c82a82e52e1d8de8bb69261c12b287f27e70228fad52b620645ac4d0840"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/veggie_food_crates.json"
+hash = "ec8779b9d3c4ba9eeb4abc81f2f9398bfb7dbf5cd488e047ee0531ae32c8440d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/soulcandles/recipe/soul_candle.json"
+hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_pants.json"
+hash = "d4e167f34b0e511598e26a6a84b04ebab1be65594e043d041e35c5600c5286cc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_shirt.json"
+hash = "72adabb99cff7bb06fb957af5bac85f74bbbbe488424a76d9841cbedb5c59812"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_sneakers.json"
+hash = "b2e7c7dae68b2b241eaa2b35cc5a0c0ffe2b06f4d7b966e10781d7d90a00e22a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_wig.json"
+hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
+hash = "affa911f63c362229494f0d46b672abc75c0b550d9214f54a7baa8129601ef83"
+
+[[files]]
+file = "resources/datapack/required/spoinglypaintings.zip"
+hash = "183a79bb036ad3e54af717dedb0d12b9dadf076b5988d55360036ff2ccdf6061"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_boots_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_chestplate_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_chestplate_5.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_helmet_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_leggings_4.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/desert_armorer_leggings_5.json"
+hash = "a94e18d6db07d56c32fbcfa99a9643a839b529ed5b83b92ab00d184acd73a135"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_boots_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_boots_5.json"
+hash = "2279ebeab5adc299c381697b745f4e580aa5b8ccc4aa8b3f9e338c8874f966cd"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_chestplate_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_helmet_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_helmet_5.json"
+hash = "e25615f1881e4d12bb57469e73ef6cdef94952c2ce99e57a29f0b57fde81c0ea"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/jungle_armorer_leggings_4.json"
+hash = "8f071236958174a1b29e3975a2a63caa7dfcc15a2bdf5848618c952ac5bdbc2a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_boots_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_boots_5.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_chestplate_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_helmet_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_leggings_4.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/plains_armorer_leggings_5.json"
+hash = "18468d8a7a0d6453f3c791604aa77aa6562a2a756e000a3cf46661e56f90c01b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_boots_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_chestplate_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_chestplate_5.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_helmet_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_helmet_5.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/savanna_armorer_leggings_4.json"
+hash = "78334ae93b1e5aa9e0aaa1a75b0fa02bb86d84c9f960b76e0f5d43f7a652e526"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/snow_armorer_boots_4.json"
+hash = "86ae77f6f6c14ec98d1ae0e60e279a0f5c79d64e24faf2ea574cf09945addc7a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/snow_armorer_boots_5.json"
+hash = "86ae77f6f6c14ec98d1ae0e60e279a0f5c79d64e24faf2ea574cf09945addc7a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/snow_armorer_helmet_4.json"
+hash = "151cc33d102c377fc0da1f39deb1dbb8f105723b4879b0df5a3b101b9a3acc52"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/snow_armorer_helmet_5.json"
+hash = "151cc33d102c377fc0da1f39deb1dbb8f105723b4879b0df5a3b101b9a3acc52"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_boots_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_boots_5.json"
+hash = "9dc2d75c6d8b0f885033e07f1643fa2c65b0d2d8abcd9b7209938d588da9129f"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_chestplate_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_helmet_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_helmet_5.json"
+hash = "cbf9014c82f374bf851a41f24066450738b931f014d59f840c04c52a177a4307"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/swamp_armorer_leggings_4.json"
+hash = "9ab80adbeff2df30426a8bab0e3f8bf46d52532f04305b59823cf100684b3d59"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/taiga_armorer_chestplate_5.json"
+hash = "c318ba91302dd03ded4aeb70e2c5797a4bba8e35a976545a6cf5fa71c8e92ee4"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/enchantment_provider/trades/taiga_armorer_leggings_5.json"
+hash = "c318ba91302dd03ded4aeb70e2c5797a4bba8e35a976545a6cf5fa71c8e92ee4"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/loot_table/chests/abandoned_mineshaft.json"
+hash = "6de7c578669735749132df2259903f2ccf5299d444a22332a48fec20002416a0"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/loot_table/chests/ancient_city.json"
+hash = "df2b17935f798d30f7dfcd7c21256a52df400e4dd7fa7cad9ca629e9c4a72f7b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/loot_table/chests/desert_pyramid.json"
+hash = "33bf7b972945704b8a207100dcf063a4a9f68124048ae7b917c0cbfe47afad24"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/loot_table/chests/jungle_temple.json"
+hash = "76a5db10d45320184615d33e3dfa472e95674807ee1c047d59df12fcbfa149bc"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/loot_table/chests/pillager_outpost.json"
+hash = "107a67ee4c6621e4c7109cce77b2f7d88d92563abc741f5161df783da3ba7377"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/desert_common.json"
+hash = "e8e41376410162d41affafe5b5228e30a19f5e909df1100cd5c5ec69fd2f5195"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/desert_special.json"
+hash = "8008585c222ddc12dfbf21a137cf6e76c811254e7cbc87eb5d99b5d38e21d52c"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/jungle_common.json"
+hash = "fdfa0f64b66a48c04485cf3246433ba0bcbff73e058b51c4584a81233c2c7c42"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/jungle_special.json"
+hash = "537cb0988150538e41202aefe276a613e329ceeec6dcf8c361ad5019d516a402"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/plains_common.json"
+hash = "6826458366dd0f769148d36ed6b1c3670fd71f64369cccee2ae735a8db175a87"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/plains_special.json"
+hash = "c45eddb86e66907c3fe2d53a2912d8d8ca49a196b5a51b8d1cc62e0dc620fad6"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/savanna_common.json"
+hash = "52c50c703619bf6e36ff8ae9f97b42a9e2e4c9f65d4cc03ef1336d49a50ea6b6"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/savanna_special.json"
+hash = "1bf7831de3833efad9c80c9d839fca35305c9dbb3dd2bc4fd3f6d6bfdc4a560a"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/snow_common.json"
+hash = "ae302fbfee8918958a32c5c2502e9d2a2de345e1b0142e3a8197c0ff5d8702c2"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/snow_special.json"
+hash = "deaf788cfa7724914b2a4083973a2c94044990f3e315a95bc0d609fe3a9c2dfe"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/swamp_common.json"
+hash = "be5330eb410a5223b2fed6e9eaea1f7a23b122e49b56a68fc15e5c4188e681fc"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/swamp_special.json"
+hash = "687c5f9419bf24a22bc214382b84ab1f92b55acf807603dac63fc95cced4fa2b"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/taiga_common.json"
+hash = "c0448c6cc326992d4a7f28cec1388f0cd447da7328563fb846865c583597492c"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/enchantment/trades/taiga_special.json"
+hash = "45033fd329db4a30dd3ccbf3ca18b8e49f24ae93075f9ce0506db2eabde37e22"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/worldgen/structure/on_desert_village_maps.json"
+hash = "726940a8799937fcaac5e47e8800fe06294157f80800839129d95fae5ac67a9e"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/worldgen/structure/on_jungle_explorer_maps.json"
+hash = "2c000ac6df0cffc4889fee7e4aca709c11d41ffc61e19520dd8b0af906863807"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/worldgen/structure/on_plains_village_maps.json"
+hash = "d36d753262c2fea538faa92ca0f0d0f2333d96f8eb3484e31f133188261ff94f"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/worldgen/structure/on_savanna_village_maps.json"
+hash = "6a453ec2450aac75cdfa9b463200de6e91fb7213cfb965f56d4e20f5b6f6cc3e"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/worldgen/structure/on_snowy_village_maps.json"
+hash = "711cb924bb1c31d3b964504e96137120702d8c5eb7fac548c32d216f65ee2bf7"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/worldgen/structure/on_swamp_explorer_maps.json"
+hash = "eb4048614beb4aa19adfe4a4c0dc0e2727a34707dc0140ad715765914c235b64"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/data/minecraft/tags/worldgen/structure/on_taiga_village_maps.json"
+hash = "525bc64f5406a747fe0d80b3cd87e83e09b4f325b8873f39ee7b488014585fd3"
+
+[[files]]
+file = "resources/datapack/required/trade_rebalance/pack.mcmeta"
+hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
+
+[[files]]
+file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
+hash = "5e75b1f9a12e71f867af73ff3575460f1b5d780ce9dc01f1791c49c347976aa4"
+
+[[files]]
+file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
+hash = "6a29a1fc2c1e0982dbceb30a677f1fe5fbb88bac4eeeb9b7be5abeb326332db8"
+
+[[files]]
+file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail_on.png"
+hash = "5c757750491325b671e02980f44996a283e078c2b6f11255dcb4f847cc2fa9c6"
+
+[[files]]
+file = "resources/resourcepack/required/Vanilla Extract Resources/pack.mcmeta"
+hash = "9bd5c4877efc86a8fd9588ef1be1ab6b5ab1b996c3e81b6c15ece17c8e642e3e"
+
+[[files]]
+file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/lang/en_us.json"
+hash = "00f1cb8e297703400d2889a4cec1ee41c6a25fad2e6bb03c93acdc2d9a35cda8"
+
+[[files]]
+file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/sounds.json"
+hash = "8e53d58b914b6bece6d38b9555affe595be28de71f75fb6e7b990e0a9a9ac318"
+
+[[files]]
+file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/textures/gui/inorganic.png"
+hash = "4db34048eaa29e8786fb6b761d71e6f21e111a84d519f0e566a77716ac439d26"
+
+[[files]]
+file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/textures/gui/maddy_resource_bar.png"
+hash = "98d6dd11fb24bfb4d487d48759e12af7a32aa2b0f0d93187e400971038858c22"
+
+[[files]]
+file = "resources/resourcepack/required/maddy_origins/pack.mcmeta"
+hash = "f6095c10826104c7a746802ece494ccd1415e2d9348e192ab4532afcdac97bfe"
+
+[[files]]
+file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/lang/en_us.json"
+hash = "b50b4e08096d22c5ed0bc367f7c93688d6d031f8a50a56af387e9922223609de"
+
+[[files]]
+file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/textures/painting/fall.png"
+hash = "f83acd8c8b620ae80eb5a9791c85495193d6b9d64b9f0729256095dc052ff483"
+
+[[files]]
+file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/textures/painting/snencelet.png"
+hash = "939c3d676a3d55f6a14000b767068eea7581775ae04e9adf099daf0f48679d55"
+
+[[files]]
+file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/textures/painting/snyrm.png"
+hash = "2c2b13bfc9ebcf4e99102e9c192b91af0ea1993c53cb3f513b35772ebc5f22a8"
+
+[[files]]
+file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/textures/painting/three.png"
+hash = "556ae508a593635fc1821c310a6baafce8cd07566c7c3ac66137be7978a91279"
+
+[[files]]
+file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/textures/painting/walky.png"
+hash = "f35d81e8373ff52c21be098eb728043f2cb70f7b85f21b20de3054a9e82eb357"
+
+[[files]]
+file = "resources/resourcepack/required/spoingly slimes paintings/pack.mcmeta"
+hash = "c108e655bd3408a5504d196a2a56e42775f1c7fb89802fabc0c74dcc976f7e48"
+
+[[files]]
+file = "unsup.ini"
+hash = "cade40ad8975f48420b02134a6813ade31d49930a545fb7f3c0def344d86f9a4"
+
+[[files]]
+file = "unsup.toml"
+hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"

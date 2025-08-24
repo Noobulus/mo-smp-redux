@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "lang": "en_us",
+  "lang-options": "en_us",
+  "keep-active": true,
+  "sit-while-seated": false,
+  "preset-blocks": {
+    "stairs": true,
+    "slabs": true,
+    "carpets": true,
+    "full-blocks": false
+  },
+  "custom-enabled": true,
+  "custom-blocks": [
+    {
+      "sitting-height": 0.437,
+      "block-ids": [],
+      "block-tags": [
+        "#minecraft:campfires"
+      ],
+      "blockstates": [
+        "lit=false"
+      ]
+    },
+    {
+      "sitting-height": 1.0,
+      "block-ids": [],
+      "block-tags": [
+        "#minecraft:logs"
+      ],
+      "blockstates": []
+    },
+    {
+      "sitting-height": 0.5625,
+      "block-ids": [
+        "arts_and_crafts:bleached_bed"
+      ],
+      "block-tags": [
+        "#minecraft:beds"
+      ],
+      "blockstates": [
+        "part=foot",
+        "occupied=false"
+      ]
+    }
+  ],
+  "blacklisted-blocks": [
+    {
+      "block-ids": [],
+      "block-tags": [
+        "#minecraft:shulker_boxes"
+      ],
+      "blockstates": []
+    }
+  ]
+}

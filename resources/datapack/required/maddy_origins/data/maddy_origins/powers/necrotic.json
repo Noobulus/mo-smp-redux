@@ -1,0 +1,86 @@
+{
+    "type": "origins:multiple",
+    "breathe_underwater_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:can_breathe_under_water"
+    },
+    "smite_sensitive_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:sensitive_to_smite"
+    },
+    "ignores_poison_and_regen_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:ignores_poison_and_regen"
+    },
+    "inverted_healing_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:inverted_healing_and_harm"
+    },
+    "no_drowning": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:name",
+            "name": "drown"
+        }
+    },
+    "hunger_immunity": {
+        "type": "origins:effect_immunity",
+        "effect": "minecraft:hunger"
+    },
+    "reduced_hunger_drain": {
+        "type": "origins:modify_exhaustion",
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.5
+        }
+    },
+    "ignite_enemies_while_on_fire": {
+        "type": "origins:action_on_hit",
+        "bientity_action": {
+            "type": "origins:target_action",
+            "action": {
+                "type": "origins:set_on_fire",
+                "duration": 6
+            }
+        },
+        "bientity_condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:random_chance",
+                    "chance": 0.67
+                },
+                {
+                    "type": "origins:actor_condition",
+                    "condition": {
+                        "type": "origins:on_fire"
+                    }
+                }
+            ]
+        },
+        "damage_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:is_player_attack"
+        },
+        "cooldown": 10
+    },
+    "lessened_mining_speed_penalty_underwater": {
+        "type": "origins:modify_attribute",
+        "attribute": "minecraft:player.submerged_mining_speed",
+        "modifier": {
+            "operation": "min_total",
+            "amount": 0.75
+        }
+    },
+    "lifesteal_immune_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "maddy_origins:scavenger_lifesteal_immune"
+    },
+    "no_insomnia": {
+        "type": "origins:modify_insomnia_ticks",
+        "modifier": {
+            "operation": "set_total",
+            "amount": 0
+        }
+    }
+}

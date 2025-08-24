@@ -1,0 +1,25 @@
+{
+    "id_substrings": {
+        "@": "template"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "#@#",
+                "#+#",
+                "###"
+            ],
+            "output_token": "@",
+            "output_count": 2
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_trims",
+            "pattern": "#+@",
+            "output_token": "@",
+            "output_count": 2,
+            "category": "misc"
+        }
+    ]
+}

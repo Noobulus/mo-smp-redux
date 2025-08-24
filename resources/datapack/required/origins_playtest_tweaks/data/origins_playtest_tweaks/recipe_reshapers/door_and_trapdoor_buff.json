@@ -1,0 +1,48 @@
+{
+    "id_substrings": {
+        "|": "door",
+        "=": "trapdoor"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "##",
+                "##",
+                "##"
+            ],
+            "output_token": "|",
+            "output_count": 3
+        },
+        {
+            "pattern": [
+                "###",
+                "###"
+            ],
+            "output_token": "=",
+            "output_count": 2
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_buffed_doors",
+            "pattern": [
+                "##",
+                "##",
+                "##"
+            ],
+            "output_token": "|",
+            "output_count": 6,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_buffed_trapdoors",
+            "pattern": [
+                "###",
+                "###"
+            ],
+            "output_token": "=",
+            "output_count": 6,
+            "category": "building"
+        }
+    ]
+}

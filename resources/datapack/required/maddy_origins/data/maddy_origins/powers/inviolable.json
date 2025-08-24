@@ -1,0 +1,20 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:in_tag",
+        "tag": "maddy_origins:inviolable_applies_against"
+    },
+    "condition": {
+        "type": "origins:health",
+        "comparison": ">=",
+        "compare_to": 16
+    },
+    "modifier": {
+        "operation": "add_base_late",
+        "amount": -2
+    },
+    "self_action": {
+        "type": "origins:play_sound",
+        "sound": "maddy_origins:origin.construct.inviolable_activated"
+    }
+}

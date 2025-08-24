@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"maddy_origins:glide",
+		"maddy_origins:updraft",
+		"maddy_origins:granivorous",
+		"maddy_origins:brittle",
+		"maddy_origins:bouyant"
+	],
+	"icon": {
+		"id": "minecraft:feather"
+	},
+	"order": 0,
+	"impact": 2
+}
+ 

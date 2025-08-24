@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "S": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "CCC",
+    "SCS"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:sea_lantern"
+  }
+}

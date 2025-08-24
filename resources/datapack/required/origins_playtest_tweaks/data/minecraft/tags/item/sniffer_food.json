@@ -1,0 +1,9 @@
+{
+    "values": [
+        "minecraft:pitcher_pod",
+        {
+            "id": "arts_and_crafts:lotus_pistils",
+            "required": false
+        }
+    ]
+}

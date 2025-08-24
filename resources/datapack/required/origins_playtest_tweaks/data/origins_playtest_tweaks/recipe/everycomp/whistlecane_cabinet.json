@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "gardens_of_the_dead:whistlecane_trapdoor"
+    },
+    "_": {
+      "item": "gardens_of_the_dead:whistlecane_slab"
+    }
+  },
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "result": {
+    "count": 1,
+    "id": "everycomp:fd/gardens_of_the_dead/whistlecane_cabinet"
+  },
+  "show_notification": true
+}

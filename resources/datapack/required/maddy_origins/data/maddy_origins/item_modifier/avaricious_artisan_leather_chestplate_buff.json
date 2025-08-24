@@ -1,0 +1,13 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:max_damage": 288,
+      "minecraft:item_name": "{\"translate\": \"name.maddy_origins:artisan_leather_chestplate\"}"
+    }
+  },
+  {
+    "function": "minecraft:reference",
+    "name": "maddy_origins:avaricious_artisan_base"
+  }
+]

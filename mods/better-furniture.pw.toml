@@ -1,0 +1,13 @@
+name = "Better Furniture"
+filename = "betterfurniture-1.21-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6NwFd93R/versions/EQOU8XMM/betterfurniture-1.21-1.0.5.jar"
+hash-format = "sha512"
+hash = "a38cf43e8d81d1a7bdf7998468b110a24e0a17c33cea156d7918ce1388389b2ea7dc8ebc5e8d08f1f8c13e9ef9eb7db392373ea039eaa63e3d14c82433a21faa"
+
+[update]
+[update.modrinth]
+mod-id = "6NwFd93R"
+version = "EQOU8XMM"

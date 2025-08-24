@@ -1,0 +1,13 @@
+name = "BlameLog"
+filename = "blame-log-0.5.0-1.18.2-build.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6N4iGk9g/versions/F6hUmTJW/blame-log-0.5.0-1.18.2-build.14.jar"
+hash-format = "sha512"
+hash = "594cfb55477b3591f9fca22ffbebbc6c2ccdcd3deb5ee14695572109ca50cd13e1ed58d91c30db09fe56fee7271e450392cd10ab4cecde8948c3248ee39d4177"
+
+[update]
+[update.modrinth]
+mod-id = "6N4iGk9g"
+version = "F6hUmTJW"

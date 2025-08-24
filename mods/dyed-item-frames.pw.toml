@@ -1,0 +1,13 @@
+name = "Dyed Item Frames"
+filename = "dyeditemframes-1.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BTBHGwP8/versions/nb6NufgO/dyeditemframes-1.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "cfc1022d536968c2353098032a6876f4392cbadc2089684acf59133ff5a4e240dff11de118236f30a73e0f3567dc1ad6b1024d050f7b73eccaa0be5d77c41705"
+
+[update]
+[update.modrinth]
+mod-id = "BTBHGwP8"
+version = "nb6NufgO"

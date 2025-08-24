@@ -1,0 +1,26 @@
+{
+    "type": "origins:multiple",
+    "modify_negative_effects": {
+        "type": "origins:modify_status_effect_duration",
+        "status_effects": [
+            "minecraft:nausea",
+            "minecraft:hunger",
+            "minecraft:weakness",
+            "minecraft:poison"
+        ],
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 0.25
+        }
+    },
+    "modify_positive_effects": {
+        "type": "origins:modify_status_effect_duration",
+        "status_effects": [
+            "minecraft:water_breathing"
+        ],
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 1
+        }
+    }
+}

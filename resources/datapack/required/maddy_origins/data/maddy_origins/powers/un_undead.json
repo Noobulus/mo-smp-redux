@@ -1,0 +1,93 @@
+{
+    "type": "origins:multiple",
+    "cure_boolean": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 1,
+        "hud_render": {
+            "should_render": false
+        }
+    },
+    "cure_timer": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 180,
+        "hud_render": {
+            "sprite_location": "maddy_origins:textures/gui/maddy_resource_bar.png",
+            "bar_index": 1,
+            "condition": {
+                "type": "origins:resource",
+                "resource": "maddy_origins:un_undead_cure_boolean",
+                "comparison": "==",
+                "compare_to": 1
+            }
+        },
+        "max_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:execute_command",
+                    "command": "origin set @s origins:origin maddy_origins:cured"
+                },
+                {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:un_undead_cure_boolean",
+                    "change": 0,
+                    "operation": "set"
+                },
+                {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:un_undead_cure_timer",
+                    "change": 0,
+                    "operation": "set"
+                },
+                {
+                    "type": "origins:play_sound",
+                    "sound": "maddy_origins:origin.undead.converted"
+                }
+            ]
+        }
+    },
+    "cure_timer_increase": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "maddy_origins:un_undead_cure_timer",
+            "change": 1
+        },
+        "interval": 20,
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:un_undead_cure_boolean",
+            "comparison": "==",
+            "compare_to": 1
+        }
+    },
+    "add_cure_ability_to_gapples": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "maddy_origins:undead_cures"
+            }
+        },
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:un_undead_cure_boolean",
+                    "change": 1
+                },
+                {
+                    "type": "origins:play_sound",
+                    "sound": "maddy_origins:origin.undead.cure"
+                }
+            ]
+        },
+        "condition": {
+            "type": "origins:status_effect",
+            "effect": "minecraft:weakness"
+        }
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "type": "origins:multiple",
+    "aquatic_snacks": {
+        "type": "origins:edible_item",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "maddy_origins:aquatic_taste_snacks"
+            }
+        },
+        "food_component": {
+            "nutrition": 1,
+            "saturation": 0.6
+        }
+    },
+    "speed_up_aquatic_snacks": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "maddy_origins:aquatic_taste_snacks"
+            }
+        },
+        "eat_ticks_modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.5
+        }
+    },
+    "buff_tropical_fish": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:tropical_fish"
+            }
+        },
+        "food_modifier": {
+            "operation": "set_base",
+            "amount": 6
+        },
+        "saturation_modifier": {
+            "operation": "set_base",
+            "amount": 7.2
+        }
+    },
+    "modify_preferred": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "maddy_origins:aquatic_taste_preferred"
+            }
+        },
+        "food_modifiers": [
+            {
+                "operation": "multiply_total_multiplicative",
+                "amount": 0.25
+            },
+            {
+                "operation": "add_total_late",
+                "amount": 1
+            }
+        ],
+        "saturation_modifiers": [
+            {
+                "operation": "multiply_total_multiplicative",
+                "amount": 0.25
+            },
+            {
+                "operation": "add_total_late",
+                "amount": 2
+            }
+        ]
+    }
+}

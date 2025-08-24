@@ -1,0 +1,13 @@
+name = "Soul Candles"
+filename = "SoulCandles-1.2.0+mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XHXMTS5X/versions/arIYhUWu/SoulCandles-1.2.0%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "1bf167ed743d3353fa20951abb3a765cfb00aa3e66ac632d6dd8887317127dd4f30da444d00da6662f6fde77a5a4b5134fb3f17a13118294ad5f9d88880eb485"
+
+[update]
+[update.modrinth]
+mod-id = "XHXMTS5X"
+version = "arIYhUWu"

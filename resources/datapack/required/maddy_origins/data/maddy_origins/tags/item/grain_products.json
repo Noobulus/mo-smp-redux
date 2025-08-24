@@ -1,0 +1,42 @@
+{
+    "values": [
+        "minecraft:bread",
+        "minecraft:cookie",
+        {
+            "id": "farmersdelight:wheat_dough",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:raw_pasta",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:pie_crust",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:sweet_berry_cookie",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:honey_cookie",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:cooked_rice",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:fried_rice",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:chocolate_pie",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:chocolate_pie_slice",
+            "required": false
+        }
+    ]
+}

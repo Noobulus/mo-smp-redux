@@ -1,0 +1,15 @@
+{
+	"powers": [
+        "maddy_origins:semi_aquatic",
+        "maddy_origins:basking",
+        "maddy_origins:aquatic_taste",
+        "maddy_origins:wet_slap",
+        "maddy_origins:permeable"
+	],
+	"icon": {
+		"id": "minecraft:axolotl_bucket"
+	},
+	"order": 0,
+	"impact": 1
+}
+ 

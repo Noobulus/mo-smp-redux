@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:rail"
+    },
+    {
+      "item": "minecraft:stone_pressure_plate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:detector_rail"
+  }
+}
+

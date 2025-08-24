@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "always_false": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "loot": [
+      "maddy_origins:advancement/grave_goods"
+    ]
+  }
+}

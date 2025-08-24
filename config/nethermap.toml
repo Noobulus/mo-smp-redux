@@ -1,0 +1,5 @@
+useMapCreationHeight = false
+fixedHeight = 64
+creationHeightEntries = []
+
+[[fixedEntries]]

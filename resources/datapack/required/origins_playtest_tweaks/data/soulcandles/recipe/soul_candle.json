@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "minecraft:honeycomb"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "D": {
+      "tag": "minecraft:soul_fire_base_blocks"
+    }
+  },
+  "pattern": [
+    "S",
+    "H",
+    "D"
+  ],
+  "result": {
+    "count": 4,
+    "id": "soulcandles:soul_candle"
+  }
+}

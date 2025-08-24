@@ -1,0 +1,22 @@
+{
+	"type": "origins:multiple",
+    "fall_damage_penalty": {
+        "type": "origins:attribute",
+        "modifier": {
+            "id": "*:*",
+            "attribute": "minecraft:generic.fall_damage_multiplier",
+            "operation": "add_value",
+            "amount": 0.25
+        }
+    },
+    "safe_fall_reduction": {
+        "type": "origins:attribute",
+        "modifier": {
+            "id": "*:*",
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "operation": "add_value",
+            "amount": -0.5
+        }
+    }
+}
+

@@ -1,0 +1,305 @@
+{
+    "type": "origins:multiple",
+    "protection_score": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 8,
+        "hud_render": {
+            "should_render": false
+        }
+    },
+    "update_protection_score": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:cold_sensitive_protection_score",
+                    "change": 1,
+                    "operation": "set"
+                },
+                {
+                    "type": "origins:if_else",
+                    "condition": {
+                        "type": "origins:any_of",
+                        "conditions": [
+                            {
+                                "type": "origins:status_effect",
+                                "effect": "minecraft:fire_resistance"
+                            },
+                            {
+                                "type": "origins:fluid_height",
+                                "fluid": "minecraft:lava",
+                                "comparison": "!=",
+                                "compare_to": 0
+                            },
+                            {
+                                "type": "origins:in_block_anywhere",
+                                "block_condition": {
+                                    "type": "origins:in_tag",
+                                    "tag": "minecraft:fire"
+                                }
+                            }
+                        ]
+                    },
+                    "if_action": {
+                        "type": "origins:change_resource",
+                        "resource": "maddy_origins:cold_sensitive_protection_score",
+                        "change": 8,
+                        "operation": "set"
+                    },
+                    "else_action": {
+                        "type": "origins:and",
+                        "actions": [
+                            {
+                                "type": "origins:if_else_list",
+                                "actions": [
+                                    {
+                                        "condition": {
+                                            "type": "origins:enchantment",
+                                            "enchantment": "minecraft:fire_protection",
+                                            "calculation": "sum",
+                                            "comparison": ">=",
+                                            "compare_to": 16
+                                        },
+                                        "action": {
+                                            "type": "origins:change_resource",
+                                            "resource": "maddy_origins:cold_sensitive_protection_score",
+                                            "change": 4,
+                                            "operation": "add"
+                                        }
+                                    },
+                                    {
+                                        "condition": {
+                                            "type": "origins:enchantment",
+                                            "enchantment": "minecraft:fire_protection",
+                                            "calculation": "sum",
+                                            "comparison": ">=",
+                                            "compare_to": 12
+                                        },
+                                        "action": {
+                                            "type": "origins:change_resource",
+                                            "resource": "maddy_origins:cold_sensitive_protection_score",
+                                            "change": 3,
+                                            "operation": "add"
+                                        }
+                                    },
+                                    {
+                                        "condition": {
+                                            "type": "origins:enchantment",
+                                            "enchantment": "minecraft:fire_protection",
+                                            "calculation": "sum",
+                                            "comparison": ">=",
+                                            "compare_to": 8
+                                        },
+                                        "action": {
+                                            "type": "origins:change_resource",
+                                            "resource": "maddy_origins:cold_sensitive_protection_score",
+                                            "change": 2,
+                                            "operation": "add"
+                                        }
+                                    },
+                                    {
+                                        "condition": {
+                                            "type": "origins:enchantment",
+                                            "enchantment": "minecraft:fire_protection",
+                                            "calculation": "sum",
+                                            "comparison": ">=",
+                                            "compare_to": 4
+                                        },
+                                        "action": {
+                                            "type": "origins:change_resource",
+                                            "resource": "maddy_origins:cold_sensitive_protection_score",
+                                            "change": 1,
+                                            "operation": "add"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "origins:if_else_list",
+                                "actions": [
+                                    {
+                                        "condition": {
+                                            "type": "origins:inventory",
+                                            "item_condition": {
+                                                "type": "origins:ingredient",
+                                                "ingredient": {
+                                                    "tag": "minecraft:freeze_immune_wearables"
+                                                }
+                                            },
+                                            "slots": [
+                                                "armor.head",
+                                                "armor.chest",
+                                                "armor.legs",
+                                                "armor.feet"
+                                            ],
+                                            "comparison": ">=",
+                                            "compare_to": 4
+                                        },
+                                        "action": {
+                                            "type": "origins:change_resource",
+                                            "resource": "maddy_origins:cold_sensitive_protection_score",
+                                            "change": 8,
+                                            "operation": "add"
+                                        }
+                                    },
+                                    {
+                                        "condition": {
+                                            "type": "origins:inventory",
+                                            "item_condition": {
+                                                "type": "origins:ingredient",
+                                                "ingredient": {
+                                                    "tag": "minecraft:freeze_immune_wearables"
+                                                }
+                                            },
+                                            "slots": [
+                                                "armor.head",
+                                                "armor.chest",
+                                                "armor.legs",
+                                                "armor.feet"
+                                            ],
+                                            "comparison": ">=",
+                                            "compare_to": 3
+                                        },
+                                        "action": {
+                                            "type": "origins:change_resource",
+                                            "resource": "maddy_origins:cold_sensitive_protection_score",
+                                            "change": 6,
+                                            "operation": "add"
+                                        }
+                                    },
+                                    {
+                                        "condition": {
+                                            "type": "origins:inventory",
+                                            "item_condition": {
+                                                "type": "origins:ingredient",
+                                                "ingredient": {
+                                                    "tag": "minecraft:freeze_immune_wearables"
+                                                }
+                                            },
+                                            "slots": [
+                                                "armor.head",
+                                                "armor.chest",
+                                                "armor.legs",
+                                                "armor.feet"
+                                            ],
+                                            "comparison": ">=",
+                                            "compare_to": 2
+                                        },
+                                        "action": {
+                                            "type": "origins:change_resource",
+                                            "resource": "maddy_origins:cold_sensitive_protection_score",
+                                            "change": 4,
+                                            "operation": "add"
+                                        }
+                                    },
+                                    {
+                                        "condition": {
+                                            "type": "origins:inventory",
+                                            "item_condition": {
+                                                "type": "origins:ingredient",
+                                                "ingredient": {
+                                                    "tag": "minecraft:freeze_immune_wearables"
+                                                }
+                                            },
+                                            "slots": [
+                                                "armor.head",
+                                                "armor.chest",
+                                                "armor.legs",
+                                                "armor.feet"
+                                            ],
+                                            "comparison": ">=",
+                                            "compare_to": 1
+                                        },
+                                        "action": {
+                                            "type": "origins:change_resource",
+                                            "resource": "maddy_origins:cold_sensitive_protection_score",
+                                            "change": 2,
+                                            "operation": "add"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "origins:if_else",
+                                "condition": {
+                                    "type": "origins:in_block_anywhere",
+                                    "block_condition": {
+                                        "type": "origins:block",
+                                        "block": "minecraft:powder_snow"
+                                    }
+                                },
+                                "if_action": {
+                                    "type": "origins:change_resource",
+                                    "resource": "maddy_origins:cold_sensitive_protection_score",
+                                    "change": -7,
+                                    "operation": "add"
+                                },
+                                "else_action": {
+                                    "type": "origins:and",
+                                    "actions": [
+                                        {
+                                            "type": "origins:if_else",
+                                            "condition": {
+                                                "type": "origins:any_of",
+                                                "conditions": [
+                                                    {
+                                                        "type": "origins:fluid_height",
+                                                        "fluid": "minecraft:water",
+                                                        "comparison": "!=",
+                                                        "compare_to": 0
+                                                    },
+                                                    {
+                                                        "type": "origins:in_rain"
+                                                    },
+                                                    {
+                                                        "type": "origins:in_snow"
+                                                    }
+                                                ]
+                                            },
+                                            "if_action": {
+                                                "type": "origins:change_resource",
+                                                "resource": "maddy_origins:cold_sensitive_protection_score",
+                                                "change": -2,
+                                                "operation": "add"
+                                            }
+                                        },
+                                        {
+                                            "type": "origins:if_else",
+                                            "condition": {
+                                                "type": "origins:biome",
+                                                "condition": {
+                                                    "type": "origins:temperature",
+                                                    "comparison": "<=",
+                                                    "compare_to": 0
+                                                }
+                                            },
+                                            "if_action": {
+                                                "type": "origins:change_resource",
+                                                "resource": "maddy_origins:cold_sensitive_protection_score",
+                                                "change": -5,
+                                                "operation": "add"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "interval": 20
+    },
+    "freeze_if_score_zero": {
+        "type": "origins:freeze",
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:cold_sensitive_protection_score",
+            "comparison": "==",
+            "compare_to": 0
+        }
+    }
+}

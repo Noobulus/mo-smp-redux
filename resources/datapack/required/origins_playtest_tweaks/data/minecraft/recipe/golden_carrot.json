@@ -1,0 +1,16 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "result": {
+    "id": "minecraft:golden_carrot"
+  }
+}

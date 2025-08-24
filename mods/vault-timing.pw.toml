@@ -1,0 +1,13 @@
+name = "Vault Timing"
+filename = "vault-timing-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYXOEKpA/versions/lTzI5cqH/vault-timing-2.0.0.jar"
+hash-format = "sha512"
+hash = "036ba8fd4331a36550e2a6a9f7a45cb56d9b317bfa3412c61cdb0f97a572ceb1d5bd9a2b49e1671acafbddaba15ca99dcdbe0529196cc3a7fc1763a9026fb7d6"
+
+[update]
+[update.modrinth]
+mod-id = "rYXOEKpA"
+version = "lTzI5cqH"

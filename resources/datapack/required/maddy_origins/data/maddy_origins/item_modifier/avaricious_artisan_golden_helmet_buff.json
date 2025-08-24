@@ -1,0 +1,32 @@
+[
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "maddy_origins:helmet_armor",
+        "attribute": "minecraft:generic.armor",
+        "amount": 2,
+        "operation": "add_value",
+        "slot": "head"
+      },
+      {
+        "id": "maddy_origins:helmet_knockback_resistance",
+        "attribute": "minecraft:generic.knockback_resistance",
+        "amount": 0.05,
+        "operation": "add_value",
+        "slot": "head"
+      }
+    ]
+  },
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:max_damage": 198,
+      "minecraft:item_name": "{\"translate\": \"name.maddy_origins:artisan_golden_helmet\"}"
+    }
+  },
+  {
+    "function": "minecraft:reference",
+    "name": "maddy_origins:avaricious_artisan_base"
+  }
+]

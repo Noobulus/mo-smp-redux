@@ -1,0 +1,25 @@
+{
+    "id_substrings": {
+        "_": "carpet"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "##"
+            ],
+            "output_token": "_",
+            "output_count": 3
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_carpets",
+            "pattern": [
+                "##"
+            ],
+            "output_token": "_",
+            "output_count": 8,
+            "category": "building"
+        }
+    ]
+}

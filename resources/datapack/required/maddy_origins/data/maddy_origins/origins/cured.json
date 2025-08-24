@@ -1,0 +1,12 @@
+{
+	"powers": [
+        "maddy_origins:feeble",
+        "maddy_origins:dead_again"
+	],
+	"icon": {
+		"id": "minecraft:golden_apple"
+	},
+	"unchoosable": true,
+	"order": 0,
+	"impact": 1
+}

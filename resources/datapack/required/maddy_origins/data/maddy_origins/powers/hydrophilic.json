@@ -1,0 +1,70 @@
+{
+    "type": "origins:multiple",
+    "regen_in_humid": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:heal",
+            "amount": 1
+        },
+        "interval": 100,
+        "condition": {
+            "type": "origins:biome",
+            "condition": {
+                "type": "origins:high_humidity"
+            }
+        }
+    },
+    "regen_in_water": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:heal",
+            "amount": 1
+        },
+        "interval": 100,
+        "condition": {
+            "type": "origins:any_of",
+            "conditions": [
+                {
+                    "type": "origins:fluid_height",
+                    "fluid": "minecraft:water",
+                    "comparison": "!=",
+                    "compare_to": 0
+                },
+                {
+                    "type": "origins:in_rain"
+                }
+            ]
+        }
+    },
+    "add_saturation_to_drinks": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "maddy_origins:hydrophilic_drinks"
+            }
+        },
+        "food_modifier": {
+            "operation": "add_base_late",
+            "amount": 2
+        },
+        "saturation_modifier": {
+            "operation": "add_base_late",
+            "amount": 2
+        }
+    },
+    "add_saturation_to_wacky_drinks": {
+        "type": "origins:action_on_item_use",
+        "entity_action": {
+            "type": "origins:feed",
+            "nutrition": 1,
+            "saturation": 1
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "maddy_origins:hydrophilic_other_drinkables"
+            }
+        }
+    }
+}

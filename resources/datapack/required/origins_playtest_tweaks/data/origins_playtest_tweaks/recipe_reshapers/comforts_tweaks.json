@@ -1,0 +1,60 @@
+{
+    "common_ingredients": {
+        "?": "farmersdelight:rope",
+        "|": "stick",
+        "~": "string"
+    },
+    "id_substrings": {
+        "=": "hammock",
+        "-": "sleeping_bag"
+    },
+    "source_family": [
+        {
+            "pattern": "*?",
+            "output_token": "%",
+            "output_count": 1,
+            "remove": false
+        },
+        {
+            "pattern": [
+                " | ",
+                "~#~",
+                " | "
+            ],
+            "output_token": "=",
+            "output_count": 1
+        },
+        {
+            "pattern": [
+                "#",
+                "#",
+                "#"
+            ],
+            "output_token": "-",
+            "output_count": 1
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_tweaked_hammocks",
+            "pattern": [
+                "|#|",
+                "|#|",
+                "|#|"
+            ],
+            "output_token": "=",
+            "output_count": 1,
+            "category": "building"
+        },
+        {
+            "id_suffix": "_tweaked_sleeping_bags",
+            "pattern": [
+                "? ?",
+                "###"
+            ],
+            "output_token": "-",
+            "output_count": 1,
+            "category": "building"
+        }
+    ]
+}

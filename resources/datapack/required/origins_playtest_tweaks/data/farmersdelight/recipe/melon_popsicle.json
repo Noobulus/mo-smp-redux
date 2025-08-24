@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "-": {
+      "item": "minecraft:stick"
+    },
+    "s": {
+      "item": "minecraft:snow_block"
+    },
+    "m": {
+      "item": "minecraft:melon_slice"
+    }
+  },
+  "pattern": [
+    " mm",
+    "smm",
+    "-s "
+  ],
+  "result": {
+    "count": 1,
+    "id": "farmersdelight:melon_popsicle"
+  }
+}

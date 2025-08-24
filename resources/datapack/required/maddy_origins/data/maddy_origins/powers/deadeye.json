@@ -1,0 +1,21 @@
+{
+    "type": "origins:multiple",
+    "bonus_projectile_damage": {
+        "type": "origins:modify_projectile_damage",
+        "modifier": {
+            "operation": "add_total_late",
+            "amount": 2
+        }
+    },
+    "bonuser_projectile_damage_with_glowing": {
+        "type": "origins:modify_projectile_damage",
+        "modifier": {
+            "operation": "add_total_late",
+            "amount": 3
+        },
+        "target_condition": {
+            "type": "origins:status_effect",
+            "effect": "minecraft:glowing"
+        }
+    }
+}

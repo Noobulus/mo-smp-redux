@@ -1,0 +1,13 @@
+name = "Fixed Levels"
+filename = "fixed-levels-1.3.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CCDuht84/versions/wfOiVrr3/fixed-levels-1.3.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "a53cfdf9402372e8a714cd650e0441bb02d866df3eaab410e77a06130a5fcd21bbbed68b12ec4f47fac64e4f0e3fbb0142d7128130621d22e463a87f3cf8f3de"
+
+[update]
+[update.modrinth]
+mod-id = "CCDuht84"
+version = "wfOiVrr3"

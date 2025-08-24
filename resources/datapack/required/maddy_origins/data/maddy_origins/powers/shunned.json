@@ -1,0 +1,41 @@
+{
+    "type": "origins:multiple",
+    "villagers_wont_talk_without_hero": {
+        "type": "origins:prevent_entity_use",
+        "bientity_action": {
+            "type": "origins:target_action",
+            "action": {
+                "type": "origins:play_sound",
+                "sound": "minecraft:entity.villager.no"
+            }
+        },
+        "bientity_condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:target_condition",
+                    "condition": {
+                        "type": "origins:in_tag",
+                        "tag": "maddy_origins:entities_that_shun"
+                    }
+                },
+                {
+                    "type": "origins:actor_condition",
+                    "condition": {
+                        "type": "origins:status_effect",
+                        "effect": "minecraft:hero_of_the_village",
+                        "inverted": true
+                    }
+                }
+            ]
+        }
+    },
+    "hero_of_the_village_lasts_longer": {
+        "type": "origins:modify_status_effect_duration",
+        "status_effect": "minecraft:hero_of_the_village",
+        "modifier": {
+            "operation": "multiply_base_multiplicative",
+            "amount": 1
+        }
+    }
+}

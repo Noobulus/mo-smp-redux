@@ -1,0 +1,13 @@
+name = "Granular Gamerules"
+filename = "granulargamerules-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YFUweSka/versions/ebEzjpwV/granulargamerules-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "2ecce6266667f387721846fa16fcd7c651c79d4b90184a23a8cc33f55429d70e2173a91a9e73593578834382d75a9ab1d4f91a1fa76d36136a3ddf0b205669a3"
+
+[update]
+[update.modrinth]
+mod-id = "YFUweSka"
+version = "ebEzjpwV"

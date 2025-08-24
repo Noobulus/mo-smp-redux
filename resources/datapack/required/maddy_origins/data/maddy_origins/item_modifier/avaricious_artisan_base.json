@@ -1,0 +1,18 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:rarity": "uncommon"
+    }
+  },
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "translate": "lore.maddy_origins:artisan_quality",
+        "color": "gray"
+      }
+    ],
+    "mode": "append"
+  }
+]

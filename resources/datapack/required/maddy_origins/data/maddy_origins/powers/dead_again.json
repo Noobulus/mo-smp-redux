@@ -1,0 +1,31 @@
+{
+    "type": "origins:prevent_death",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:apply_effect",
+                "effects": [
+                    {
+                        "id": "minecraft:regeneration",
+                        "amplifier": 2,
+                        "duration": 300
+                    },
+                    {
+                        "id": "minecraft:absorption",
+                        "amplifier": 1,
+                        "duration": 300
+                    }
+                ]
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "origin set @s origins:origin maddy_origins:undead"
+            },
+            {
+                "type": "origins:play_sound",
+                "sound": "maddy_origins:origin.cured.infect"
+            }
+        ]
+    }
+}

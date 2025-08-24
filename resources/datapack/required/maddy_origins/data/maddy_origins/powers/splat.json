@@ -1,0 +1,253 @@
+{
+    "type": "origins:multiple",
+    "unsplat_time_resource": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 60
+    },
+    "no_splat_time_for_small_damage": {
+        "type": "origins:modify_damage_taken",
+        "damage_condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:in_tag",
+                    "tag": "maddy_origins:splat_applies_against"
+                },
+                {
+                    "type": "origins:amount",
+                    "comparison": "<=",
+                    "compare_to": 6
+                }
+            ]
+        },
+        "self_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:play_sound",
+                    "sound": "maddy_origins:origin.slimefolk.splat"
+                }
+            ]
+        },
+        "modifier": {
+            "operation": "set_total",
+            "amount": 0
+        }
+    },
+    "add_splat_time_for_medium_damage": {
+        "type": "origins:modify_damage_taken",
+        "damage_condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:in_tag",
+                    "tag": "maddy_origins:splat_applies_against"
+                },
+                {
+                    "type": "origins:amount",
+                    "comparison": ">",
+                    "compare_to": 6
+                },
+                {
+                    "type": "origins:amount",
+                    "comparison": "<=",
+                    "compare_to": 16
+                }
+            ]
+        },
+        "self_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:play_sound",
+                    "sound": "maddy_origins:origin.slimefolk.splat"
+                },
+                {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:splat_unsplat_time_resource",
+                    "change": 4
+                }
+            ]
+        },
+        "modifier": {
+            "operation": "set_total",
+            "amount": 0
+        }
+    },
+    "add_splat_time_for_high_damage": {
+        "type": "origins:modify_damage_taken",
+        "damage_condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:in_tag",
+                    "tag": "maddy_origins:splat_applies_against"
+                },
+                {
+                    "type": "origins:amount",
+                    "comparison": ">",
+                    "compare_to": 16
+                },
+                {
+                    "type": "origins:amount",
+                    "comparison": "<=",
+                    "compare_to": 32
+                }
+            ]
+        },
+        "self_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:play_sound",
+                    "sound": "maddy_origins:origin.slimefolk.splat"
+                },
+                {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:splat_unsplat_time_resource",
+                    "change": 10
+                }
+            ]
+        },
+        "modifier": {
+            "operation": "set_total",
+            "amount": 0
+        }
+    },
+    "add_splat_time_for_ludicrous_damage": {
+        "type": "origins:modify_damage_taken",
+        "damage_condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:in_tag",
+                    "tag": "maddy_origins:splat_applies_against"
+                },
+                {
+                    "type": "origins:amount",
+                    "comparison": ">",
+                    "compare_to": 32
+                },
+                {
+                    "type": "origins:amount",
+                    "comparison": "<=",
+                    "compare_to": 64
+                }
+            ]
+        },
+        "self_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:play_sound",
+                    "sound": "maddy_origins:origin.slimefolk.splat"
+                },
+                {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:splat_unsplat_time_resource",
+                    "change": 20
+                }
+            ]
+        },
+        "modifier": {
+            "operation": "set_total",
+            "amount": 0
+        }
+    },
+    "add_splat_time_for_insane_damage": {
+        "type": "origins:modify_damage_taken",
+        "damage_condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:in_tag",
+                    "tag": "maddy_origins:splat_applies_against"
+                },
+                {
+                    "type": "origins:amount",
+                    "comparison": ">",
+                    "compare_to": 64
+                }
+            ]
+        },
+        "self_action": {
+            "type": "origins:and",
+            "actions": [
+                {
+                    "type": "origins:play_sound",
+                    "sound": "maddy_origins:origin.slimefolk.splat"
+                },
+                {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:splat_unsplat_time_resource",
+                    "change": 30
+                }
+            ]
+        },
+        "modifier": {
+            "operation": "set_total",
+            "amount": 0
+        }
+    },
+    "splat_timer_decrease": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "maddy_origins:splat_unsplat_time_resource",
+            "change": -2
+        },
+        "interval": 20
+    },
+    "bad_jump_while_splatted": {
+        "type": "origins:modify_jump",
+        "modifier": {
+            "operation": "set_total",
+            "amount": 0.2
+        },
+        "entity_action": {
+            "type": "origins:change_resource",
+            "resource": "maddy_origins:splat_unsplat_time_resource",
+            "change": -1
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:splat_unsplat_time_resource",
+            "comparison": ">",
+            "compare_to": 0
+        }
+    },
+    "slow_while_splatted": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "id": "*:*",
+            "attribute": "minecraft:generic.movement_speed",
+            "operation": "add_multiplied_total",
+            "amount": -0.9
+        },
+        "tick_rate": 1,
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:splat_unsplat_time_resource",
+            "comparison": ">",
+            "compare_to": 0
+        }
+    },
+    "bad_air_movement_while_splatted": {
+        "type": "origins:modify_air_speed",
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.9
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:splat_unsplat_time_resource",
+            "comparison": ">",
+            "compare_to": 0
+        }
+    },
+    "oozing_immune_group": {
+        "type": "origins:modify_type_tag",
+        "tag": "minecraft:immune_to_oozing"
+    }
+}

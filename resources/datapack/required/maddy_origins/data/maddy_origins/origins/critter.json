@@ -1,0 +1,15 @@
+{
+	"powers": [
+        "maddy_origins:strong_legs",
+        "maddy_origins:small_appetite",
+        "maddy_origins:animal_arms",
+		"maddy_origins:ill_fitting",
+		"maddy_origins:warm_fur"
+	],
+	"icon": {
+		"id": "minecraft:rabbit_hide"
+	},
+	"order": 0,
+	"impact": 1
+}
+ 

@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "#origins_playtest_tweaks:grassy_food_bales",
+    "#origins_playtest_tweaks:veggie_food_crates"
+  ]
+}

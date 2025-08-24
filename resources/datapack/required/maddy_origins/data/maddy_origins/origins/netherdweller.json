@@ -1,0 +1,16 @@
+{
+	"powers": [
+        "maddy_origins:pyrogymnast",
+        "maddy_origins:cold_sensitive",
+        "maddy_origins:taste_of_home",
+        "maddy_origins:avaricious_artisan",
+        "maddy_origins:infernal_secrets",
+        "maddy_origins:heirloom_coat",
+        "maddy_origins:fire_resistant_grace_period"
+	],
+	"icon": {
+		"id": "minecraft:blaze_powder"
+	},
+	"order": 0,
+	"impact": 3
+}

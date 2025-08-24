@@ -1,0 +1,263 @@
+{
+    "type": "origins:multiple",
+    "piece_count": {
+        "type": "origins:resource",
+        "min": 0,
+        "max": 2,
+        "hud_render": {
+            "should_render": false
+        }
+    },
+    "update_count": {
+        "type": "origins:action_over_time",
+        "entity_action": {
+            "type": "origins:if_else",
+            "condition": {
+                "type": "origins:inventory",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "tag": "maddy_origins:heavy_armor"
+                    }
+                },
+                "slots": [
+                    "armor.chest",
+                    "armor.legs"
+                ],
+                "comparison": "!=",
+                "compare_to": 0
+            },
+            "if_action": {
+                "type": "origins:if_else",
+                "condition": {
+                    "type": "origins:inventory",
+                    "item_condition": {
+                        "type": "origins:ingredient",
+                        "ingredient": {
+                            "tag": "maddy_origins:heavy_armor"
+                        }
+                    },
+                    "slots": [
+                        "armor.chest",
+                        "armor.legs"
+                    ],
+                    "comparison": "==",
+                    "compare_to": 1
+                },
+                "if_action": {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:ultralight_piece_count",
+                    "change": 1,
+                    "operation": "set"
+                },
+                "else_action": {
+                    "type": "origins:change_resource",
+                    "resource": "maddy_origins:ultralight_piece_count",
+                    "change": 2,
+                    "operation": "set"
+                }
+            },
+            "else_action": {
+                "type": "origins:change_resource",
+                "resource": "maddy_origins:ultralight_piece_count",
+                "change": 0,
+                "operation": "set"
+            }
+        },
+        "interval": 1
+    },
+    "reduced_gravity_with_no_heavy": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "id": "*:none",
+            "attribute": "minecraft:generic.gravity",
+            "operation": "add_multiplied_total",
+            "amount": -0.5
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 0
+        }
+    },
+    "reduced_gravity_with_one_heavy": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "id": "*:one",
+            "attribute": "minecraft:generic.gravity",
+            "operation": "add_multiplied_total",
+            "amount": -0.25
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 1
+        }
+    },
+    "walk_on_water": {
+        "type": "origins:walk_on_fluid",
+        "fluid": "minecraft:water",
+        "condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:sneaking",
+                    "inverted": true
+                },
+                {
+                    "type": "origins:fluid_height",
+                    "fluid": "minecraft:water",
+                    "comparison": "<=",
+                    "compare_to": 0.4
+                },
+                {
+                    "type": "origins:resource",
+                    "resource": "maddy_origins:ultralight_piece_count",
+                    "comparison": "==",
+                    "compare_to": 0
+                }
+            ]
+        }
+    },
+    "walk_on_lava": {
+        "type": "origins:walk_on_fluid",
+        "fluid": "minecraft:lava",
+        "condition": {
+            "type": "origins:all_of",
+            "conditions": [
+                {
+                    "type": "origins:sneaking",
+                    "inverted": true
+                },
+                {
+                    "type": "origins:fluid_height",
+                    "fluid": "minecraft:lava",
+                    "comparison": "<=",
+                    "compare_to": 0.4
+                },
+                {
+                    "type": "origins:resource",
+                    "resource": "maddy_origins:ultralight_piece_count",
+                    "comparison": "==",
+                    "compare_to": 0
+                }
+            ]
+        }
+    },
+    "reduced_fall_damage_with_no_heavy": {
+        "type": "origins:modify_damage_taken",
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 0
+        },
+        "damage_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:is_fall"
+        },
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.5
+        }
+    },
+    "reduced_fall_damage_with_one_heavy": {
+        "type": "origins:modify_damage_taken",
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 1
+        },
+        "damage_condition": {
+            "type": "origins:in_tag",
+            "tag": "minecraft:is_fall"
+        },
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.25
+        }
+    },
+    "extra_safe_fall_height_with_no_heavy": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "id": "*:none",
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "operation": "add_value",
+            "amount": 4
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 0
+        }
+    },
+    "extra_safe_fall_height_with_one_heavy": {
+        "type": "origins:conditioned_attribute",
+        "modifier": {
+            "id": "*:one",
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "operation": "add_value",
+            "amount": 2
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 1
+        }
+    },
+    "faster_air_movement_with_no_heavy": {
+        "type": "origins:modify_air_speed",
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 0.5
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 0
+        }
+    },
+    "faster_air_movement_with_one_heavy": {
+        "type": "origins:modify_air_speed",
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 0.25
+        },
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 1
+        }
+    },
+    "air_speed_scales_with_speed_with_no_heavy": {
+        "type": "origins:attribute_modify_transfer",
+        "class": "modify_air_speed",
+        "attribute": "minecraft:generic.movement_speed",
+        "multiplier": 0.5,
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 0
+        }
+    },
+    "air_speed_scales_with_speed_with_one_heavy": {
+        "type": "origins:attribute_modify_transfer",
+        "class": "modify_air_speed",
+        "attribute": "minecraft:generic.movement_speed",
+        "multiplier": 0.25,
+        "condition": {
+            "type": "origins:resource",
+            "resource": "maddy_origins:ultralight_piece_count",
+            "comparison": "==",
+            "compare_to": 1
+        }
+    }
+}

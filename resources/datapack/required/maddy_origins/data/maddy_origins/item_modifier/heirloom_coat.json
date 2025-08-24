@@ -1,0 +1,34 @@
+[
+  {
+    "function": "minecraft:set_attributes",
+    "modifiers": [
+      {
+        "id": "maddy_origins:heirloom_coat_burn_time",
+        "attribute": "minecraft:generic.burning_time",
+        "amount": -0.5,
+        "operation": "add_multiplied_total",
+        "slot": "chest"
+      }
+    ],
+    "replace": true
+  },
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:unbreakable": {},
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:rib"
+      },
+      "minecraft:dyed_color": {
+        "rgb": 11025980
+      },
+      "minecraft:item_name": "{\"translate\": \"name.maddy_origins:heirloom_coat\"}",
+      "minecraft:rarity": "rare"
+    }
+  },
+  {
+    "function": "minecraft:reference",
+    "name": "maddy_origins:fireproof"
+  }
+]

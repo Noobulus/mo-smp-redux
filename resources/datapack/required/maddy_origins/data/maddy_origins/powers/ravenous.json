@@ -1,0 +1,34 @@
+{
+    "type": "origins:multiple",
+    "increased_exhaustion": {
+        "type": "origins:modify_exhaustion",
+        "modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": 0.33
+        }
+    },
+    "exhaust_while_using_projectiles": {
+        "type": "origins:action_on_item_use",
+        "entity_action": {
+            "type": "origins:exhaust",
+            "amount": 0.01
+        },
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "tag": "maddy_origins:ravenous_penalizes"
+            }
+        },
+        "trigger": "during"
+    },
+    "modify_saturation": {
+        "type": "origins:modify_food",
+        "item_condition": {
+            "type": "origins:food"
+        },
+        "saturation_modifier": {
+            "operation": "multiply_total_multiplicative",
+            "amount": -0.25
+        }
+    }
+}

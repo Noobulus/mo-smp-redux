@@ -1,0 +1,6 @@
+{
+  "targets": "arts_and_crafts:bleached_bed",
+  "components": {
+    "minecraft:max_stack_size": 64
+  }
+}

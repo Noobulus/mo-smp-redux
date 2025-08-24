@@ -1,0 +1,20 @@
+{
+  "replace": true,
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "minecraft:melon"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 8,
+        "id": "minecraft:melon_slice"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

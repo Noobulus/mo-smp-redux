@@ -1,0 +1,15 @@
+{
+	"powers": [
+        "maddy_origins:hydrophilic",
+        "maddy_origins:splat",
+        "maddy_origins:shock_absorbent",
+        "maddy_origins:insatiable",
+        "maddy_origins:savory_diet"
+	],
+	"icon": {
+		"id": "minecraft:slime_ball"
+	},
+	"order": 0,
+	"impact": 1
+}
+ 

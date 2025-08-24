@@ -1,0 +1,13 @@
+name = "Sit!"
+filename = "sit!-1.2.0.8+1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EsYqsGV4/versions/QFrEHSRS/sit%21-1.2.0.8%2B1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "491c05a36ef92d031c09964b52e65752f629a22995ad0408ec3487af3f13878d7f56d00101fee3adcc649b3ae4d4f08462555c6717d1655c65c8ac9d3613ca57"
+
+[update]
+[update.modrinth]
+mod-id = "EsYqsGV4"
+version = "QFrEHSRS"
