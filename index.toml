@@ -386,7 +386,7 @@ hash = "6a0481760b3293318021c1621ba536eace096cefe2d4e3f1f157f445dcb06bab"
 
 [[files]]
 file = "icon.png"
-hash = "241cb6e6d09d75a75cc5e53b3b343336d2089a44ca47f8e73794f3672ce6d513"
+hash = "83ca7f56511682fc315a87b118d187f3109b832847bcfb66c3376250e82c4991"
 
 [[files]]
 file = "mods/ShowMeWhatYouGot-1.21.1-1.3.1.jar"
@@ -733,6 +733,11 @@ hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
+metafile = true
+
+[[files]]
 file = "mods/give-me-a-new-splash-text.pw.toml"
 hash = "e27ea67a982c4f40fceedb819a7e956821cc287c49dbbfbe996117f247220bdc"
 metafile = true
@@ -794,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
+metafile = true
+
+[[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "2aa483960df75b01d3a1e08fcce318e53da714d26b0109463721f8eb6c7e062b"
 metafile = true
 
 [[files]]
@@ -874,6 +884,11 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "e431685cbb9ec45f1170e8e40119c9d02d08784945801e22dc8e2403374cfa98"
+metafile = true
+
+[[files]]
+file = "mods/otterlib.pw.toml"
+hash = "97e876bea494174fb5439d4b06a025d7390305105ad02b237d4c74a95d1bb9f2"
 metafile = true
 
 [[files]]
