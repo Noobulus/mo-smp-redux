@@ -1,0 +1,13 @@
+name = "Nears"
+filename = "nears-1.21-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2PL7NFzr/versions/uHOEtjoG/nears-1.21-2.1.2.jar"
+hash-format = "sha512"
+hash = "707c4be2e6e337d53e4eed458bb44abad73d3d17dbc7a537b4cf9a8705982b835fdbe2b74a25ec552ca3dd07e3c987f693648cfaf0579f56596e2387bde19ee5"
+
+[update]
+[update.modrinth]
+mod-id = "2PL7NFzr"
+version = "uHOEtjoG"

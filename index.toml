@@ -483,6 +483,11 @@ hash = "168009c9e42bde0e33bd898c188f747ad6acb7a90e7d32e4e9f6e7f46fb6ef5f"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "7c06a70ffeb5acc38cb9f9a9b2acfb8d85d6ab7622e1b79a2b3d98c0730dbac6"
+metafile = true
+
+[[files]]
 file = "mods/blame-log.pw.toml"
 hash = "1f9ea8c9fdecbdf356283f370efdbe27e774ad73718e68399c798e6442b399b7"
 metafile = true
@@ -688,6 +693,11 @@ hash = "eb4979620b2be5307bd3e8476f60b6db74af5c72fe1c27d401f85655f47d64ed"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "15f5068116d9bf87e7f711a2cd9139d9eb66d83e712172d95bb2bea5167d43dd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
 metafile = true
@@ -723,6 +733,11 @@ hash = "019c40f64fdd60893a3bb19f0b6443fbd5b56cb2fa9213b0c9159c071cfa6fc7"
 metafile = true
 
 [[files]]
+file = "mods/fletching-expanded.pw.toml"
+hash = "cd5f5f30209824ae58962e72dbb1eb8253246806c2a3f05f8e7dac53fd92d247"
+metafile = true
+
+[[files]]
 file = "mods/florum-sporum.pw.toml"
 hash = "816cb0e58987e1f04a4ec8d823c3a17d83b8bc2600ea35801fb54e885da1bd93"
 metafile = true
@@ -748,11 +763,6 @@ hash = "cf005ffded7875d37038d7e530506086199bd6e5ae40360709f1fce0bd44a039"
 metafile = true
 
 [[files]]
-file = "mods/gui-compass.pw.toml"
-hash = "6dd11ddbca5154d26b23092f0fcd66aee8d795e986f4ddf1209ff0f2b0795097"
-metafile = true
-
-[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "168f531e9a06e333fddd057726026ce99ed8eaa04baf72b0fc141a8b132633b8"
 metafile = true
@@ -760,6 +770,11 @@ metafile = true
 [[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
+metafile = true
+
+[[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "8f416e0c7478f85087c4bd3b11e95da32567fbd3cc667b8e76e1f7ad53ae09bf"
 metafile = true
 
 [[files]]
@@ -859,6 +874,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight-refabricated.pw.toml"
+hash = "f97c81eb19dc444c3276e1e4d506310d037bde71ba2da6311ec3ec7ccb2d34d8"
+metafile = true
+
+[[files]]
+file = "mods/nears.pw.toml"
+hash = "0a4d37d3b34b91f3ac40f179fec944283dda268bde6b5d917df8df48004607f3"
 metafile = true
 
 [[files]]
