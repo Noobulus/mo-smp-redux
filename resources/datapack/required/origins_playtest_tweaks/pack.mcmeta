@@ -68,10 +68,6 @@
         "path": "recipe/fd/.*"
     },
     {
-        "namespace": "minecraft",
-        "path": "recipe/hay_block.json"
-    },
-    {
         "namespace": "comforts",
         "path": "recipe/rope_and_nail.json"
     },

@@ -773,6 +773,11 @@ hash = "168f531e9a06e333fddd057726026ce99ed8eaa04baf72b0fc141a8b132633b8"
 metafile = true
 
 [[files]]
+file = "mods/heartstone.pw.toml"
+hash = "46c06539fbad393a72ea2ebf7b90f5f683c5950c0c29d14cde4245729b488155"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
 metafile = true
@@ -1093,6 +1098,16 @@ metafile = true
 [[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
 hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "3cc3f232ea2a58f481213ca0dc87b5d9297ad957e98b5b70e642f10e4fe793a5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "ebff5e8a5c5d19a9d3de98df8b01c23871d5b8ac3b9b99c537a1d2e444748350"
 metafile = true
 
 [[files]]
@@ -1621,7 +1636,7 @@ hash = "5aa8f8880901475582ad80e2ae1f82a610a8098baa47abe2e17427bddeb6370f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/rabbit_food.json"
-hash = "afc0453e22858eb209e6667e538263abf1ca3d2d8f687b0ee0c1f67df651057a"
+hash = "a71d5984c93c4399b8994eddcd98fc5161a3119e82209ddaa9ae4677b9bb463b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/sheep_food.json"
@@ -1993,7 +2008,7 @@ hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "affa911f63c362229494f0d46b672abc75c0b550d9214f54a7baa8129601ef83"
+hash = "92d3b6fa957e46f27bdec6208dbb968b66ef552dae8dfa2e473163c3874c2595"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"

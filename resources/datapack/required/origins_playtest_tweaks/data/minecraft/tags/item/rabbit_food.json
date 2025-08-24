@@ -8,10 +8,6 @@
         "minecraft:glistering_melon_slice",
         "minecraft:apple",
         "minecraft:golden_apple",
-        "minecraft:enchanted_golden_apple",
-        {
-            "id": "farmersdelight:hamburger",
-            "required": false
-        }
+        "minecraft:enchanted_golden_apple"
     ]
 }
