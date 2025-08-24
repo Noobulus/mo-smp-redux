@@ -1,13 +1,13 @@
 name = "Adjusted Phantom Spawns"
-filename = "adjusted-phantom-spawns-1.0.1-1.21.jar"
+filename = "adjusted_phantom_spawns-fabric-1.1.1-1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MUVrIdXT/versions/VhBIJSOR/adjusted-phantom-spawns-1.0.1-1.21.jar"
+url = "https://cdn.modrinth.com/data/MUVrIdXT/versions/pTG9PpL8/adjusted_phantom_spawns-fabric-1.1.1-1.21.jar"
 hash-format = "sha512"
-hash = "186d59426266fc1da0bae6a91cf25203f6ac1d7239e984b793cf75739aca37f0256f81334e025efe8d5e4e89d813d29714715760a5d2a93d25a4d436e10a7471"
+hash = "76447bfdc54ada5636dac7b2ced3ff5cdc1a7ae849020a3caa4e8d5cd500142992f9644446c9791105a39da03c7283718d31f2ce0e659297f3eb226161c0f643"
 
 [update]
 [update.modrinth]
 mod-id = "MUVrIdXT"
-version = "VhBIJSOR"
+version = "pTG9PpL8"

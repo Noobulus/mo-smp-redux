@@ -1,13 +1,13 @@
 name = "Prickle"
-filename = "prickle-fabric-1.21.1-21.1.6.jar"
+filename = "prickle-fabric-1.21.1-21.1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aaRl8GiW/versions/aGDJh61g/prickle-fabric-1.21.1-21.1.6.jar"
+url = "https://cdn.modrinth.com/data/aaRl8GiW/versions/FV8iOPOH/prickle-fabric-1.21.1-21.1.10.jar"
 hash-format = "sha512"
-hash = "d4cde1cca30cbc112634b0516f4c5693358788d2446628a25f3f5f7424752debd75b9779a84c973d1c10fedab2c5d60ab61737087922a93f74109e22c5de29f9"
+hash = "8dd98a0cab0d479acba9534ea4d525b56e90a1e3e69716fa0823c2b5b4b73bdd3b76226913f1610689f334f921bff95dc843ab30c8d355192c4512ef2c9da8bb"
 
 [update]
 [update.modrinth]
 mod-id = "aaRl8GiW"
-version = "aGDJh61g"
+version = "FV8iOPOH"

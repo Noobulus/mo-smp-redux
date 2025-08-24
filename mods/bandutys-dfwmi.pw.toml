@@ -1,13 +1,13 @@
 name = "Banduty's DFWMI"
-filename = "bsdfwmi-1.0.15-1.20.5-1.21.3.jar"
+filename = "ticktweaks-fabric-1.2.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2d67N1yh/versions/SvpodAID/bsdfwmi-1.0.15-1.20.5-1.21.3.jar"
+url = "https://cdn.modrinth.com/data/2d67N1yh/versions/NRFCIc15/ticktweaks-fabric-1.2.4.jar"
 hash-format = "sha512"
-hash = "8087ad4fb50a1e3aabc7aa488cfe3ac4e8c2c80e27aa0a5718c66a8a6b1880a86621de6008cf07f1d8af851984fad4552db6fffdc6ee1562d0c1083353d29e4f"
+hash = "4307c8e5c4c004b3c4140b6f1d9b4c36d2f6fe8f80d2d2ef8d85f233f084bb48446508f777fabbdc5bee78077f5bf0dda18e218c6d252819fcbb8b0f7ec4b204"
 
 [update]
 [update.modrinth]
 mod-id = "2d67N1yh"
-version = "SvpodAID"
+version = "NRFCIc15"

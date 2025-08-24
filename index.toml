@@ -70,7 +70,7 @@ hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
 
 [[files]]
 file = "config/comforts-server.toml"
-hash = "20d86f6b502b02d41e1ae3e25a73d9aa689d52203baf8a0c727bb670251ad9cf"
+hash = "1b14431f3d46cdefd0c03077179b78f4b8b9e8cec6f436a924990fa1ef10c211"
 
 [[files]]
 file = "config/connectiblechains.toml"
@@ -394,12 +394,12 @@ hash = "0f7038a12a9ebf586426c75f15fdb537ba4269083529400fc29b854cd190939e"
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "5a7a1c4a5c087b66a57edd1067ba0048b3f6edb3fa0fc1449ffaff8d09a1e81b"
+hash = "bc93795384d5f304da0d318e8e71becf5c15aa26b853cbefed937d43a0bcc9f6"
 metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "a994ae9f75079a5ab89396a91751ab2f03dde4dbe595eb3761e6fc3746fba1ce"
+hash = "86424f0b0c68d610e05f0f7f64424ada05498b14cca76091dadfa1c793c15e23"
 metafile = true
 
 [[files]]
@@ -409,12 +409,12 @@ metafile = true
 
 [[files]]
 file = "mods/adjusted-phantom-spawns.pw.toml"
-hash = "9d80496e247f43839c3789520cbad2707da532a5b6165d6f567c990e79e8c891"
+hash = "55e0abb855a37d791d629a99bd80c19c25bb24548d2469e6084b9ec6c1254c4b"
 metafile = true
 
 [[files]]
 file = "mods/allay-behave.pw.toml"
-hash = "2a5dd47c645d2539d7722ac7ef572eeeb1b8b290e3a190e099212b85a0692f58"
+hash = "08683f01b2e21c1080f5739bf837e5c85f92434be03396181d5c961976a83916"
 metafile = true
 
 [[files]]
@@ -439,12 +439,12 @@ metafile = true
 
 [[files]]
 file = "mods/armor-trim-item-fix.pw.toml"
-hash = "64692962f8ba0d4515682ef2b55507a036c41e072d74bf82cf3b23d9e17c96f6"
+hash = "5a2e2f5473e4f4477059dd0273bee37e7ff4ceba11f19f2cb4c28964bf181b2f"
 metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "a7c083cdfd0a94c22a4ed744a234a4a6e52b23d1d497d944db004070c5e97768"
+hash = "5dde461c1f6c0127ed8f4e4492adec5656af768185f6fde123d04fd303e7dff4"
 metafile = true
 
 [[files]]
@@ -459,22 +459,17 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ecb1e63b15ddbaf45af311d4d97c5cea8338df18514e3369700f47ba599e8e16"
+hash = "699010afc3867305441c3d5b3bcdf491a7aa3614ad199b0589f368689a68859e"
 metafile = true
 
 [[files]]
 file = "mods/bandutys-dfwmi.pw.toml"
-hash = "ad4a96b699bc043974c748739703ee81ab00a2df97bf99bdd0765c25bdd0cc44"
+hash = "44d9396d125bb52c203526b86feef205af632365df2baa41d6fc01ff34c12f8e"
 metafile = true
 
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "b0e5fd52c2c511e862d9e32abc6050468f52cef242a0e37f6629ae1869227621"
-metafile = true
-
-[[files]]
-file = "mods/better-furniture.pw.toml"
-hash = "1f05e9377751660de14102df1ac6ffca4684759ce6151db9b0c7eb7450ef82ab"
 metafile = true
 
 [[files]]
@@ -494,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "e806de71f80ccfa6e9cbcc73e9192eeb5efad691d620dc42bab52454ffd92d39"
+hash = "e175d2ef1d5af85b8bc7c53dcf37fa9a7427317b91064af2e4e89ff0b0458aef"
 metafile = true
 
 [[files]]
@@ -504,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/branded-logs.pw.toml"
-hash = "f7f80641227bc16b46fe13c9100ad7f1ad0e9ffb2d437d7f17cfb0eac4f0babd"
+hash = "05ab115365fb3de4507d557865eee6a8e828d0800bc7980236185c4b948d1d6d"
 metafile = true
 
 [[files]]
@@ -549,27 +544,27 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
+hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
 metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "7b24565cbfed71b13cb435ef15b237a2a5175eab719310a37e6ca640f248e2d8"
+hash = "c390e2533e854690085d2a455d192e22817532f8e1400f498f4312ee5dfdda50"
 metafile = true
 
 [[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "8c1018171a8d9d87d0ba576a5a30530b8f6ab3b6c5b356aebad0f5d4fa280c4a"
+hash = "2cfaf0dcfad028db0e972f77946e71fd94376e8d70cba3d17d3abb484acf4ce8"
 metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "e43ec2832e62efbb8625a0ccb57de93c7fa2bdcb1f53ecf6f60824cac738a9a1"
+hash = "1520083f44709c6610aca316ed22116d187fbb34062eaf7cf382c1afa4acaf4d"
 metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "986eebee5adc37912c90cee8d8048199c8d987b6a09befce4a8c7f15acca622f"
+hash = "c7ceaae4e41a455b1adc72a1d1c327a02ce4d608b9c974fae2b80198ec8b19c6"
 metafile = true
 
 [[files]]
@@ -579,47 +574,47 @@ metafile = true
 
 [[files]]
 file = "mods/cobblegen.pw.toml"
-hash = "dbaebbad933cf00bd1127e9ca53c78e40e8a2a53fc556ef07c60d35e4ba75db0"
+hash = "bd647ca701dcb73caafbe71408815d1347cd188a6155b77659934a145a708436"
 metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "1e9cf49b10df527b58d04dee159080a32f88b7f61cd7ef1084d791655c15752f"
+hash = "fa767604387c15268ae565381b68afcfe39c7284d24fd5e08c76c6e6ca8da2eb"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
+hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "157e9ed75307c70b4c768fa15f3975b21ac5a70fc3580cd455e0aa8e23ff5d55"
+hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
 metafile = true
 
 [[files]]
 file = "mods/connectiblechains.pw.toml"
-hash = "dd7d56c815477073adfcb718c933d2b7cd08cb4c29d26d2409b9b8feac55d3fe"
+hash = "5f4a2827868ba96bdcf5d33b59c04a7c45d9306a12a407fc612aae4824186d83"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
 file = "mods/copper-grates-bubble.pw.toml"
-hash = "d0d372f88ba2afb1b5e197f97c2c112f199a5ea6b2a1336d05e6a699afff452e"
+hash = "492510f3727322c06221b6d1fa2172474bbb5f0f7824bdc5f1c6372d42cfdfab"
 metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "455d633469dbcd76deca1297e4db65322e66fefe62b2df5a1752e027384b7c3b"
+hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
 metafile = true
 
 [[files]]
 file = "mods/crawl.pw.toml"
-hash = "cc91ff5c3286c387df7304de706d3d5c85ea0676175f21f2677e9d7436e48c5a"
+hash = "895602d01d010ba10c9662f61d382393cdc270ba02d7cd8fb0d95f5fc7768972"
 metafile = true
 
 [[files]]
@@ -634,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "94c8335f5c328b50389c520f9e17da458ee86f5043c7ba0bc7b289ce47c26f2b"
+hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
 metafile = true
 
 [[files]]
@@ -644,32 +639,32 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "cfa21c2c893a24bf733371344eb682c359f6ebc7810f2fefe2aba5fb9f4ce83a"
+hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
 metafile = true
 
 [[files]]
 file = "mods/eleron.pw.toml"
-hash = "31ed7b8d68906190b3c4df4a156a30dfd0c7f19367077ebdd56523d14f68e8a3"
+hash = "7fb10882a61c49a220fdc547239a1da20c1a9e41e9b823df30499373d303fe25"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f436fa1c712cb1aaaa8fc833c07838b1ba7b719958d11540a758ec74152c500d"
+hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "559829422c0b39e55c7e7224940337de1630284027d2aca0a0e214fc9ca42b92"
+hash = "3aa1ea0bc9be0c13cf05b17ded80b3f099ff29371a6550da1df2573b14ea434e"
 metafile = true
 
 [[files]]
 file = "mods/enchantment-disabler.pw.toml"
-hash = "4857787aa341bf6451c83305b6c0851d4a8f48860686d61a4c4ec3239e659826"
+hash = "e6299efce5a4fb6d53ceefcef675c5b081fec5c40610ded0770843020ea467cf"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
+hash = "658f12b36a5591d6261f02c7465811c2d67d40e20fbe8128de4a957b24b7fdec"
 metafile = true
 
 [[files]]
@@ -679,42 +674,42 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "bb86568b5daae326e5fb8157a9d643ffd7398dde4b663cd2d8b1a922a72f2b9d"
+hash = "6a9b4b98f97d594466cb63f91d9f7a960bb008fbeeda4680cc1b312fb2751073"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "80c54802303925188e17006fdbaad0c05c007d2e35a107ecfb238ff6118e402a"
+hash = "1acb7d6fcc39aebf23128e6ca4db027cb133e17330288530f8065024c9c5ffa4"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "abdb5264b469712604f1fcb31698ad4a76810eeb9d6fa1de6f86962b7dec3f3a"
+hash = "eb4979620b2be5307bd3e8476f60b6db74af5c72fe1c27d401f85655f47d64ed"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
+hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "c9eb80fbd0e9d83487e302be6d3f43f07523a5e818f7f7550d591c400a13571f"
+hash = "f153bb989055178aacb8d919283a32697f7342ff2e244b883867e47fe94b28d6"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+hash = "14390472f86bf94cfd39b3e8cfb349f8c85017b4e370e92fc7c348b3b61b0acb"
 metafile = true
 
 [[files]]
 file = "mods/fast-paintings.pw.toml"
-hash = "ad92549045da15a3558974bc0729e8c0efb2441fb109f75030e48d7715196d73"
+hash = "1d38d2ea2e824801a91767b0af2f91b0598918fd8ba0ae1eb4f8435f4a9da243"
 metafile = true
 
 [[files]]
@@ -724,22 +719,17 @@ metafile = true
 
 [[files]]
 file = "mods/fixed-levels.pw.toml"
-hash = "240b227b89d215fe7fb4708bcc21133ad8e88deeb0ab42e0d7113151c7c27104"
+hash = "019c40f64fdd60893a3bb19f0b6443fbd5b56cb2fa9213b0c9159c071cfa6fc7"
 metafile = true
 
 [[files]]
 file = "mods/florum-sporum.pw.toml"
-hash = "66190ca1ec9b26f35f59d88262a3818e687fa7408a55ad8e415900549a672495"
+hash = "816cb0e58987e1f04a4ec8d823c3a17d83b8bc2600ea35801fb54e885da1bd93"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "5ca392cf6ef19f056bd3f880f3b15322d3e327312671236737344d319d6c742b"
-metafile = true
-
-[[files]]
-file = "mods/gardens-of-the-dead.pw.toml"
-hash = "278c2824fdb7567aed6969f512823e68ca782f7421264960518e056166908fe2"
+hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
 metafile = true
 
 [[files]]
@@ -749,17 +739,17 @@ metafile = true
 
 [[files]]
 file = "mods/granular-gamerules.pw.toml"
-hash = "922992af9a71d3c951ed4f244fda48cbca475f2fd450aea4d5e81e0dcd0f5b09"
+hash = "cf005ffded7875d37038d7e530506086199bd6e5ae40360709f1fce0bd44a039"
 metafile = true
 
 [[files]]
 file = "mods/gui-compass.pw.toml"
-hash = "7a084dc9bd31c21f07f5c475b6941d13d1cda1d4531f4cc097bf6c285c5937ac"
+hash = "6dd11ddbca5154d26b23092f0fcd66aee8d795e986f4ddf1209ff0f2b0795097"
 metafile = true
 
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
-hash = "3ae4961d72a92288288f709695d8e84cc427a144ee80b2773ca7f0c02b99bd62"
+hash = "168f531e9a06e333fddd057726026ce99ed8eaa04baf72b0fc141a8b132633b8"
 metafile = true
 
 [[files]]
@@ -779,12 +769,12 @@ metafile = true
 
 [[files]]
 file = "mods/indypets.pw.toml"
-hash = "109022e47e5783880c2d78c4b1945f5a6d93198e968b6ddd156fac193f8b9e34"
+hash = "933030660e24b890fbc82ef0f2232dbaa8ca2fdbd7d18304e5274906c774e1f4"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0382e17bb9cfb6e3f111ddcc69438cfa45dfa43d367651f736ab0e2a065f69c6"
+hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
@@ -798,27 +788,32 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9e595153249a629ccec80745e4ec61b4b656d3e2d0bf81935e3da4d2c4f35e28"
+hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
 metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "67ad5c2acf84ac2657b079a341b2771012d5050cbd900f423ded03404efc5de2"
+hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
 metafile = true
 
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
-hash = "ed9cb377eff8bcf156163dc3b4d125b568cd2c300a5402e12fffe56602dcc0c6"
+hash = "0db15f56207814686e16b3e33505d910e8294c2acf393762caba6ec004b7d61b"
 metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "6f48870f0d0b7cd6fc1ea6b2dc52331a0284b4f37c6d923d88d6ef2a4e00d043"
+hash = "ecedc62ed0891e9f732f88e4aeaf36aaec85eaa305770d3cbf218b49367f1e51"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+metafile = true
+
+[[files]]
+file = "mods/maddy-origins.pw.toml"
+hash = "12dc31f0b40fee74b81e11fbb512b35547ab1da032a2af70219d2bfbf614b326"
 metafile = true
 
 [[files]]
@@ -828,7 +823,7 @@ metafile = true
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "fc3d57a9785779bf8dc937f4ee976c218f6b5ddbaba25d6d609391a6e3fb49c4"
+hash = "2fcdc63bb2bf97187f3bd67787c4b3a880bf17f332be8c3839408c4115e50884"
 metafile = true
 
 [[files]]
@@ -843,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ca47bd1fc08ce111a6fc9bf93a8e85772365db69d674fca445c329248ffc50f3"
+hash = "9fc2b9c2e3c7728243e9e73aea1aeccd56d64126b440131c834a9971c7b544cc"
 metafile = true
 
 [[files]]
@@ -858,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "4d2f963afd70835e8b5edd7e18a6e236ee4a1dbbabead3bc0e796462056448c0"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
@@ -868,7 +863,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "1c6fdc9722579b3fbe2354f9886ee61cf18ee554f6ba44b47efd9b92161d0a12"
+hash = "5e6b1524c18561c25a71d0842116ef3e047684c1b57bc5a9fb12fcc5d30c7ade"
 metafile = true
 
 [[files]]
@@ -878,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "a761fd033a60aa43ead7c3309c092a985af4c452ef6bfa10854b8bd1799543fe"
+hash = "e431685cbb9ec45f1170e8e40119c9d02d08784945801e22dc8e2403374cfa98"
 metafile = true
 
 [[files]]
@@ -888,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
@@ -902,7 +897,7 @@ hash = "94d51e592a8a5a6271609365b2c1f2cdaf38866ed6fc5b85f149e4487e0b7364"
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "58050efb1e3baae46cf316a13426ae3829f589b8fae8d59990fe4b680faad90b"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
@@ -912,17 +907,17 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
+hash = "3f3cd8f19e6c720d34646c60a2be057a0773f67b964f176476a1cae64f822bfe"
 metafile = true
 
 [[files]]
 file = "mods/pumpkin-pie-delight.pw.toml"
-hash = "d267f5d688bb45aaa185af8bd0493161a6dcba9626d6b3afd0ebf98b0cf17d2b"
+hash = "393157469fcbe7c5c797433c204f4431f733a3ce26468793bc44c4cfff4b65fd"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "dd4b5f371bf4737672ed5bde3a1e45690541ab23cc32236ca2019aba603e51d2"
+hash = "ea6b2156e703ca65e0cf4a7119e2c4a9ea81018860859dd949cd2832dfa3bf07"
 metafile = true
 
 [[files]]
@@ -937,12 +932,12 @@ metafile = true
 
 [[files]]
 file = "mods/realms-button-remover.pw.toml"
-hash = "2bc72b153e29b9da415a3649b859659c31cf6840cadd34ccf5dfc011be79d372"
+hash = "bbfe4c579d6adf0d6c4f87c063bcfa186c217b131953e528c4382bf62c60fda4"
 metafile = true
 
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
-hash = "207c2a73badfeca6051b7e9d86a9b3addb43e6d325f0f2cea432ddbd1bd814ef"
+hash = "c886c2971a0a0aedd4f05286d845874cd1701b25e28245a35a42d0bae821a28d"
 metafile = true
 
 [[files]]
@@ -972,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/selfcare-hive.pw.toml"
-hash = "453c51620896b7aed180d37564a26e352d3f973fd3d941ed522ff1533e4b0cef"
+hash = "4ac8681b9653f49eb9d0429a7bc23aa4977e87e32d56fe47e19003e1c9d88f88"
 metafile = true
 
 [[files]]
@@ -982,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "4dc08fba8bbc2f015d56b0b0184bd19d2f9b897654d275151e7a3dbb9ee1792f"
+hash = "43500505cd9ccb41d9722586a0040be415ce71b6a93758b45d8176e925bd7851"
 metafile = true
 
 [[files]]
@@ -997,42 +992,42 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9bdcdf6050b27b23f7f575d958c4efb4fb54b92b833934807ac86ce1463f3504"
+hash = "8c79da2a9d2f8f4b628afada45a53ab709fa85e821c5c7071ae768ab57685d59"
 metafile = true
 
 [[files]]
 file = "mods/simplefog.pw.toml"
-hash = "042d4f9d86d5382866b1ac151d42628e6f5dcb7d50a0d8fd35a4e580e469a85c"
+hash = "cabe8fb83bb069431798b84da7678892ac2bdaf8b6100cedd9c2744efdca3c08"
 metafile = true
 
 [[files]]
 file = "mods/sit!.pw.toml"
-hash = "def501315e9a9e64158bf09267c070a952529939d494eaac96baad0cf9455d8c"
+hash = "4f9e06263d17a6ae3bc46c78d5a79d09ee55202d261fd15c505945a89259486b"
 metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "b2438d0c5776f221374ed31bf8b2176274aead4ee58cb3a5c0643b998a2d41da"
+hash = "4cb5ac541d7f72b33a4b406bd4695b7c731b5a6ce65cc38fd4ca7532f689cb3b"
 metafile = true
 
 [[files]]
 file = "mods/smooth-skies.pw.toml"
-hash = "1598dd205de0948591eb17af819482ad9a27a8848eabeface61095fb1c85bd6f"
+hash = "0d238baaf782aff861e67ec8ed33902941203ae4d0685410f59ee657cababf13"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6c1e39822b75339afddef8504a135345c119de71004ca135c442eeea4088d475"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
 file = "mods/sooty-chimneys.pw.toml"
-hash = "455e8e97d9f3e1614cada30012763c3a0cec329c5f0323796feea884361ba5d9"
+hash = "081062cb61b5528765c12c29802e80b4ea656d58302a1f2ae19117ac2dc6eebf"
 metafile = true
 
 [[files]]
 file = "mods/soul-candles.pw.toml"
-hash = "82a5aec14a1a4df4abee8bd9ff4944de5486f55d7c19ac21e0fb19f49760a4f6"
+hash = "af656bd6cc5a852506c844dd65fa140af1adcbf196179d4427996602bff3334a"
 metafile = true
 
 [[files]]
@@ -1047,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
-hash = "a9ea5f14e0692d18b942ecedcd787437a8089dbdeb307e3c016b71db0388524d"
+hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
 metafile = true
 
 [[files]]
@@ -1057,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/unloaded-activity.pw.toml"
-hash = "852560445f4c0ea1ff1486149861fce36f4755dd2f20c63c86a3f1f98557be94"
+hash = "b1d101fefc05ed0891af7d42c4a30b1b4d0d1fb2d7288f5ebb9416af2632c985"
 metafile = true
 
 [[files]]
@@ -1072,12 +1067,12 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "935be1426f9fd50cf30a6953142eb490cb4b445e1739d5552d074828b69e2ba6"
+hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "52fe379cac9fc7ea76fd7c527fddfe50f0c48fa5aef351acca40bde83228d185"
+hash = "85e218135c26643e5802980d2f0bad5f6229e96d5231471f5a1b249520e7e8b3"
 metafile = true
 
 [[files]]
@@ -1109,498 +1104,6 @@ hash = "b62f7e0e450ad3dd9dd1fbcab5ca9df88bf50c59f1ebce75d97c5ef8710788fa"
 [[files]]
 file = "resources/datapack/required/bundle/pack.mcmeta"
 hash = "2df89a377d53ee7c4ef481a5e6ccc7a2ca0258a96fb19cead422490d5c36f3ce"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/advancement/starting_gear/grave_goods.json"
-hash = "6d227964a85e2d82b4679661f34e57a4228b710f11ec938c0acac4e3563fc0f8"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/advancement/starting_gear/heirloom_coat.json"
-hash = "2e758f90612b9c7c8947c220467f4cacea907e3664633ce013a0ea2c8359e6a3"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_axe_buff.json"
-hash = "b9fc7bdb65e7a12313aff34cb2da42fa8c99e9f9b6d264ea69063d924aaa8d11"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_base.json"
-hash = "347a791968ffb088601de8e4f7ca9e68255a209285af90d27999b422c8a6ee5c"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_golden_boots_buff.json"
-hash = "b5ce25914653cd7c9a90b481854b8a45aab923dd599e28d4b87ed92d0a01d65a"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_golden_chestplate_buff.json"
-hash = "7938f296ea20f7fb262246af4fc7338e945b47079b98d9200f0615acce85e124"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_golden_helmet_buff.json"
-hash = "c5d02fa4fa7fb47dc09aae9986612f3b326b71ed0ea87df776587df151404639"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_golden_leggings_buff.json"
-hash = "b008e26c24534db72a2ec876066037463a6035c342bf8057941710f2bde024c0"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_hoe_buff.json"
-hash = "6de9a3c546ac5078052c2f75b02e67a396cd7decdac8d1679e7629605553b4ca"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_knife_buff.json"
-hash = "8ce283e45b8ae016be858d6c74a6aa7f81bc7af166065819f3aec00701839e97"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_leather_boots_buff.json"
-hash = "1e3c47a302c6e0bacd67dd3c1417fb9cbba45fafdb777844dfa72b994187faeb"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_leather_chestplate_buff.json"
-hash = "4e74ed340a353f25c26af81a23683c406aaa8a6d7db14c5f76036af0280da280"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_leather_helmet_buff.json"
-hash = "79a39ee8a641e2bc5fb6cf629a8123e07647d0f44b6b0f79a34e1e145db7b7ec"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_leather_leggings_buff.json"
-hash = "349d7b51f67a1f62c6d9f98ca9a62dd476f643ee7ed1d18a1dea7640f67a8b73"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_pickaxe_buff.json"
-hash = "7935a0e31682b26110396fedf386e1332369c458a3ba5e86be0db17719b8fb9a"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_shovel_buff.json"
-hash = "d39eb66ebc8d549bab5fc537d03628293b554a13de13d6803e39b48ec3c77482"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_sword_buff.json"
-hash = "aacba3eb8c148ec1fa054c97c80eed106556ad25ff61bba18a45033a6de03d1f"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/avaricious_artisan_tool_base.json"
-hash = "a680fcf6914b2a3eada2988ba3906fc0e13e3a0f67eee6910ba8c2198ba067dd"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/fireproof.json"
-hash = "995747e73d68c52d43d153becf7873f7a3b7fb3fc4623f058e3fa139f1994610"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/item_modifier/heirloom_coat.json"
-hash = "6365fe44704a6620b2479fcc8a6e5b3ab6c91411c92a4fb9bcd98c16fcbfbb99"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/loot_table/advancement/grave_goods.json"
-hash = "088a0dbabbae33da5ce2cfa4bcb156ef5f677415cce7d20254f0d00bf559c841"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/loot_table/advancement/heirloom_coat.json"
-hash = "d800604ad06869e793bc801fe53d2551549e5f361bdda712143ecfbe0081afdd"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/amphibian.json"
-hash = "6ec5c9fc1761317636a6dc91c063cf94b05190cf100d09a9c0a3f7f12fcc92f5"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/avian.json"
-hash = "d88f10763dc6df36a53da71d6c2d73f4dd70fda43b195db1eb07879dc9246c44"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/construct.json"
-hash = "7a8a2be0b4854196ea215e61dd963db78f0ac017ffe087df95b162270599f579"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/critter.json"
-hash = "c56d6b6dcbde30c5a3c937d946891175bad5e9ad9b09dae4bcf7e1e73d0439a6"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/cured.json"
-hash = "6cef146cf4646a066a914ef0e4b5c485cb89acbdb3fe10d596cb00ced8f1e272"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/insect.json"
-hash = "b7857691e90107d8a40ae4c7ef53eac8f9940ef894b4af1aa316be3fafcbb3af"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/netherdweller.json"
-hash = "8f7d48455f7b87eb9de1701226ade130c73a4ed3ef6c826e7f243fd512376489"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/outcast.json"
-hash = "856c602f9e2e3bc24ea2c6e1081b15a4c4c8cf26645463e9b0b71d72ac5f434f"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/slimefolk.json"
-hash = "23079fc8a945b1d3dcff6c8844032471c84e8313e8f4e39122cbc38aefdd3308"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/origins/undead.json"
-hash = "7bc6ec07e99aaa32fa1473c6da7f013234c5f9aa71fc17fdffe7954e7c7db229"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/animal_arms.json"
-hash = "ace0678d0217cdf99682cd68f61257371ce05fb58a063b0db20b58540b3cc986"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/aquatic_taste.json"
-hash = "bccbbf7e373d446e347a40aeb445406cb0d4863e57d0e2f12ef336a0f05fe9f6"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/arthropodal.json"
-hash = "ef368307bcca5dc7ba32cfd4ccf12cd5055d560563c2d7a4589feb157e40719a"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/avaricious_artisan.json"
-hash = "5b3d50265b2fd2f2c22b559c0e49c024de264686dc29a7e94ee8793a964606d0"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/basking.json"
-hash = "9ec4ec65f8b6c8d54297a058c135500123ba771001fae7db55d20d849b60333e"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/bouyant.json"
-hash = "65766acddb2006a470ea4701211369c846647d175596c0cec2110366944aeb2b"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/brittle.json"
-hash = "6ab422d8a2756ecd76aee73d2fc30dcec0493c0c56e73ddfa8ba89056606e834"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/cold_sensitive.json"
-hash = "4fd93b1d4e7f7b35bb93e38d581e177aa00d67e0d5948dce07c6a16d6cdd36a1"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/combustible.json"
-hash = "9d6d8ef011b0fcda1e617011d87a912c4b5b786b358df292eb7e2a189c5a84a6"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/dead_again.json"
-hash = "56d7d06b0c423f4ebb82bf788373dc0e4d6b5b30dd67856095f0cd20d26f01a9"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/deadeye.json"
-hash = "c81952228ac1994459171f44b62d574ecb96fa788599466f96e7adcb273bb751"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/dense.json"
-hash = "43948461125a63b6446a7b2671508a494291ccd4fd3ed829cd6551026b2e3b6b"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/durable.json"
-hash = "8e5827f43bc2f332c737dcdb91f53c752d970a9aab6e5cd8bdfeda347266587e"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/equestrian.json"
-hash = "9bb73fa0a702f3582c3dddedfb40cda2826ffcd07500c15b766a23cad7811ea8"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/feeble.json"
-hash = "349b66fd5dbaf4007d1e88022da93018c1e038cb3391ba06667ce9b8843afc2d"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/fire_resistant_grace_period.json"
-hash = "09316b768527b7aa291ec5a9f908a1f40eb59906bedcb19aa479c02c175ebb8b"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/glide.json"
-hash = "8421bf3bbd03fc385f3f4ea411c4f4336199e6d84f48ecbf90c5c17da9b21d67"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/granivorous.json"
-hash = "47a34240e765c6412009213c6f04ae7706f7a2ff28bca4d0f65634481a8bf541"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/grave_goods.json"
-hash = "b31812f7691c041e7cbefb7458136410e0edb23b6b5579e85c9307b4036fbf2e"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/heirloom_coat.json"
-hash = "a219be52c680ce59c0023277c76361b33a4c1c49ad36f6a00c9cafa8447d715e"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/honey_lover.json"
-hash = "dc36ca1ed0cf7ee969df93dfade9fd12ab15725dab42f8cfa7aed816703f4586"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/hydrophilic.json"
-hash = "7c3637cad9da95d5731a0a8fdde76a894baf35fa560f83bc7314bbfc1412b49a"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/ill_fitting.json"
-hash = "a2adbc3459b7cf627549d630e9d5b9137e23ad1dfe1c662cc332ca6dda5118e9"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/infernal_secrets.json"
-hash = "fef87fc9bcc214982aa867b291e874952417f3d5c280810d8de6cd8568687e28"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/inorganic.json"
-hash = "38fb29c1b44e89c1ebb8d147643337b19c26e14009d11c43dd97c2a31a6fa548"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/insatiable.json"
-hash = "ef070606819e773601152f70396e4a67844b8cd9dd1c76051133e83bb87d2d57"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/inviolable.json"
-hash = "d8ace18f570fd7480d6610bdda1b8ecb75b6cec401fd79d3bddcbe0f1aa507ae"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/necrotic.json"
-hash = "c090c589a0471eeccc6d2598750761739daf4690aadf05bae0b2e8bd8bd69181"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/permeable.json"
-hash = "67150f38660723a275c47b7d69d974f5037946788417f665da78f379aca3db12"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/photophobic.json"
-hash = "e471448f9af5fac89120221b50d6e52634c9759a71fb056ca415876d6c5b1a67"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/pyrogymnast.json"
-hash = "6b1ae5df6b8dc96635867b0083c06a822af0bfc76450f01a4df8200d8524a638"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/ravenous.json"
-hash = "47f85f0c3d9cef9da4c3672ca41d2d4c9e9a3cbd1222d3afd44b9f8a51bf4632"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/repair.json"
-hash = "7a9680e6ee60fa6b5901942714637dd5fee84fbce72aeae0faa4365685bca9ac"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/savory_diet.json"
-hash = "9ad6c573506966f94a1157344716633fd83f7dc2751cf435093304f83b7e2c34"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/scavenger.json"
-hash = "2a1d93370fcc4bbb158fdd90cc360ecee6a30e030f02435a313dceb9d2428c6e"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/semi_aquatic.json"
-hash = "de15bdbd9dbe10dc3dbfaf0b1c13c2eff242e60f4af5578c07e1c7adbd886fb8"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/shock_absorbent.json"
-hash = "c58c4367ba1bc412af8662a039ec4c5e4f54e8cdc45a8310fe14cefc82ac7402"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/shunned.json"
-hash = "b6c57229ed5bd0560ab2d8f6ae358b09d712f1cb24e0d6359137ed6c1a3561b9"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/small_appetite.json"
-hash = "548011f4d4012979f322a2cdc895a95c0183d48b64c9f564893dd7be5a9ab02a"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/splat.json"
-hash = "84727da0950bf862dccc1cb50adfb3b014e9338a5a185554e6fddb6b31d11a9c"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/strong_legs.json"
-hash = "e6da5591fbc45c61cc4ad9f911d46fa1ef65b279c68ac56a40092c8dd25aa8f3"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/taste_of_home.json"
-hash = "619486c14abf18263d316e9ad794f2137e5899f34e778b8b6da35785b9e3456b"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/ultralight.json"
-hash = "532ed1d8d57a7a288d99b24b932ac2d17579b95a3621651755ac582df5895b1a"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/un_undead.json"
-hash = "25fef3dd057eff681742ab9f973f7a74b0fc2c8702bfea5cc6f4abd1144a9696"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/updraft.json"
-hash = "b4488e409896f8856cf3cfd4b497d85d5ee825167d73ec0b184e7a7404af852e"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/venomous.json"
-hash = "bd459175f37f44f04ead6959d75b25bc651207e87a5fb6e4b34630e96a9649f7"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/warm_fur.json"
-hash = "c2e0b57411f5fc53d944e6ce4c0c55fa5a005133693ff4d0ac444fe76087919a"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/wet_slap.json"
-hash = "16538193435499faa6ffb4629a1a94d8d5b0e99bcb379667ac30764ff33e5814"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/powers/woodsy.json"
-hash = "d04a0c16e1a16089a098218a198ae296e0ce257cf3e2d80a4bfd584a606206fc"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/basking_blocks.json"
-hash = "babf1c9b553de47d0f5946021be905c59919211670f41360150803b77328188d"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/basking_blocks_when_lit.json"
-hash = "2143d778748e435bd84188e4cf12b1da4887bbc70465d90397918b65e446790e"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/infernal_secrets_mineable.json"
-hash = "53d8987e446ef63e73c04f65bab60844a14a9a3bccfe68e297ba7cc3dcc43f24"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/inorganic_prevented_blocks.json"
-hash = "5aa8c40888ed77d9c23e544204921b639bffa77e367bbb902dcaa3ff432b6957"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/updraft_blocks.json"
-hash = "babf1c9b553de47d0f5946021be905c59919211670f41360150803b77328188d"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/updraft_blocks_when_lit.json"
-hash = "79198c7bee649e5bbf8a0dfe48e1dacdc1239897aef80e9286cc6920012646a3"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/warm_blocks.json"
-hash = "bf7e2c043418b172cc455b19fc394a019a95ce4b6af1c91be4b57d1bfa82793e"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/warm_blocks_when_lit.json"
-hash = "f130baca00c9dce49121af6d6410e36e1d235482d19a3bb3e38cfe7e524078ae"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/block/woodsy_hideable.json"
-hash = "6cd4e165cb00eb6635becc50fa158b00f42dae6e2205718afe9b89d449daf3a8"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/damage_type/brittle_weak_to.json"
-hash = "c14c2d453d81aef3f1127739f5d7b8df0a86f9a7e760919f90b6bc77e365c023"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/damage_type/inorganic_immune_to.json"
-hash = "ff53f12f99e3ba0bacbb893170224ced8e898c3433daeedb0367e0f0f5312b25"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/damage_type/inviolable_applies_against.json"
-hash = "225e1e5de2760bd3d1023460c1f4928a6c6820ce9c547255f8b74160e123f07f"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/damage_type/splat_applies_against.json"
-hash = "bc8ef1fc17df01c97badc6123cf8d632a453debd405ff088ff773f8737bca812"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/entity_type/entities_that_shun.json"
-hash = "67729caf4efa3e764a2c1ea98b0b85e61bb34ba13ec37113150aae2aca0d7881"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/entity_type/scavenger_foodsteal_immune.json"
-hash = "bb66caafa85dd18589db9dab594b90b85128b207c9d7ed7042f5b9fe8f171bc6"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/entity_type/scavenger_lifesteal_immune.json"
-hash = "0a9c446057390f6dd67403e300a29a18166efaaf95975e26734003ee09f5d2b5"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/fluid/basking_fluids.json"
-hash = "f7cf09ce6e0ef5724b68a8535afbe512a9b255f9276fdb0a174f90fde7fab5f0"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/fluid/updraft_fluids.json"
-hash = "f7cf09ce6e0ef5724b68a8535afbe512a9b255f9276fdb0a174f90fde7fab5f0"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/fluid/warm_fluids.json"
-hash = "9b2c139db29a54f30ba40ff6c8579b28c3f144f07f7f698a012c05e7316a5ee4"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/aquatic_taste_preferred.json"
-hash = "18fe5258dd56c42c92942a0010cb113100bc8d4578297b153e3cbfb5010f9c33"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/aquatic_taste_snacks.json"
-hash = "3cd975417bb86aee1255ca7bf15bb07958d3b5dc43944e7d094aa70ed906cdcd"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/avaricious_artisan_modifiable.json"
-hash = "bbf587260c8553ee932a7bb2cfd6f8a60c3dc3ead438a32c9c3d22d0f604c206"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/berries.json"
-hash = "ac354b24cd21d593b42c143aa1f3f2a81533557c16fd80981a21b2ea4947d04a"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/fruit_products.json"
-hash = "c6137c525693cee82fa95fd20a8e1b212d8acd53ed00f080a8912d9c1f8d1209"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/grain_products.json"
-hash = "3010560078fac4bc2e61b993def5b5a936ad2ddf5b987fa019a3ecfecab15ca8"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/granivore_harmful.json"
-hash = "b0e442683dbcfa8ecfb2092bfac003143271c39d194bd7f84d9516b51846dadd"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/granivore_preferred.json"
-hash = "ffa4eee1fc0690f6c18250cf70a7d5ea66020a83874b0b50c48d7bd6ad935bf8"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/heavy_armor.json"
-hash = "1ff2fa0facfed1696ed824fef204af0f35a8ff5cddf743c91c6decc0c5e9d795"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/hydrophilic_drinks.json"
-hash = "7ab160c52f842569cc148c731527830c64ac5e3e0cf142616890c5bf9824d514"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/hydrophilic_other_drinkables.json"
-hash = "c59b63011767a163d408fefe897a862ba9285ce095ba8ceee1ff94a50ec6779f"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/inorganic_prevented_non_foods.json"
-hash = "a62a7dc33876005b33b375fc998594a68b77574245644e3ad5c7f505aedebc58"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/insatiable_no_speed_buff.json"
-hash = "bb82695e52e5a29fc4adb85b6e9c17a8f5dee11f163279f6cc920052fada74fa"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/nether_foods.json"
-hash = "b53ccf90bae3e03e69b485a6ab546a9adf9fab113ee6ac4ebc68e3ca3df56dfc"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/ravenous_penalizes.json"
-hash = "236f5e08c5f2c252c36a7c8b548fbeccbfb8d766ee44a02f45bf1186c510c59c"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/repair_ingredients.json"
-hash = "86dd5852008bda9d3db9531abfb78f98856fe811f3510c9f18add39d05df9480"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/savory_diet_exempt.json"
-hash = "dfce8e03f9e96cf448d629182b629a97388109dc78ad48a2019d039e28c8ec33"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/savory_diet_preferred.json"
-hash = "7c7511251b98c3b4cc1ea6b617c7d46da3464e7dd37bc3288091c07ba3429b70"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/seeds.json"
-hash = "6e39da9ef3b583a0c97dec425d9d1d109861571bb132a23f7c61a8cb05a96c37"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/taste_of_home_preferred.json"
-hash = "eb28c85190a602494f5a54d35600654886d174e32bee78d5e114c82cdee79e2c"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/maddy_origins/tags/item/undead_cures.json"
-hash = "8b55a713e67dc77125a7737f66c912347184a0966e9b4e83bd611a48963b1ca8"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/data/origins/origin_layers/origin.json"
-hash = "be96b8d7de00148ddf11335aa801399dee00ff02a85f7bef28d4f93ac94c5525"
-
-[[files]]
-file = "resources/datapack/required/maddy_origins/pack.mcmeta"
-hash = "46af43c6ee3256bb80925fbe0ca5a1c3926318938d73cf84509d2d17f3d4bb0f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/furniture_hammer.json"
@@ -2207,14 +1710,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "3d7da5bd6ef2fee2a12dec179fa23d9605db7e8129b03f2fa092f1177cdead26"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/soulblight_hyphae.json"
-hash = "d3c21fd8322137ca37ab8eb4e82b4f71a9c586452add51b9fb0e3eb7dd43aa1a"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/soulblight_stem.json"
-hash = "27293f8b77b1b7022c8688a1d8672dd0b876df52e613c6c4b5d0f601ffafda98"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/tables.json"
 hash = "f8fdb8940fb28d9802d41493ba7cfe19125149a52e29d56d04cca11162b12e71"
 
@@ -2287,72 +1782,8 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "173c047c27a89039728ca0807ae8e33ae04249febe50dc2bf42e01e42d760044"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_bench.json"
-hash = "ed249918939d3951aa72f5c2cbfb1d4c26bcfcfae3c962517312de9deb63e16b"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_cabinet.json"
-hash = "381cfb24b3e0384f7b8b11fb86587afb2af9527a8bbb4f03aae381a077ce0468"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_chair.json"
-hash = "9a06eb2f7db0caf156e57c1ac080c173a89564ff90859c68369e890fb159263a"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_drawer.json"
-hash = "9f0cc68a24dd3f6fc08c3f6f0a5480feec3d98772e3bbd113c509f42d3d3abbf"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_flower_box.json"
-hash = "d0243f44fa462e16c03b2e7f196ee23571f82ca7ddf3e7f9944a47d1dabcfcd8"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_shelf.json"
-hash = "18ac4aa861f01dcb18c4506f8ba76efae4ddc478b271131ecf78fc001f1a3f65"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_shutter.json"
-hash = "49a3b8bc5dd8ee2081ae2e653633bb3fc27f30c1ab90652cd9697e66ad052087"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/soulblight_table.json"
-hash = "451173da08593c52e1abe4a667e32131d190f9a6db40f08a4f9df1bc2181b389"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/tall_cork_door.json"
 hash = "c98840bf28a79794a3b54c60f94b551f98bd3f65e4b60be7954993e9c7f8fc16"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_bench.json"
-hash = "0baec09afa9df510a59910bb6e13f952f91707f8f591577dd0f5917d5a90b604"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_cabinet.json"
-hash = "2cc747bfadd055502e904a0543f5e9e827274882a7ff560ae2af9163ad24b97e"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_chair.json"
-hash = "b284b27d195d883c7463dde8dc5e815c438fff3d86d11d71a020ee2864fe2b03"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_drawer.json"
-hash = "ae6a38f76cb474b75d9f2029269e3b6fc91608bf74d79f59cde3057e4034e0b2"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_flower_box.json"
-hash = "db9252d7f9cbc292209a59ac0eb5306a98bc095095f1944cf6b325a866b94c8b"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_shelf.json"
-hash = "93806ce52d2949c7c7490667b798c42fa5f4b03e83d996b878d7a22cd25cc27a"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_shutter.json"
-hash = "716b3cac453a634a8cdf494d82ad803a3df4b0f2f4adb95fc83485e39703d71b"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/whistlecane_table.json"
-hash = "61ccbdfb2a91ba95b312cec571f89060b99761591efb67997ed7ae5a4d1df7f5"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fire_coral_block.json"
@@ -2436,7 +1867,7 @@ hash = "c02c06cabaedba508e23a09b05c2a4175640752881ae02d26dc5d36a7cc030ba"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/comforts_tweaks.json"
-hash = "f9cde7521ddd1fecd098e8764bb116295cb6fb5d909aa76ac526922e3058b4e5"
+hash = "9648efb4850773e3726b6a098153dda38450cb0bc3ae4482e1e7f67106250007"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_cutting_buff.json"
@@ -2445,10 +1876,6 @@ hash = "b50d9a1e8a6ebb216cffe702a250d12da705fdfaeedd0d4abf2ca5d67ac18c27"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/door_and_trapdoor_buff.json"
 hash = "c01b88f63ef4b282b2d63e4f8eb5962f46ad68e6d8df03511f2c8cc92390d85a"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/eight_blocks.json"
-hash = "3bdb6c2ef3c7d55ca68cf617331e0267b10cbc5735a0c4b8d53fdb108c1d8eeb"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/fence_encheapening.json"
@@ -2791,26 +2218,6 @@ file = "resources/resourcepack/required/Vanilla Extract Resources/pack.mcmeta"
 hash = "9bd5c4877efc86a8fd9588ef1be1ab6b5ab1b996c3e81b6c15ece17c8e642e3e"
 
 [[files]]
-file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/lang/en_us.json"
-hash = "00f1cb8e297703400d2889a4cec1ee41c6a25fad2e6bb03c93acdc2d9a35cda8"
-
-[[files]]
-file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/sounds.json"
-hash = "8e53d58b914b6bece6d38b9555affe595be28de71f75fb6e7b990e0a9a9ac318"
-
-[[files]]
-file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/textures/gui/inorganic.png"
-hash = "4db34048eaa29e8786fb6b761d71e6f21e111a84d519f0e566a77716ac439d26"
-
-[[files]]
-file = "resources/resourcepack/required/maddy_origins/assets/maddy_origins/textures/gui/maddy_resource_bar.png"
-hash = "98d6dd11fb24bfb4d487d48759e12af7a32aa2b0f0d93187e400971038858c22"
-
-[[files]]
-file = "resources/resourcepack/required/maddy_origins/pack.mcmeta"
-hash = "f6095c10826104c7a746802ece494ccd1415e2d9348e192ab4532afcdac97bfe"
-
-[[files]]
 file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/lang/en_us.json"
 hash = "b50b4e08096d22c5ed0bc367f7c93688d6d031f8a50a56af387e9922223609de"
 
@@ -2840,7 +2247,7 @@ hash = "c108e655bd3408a5504d196a2a56e42775f1c7fb89802fabc0c74dcc976f7e48"
 
 [[files]]
 file = "unsup.ini"
-hash = "cade40ad8975f48420b02134a6813ade31d49930a545fb7f3c0def344d86f9a4"
+hash = "a2d72e3c1bc0a3c1507dd5db2a58eb2d22c35acaad49b8d73d0bd5d9bec37709"
 
 [[files]]
 file = "unsup.toml"

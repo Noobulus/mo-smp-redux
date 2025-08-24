@@ -1,13 +1,13 @@
 name = "Copper Grates Bubble"
-filename = "CopperGratesBubbleThru-1.1+1.21.jar"
+filename = "CopperGratesBubbleThru-2.1+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NJiz0kE3/versions/NNdtOIRW/CopperGratesBubbleThru-1.1%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/NJiz0kE3/versions/ikr1f0fE/CopperGratesBubbleThru-2.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "f6cec9dce4802ce3303991ee431f1ef60d62187110ec4058b465d0ec181062deaa36192ababa48fbbf6fecc552a7eccd68ef8c59ecfa9c20070c43cddbb517b6"
+hash = "7e9ac8de5b67e46adfeacf4998a9940ddb024cc34760b33ab710642065fd87ef2ae242f3c4255551f659b780b01f57b80f853e08c9cb6148d86270f5570a1f1d"
 
 [update]
 [update.modrinth]
 mod-id = "NJiz0kE3"
-version = "NNdtOIRW"
+version = "ikr1f0fE"

@@ -1,13 +1,13 @@
 name = "Enchantment Disabler"
-filename = "enchantmentdisabler-2.5.0+1.21.1.jar"
+filename = "enchantmentdisabler-3.3.3+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kd03i2oU/versions/iE3X6lAx/enchantmentdisabler-2.5.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/Kd03i2oU/versions/IAFbBzYB/enchantmentdisabler-3.3.3%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "de10250b9cbac5248771a7624cb58bc5c792f583dd501e39d84e2e4c349dcc8929ee5f5eb1875de244c943f32cca421a32ac86ad9dc08be0e4e3bed20d3afc32"
+hash = "db265172949fe20a539675b8d9ddf5023d9b34a8207e7e616a849029dd093ca93c5119db2510a5d200ff8dfb8f6fcef799a45ebec899648e80c77d0febb552a6"
 
 [update]
 [update.modrinth]
 mod-id = "Kd03i2oU"
-version = "iE3X6lAx"
+version = "IAFbBzYB"
