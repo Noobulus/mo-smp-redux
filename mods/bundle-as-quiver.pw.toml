@@ -1,0 +1,13 @@
+name = "Bundle as Quiver"
+filename = "bundle-as-quiver-1.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IN9qauZM/versions/4u1J5yIl/bundle-as-quiver-1.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "4111fe06a369577c2e56246d42fe298690f42d0c93a884a6155543e0074616c3e7efaf587e6a5303ce205c8567318649ecdbb90a105593c8f57e997df699063e"
+
+[update]
+[update.modrinth]
+mod-id = "IN9qauZM"
+version = "4u1J5yIl"

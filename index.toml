@@ -418,6 +418,11 @@ hash = "08683f01b2e21c1080f5739bf837e5c85f92434be03396181d5c961976a83916"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "e8be4e218924eb431de30370f8cebf542c29ed287409011dfbef382a7e4f8a04"
+metafile = true
+
+[[files]]
 file = "mods/animal_feeding_trough.pw.toml"
 hash = "36b311ab2c828ad8c490b539ae0cffdac8438be7c997a71a1c782af924114c15"
 metafile = true
@@ -483,6 +488,11 @@ hash = "168009c9e42bde0e33bd898c188f747ad6acb7a90e7d32e4e9f6e7f46fb6ef5f"
 metafile = true
 
 [[files]]
+file = "mods/better-snow-coverage.pw.toml"
+hash = "44db26a67729a877227a72bdb0381655b14735158a76e485ecc2be1957bed472"
+metafile = true
+
+[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "7c06a70ffeb5acc38cb9f9a9b2acfb8d85d6ab7622e1b79a2b3d98c0730dbac6"
 metafile = true
@@ -498,6 +508,11 @@ hash = "e175d2ef1d5af85b8bc7c53dcf37fa9a7427317b91064af2e4e89ff0b0458aef"
 metafile = true
 
 [[files]]
+file = "mods/bow-infinity-fix.pw.toml"
+hash = "66d88f3565ac386ca5066464c0c9f24d4d36cefe860059943c6807fdff4b2a20"
+metafile = true
+
+[[files]]
 file = "mods/brainier-bees.pw.toml"
 hash = "cc3c46250286b41f429f69ac3a8e01e1194afc951cc77101032cddaccc051f12"
 metafile = true
@@ -510,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "4030ef46ebf2eb0396c9eb6c9f228fe6be4556be0d8632ef3d9e7d0f3c27b74a"
+metafile = true
+
+[[files]]
+file = "mods/bundle-as-quiver.pw.toml"
+hash = "9e8faaa798e6239138dea2d033b944a9534bb11e6a8646fc58633ff1cb6bd481"
 metafile = true
 
 [[files]]
@@ -738,11 +758,6 @@ hash = "019c40f64fdd60893a3bb19f0b6443fbd5b56cb2fa9213b0c9159c071cfa6fc7"
 metafile = true
 
 [[files]]
-file = "mods/fletching-expanded.pw.toml"
-hash = "cd5f5f30209824ae58962e72dbb1eb8253246806c2a3f05f8e7dac53fd92d247"
-metafile = true
-
-[[files]]
 file = "mods/florum-sporum.pw.toml"
 hash = "816cb0e58987e1f04a4ec8d823c3a17d83b8bc2600ea35801fb54e885da1bd93"
 metafile = true
@@ -778,8 +793,18 @@ hash = "46c06539fbad393a72ea2ebf7b90f5f683c5950c0c29d14cde4245729b488155"
 metafile = true
 
 [[files]]
+file = "mods/hide-experimental-warning.pw.toml"
+hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
+metafile = true
+
+[[files]]
+file = "mods/horseman.pw.toml"
+hash = "173ff766a371c2902734cec81b935904d4317ab17b4d04cb96c8a0a9bb0f4111"
 metafile = true
 
 [[files]]
@@ -817,6 +842,11 @@ hash = "a5409a49315db37eb8fde4b72dd462cb3f1c5430c0f6c5f76ea45920cc05a002"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "67d0b675913c729a030e9f37763320f07c263250fc64f2ee304fcabd17c79a49"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
 metafile = true
@@ -839,6 +869,11 @@ metafile = true
 [[files]]
 file = "mods/jump-over-fences.pw.toml"
 hash = "0db15f56207814686e16b3e33505d910e8294c2acf393762caba6ec004b7d61b"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscopic.pw.toml"
+hash = "055f89d55c6258abae8dd3de08fc47fbb3ff0d1e83ae9998b8a5fd4df20bca48"
 metafile = true
 
 [[files]]
@@ -1046,6 +1081,11 @@ hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
+file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
+hash = "9b5b2a56d545eadecab55e361a4516d1aa15ee8cefbad7cef0502b86f5fefa23"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8c79da2a9d2f8f4b628afada45a53ab709fa85e821c5c7071ae768ab57685d59"
 metafile = true
@@ -1068,6 +1108,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-skies.pw.toml"
 hash = "0d238baaf782aff861e67ec8ed33902941203ae4d0685410f59ee657cababf13"
+metafile = true
+
+[[files]]
+file = "mods/snowyleavesplus.pw.toml"
+hash = "0387ea304427777b08ccfda102d7852328f8a5bd656f4ff3ff408653cfadfb57"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Kaleidoscopic"
+filename = "kaleidoscopic-fabric-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EpJtowwl/versions/zcr0o6fT/kaleidoscopic-fabric-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "ebc630b3494865f7b21c3f55e1041cc465be77b9a565a2cd4dba899a31df4a68249383166548f19ec0597b204f849edbcb780f95a48718d00a6af18972a2bc8a"
+
+[update]
+[update.modrinth]
+mod-id = "EpJtowwl"
+version = "zcr0o6fT"
