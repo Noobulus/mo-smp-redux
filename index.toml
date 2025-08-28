@@ -98,11 +98,11 @@ hash = "76be96157bf939be7e76c05670568939db296daba1216dd80bd1a9a9feeeffd3"
 
 [[files]]
 file = "config/everycomp-entries.json"
-hash = "7ab8739b650a628fbe569df0d5bbf75661e9763816c25ac1722a6c6511d07c94"
+hash = "471b01eba03d8f0b06ad1632a9985c11fcfe80cb5e700939db25c272c74d1224"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "9ca4d692e8772bbedb2b6fb75910fb30b5761c8e24dc6e451af2ee45517c721d"
+hash = "49fc1a65faea5769e9bdfdd93cff5d9ec52fbb4cab28d22fa9fd03f8f731f3d9"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -1361,7 +1361,7 @@ hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "6a68ef669548e372392044be4fd9adda94c65d8bce78e8b754f16d8eac6353b4"
+hash = "b38c324502f55722c3ba44995a44b79014490c186ff2b9275f772ae15c65dc51"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
@@ -1756,6 +1756,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "973d141b7fde72cf3c83e79dfce149b6d637347c9d5029f50c5825604ccd3235"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/akita_plushie.json"
+hash = "2445eb810d79a9f8259c74a371ae9d8af0dc8e5e255a5c29263649e10c8a5ae4"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bamboo_block_uncraft.json"
 hash = "0aeb7fcc854345d9f423cd16afebea95d49a076d532429922cee6d6f54c6e09d"
 
@@ -1944,6 +1948,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "08f7179957680c535e6aa647ae4f30d3b63b756ce166001b084cb481c4d78175"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/miku_plushie.json"
+hash = "8f4b709f2b9704e297f5f5114a156f3470e648987d181a53cb14886a989b46b0"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/mix_brown_dye.json"
 hash = "5caa0f429e9cb85238ab62517621981504675d2529bf8b973eeb2d8c713c083b"
 
@@ -1966,6 +1974,10 @@ hash = "ec423ec1e54123566ace287d60a35e9cf214fb29790da5c9667f65cf945bdaa0"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/saddle.json"
 hash = "0a554e5c683bf1ea996924b67af9ba7752ec019f8d7e1a7e04d1c5475778ae6f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/teto_plushie.json"
+hash = "42103e9ff0915280e9a418a8216fd850a1b90ffbc76ddfcd7fada6539108d0f2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/tube_coral_block.json"

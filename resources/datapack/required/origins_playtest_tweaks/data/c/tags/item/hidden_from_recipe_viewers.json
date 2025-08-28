@@ -113,7 +113,7 @@
             "required": false
         },
         {
-            "id": "miku-plushie:miku_plush_uraotome_lovers",
+            "id": "miku-plushie:miku_plush_uraotomelovers",
             "required": false
         },
         {
@@ -149,7 +149,7 @@
             "required": false
         },
         {
-            "id": "miku-plushie:miku_plush_michael_meyers",
+            "id": "miku-plushie:miku_plush_michael_myers",
             "required": false
         },
         {
@@ -201,7 +201,7 @@
             "required": false
         },
         {
-            "id": "miku-plushie:miku_plush_xmastree",
+            "id": "miku-plushie:miku_plush_xmas_tree",
             "required": false
         },
         {
@@ -269,6 +269,10 @@
             "required": false
         },
         {
+            "id": "miku-plushie:miku_plush_dont_believe_in_t",
+            "required": false
+        },
+        {
             "id": "miku-plushie:teto_plush_dont_believe_in_t",
             "required": false
         },
@@ -293,11 +297,11 @@
             "required": false
         },
         {
-            "id": "miku-plushie:teto_plush_whatchamacallitsname",
+            "id": "miku-plushie:teto_plush_whatchacallitsname",
             "required": false
         },
         {
-            "id": "miku-plushie:teto_pickaxe_whatchamacallitsname",
+            "id": "miku-plushie:teto_pickaxe_whatchacallitsname",
             "required": false
         },
         {
