@@ -74,6 +74,10 @@
     {
         "namespace": "minecraft",
         "path": "recipe/scaffolding.json"
+    },
+    {
+        "namespace": "miku-plushie",
+        "path": "recipe/.*"
     }]
   }
 }

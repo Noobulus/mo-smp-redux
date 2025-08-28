@@ -5,10 +5,6 @@ file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
-file = "config/HorseBuff.toml"
-hash = "ddbebe1a8833b3717eeec13dcb214d82b5c66abf5c943676141d5a11ee9085b2"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
@@ -438,6 +434,11 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "9d72860b804991371eec905c5e5bc78d860656b23c6891119eaf9498c6bcda41"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
@@ -543,6 +544,11 @@ hash = "5d217c8ce2812fbb2661ab2a5637b5846a03bf5073de68ca5c2f1333e84bf25e"
 metafile = true
 
 [[files]]
+file = "mods/camphor.pw.toml"
+hash = "d0322f9aa5140965976ffe95bf035197eb413aaa2eccb516352f2241acbbe79b"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "136593ec659bd0d255a70cd1fa9ee8dac89f942915fc6c14f46d9c783e89341e"
 metafile = true
@@ -589,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "1520083f44709c6610aca316ed22116d187fbb34062eaf7cf382c1afa4acaf4d"
+hash = "a7bdd807416a497616ce9278dc2482639200b55cbcfb9cdfa8383721f1e32d2b"
 metafile = true
 
 [[files]]
@@ -709,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1acb7d6fcc39aebf23128e6ca4db027cb133e17330288530f8065024c9c5ffa4"
+hash = "e680418b7ffa803d1e71e0be1ffc7b67f07d00f574f06165c40030cc8fdf8b5e"
 metafile = true
 
 [[files]]
@@ -734,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f153bb989055178aacb8d919283a32697f7342ff2e244b883867e47fe94b28d6"
+hash = "0f07433e47a9e5d3d75c7671541bf522ccf94a213078c193691f2a78d12589b5"
 metafile = true
 
 [[files]]
@@ -795,11 +801,6 @@ metafile = true
 [[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
-metafile = true
-
-[[files]]
-file = "mods/horsebuff.pw.toml"
-hash = "8e380cf36fbc47843330009c395dc8992baa0da8a79c5d7edbf227d1947377f0"
 metafile = true
 
 [[files]]
@@ -897,6 +898,11 @@ hash = "68167641fe33832f6bc3eac33825ddc85f40175d9ab2941406e251a9a2534104"
 metafile = true
 
 [[files]]
+file = "mods/miku-plushies.pw.toml"
+hash = "506e5726a9bef2ba84ad8b34009ba4ee2d81453233bb3d8ac72d4bc2e1a8a276"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "2fcdc63bb2bf97187f3bd67787c4b3a880bf17f332be8c3839408c4115e50884"
 metafile = true
@@ -913,7 +919,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9fc2b9c2e3c7728243e9e73aea1aeccd56d64126b440131c834a9971c7b544cc"
+hash = "1b2f601ffcfd273fec45ae2ad828a7cdbd1a145229a3d1904ca1238bc24f8bf3"
 metafile = true
 
 [[files]]
@@ -1051,6 +1057,11 @@ hash = "a92309c5e01f4376f907deb5b01f05205e424908ade2bbac3238499437cd9d6e"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "432bd453b982cca6e0f96ab7fb3ca9ccc929ff879d20663266dcafe389660e37"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
@@ -1136,6 +1147,11 @@ hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
+file = "mods/spuds-shops.pw.toml"
+hash = "c821b1df86242f1b936a6b2c7772dda69872c840348970bc9c7153303265f0a7"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
@@ -1152,7 +1168,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ebff5e8a5c5d19a9d3de98df8b01c23871d5b8ac3b9b99c537a1d2e444748350"
+hash = "44d73161f4747c8bc983f295d15cbede2f1087766e241e45fef441121a7b2f39"
 metafile = true
 
 [[files]]
@@ -1345,7 +1361,7 @@ hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "81b773b6c07c39e60e46fe404411f54b4809aabbc9ea59e6c92c84a4792af253"
+hash = "6a68ef669548e372392044be4fd9adda94c65d8bce78e8b754f16d8eac6353b4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
@@ -2053,7 +2069,7 @@ hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "92d3b6fa957e46f27bdec6208dbb968b66ef552dae8dfa2e473163c3874c2595"
+hash = "907456354436a0a6d3dbf4f96a5da912d714090e8f2576ab78015f888e2653ad"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -2313,7 +2329,7 @@ hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "5e75b1f9a12e71f867af73ff3575460f1b5d780ce9dc01f1791c49c347976aa4"
+hash = "6390159614847acf6294a446f6e874a17586113f02beee2c0f00082ea4e6dcea"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
