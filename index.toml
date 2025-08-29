@@ -920,6 +920,11 @@ hash = "12dc31f0b40fee74b81e11fbb512b35547ab1da032a2af70219d2bfbf614b326"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "f531a8ee70e9d78ee62a84e3fd18088070dcf8f2cee2384a8aabed16dbfafe6c"
+metafile = true
+
+[[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "68167641fe33832f6bc3eac33825ddc85f40175d9ab2941406e251a9a2534104"
 metafile = true
@@ -1012,6 +1017,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
 
 [[files]]
