@@ -970,6 +970,11 @@ hash = "0a4d37d3b34b91f3ac40f179fec944283dda268bde6b5d917df8df48004607f3"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
