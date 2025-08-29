@@ -1,4 +1,5 @@
 {
+    "replace": true,
     "blocks": "#arts_and_crafts:paintable/carpet",
     "mappings": {
         "arts_and_crafts:white_paintbrush": "minecraft:white_carpet",

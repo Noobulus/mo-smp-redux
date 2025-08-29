@@ -1,4 +1,5 @@
 {
+    "replace": true,
     "blocks": "#arts_and_crafts:paintable/chalk_dust",
     "mappings": {
         "arts_and_crafts:white_paintbrush": "arts_and_crafts:white_chalk_dust",

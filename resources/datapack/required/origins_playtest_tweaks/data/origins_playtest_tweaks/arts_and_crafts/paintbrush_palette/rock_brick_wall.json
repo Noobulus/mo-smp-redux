@@ -1,4 +1,5 @@
 {
+  "replace": true,
   "blocks": "#kaleidoscopic:rock_brick_wall",
   "mappings": {
     "arts_and_crafts:white_paintbrush": "kaleidoscopic:white_rock_brick_wall",

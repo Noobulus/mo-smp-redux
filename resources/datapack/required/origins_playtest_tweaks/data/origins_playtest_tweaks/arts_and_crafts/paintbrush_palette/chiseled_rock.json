@@ -1,4 +1,5 @@
 {
+  "replace": true,
   "blocks": "#kaleidoscopic:chiseled_rock",
   "mappings": {
     "arts_and_crafts:white_paintbrush": "kaleidoscopic:chiseled_white_rock",

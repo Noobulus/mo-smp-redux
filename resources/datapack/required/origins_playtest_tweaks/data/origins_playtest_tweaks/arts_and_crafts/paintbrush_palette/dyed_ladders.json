@@ -1,4 +1,5 @@
 {
+  "replace": true,
   "blocks": "#kaleidoscopic:dyed_ladders",
   "mappings": {
     "arts_and_crafts:white_paintbrush": "kaleidoscopic:white_ladder",

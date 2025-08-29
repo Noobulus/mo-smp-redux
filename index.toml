@@ -1728,63 +1728,43 @@ hash = "7d42c636d274fb69c565759c30006c30ef8569c12755db369e9288f1a4370e10"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/bed.json"
-hash = "481e528271aa2b451ef2d4efa084dff0ef811cb1a2d09e6f06df595b171fdc0b"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/bunting.json"
-hash = "e21ff742ff08680585dc2fef2392aa5f7348b4d626a0c09025c1c0b42feafff4"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/canvas_signs.json"
-hash = "e3ef87238d4850abf3c2f42e56cb739b093a0d995071eb2744864a6d41d6ad18"
+hash = "757e476f4b8d08f7121ab53ae7a87dbc4c362018805e1a783582a389cfa9468f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/carpet.json"
-hash = "b17d002a8d09f89a2183c1cd656587163cc5b85df447d12b01e4fccd9c6e18fb"
+hash = "ab03287493b46a62f2d2380b2de727cc699f8201b1e5bea2a1feb9c4cb98ad84"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/chalk.json"
-hash = "550b7bf5c29bf6f1eec5882461ee1b67a962493f923e15cc44f86cc0ea56a66a"
+hash = "6f25e135b7622b9e178cbaab75a0d5fb70007938f74d0be92a5e9ccd170f7384"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/chalk_dust.json"
-hash = "ac878d306cc3b82c0c23f9341d0a5abbafaa21fc91968ddcebbdc26a14f77197"
+hash = "e24400415c0172ea6f6cc295e9d5ad2bde59fbf3a5a0fba1ca1f57894f2e27e0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/chiseled_rock.json"
-hash = "19977ca1c98563ad14f4a6b1ba8cfd18aa5f50065163c289b36b036f5977679f"
+hash = "f344b238a2da7a23359c94f78f87c6e555c1a8084bb562b0a798a2e128b62b4d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/concrete.json"
-hash = "eb5d874621f65b64d5b575a9dde34c348ccad47fa3463703d251c62db1f05d65"
+hash = "e17042f166d90f37ef7b16048c2ef101eee8d7c9f4c535e0a6f3bd3f619b9835"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/concrete_powder.json"
-hash = "f2e190bc6b7e26b6a35bcf95b48345334a481300f265385c254a905f060e9527"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/curtains.json"
-hash = "6fbd404acc55cc5b9ce682952a2832856c2cb771108f2cc7f7a8bd0d26af6368"
+hash = "45c0405771cbd8ff1f499ec4ff73d27fee0630ccc7b38362c7b2c0a6d7ac8ce6"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/dyed_doors.json"
-hash = "2369afab02d544df29dc03af49fb7f47c74f37e6616f93f4ce0e9c091a8e4375"
+hash = "6adb414de44b1e1b59a66facba45159e37d69711eafed588a9b5a389a462d8f7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/dyed_ladders.json"
-hash = "f9cd133d1035b8b0af7c2bccae23a05e1ec2120ff8e1e6f705c53cd01c7110fa"
+hash = "2b7636d6060deab916fe44df448ad3f664d98f386d584853f4517910ac588ed0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/dyed_trapdoors.json"
-hash = "0e5df01dc706fef828dd1a9ce6c82aa20a02b4de3a0087ecddfa3f4200339f87"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/hammocks.json"
-hash = "d2d796103b69a813071875101d948a831234318ab501a76d1575ce62a6634338"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/hanging_canvas_signs.json"
-hash = "02bfaf28078b6780e7a777d9b46249655845813e7295febae085f65c63ee263d"
+hash = "c53fc17efbc12afd114b933555cf204f17e2fce818a2fc60967cd52c114eb800"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/lamps.json"
@@ -1792,43 +1772,39 @@ hash = "57d304e607dab246da1f1c925a4c17f7d86b2169e820d13c1079d86ffc52fb13"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/rock.json"
-hash = "480bd45202a18f4ae33faa9b1478e02a4f8bf8dbe6d56fa87e5211b6fc15b1cc"
+hash = "65aff12061d204f523029a0cc7367db92f9f3eac34b49c69abd6b57dc614101c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/rock_brick_slab.json"
-hash = "44bffc16048850398ce5840f741f878ea6bb7295a457eef1736f650b061a914e"
+hash = "7a55c39f9f0112640732bdcd3fd3e01d0a453fca02ee97757b6ca10bb22e1568"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/rock_brick_stairs.json"
-hash = "4d813c29f72b51f113a5ccf311d296c7aad615a6b81639f4b7d9096edefef2d0"
+hash = "d2a95cd5cdbf88d1d75778892ec8fd9152a072d3d033734e56a3386289c17833"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/rock_brick_wall.json"
-hash = "a3630dfd02cf37360ba348315726b67dab0a12ef51228fea8c80c9ce6f27d3be"
+hash = "a744790693a8e9b237d4d5a8009c37b886285f135d872d531763de65a38c0bc2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/rock_bricks.json"
-hash = "851d4b6f4469ceafdb0d06e6617995edcb23eba84dd7e04b664b14621cf6a04d"
+hash = "09b49c5e9b1f0a9966d2e3039b7277854e44c59faadff1e6b7bff951d7bc9060"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/rock_slab.json"
-hash = "9e3dcd653ef4bbc095ca92795aa6f125ce3026a7b2b8c709567ce7ba5c4b1dd0"
+hash = "9a0313a70dae8bfd3fbcd6c4e36186a57bb2c4e06f751de8f7ce73c09493fdde"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/rock_stairs.json"
-hash = "bf8f4fbb89cb89b22dbba29dab69487e054b59c3da55f3ab291dd093e780c05d"
+hash = "44283d6526918923c81d347169c40b172acde4b0ca2f92212639bea16e6df27b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/rock_wall.json"
-hash = "6c195c0f28417e2117356621a8c5464ea1d78422935538b695d09dfd94fd054c"
+hash = "7265d4e644049884c7f15adf43cdc500c0bd646daad05e038c98e120985146bc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/sack.json"
 hash = "2d399c037637e5557eb2e5bf417f28d8b38c9d539084e2680e7abaa733a85af2"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/sleeping_bags.json"
-hash = "aa2e4388777423f3505ba40f6746ee32c36e0a92b67cc86d0cb76b7798fc9190"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/sofas.json"
@@ -1844,7 +1820,7 @@ hash = "4ebe3ed2c073f6755d880e35674e3909a6363a81344ef37fd73125591d0a5aa3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/wool.json"
-hash = "bfbcbddeaf2df3337f97ac814f9ee3749eef1100fb4ad37049941a0059e1c14f"
+hash = "8096015b4da0e9390412425c81880407b0fd64bc0a49f6a40ff65543bd2898d5"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
