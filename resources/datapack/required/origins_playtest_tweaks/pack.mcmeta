@@ -64,8 +64,7 @@
         "path": "recipe/scaffolding.json"
     },
     {
-        "namespace": "miku-plushie",
-        "path": "recipe/.*"
+        "namespace": "miku-plushie"
     }]
   }
 }

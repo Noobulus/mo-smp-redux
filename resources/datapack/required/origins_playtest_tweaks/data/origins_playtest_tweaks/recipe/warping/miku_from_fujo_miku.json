@@ -6,7 +6,7 @@
         }
     ],
     "result": {
-        "item": "miku-plushie:miku_plush"
+        "id": "miku-plushie:miku_plush"
     },
     "dimension": "minecraft:the_nether"
 }
