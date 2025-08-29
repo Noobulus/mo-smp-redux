@@ -898,7 +898,7 @@ metafile = true
 
 [[files]]
 file = "mods/lib39-1.5.2+1.21.1-all.jar"
-hash = "5cd0188ec063b55fdbfd7432b6f631a3529944b998a8487050a1eb63ab7cef7d"
+hash = "636fdbe7551ab9d91fc98aed3f2106f2e6e5e84a23f07c31b01cf0aaf0c006b4"
 
 [[files]]
 file = "mods/lithium.pw.toml"
