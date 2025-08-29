@@ -897,10 +897,6 @@ hash = "ecedc62ed0891e9f732f88e4aeaf36aaec85eaa305770d3cbf218b49367f1e51"
 metafile = true
 
 [[files]]
-file = "mods/lib39-1.5.2+1.21.1-all.jar"
-hash = "636fdbe7551ab9d91fc98aed3f2106f2e6e5e84a23f07c31b01cf0aaf0c006b4"
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
@@ -924,10 +920,6 @@ metafile = true
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "2fcdc63bb2bf97187f3bd67787c4b3a880bf17f332be8c3839408c4115e50884"
 metafile = true
-
-[[files]]
-file = "mods/mnemonics-1.4.1.jar"
-hash = "424fdb4b28f7049627b23d0fb0b7b966ee958f21bf82d7e0485026235ae9edbd"
 
 [[files]]
 file = "mods/modelfix.pw.toml"
