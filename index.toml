@@ -385,6 +385,10 @@ file = "icon.png"
 hash = "83ca7f56511682fc315a87b118d187f3109b832847bcfb66c3376250e82c4991"
 
 [[files]]
+file = "mods/OxyTools-1.1.1.jar"
+hash = "00c2debe66b37dda6b631fb02b4130a25eba3f4d86eb28e09e66754337d4c28a"
+
+[[files]]
 file = "mods/ShowMeWhatYouGot-1.21.1-1.3.1.jar"
 hash = "0f7038a12a9ebf586426c75f15fdb537ba4269083529400fc29b854cd190939e"
 
@@ -893,6 +897,10 @@ hash = "ecedc62ed0891e9f732f88e4aeaf36aaec85eaa305770d3cbf218b49367f1e51"
 metafile = true
 
 [[files]]
+file = "mods/lib39-1.5.2+1.21.1-all.jar"
+hash = "5cd0188ec063b55fdbfd7432b6f631a3529944b998a8487050a1eb63ab7cef7d"
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
@@ -916,6 +924,10 @@ metafile = true
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "2fcdc63bb2bf97187f3bd67787c4b3a880bf17f332be8c3839408c4115e50884"
 metafile = true
+
+[[files]]
+file = "mods/mnemonics-1.4.1.jar"
+hash = "424fdb4b28f7049627b23d0fb0b7b966ee958f21bf82d7e0485026235ae9edbd"
 
 [[files]]
 file = "mods/modelfix.pw.toml"
@@ -1856,7 +1868,7 @@ hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/plushies.json"
-hash = "309d223738ae02fef882f2e7bc8297f32831b46b177297f1deb9d75635227bcc"
+hash = "b8578fad3436198e3dafba72489a4467e82c3e2b533f61fd03b9561ec849c824"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
