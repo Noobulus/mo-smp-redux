@@ -64,7 +64,24 @@
         "path": "recipe/scaffolding.json"
     },
     {
-        "namespace": "miku-plushie"
+        "namespace": "miku-plushie",
+        "path": "recipe/baguette.json"
+    },
+    {
+        "namespace": "miku-plushie",
+        "path": "recipe/canudinho.json"
+    },
+    {
+        "namespace": "miku-plushie",
+        "path": "recipe/.*plush.*"
+    },
+    {
+        "namespace": "miku-plushie",
+        "path": "recipe/teto_pickaxe.*"
+    },
+    {
+        "namespace": "artsandcrafts",
+        "path": "recipe/bleach.*"
     }]
   }
 }

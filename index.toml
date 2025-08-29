@@ -2064,6 +2064,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "7a4534ae5b605b3efcdbb7f1aeb4f6deee2fc801959884ef45251197af28e5bb"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/soap_to_bleachdew.json"
+hash = "b71d8461152bc341a2953488c7c023cf2d860ae7ee9bd808044b2b14f6bff4eb"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/stair_slab_pressure_plate_omnibus.json"
 hash = "fc50cf8da718a12a0c1eb52f5f79e5edf5125107141b7f22f461674c86aabf22"
 
@@ -2113,7 +2117,7 @@ hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "0c2fc3ee4dca9024c051ea15e9e4e03cc46bee3ca0b2d81cbc19fc1dadf08e26"
+hash = "3a920dd382929cb6e10713966a2fb01e212e62a2efd62f60cca4b76a17c86158"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
