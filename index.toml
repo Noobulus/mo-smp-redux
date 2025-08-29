@@ -1984,6 +1984,38 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "9989c7afd2f88b7d79e72d14a386d28aa095cc9fc4a9a246d42f9f1e992415bc"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/akita_from_len.json"
+hash = "98b8878450e39077d4e284e568360108246e443763dc1d3e2f0920af680274b4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/birdbrain_teto_from_teto.json"
+hash = "2a8353d5de4773c99d7fd5228192c9723efe39c5109ca8fe959360c01cb2cb16"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/brazilian_miku_from_miku.json"
+hash = "474218e06b2f8c382e105dc13c7d8de44f9bad8bb8f26fc8f0a7f1e7c9f5240c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/fujo_miku_from_brazilian_miku.json"
+hash = "4d99a58704bc1929e2c8f74e8e57c6922fed337a6314b637dd004e9aa3dcf43d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/len_from_rin.json"
+hash = "d46fe9fc4fb0fc64616a0e8dd3296eb8a87b5188a76066d506f1cab0bc3531c0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/miku_from_fujo_miku.json"
+hash = "891feef29581d00815fd813a07e4b374966a63a567bc1c43a5cd1bb6e910c514"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/rin_from_akita.json"
+hash = "9a56bab1ceded739ad553a5acdbff0b5f365b18d5bdf70cf2f646052a56e135d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/teto_from_birdbrain_teto.json"
+hash = "109a444991050044961fde9c4c05b5ed38c5a387de05d3a16f8e9d93578db82a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/wood_campfire.json"
 hash = "fe192c07d758e74cee4ccdb65281ced6c6149edfd6d66f74bd0611acc72efa15"
 
@@ -2081,7 +2113,7 @@ hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "907456354436a0a6d3dbf4f96a5da912d714090e8f2576ab78015f888e2653ad"
+hash = "1a251416ea51d7f6614e019a2caea41e9ed057dcb9330b18924bb7e38784d1c1"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"

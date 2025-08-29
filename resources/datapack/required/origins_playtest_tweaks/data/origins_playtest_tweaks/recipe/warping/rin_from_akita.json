@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "miku-plushie:akita_neru_plush"
+        }
+    ],
+    "result": {
+        "item": "miku-plushie:rin_plush"
+    },
+    "dimension": "minecraft:the_nether"
+}

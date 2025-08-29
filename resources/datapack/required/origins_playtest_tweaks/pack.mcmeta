@@ -16,18 +16,6 @@
         "path": "advancement/nether/use_lodestone"
     },
     {
-        "namespace": "betterfurniture",
-        "path": "recipe/chair.*"
-    },
-    {
-        "namespace": "betterfurniture",
-        "path": "recipe/stool.*"
-    },
-    {
-        "namespace": "betterfurniture",
-        "path": "recipe/table.*"
-    },
-    {
         "namespace": "minecraft",
         "path": "recipe/lead.json"
     },

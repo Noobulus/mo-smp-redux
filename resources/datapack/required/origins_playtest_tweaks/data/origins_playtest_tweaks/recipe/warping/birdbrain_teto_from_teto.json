@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "miku-plushie:teto_plush"
+        }
+    ],
+    "result": {
+        "item": "miku-plushie:teto_plush_birdbrain"
+    },
+    "dimension": "minecraft:the_nether"
+}

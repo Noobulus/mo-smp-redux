@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "miku-plushie:miku_plush_br"
+        }
+    ],
+    "result": {
+        "item": "miku-plushie:miku_plush_rotten_girl"
+    },
+    "dimension": "minecraft:the_nether"
+}
