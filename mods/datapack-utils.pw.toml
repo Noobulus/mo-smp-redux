@@ -1,0 +1,13 @@
+name = "Datapack Utils"
+filename = "datapack_utils-fabric-0.1.5+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/I0ObTTI7/versions/VIPXLg6P/datapack_utils-fabric-0.1.5%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "fca601c1c36c2d2cff13efd5d06530b0b1bf6bf20bb48c672dd735900eb7fff4e1a6797c57cad1528f486111f2d737f3be01ee0e477e4fde590fdf70b3aeb363"
+
+[update]
+[update.modrinth]
+mod-id = "I0ObTTI7"
+version = "VIPXLg6P"

@@ -5,8 +5,10 @@
     "minecraft:blaze_rod",
     "minecraft:magma_cream",
     "minecraft:ghast_tear",
-    "minecraft:obsidian",
-    "minecraft:crying_obsidian"
+    "mynethersdelight:strider_rock",
+    "mynethersdelight:strider_egg",
+    "mynethersdelight:strider_slice",
+    "mynethersdelight:minced_strider"
   ],
   "components": {
     "minecraft:fire_resistant": {}

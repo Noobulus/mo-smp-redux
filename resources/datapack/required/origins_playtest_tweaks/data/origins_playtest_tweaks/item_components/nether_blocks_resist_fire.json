@@ -1,0 +1,14 @@
+{
+  "targets": [
+    "#minecraft:non_flammable_wood",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:respawn_anchor",
+    "minecraft:enchanting_table",
+    "minecraft:beacon",
+    "minecraft:ender_chest"
+  ],
+  "components": {
+    "minecraft:fire_resistant": {}
+  }
+}

@@ -78,10 +78,6 @@
     {
         "namespace": "miku-plushie",
         "path": "recipe/teto_pickaxe.*"
-    },
-    {
-        "namespace": "artsandcrafts",
-        "path": "recipe/bleach.*"
     }]
   }
 }

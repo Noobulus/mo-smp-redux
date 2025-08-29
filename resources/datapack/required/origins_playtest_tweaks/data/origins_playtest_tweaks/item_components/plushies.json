@@ -1,0 +1,16 @@
+{
+  "targets": [
+    "miku_plush:miku_plush",
+    "miku_plush:miku_plush_br",
+    "miku_plush:miku_plush_rotten_girl",
+    "miku_plush:teto_plush",
+    "miku_plush:teto_plush_birdbrain",
+    "miku_plush:akita_neru_plush",
+    "miku_plush:rin_plush",
+    "miku_plush:len_plush"
+  ],
+  "components": {
+    "minecraft:fire_resistant": {},
+    "minecraft:max_stack_size": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "blocks": "#anotherfurniture:sofas",
+  "mappings": {
+    "arts_and_crafts:white_paintbrush": "anotherfurniture:white_sofa",
+    "arts_and_crafts:light_gray_paintbrush": "anotherfurniture:light_gray_sofa",
+    "arts_and_crafts:gray_paintbrush": "anotherfurniture:gray_sofa",
+    "arts_and_crafts:black_paintbrush": "anotherfurniture:black_sofa",
+    "arts_and_crafts:brown_paintbrush": "anotherfurniture:brown_sofa",
+    "arts_and_crafts:red_paintbrush": "anotherfurniture:red_sofa",
+    "arts_and_crafts:orange_paintbrush": "anotherfurniture:orange_sofa",
+    "arts_and_crafts:yellow_paintbrush": "anotherfurniture:yellow_sofa",
+    "arts_and_crafts:lime_paintbrush": "anotherfurniture:lime_sofa",
+    "arts_and_crafts:green_paintbrush": "anotherfurniture:green_sofa",
+    "arts_and_crafts:cyan_paintbrush": "anotherfurniture:cyan_sofa",
+    "arts_and_crafts:light_blue_paintbrush": "anotherfurniture:light_blue_sofa",
+    "arts_and_crafts:blue_paintbrush": "anotherfurniture:blue_sofa",
+    "arts_and_crafts:purple_paintbrush": "anotherfurniture:purple_sofa",
+    "arts_and_crafts:magenta_paintbrush": "anotherfurniture:magenta_sofa",
+    "arts_and_crafts:pink_paintbrush": "anotherfurniture:pink_sofa",
+    "arts_and_crafts:bleachdew_paintbrush": "anotherfurniture:white_sofa"
+  }
+}
