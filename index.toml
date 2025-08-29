@@ -393,6 +393,10 @@ file = "mods/ShowMeWhatYouGot-1.21.1-1.3.1.jar"
 hash = "0f7038a12a9ebf586426c75f15fdb537ba4269083529400fc29b854cd190939e"
 
 [[files]]
+file = "mods/YYYYYYYYYYYYYYYYYYYYY-1.6.4_01.jar"
+hash = "4b1bdf3c333a80a6057ee4f71d6e47742befe5ef19de0d0d445fb65a5b83b21f"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "bc93795384d5f304da0d318e8e71becf5c15aa26b853cbefed937d43a0bcc9f6"
 metafile = true
@@ -857,6 +861,11 @@ hash = "a5409a49315db37eb8fde4b72dd462cb3f1c5430c0f6c5f76ea45920cc05a002"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 hash = "67d0b675913c729a030e9f37763320f07c263250fc64f2ee304fcabd17c79a49"
 metafile = true
@@ -895,6 +904,10 @@ metafile = true
 file = "mods/kleeslabs.pw.toml"
 hash = "ecedc62ed0891e9f732f88e4aeaf36aaec85eaa305770d3cbf218b49367f1e51"
 metafile = true
+
+[[files]]
+file = "mods/lib39-1.5.2+1.21.1-all.jar"
+hash = "c68556fddd7202725d87e56da5643f005422a5808347a1097fac31abe2b2673c"
 
 [[files]]
 file = "mods/lithium.pw.toml"
