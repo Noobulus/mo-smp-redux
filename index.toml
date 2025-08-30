@@ -142,7 +142,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "f30fc49c48d21db76cdacdac2da40d08966d0793a8f4a4162f8402e2d9282187"
+hash = "49a6239e21c6215bc91805793f3029905c50705d0be5ba31f09c773342bc212e"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/lib39-1.5.2+1.21.1-all.jar"
-hash = "978100dfe35db4dc5bcf9e320d3906ebf7ffd9b614707ed665cdbf3d67c07141"
+hash = "67c98216ea0434282ef0e70f10481e7efcc278d5097018cd3e45c6172cfd0e14"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -2191,11 +2191,11 @@ hash = "13daf80ae884bee2755ad688a40a16bcb7901d309d85ba92b261ef7dd6b19382"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/gravel_from_cobble.json"
-hash = "7e5fdc06cec3a4ce9d6f1b0ecba766f0f457fcda71a4418c4851c0a7f04d183d"
+hash = "6bc58652bc8eae780d6eafaceff5ae19a333500da6f06bd6e09817741dda9da5"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/lumisene.json"
-hash = "d6b2ed0148e9d3b96765e59766ad432a48f6cd3d0b4ca82c45061bff0b63f379"
+hash = "bd5e1b28b85394ac2a7079ea1587fa8297f19895ded7fc3c7a8922f4dc8ef03d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/teto_plushie.json"
@@ -2294,12 +2294,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "392f8414f9808d04592583dbacf2441bc1e38363f1504476839a516384498be9"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/sign_encheapening.json"
-hash = "7a4534ae5b605b3efcdbb7f1aeb4f6deee2fc801959884ef45251197af28e5bb"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/shops.json"
+hash = "b599a9924aee06371b4c18e2630e46ceaf57407dde3dcc10c9f51ed4a1871cea"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/soap_to_bleachdew.json.orig"
-hash = "1d9b5d458c3cbffd5e12627305ebd1423723a3d4666bf409f4d0ae462e740aab"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/sign_encheapening.json"
+hash = "7a4534ae5b605b3efcdbb7f1aeb4f6deee2fc801959884ef45251197af28e5bb"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/stair_slab_pressure_plate_omnibus.json"
@@ -2332,6 +2332,10 @@ hash = "ec8779b9d3c4ba9eeb4abc81f2f9398bfb7dbf5cd488e047ee0531ae32c8440d"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/soulcandles/recipe/soul_candle.json"
 hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/spuds_shops/recipe/hook_shop.json"
+hash = "f5978cad6efe38ec5dc9b6e700c61bf4d6ed76dfdc2aa7418f0e12709a89075d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/loot_tables/inject/mineshaft_flax.json"
@@ -2624,6 +2628,10 @@ hash = "525bc64f5406a747fe0d80b3cd87e83e09b4f325b8873f39ee7b488014585fd3"
 [[files]]
 file = "resources/datapack/required/trade_rebalance/pack.mcmeta"
 hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
+
+[[files]]
+file = "resources/resourcepack/required/Vanilla Extract Resources/assets/emi/stacks/no_display_case_shops.json"
+hash = "87d57078fff19f51a2ac319030103038bb1a97d60ca4453a962b6d3c2b645e0f"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/emi/stacks/no_teal.json"

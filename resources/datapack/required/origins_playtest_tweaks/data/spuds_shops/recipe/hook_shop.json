@@ -1,0 +1,24 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:chest"
+    },
+    "-": {
+      "item": "minecraft:gold_ingot"
+    },
+    "|": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "-",
+    "|",
+    "#"
+  ],
+  "result": {
+    "id": "spudaciousshops:hook_shop"
+  }
+} 
+ 

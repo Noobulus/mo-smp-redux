@@ -1,0 +1,19 @@
+{
+  "added": [
+  ],
+  "removed": [
+    "item:spudaciousshops:shop_acacia_red",
+    "item:spudaciousshops:shop_bamboo_red",
+    "item:spudaciousshops:shop_birch_red",
+    "item:spudaciousshops:shop_cherry_red",
+    "item:spudaciousshops:shop_crimson_red",
+    "item:spudaciousshops:shop_dark_oak_red",
+    "item:spudaciousshops:shop_mangrove_red",
+    "item:spudaciousshops:shop_oak_red",
+    "item:spudaciousshops:shop_spruce_red",
+    "item:spudaciousshops:shop_warped_red",
+    "item:spudaciousshops:shop_jungle_red"
+  ],
+  "filters": [
+  ]
+}

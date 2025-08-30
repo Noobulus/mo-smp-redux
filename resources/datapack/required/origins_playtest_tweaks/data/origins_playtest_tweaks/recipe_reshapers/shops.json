@@ -1,0 +1,64 @@
+{
+    "common_ingredients": {
+        ",": "gold_nugget",
+        "#": "chest",
+        "-": "gold_ingot",
+        "/": "glass"
+    },
+    "id_substrings": {
+        "@": "rug_shop",
+        "~": "wool",
+        "!": "shop",
+        "$": "planks",
+        "&": "wood"
+    },
+    "source_family": [
+        {
+            "pattern": "-",
+            "output_token": ",",
+            "output_count": 9,
+            "remove": false
+        },
+        {
+            "pattern": [
+                " / ",
+                "$~$",
+                "###"
+            ],
+            "output_token": "!",
+            "output_count": 1,
+            "always_remove": true
+        },
+        {
+            "pattern": [
+                " / ",
+                "&~&",
+                "###"
+            ],
+            "output_token": "!",
+            "output_count": 1,
+            "always_remove": true
+        },
+        {
+            "pattern": [
+                ",_,",
+                "###"
+            ],
+            "output_token": "@",
+            "output_count": 1
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_tweaked_rug_shops",
+            "pattern": [
+                "-",
+                "_",
+                "#"
+            ],
+            "output_token": "@",
+            "output_count": 1,
+            "category": "building"
+        }
+    ]
+}

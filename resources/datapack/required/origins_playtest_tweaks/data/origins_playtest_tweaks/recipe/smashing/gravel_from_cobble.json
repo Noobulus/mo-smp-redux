@@ -1,6 +1,6 @@
 {
 	"type": "lib39:piston_smashing",
-	"input": { "exacts": ["minecraft:cobblestone", "minecraft:blackstone"] },
-	"catalyst": { "exacts": "minecraft:iron_block" },
+	"input": [ "minecraft:cobblestone", "minecraft:cobbled_deepslate", "minecraft:blackstone" ],
+	"catalysts": "minecraft:iron_block",
 	"output": { "id": "minecraft:gravel" }
 }
