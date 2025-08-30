@@ -2359,7 +2359,7 @@ hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "9dd5a5cb6958e063330572e81d55555cfdcc1d181a39fdbffb3941352d75e983"
+hash = "6eb8f17274ce0b8701cc4b2bcc9d919cd6b2809ab3ed8f250488f9451541662b"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -2619,7 +2619,7 @@ hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "6390159614847acf6294a446f6e874a17586113f02beee2c0f00082ea4e6dcea"
+hash = "54ccbda25992faa9a1664c09d0420c6d6d741b9690c43955f16aad23e2831922"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
