@@ -102,6 +102,10 @@
     {
         "namespace": "blahaj",
         "path": "recipe/stonecutter/blue_shark.json"
+    },
+    {
+        "namespace": "supplementaries",
+        "path": "recipe/cannon_2.json"
     }]
   }
 }

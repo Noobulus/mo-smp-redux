@@ -1,0 +1,18 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "w": {
+      "item": "farmersdelight:wheat_dough"
+    }
+  },
+  "pattern": [
+    "w w",
+    " w "
+  ],
+  "result": {
+    "item": "farmersdelight:pie_crust"
+  },
+  "show_notification": true
+}

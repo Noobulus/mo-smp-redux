@@ -4,7 +4,8 @@
     },
     "id_substrings": {
         "-": "gate",
-        "=": "fence"
+        "=": "fence",
+        "#": "planks"
     },
     "source_family": [
         {

@@ -1,0 +1,11 @@
+{
+    "replace": true,
+    "values": [
+        "#c:eggs",
+        "#c:milks",
+        {
+            "id": "rusticdelight:cooking_oil",
+            "required": false
+        }
+    ]
+}

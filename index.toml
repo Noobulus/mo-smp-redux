@@ -142,7 +142,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "49a6239e21c6215bc91805793f3029905c50705d0be5ba31f09c773342bc212e"
+hash = "f75b8bece088cd5a3e6a26664d13e21b7b619d71910cdc1384aef4d90d9691d8"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -961,6 +961,10 @@ hash = "506e5726a9bef2ba84ad8b34009ba4ee2d81453233bb3d8ac72d4bc2e1a8a276"
 metafile = true
 
 [[files]]
+file = "mods/minecart-backport-1.1.0.jar"
+hash = "ab2df8d499c04490f1751edab038849493a241e05e8cc78ea012383c023e58bd"
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "2fcdc63bb2bf97187f3bd67787c4b3a880bf17f332be8c3839408c4115e50884"
 metafile = true
@@ -1062,6 +1066,11 @@ hash = "94d51e592a8a5a6271609365b2c1f2cdaf38866ed6fc5b85f149e4487e0b7364"
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "f1304d2758d1b259a7f3b0b1f9a849796614ee7b5e11fbd8646a164a5b85f8e2"
 metafile = true
 
 [[files]]
@@ -1225,6 +1234,11 @@ hash = "d5a37c1a5e5030369a8ffd8edfd142f303c7f20b1fa4e060ab3d7973c1a28f97"
 metafile = true
 
 [[files]]
+file = "mods/spring-to-life-backport.pw.toml"
+hash = "a91d2b5e36e2cea0a66a230d025d877d922046aaa408bf31071c6773b85e440c"
+metafile = true
+
+[[files]]
 file = "mods/spuds-shops.pw.toml"
 hash = "c821b1df86242f1b936a6b2c7772dda69872c840348970bc9c7153303265f0a7"
 metafile = true
@@ -1260,6 +1274,11 @@ hash = "b1d101fefc05ed0891af7d42c4a30b1b4d0d1fb2d7288f5ebb9416af2632c985"
 metafile = true
 
 [[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "e6233a928624d444f0112c4d0c6ee7fd85ba2384cfff9b1382117c75dbbca572"
+metafile = true
+
+[[files]]
 file = "mods/vanity.pw.toml"
 hash = "df15fb1cbaf1cada75ab7d8d975b07997feb85e48352c8d5bd688fcb9726cb85"
 metafile = true
@@ -1288,6 +1307,10 @@ metafile = true
 file = "mods/zombie-conversion.pw.toml"
 hash = "357c6da2d89d4ed7bc8d422a5f3b78ba71a958aa2c7bc2c0e0ebb07f9c5ea10c"
 metafile = true
+
+[[files]]
+file = "resources/datapack/required/ClifftreeBackports.zip"
+hash = "24067ae7c4227ddc4ddbae1fd57d8e8c560f539921559f68a3a03b60ea7de8fc"
 
 [[files]]
 file = "resources/datapack/required/NoZombieSieges.zip"
@@ -1496,6 +1519,14 @@ hash = "77457e573a17cea89ea8a17664a21192310a9dc683613ab681c66c86eb6e9c6d"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/melon_popsicle.json"
 hash = "8f23d294d382bc3335d3d97e75082a5968affe46d34c6736a22115ee13ed8a37"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/pie_crust.json"
+hash = "31993b8a9ae9e946c21fe134efc366af7598ead85b620ebe86afd651d4c9e506"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/wheat_dough.json"
+hash = "7ca22407abc8c8aa00ffab97428f6f366af2d4593918290444e79d74249b4776"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/hoppergadgetry/recipe/chute.json"
@@ -2283,7 +2314,7 @@ hash = "c01b88f63ef4b282b2d63e4f8eb5962f46ad68e6d8df03511f2c8cc92390d85a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/fence_encheapening.json"
-hash = "55f733621b152e6849fd1082b8c54bcd5f72c24f904fb343ab554bf10cb1d847"
+hash = "e5e17b03b06d965f42295bf8ddee1aeedba260f5479664e4d588b924b465eb6f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/free_and_reduced_drip.json"
@@ -2306,6 +2337,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "fc50cf8da718a12a0c1eb52f5f79e5edf5125107141b7f22f461674c86aabf22"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/tweak_awnings.json"
+hash = "66f1feb21144949ec9d3f443b6fe29f3f96f6503711db8d340f9843ad79f3304"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/wall_uncrafting.json"
 hash = "6680a4a63355e511b16bd166b4fe65e09289b44ffd7231eb88dba01b6d290ea4"
 
@@ -2316,6 +2351,10 @@ hash = "726faa0caeb3b87a138130411d06e12c2af455a3800db57512c78a62871dc2aa"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/wood_buff.json"
 hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/dough_hydrators.json"
+hash = "6684d7d842112367dac2f828d755d1f1fbe67756d8b787e17bcb990716ae9721"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/grassy_food_bales.json"
@@ -2371,7 +2410,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "343235972a34b49466eb180536935d5341a2964e866d477bcacdb1df89bd04b7"
+hash = "9ec55b1f8942477d7ee40749f659a91d888090430104338eaac6a668db90358a"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"

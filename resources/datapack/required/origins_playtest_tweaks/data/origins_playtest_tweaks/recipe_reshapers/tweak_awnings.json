@@ -1,0 +1,31 @@
+{
+    "common_ingredients": {
+        "|": "stick"
+    },
+    "id_substrings": {
+        "A": "awning",
+        "_": "carpet"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "___",
+                "| |"
+            ],
+            "output_token": "A",
+            "output_count": 2
+        }
+    ],
+    "result_family": [
+        {
+        "id_suffix": "_tweaked_awnings",
+            "pattern": [
+                "__",
+                "||"
+            ],
+            "output_token": "A",
+            "output_count": 2,
+            "category": "misc"
+        }
+    ]
+}
