@@ -3,20 +3,20 @@
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
   "key": {
-    "C": {
-      "item": "hoppergadgetry:chute"
+    "#": {
+      "tag": "minecraft:planks"
     },
-    "I": {
-      "item": "minecraft:iron_ingot"
+    "X": {
+      "item": "minecraft:copper_ingot"
     }
   },
   "pattern": [
-    "I I",
-    "ICI",
-    " I "
+    "# #",
+    "#X#",
+    " # "
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:hopper"
+    "id": "hoppergadgetry:chute"
   }
 }

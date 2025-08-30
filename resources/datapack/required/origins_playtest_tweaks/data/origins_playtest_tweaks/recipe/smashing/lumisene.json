@@ -1,0 +1,20 @@
+{
+	"type": "lib39:piston_smashing",
+	"input": { "exacts": "minecraft:shroomlight" },
+	"catalyst": { "exacts": "minecraft:iron_block" },
+	"hasCloud": true,
+	"cloudColor": "16690285",
+	"cloudSize": 4,
+	"effects": [
+		{
+			"effect": "minecraft:slowness",
+			"duration": 100
+		},
+		{
+			"effect": "minecraft:glowing",
+			"duration": 200
+		}
+	],
+	"cloudOutput": { "id": "supplementaries:lumisene_bottle" },
+	"output": {}
+}

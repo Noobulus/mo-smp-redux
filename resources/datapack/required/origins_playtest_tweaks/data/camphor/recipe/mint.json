@@ -1,0 +1,16 @@
+{
+	"replace": true,
+	"type": "crafting_shaped",
+	"pattern": [
+		"BPB",
+		"IOI",
+		"BIB"
+	],
+	"key": {
+		"P": { "item": "piston" },
+		"I": { "item": "iron_ingot" },
+		"O": { "item": "gold_ingot" },
+		"B": { "item": "blue_dye" }
+	},
+	"result": { "id": "camphor:mint" }
+}

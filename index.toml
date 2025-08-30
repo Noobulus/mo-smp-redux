@@ -141,6 +141,10 @@ file = "config/indypets.json"
 hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "0caad0d50ea17c6535bcb1c732bc7756f36350c2844a7b1f2fd62c5284a81de1"
+
+[[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -219,6 +223,18 @@ hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
 [[files]]
 file = "config/stackdeobf.json"
 hash = "ab7ea0a22b66e8d4b6eebbeace63fa71dfc830afaa0649c89a62c18df65a8808"
+
+[[files]]
+file = "config/supplementaries-client.json"
+hash = "20119d8d594619635f73531b9419a3028e5a4520672d1a2b51ae3cf653ba5e11"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "615b2299c9434b2b514a6e449b738f51964025f541ef16dcd564c311151bc07e"
+
+[[files]]
+file = "config/suppsquared-common.json"
+hash = "a2501583b9581acb039b411d08fe85698609398684e3b18c590731acc34b9c7d"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -507,6 +523,11 @@ hash = "7c06a70ffeb5acc38cb9f9a9b2acfb8d85d6ab7622e1b79a2b3d98c0730dbac6"
 metafile = true
 
 [[files]]
+file = "mods/blahaj_fabric.pw.toml"
+hash = "6ad56a9580061e6d287ba30806d62d5452caaff8cb0fb655748fbd0599017cc2"
+metafile = true
+
+[[files]]
 file = "mods/blame-log.pw.toml"
 hash = "1f9ea8c9fdecbdf356283f370efdbe27e774ad73718e68399c798e6442b399b7"
 metafile = true
@@ -634,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
+metafile = true
+
+[[files]]
+file = "mods/component-viewer.pw.toml"
+hash = "194361e1aa340ee9ee63eda79ed8b5f156ee2781b13eef97e005513d55fa6f3a"
 metafile = true
 
 [[files]]
@@ -1439,6 +1465,18 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hid
 hash = "b38c324502f55722c3ba44995a44b79014490c186ff2b9275f772ae15c65dc51"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/camphor/recipe/coin_purse.json"
+hash = "6e6b8c0b6cff5bee606b2c34ff85ff2637ecd3a9d5e4862dbbf4ee980e24e109"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/camphor/recipe/coindenser.json"
+hash = "f076f5e0b7731886b87ed1a708ebfc434a36812fac5c74780e5d8bd98975a1e6"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/camphor/recipe/mint.json"
+hash = "cc77bd2542082416af54014f33c052b26a06445343754721cbb2d4b0e08a9324"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
 hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
 
@@ -1453,6 +1491,10 @@ hash = "77457e573a17cea89ea8a17664a21192310a9dc683613ab681c66c86eb6e9c6d"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/melon_popsicle.json"
 hash = "8f23d294d382bc3335d3d97e75082a5968affe46d34c6736a22115ee13ed8a37"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/hoppergadgetry/recipe/chute.json"
+hash = "b2098b867acf7d438a1ccc3335dbd45ad8261a6ac0232f1581c7fac79a057fcc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/kaleidoscopic/arts_and_crafts/paintbrush_palette/chiseled_rock.json"
@@ -1652,7 +1694,7 @@ hash = "5da77f7606186f6555be0d59f4f2610e7e1edb9073c7f73f1cc62f0dc95f154c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/hopper.json"
-hash = "6d1655a94ba53643625f4eedba700c5afdcfb469ed67d89e4d35253ed07e13ec"
+hash = "fe2a02e007093639d062d03b8a5959fd81bf24cb934c9bd3b26aed798ef80c3e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/iron_bars.json"
@@ -1891,6 +1933,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "b8578fad3436198e3dafba72489a4467e82c3e2b533f61fd03b9561ec849c824"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/plushies.json.orig"
+hash = "91858e94156f30925480b45f974460efecb38fe1f9dbbb7c131db9ab53c87717"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
 hash = "4eb89f6bd0cf7e2510f282e2982d561099c8283c4bde750d7c4bab82ade2264c"
 
@@ -2087,6 +2133,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "505b0ea3c058468cdb25e8c3b6d78012eb36cd49b8143e309a96ef1b9db7a339"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/grated_hopper.json"
+hash = "e0bce32d3836e69613e151b8e7399841dec2a7dfc4eda8d7a4f82209e6241c55"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/green_dye_from_crafting_cactus.json"
 hash = "aa91eee2c4722ae28326e43a08d5dc118b0acb6e3036350027351e346b19b06f"
 
@@ -2129,6 +2179,14 @@ hash = "ec423ec1e54123566ace287d60a35e9cf214fb29790da5c9667f65cf945bdaa0"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/saddle.json"
 hash = "0a554e5c683bf1ea996924b67af9ba7752ec019f8d7e1a7e04d1c5475778ae6f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/gravel_from_cobble.json"
+hash = "7e5fdc06cec3a4ce9d6f1b0ecba766f0f457fcda71a4418c4851c0a7f04d183d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/lumisene.json"
+hash = "d6b2ed0148e9d3b96765e59766ad432a48f6cd3d0b4ca82c45061bff0b63f379"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/teto_plushie.json"
@@ -2219,6 +2277,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "7a4534ae5b605b3efcdbb7f1aeb4f6deee2fc801959884ef45251197af28e5bb"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/soap_to_bleachdew.json.orig"
+hash = "1d9b5d458c3cbffd5e12627305ebd1423723a3d4666bf409f4d0ae462e740aab"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/stair_slab_pressure_plate_omnibus.json"
 hash = "fc50cf8da718a12a0c1eb52f5f79e5edf5125107141b7f22f461674c86aabf22"
 
@@ -2268,7 +2330,7 @@ hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "5f98ef2b744e7842b4f2b2f319fede11e9e5b26b31422537722636d31e72e3bc"
+hash = "3fe49b68f86916ca6ae181ac0b6aed38de0ce1894d036e6742ee545615330926"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"

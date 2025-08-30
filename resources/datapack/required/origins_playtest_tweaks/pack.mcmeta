@@ -78,6 +78,14 @@
     {
         "namespace": "miku-plushie",
         "path": "recipe/teto_pickaxe.*"
+    },
+    {
+        "namespace": "hopper_gadgetry",
+        "path": "recipe/grated_hopper.json"
+    },
+    {
+        "namespace": "hopper_gadgetry",
+        "path": "recipe/grated_hopper_from_hopper.json"
     }]
   }
 }

@@ -1,0 +1,13 @@
+{
+	"replace": true,
+	"type": "crafting_shaped",
+	"pattern": [
+		"S",
+		"P"
+	],
+	"key": {
+		"S": { "item": "string" },
+		"P": { "item": "paper" }
+	},
+	"result": { "id": "camphor:coin_purse" }
+}

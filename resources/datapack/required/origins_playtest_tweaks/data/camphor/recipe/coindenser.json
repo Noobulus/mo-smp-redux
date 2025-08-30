@@ -1,0 +1,15 @@
+{
+	"replace": true,
+	"type": "crafting_shaped",
+	"pattern": [
+		"BHB",
+		"I I",
+		"BIB"
+	],
+	"key": {
+		"H": { "item": "hopper"},
+		"I": { "item": "iron_ingot" },
+		"B": { "item": "blue_dye" }
+	},
+	"result": { "id": "camphor:coindenser" }
+}
