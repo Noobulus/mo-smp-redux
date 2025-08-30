@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "blahaj:blue_whale"
+        }
+    ],
+    "result": {
+        "id": "blahaj:blue_shark"
+    },
+    "dimension": "minecraft:the_nether"
+}

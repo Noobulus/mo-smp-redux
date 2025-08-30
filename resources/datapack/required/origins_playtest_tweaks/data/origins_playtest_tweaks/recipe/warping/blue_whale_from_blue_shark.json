@@ -2,11 +2,11 @@
     "type": "architects_palette:warping",
     "ingredient": [
         {
-            "item": "miku-plushie:teto_plush_birdbrain"
+            "item": "blahaj:blue_shark"
         }
     ],
     "result": {
-        "id": "miku-plushie:teto_plush"
+        "id": "blahaj:blue_whale"
     },
     "dimension": "minecraft:the_nether"
 }

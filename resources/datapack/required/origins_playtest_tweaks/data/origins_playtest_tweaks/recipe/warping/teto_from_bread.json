@@ -1,0 +1,12 @@
+{
+    "type": "architects_palette:warping",
+    "ingredient": [
+        {
+            "item": "blahaj:bread"
+        }
+    ],
+    "result": {
+        "id": "miku-plushie:teto_plush"
+    },
+    "dimension": "minecraft:the_nether"
+}
