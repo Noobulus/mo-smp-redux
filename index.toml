@@ -142,7 +142,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "94d0db34916a7ecb2112c8ecbbef24a3cb29263d8fff0dc15d494204242bde3a"
+hash = "682824bf475339ce2038ccf0ba4e86226eabced7b7dcbf2b44d6872a9d445cd9"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -1915,7 +1915,7 @@ hash = "af3e24782304abff77b7bf4d06957e27511eeebf38dc7eb4a4c8c73607b7090f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/haj_plushies.json"
-hash = "9417498cbddd5fce90247c0809c94ffd82baca91487eed15293e77d0c6ea5ab8"
+hash = "8981a0cac6f5bd089d7f04b60c7a90bd3b70e28fe83ab043bfa40bd0418265ad"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/mace.json"
@@ -2359,7 +2359,7 @@ hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "6eb8f17274ce0b8701cc4b2bcc9d919cd6b2809ab3ed8f250488f9451541662b"
+hash = "343235972a34b49466eb180536935d5341a2964e866d477bcacdb1df89bd04b7"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"

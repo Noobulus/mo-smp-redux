@@ -126,7 +126,9 @@
   // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
   // 	
   // 	 You can also use regular expressions by starting the value with !
-  "blacklisted_component_data": [],
+  "blacklisted_component_data": [
+    "teal"
+  ],
   // -----------------------------------------------------------
   // If true, the mod will log all components of your main hand item every second.
   // This is useful for finding the specific component data of an item to blacklist it.

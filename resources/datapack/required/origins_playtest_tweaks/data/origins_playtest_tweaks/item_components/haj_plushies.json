@@ -1,10 +1,13 @@
 {
-    "targets": "#blahaj:plushies",
+    "targets": [
+        "blahaj:blue_whale",
+        "blahaj:blue_shark",
+        "blahaj:bread"
+    ],
     "components": {
         "minecraft:fire_resistant": {},
         "minecraft:attribute_modifiers": {
-            "modifiers": [],
-            "show_in_tooltip": false
+            "modifiers": []
         }
     }
 }

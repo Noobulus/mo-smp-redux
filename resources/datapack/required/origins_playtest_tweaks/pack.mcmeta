@@ -101,7 +101,7 @@
     },
     {
         "namespace": "blahaj",
-        "path": "recipe/stonecutting/blue_shark.json"
+        "path": "recipe/stonecutter/blue_shark.json"
     }]
   }
 }
