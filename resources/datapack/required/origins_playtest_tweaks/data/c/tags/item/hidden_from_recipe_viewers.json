@@ -3,6 +3,74 @@
         {
             "id": "origins:orb_of_origin",
             "required": false
+        },
+        {
+            "id": "y21:tint",
+            "required": false
+        },
+        {
+            "id": "y21:white_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:orange_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:magenta_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:light_blue_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:yellow_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:lime_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:pink_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:gray_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:light_gray_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:cyan_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:purple_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:blue_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:brown_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:green_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:red_bloque",
+            "required": false
+        },
+        {
+            "id": "y21:black_bloque",
+            "required": false
         }
     ]
 }

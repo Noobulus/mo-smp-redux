@@ -1,0 +1,20 @@
+{
+	"replace": true,
+	"type": "y21:lamp_crafting",
+	"lib39:discovered_via": "y21:lamp",
+	"pattern": [
+		"YBY",
+		"YLY",
+		"YYY"
+	],
+	"key": {
+		"B": { "item": "y21:brookite" },
+		"Y": { "item": "iron_nugget" },
+		"L": { "item": "y21:lamp" }
+	},
+	"result": {
+		"id": "y21:lazor_emitter",
+		"count": 1
+	},
+	"y21:important": true
+}

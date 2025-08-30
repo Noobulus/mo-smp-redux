@@ -1,0 +1,17 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "y21:discovered_via": "y21:lazor_emitter",
+  "ingredients": [
+    {
+      "item": "y21:lazor_emitter"
+    },
+    {
+      "item": "tinted_glass"
+    }
+  ],
+  "result": {
+    "id": "y21:ir_lazor_emitter",
+    "count": 1
+  }
+}

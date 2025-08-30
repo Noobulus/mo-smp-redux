@@ -142,7 +142,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "682824bf475339ce2038ccf0ba4e86226eabced7b7dcbf2b44d6872a9d445cd9"
+hash = "c86da8f63a7577a8ced4d935201212cad1642e99e4eae752d4b694f37a8dd069"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -1467,7 +1467,7 @@ hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
-hash = "6e5f9423af5d5745ed8c9cc396b0e39c489882f895210f9ef4e3539e71e72477"
+hash = "471150522bb550b06f7cbc8129522c35c196f6226df074719fb4283c06543328"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/camphor/recipe/coin_purse.json"
@@ -2358,6 +2358,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/rec
 hash = "5738e84c60520c3ac2ee926764812338cd36472a308c9abe2d1db808a876c314"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/crafting/lamp/ir_lazor_emitter.json"
+hash = "8ec277300bf73f8af5aed62cc2576ab6b164ba982b9dfca00fde2a2d98b624c2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/crafting/lamp/lazor_emitter.json"
+hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
 hash = "343235972a34b49466eb180536935d5341a2964e866d477bcacdb1df89bd04b7"
 
@@ -2616,6 +2624,10 @@ hash = "525bc64f5406a747fe0d80b3cd87e83e09b4f325b8873f39ee7b488014585fd3"
 [[files]]
 file = "resources/datapack/required/trade_rebalance/pack.mcmeta"
 hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
+
+[[files]]
+file = "resources/resourcepack/required/Vanilla Extract Resources/assets/emi/stacks/no_teal.json"
+hash = "644c0aa4fc07cf4a62a84e54ba6b5e1322e43971f524a62c793f18c089d5f230"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"

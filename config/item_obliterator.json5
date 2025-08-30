@@ -117,7 +117,26 @@
     "blahaj:pan_shark",
     "blahaj:poly_shark",
     "blahaj:pride_shark",
-    "blahaj:trans_shark"
+    "blahaj:trans_shark",
+    "arts_and_crafts:bleached_wool",
+    "arts_and_crafts:bleached_carpet",
+    "arts_and_crafts:bleached_concrete",
+    "arts_and_crafts:bleached_concrete_powder",
+    "arts_and_crafts:bleached_bed",
+    "arts_and_crafts:bleached_chalk",
+    "arts_and_crafts:bleached_chalk_stick",
+    "kaleidoscopic:bleached_door",
+    "kaleidoscopic:bleached_trapdoor",
+    "kaleidoscopic:bleached_ladder",
+    "kaleidoscopic:bleached_rock",
+    "kaleidoscopic:bleached_rock_bricks",
+    "kaleidoscopic:chiseled_bleached_rock",
+    "kaleidoscopic:bleached_rock_stairs",
+    "kaleidoscopic:bleached_rock_bricks_stairs",
+    "kaleidoscopic:bleached_rock_slab",
+    "kaleidoscopic:bleached_rock_bricks_slab",
+    "kaleidoscopic:bleached_rock_wall",
+    "kaleidoscopic:bleached_rock_brick_wall"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
