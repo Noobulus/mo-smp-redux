@@ -89,15 +89,15 @@
     },
     {
         "namespace": "blahaj",
-        "path": "recipe/crafting/blue_whale.json"
+        "path": "recipe/.*/blue_whale.json"
     },
     {
         "namespace": "blahaj",
-        "path": "recipe/crafting/bread.json"
+        "path": "recipe/.*/bread.json"
     },
     {
         "namespace": "blahaj",
-        "path": "recipe/crafting/blue_shark.json"
+        "path": "recipe/.*/blue_shark.json"
     }]
   }
 }

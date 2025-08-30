@@ -2,6 +2,9 @@
     "targets": "#blahaj:plushies",
     "components": {
         "minecraft:fire_resistant": {},
-        "minecraft:attribute_modifiers": {}
+        "minecraft:attribute_modifiers": {
+            "modifiers": [],
+            "show_in_tooltip": false
+        }
     }
 }
