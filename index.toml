@@ -142,7 +142,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "c86da8f63a7577a8ced4d935201212cad1642e99e4eae752d4b694f37a8dd069"
+hash = "f30fc49c48d21db76cdacdac2da40d08966d0793a8f4a4162f8402e2d9282187"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -933,7 +933,7 @@ metafile = true
 
 [[files]]
 file = "mods/lib39-1.5.2+1.21.1-all.jar"
-hash = "c68556fddd7202725d87e56da5643f005422a5808347a1097fac31abe2b2673c"
+hash = "978100dfe35db4dc5bcf9e320d3906ebf7ffd9b614707ed665cdbf3d67c07141"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -1246,7 +1246,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "44d73161f4747c8bc983f295d15cbede2f1087766e241e45fef441121a7b2f39"
+hash = "09295cb26331c203a51fa23600f2a8677aa9801a9c8386818ca2d2c1bd5642b3"
 metafile = true
 
 [[files]]
@@ -1923,7 +1923,7 @@ hash = "bee183d588775f676513975756e04a25ec4f530c237b2f1055f685255d34bf89"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/miku_plushies.json"
-hash = "b8578fad3436198e3dafba72489a4467e82c3e2b533f61fd03b9561ec849c824"
+hash = "91858e94156f30925480b45f974460efecb38fe1f9dbbb7c131db9ab53c87717"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_blocks_resist_fire.json"

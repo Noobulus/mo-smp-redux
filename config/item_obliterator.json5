@@ -132,9 +132,9 @@
     "kaleidoscopic:bleached_rock_bricks",
     "kaleidoscopic:chiseled_bleached_rock",
     "kaleidoscopic:bleached_rock_stairs",
-    "kaleidoscopic:bleached_rock_bricks_stairs",
+    "kaleidoscopic:bleached_rock_brick_stairs",
     "kaleidoscopic:bleached_rock_slab",
-    "kaleidoscopic:bleached_rock_bricks_slab",
+    "kaleidoscopic:bleached_rock_brick_slab",
     "kaleidoscopic:bleached_rock_wall",
     "kaleidoscopic:bleached_rock_brick_wall"
   ],
@@ -146,7 +146,6 @@
   // 	
   // 	 You can also use regular expressions by starting the value with !
   "blacklisted_component_data": [
-    "teal"
   ],
   // -----------------------------------------------------------
   // If true, the mod will log all components of your main hand item every second.
