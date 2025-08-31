@@ -2064,7 +2064,7 @@ hash = "369e470317d27c327020da9f40ebd4270d1b947b7a00382d26d7f4dcda261ddd"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/boiled_egg.json"
-hash = "2e176f006886b062dfad6adfded2e0dda51ce24e3ccf073bb19a4d1ab73b54b3"
+hash = "bc0ecfa278c7462d1a9313d08f3ab2a0ec9eda6e1506074bdc84bf07aca9b927"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/benches.json"
@@ -2895,5 +2895,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v76.txt"
+file = "v77.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
