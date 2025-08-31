@@ -110,6 +110,26 @@
     {
         "namespace": "vanillabackport",
         "path": "recipe/dried_ghast.json"
+    },
+    {
+        "namespace": "perfectparity",
+        "path": "recipe/cake.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/cooking/fried_egg_from_cooking_oil.json"
+    },
+    {
+        "namespace": "mynethersdelight",
+        "path": "recipe/boiled_egg_cooking.json"
+    },
+    {
+        "namespace": "mynethersdelight",
+        "path": "recipe/boiled_egg_from_smoking.json"
+    },
+    {
+        "namespace": "mynethersdelight",
+        "path": "recipe/boiled_egg_from_campfire_cooking.json"
     }]
   }
 }

@@ -146,7 +146,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "77443df2feb5dc089309f1a2b51ccaac6bfab1904520e48e36a66b285c261b6c"
+hash = "748b29d81d9f6636e71752da82c736e3bf4a3d0927db41d89057fc91eddfe0a3"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -1502,6 +1502,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/egg
 hash = "efc649304102262e168e1b0bcbdcf4903349ccc3bd72b27700c1308e0f1e0f27"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/foods/fruit.json"
+hash = "79092f41d9405776d618549ac155e0492939ff44d10426854f0d38c1b9c75d9f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/foods/vegetable.json"
+hash = "b637d41ec63578bf29548f5e8e451f1dd1962cda52900922d82afeed8efeff35"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "471150522bb550b06f7cbc8129522c35c196f6226df074719fb4283c06543328"
 
@@ -1532,6 +1540,18 @@ hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cutting/melon.json"
 hash = "2be2a4e413719e54981e6ee6afd8f179548d8d5de855a91e11ffd1255f9b3a81"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/fried_egg.json"
+hash = "8b0e556aa6aa56cf056ce5cc116144e63a7b18d83b0d92940a28fd013dbff3ff"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/fried_egg_from_campfire_cooking.json"
+hash = "c8d715355b3fbd4d96d355743c86ac903ec133c7732c3f0cf84288ddc86039ed"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/fried_egg_from_smoking.json"
+hash = "b8e87e74c3941a30dd82dd1f7bde8bb52658e13c8148beb8b9450953233584b3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/hanging_canvas_sign.json"
@@ -2038,6 +2058,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "369e470317d27c327020da9f40ebd4270d1b947b7a00382d26d7f4dcda261ddd"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/boiled_egg.json"
+hash = "2e176f006886b062dfad6adfded2e0dda51ce24e3ccf073bb19a4d1ab73b54b3"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/benches.json"
 hash = "4345b19f1603df0bf8a860115f35a62baa2f29b7af99387ab6a6dfad4a820728"
 
@@ -2459,7 +2483,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "b50ad3bdcc153fcddf4e78aef876ec056f8511e9ea0bfa606f6ce27d7ad28609"
+hash = "8f73746c246d702f6a56fb45487e4c61142b2962209aca408d9ced94ec507b02"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -2718,6 +2742,10 @@ file = "resources/datapack/required/trade_rebalance/pack.mcmeta"
 hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
+file = "resources/resourcepack/required/Vanilla Extract Resources/assets/c/models/tag/item/eggs.json"
+hash = "37dc3aa026274d55d108ea17edeadb0b2ea3e520d019e6b6675b12245219f80e"
+
+[[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/emi/stacks/no_display_case_shops.json"
 hash = "87d57078fff19f51a2ac319030103038bb1a97d60ca4453a962b6d3c2b645e0f"
 
@@ -2862,5 +2890,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v71.txt"
+file = "v73.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

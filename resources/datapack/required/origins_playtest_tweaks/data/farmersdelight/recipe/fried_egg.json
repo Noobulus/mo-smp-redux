@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "tag": "c:eggs"
+  },
+  "result": "farmersdelight:fried_egg"
+}
