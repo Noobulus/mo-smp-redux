@@ -192,7 +192,8 @@
     "architect_spalette:diamond_nub",
     "architect_spalette:emerald_nub",
     "architect_spalette:netherite_nub",
-    "architect_spalette:bread_nub"
+    "architect_spalette:bread_nub",
+    "vanillabackport:music_disc_lava_chicken"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.

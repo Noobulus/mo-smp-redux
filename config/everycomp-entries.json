@@ -5,11 +5,13 @@
     "wood_type": {
       "mynethersdelight.powdery": true,
       "architects_palette.twisted": true,
-      "arts_and_crafts.cork": true
+      "arts_and_crafts.cork": true,
+      "vanillabackport.pale_oak": true
     },
     "leaves_type": {
       "architects_palette.twisted": true,
-      "arts_and_crafts.cork": true
+      "arts_and_crafts.cork": true,
+      "vanillabackport.pale_oak": true
     }
   },
   "entries": {

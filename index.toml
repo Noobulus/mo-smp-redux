@@ -98,11 +98,11 @@ hash = "76be96157bf939be7e76c05670568939db296daba1216dd80bd1a9a9feeeffd3"
 
 [[files]]
 file = "config/everycomp-entries.json"
-hash = "471b01eba03d8f0b06ad1632a9985c11fcfe80cb5e700939db25c272c74d1224"
+hash = "ebae7d42fee4437f6eae4b8110006d9ce4662d84e1b50bf17bb7679dfb9684c3"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
-hash = "49fc1a65faea5769e9bdfdd93cff5d9ec52fbb4cab28d22fa9fd03f8f731f3d9"
+hash = "6c1121a06adc3e95d5992a3c81d0e9db87ef176571d15db20b9ac809c93c8c36"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -142,7 +142,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "f75b8bece088cd5a3e6a26664d13e21b7b619d71910cdc1384aef4d90d9691d8"
+hash = "77443df2feb5dc089309f1a2b51ccaac6bfab1904520e48e36a66b285c261b6c"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -959,10 +959,6 @@ metafile = true
 file = "mods/miku-plushies.pw.toml"
 hash = "506e5726a9bef2ba84ad8b34009ba4ee2d81453233bb3d8ac72d4bc2e1a8a276"
 metafile = true
-
-[[files]]
-file = "mods/minecart-backport-1.1.0.jar"
-hash = "ab2df8d499c04490f1751edab038849493a241e05e8cc78ea012383c023e58bd"
 
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
@@ -2385,6 +2381,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "7b14ad6cf4f9cc4208ec1240e9a4f2747c9d8a5022d7b145f00027ae8d1e6314"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/suppsquared/recipe/daub_frame_slab.json"
+hash = "d60dda465071a1bfd3d586aa5420725af3832c01042aca540fda666bf8f6ff71"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/suppsquared/recipe/daub_frame_stairs.json"
+hash = "f2dbf246a7d92b7ffedfd019349829e81712938f4c2843a65da5af4dba7c93f0"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/vanityslots/recipe/familiar_pants.json"
 hash = "d4e167f34b0e511598e26a6a84b04ebab1be65594e043d041e35c5600c5286cc"
 
@@ -2410,7 +2414,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "9ec55b1f8942477d7ee40749f659a91d888090430104338eaac6a668db90358a"
+hash = "b50ad3bdcc153fcddf4e78aef876ec056f8511e9ea0bfa606f6ce27d7ad28609"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
