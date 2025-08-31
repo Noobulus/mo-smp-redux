@@ -2241,8 +2241,8 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "5fcadb0fa1a51930081bf808d2271ba69af6a52da570349acc1ac718d70562bd"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/blue_shark_from_blue_whale.json"
-hash = "1e198fc29e21d657a80ef6ea71542fe8fb3d9e51ad918ff009ff689c888bb69d"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/blue_shark_from_bread.json"
+hash = "bbb7693517737e6e42dd028f9b3c4a82423a464993656a092d2a19ab910d3785"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/blue_whale_from_blue_shark.json"
@@ -2253,8 +2253,8 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "4d7edd917fa7233651c58d05802b1ce4048ca59743114c1fdd11c0eac110cafc"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/bread_from_birdbrain_teto.json"
-hash = "1a8c5c9fcfec5e776cb82b950b3e4f82e2ff8d1e61df19b86f0db72118f9cf2b"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/bread_from_blue_whale.json"
+hash = "bbb7693517737e6e42dd028f9b3c4a82423a464993656a092d2a19ab910d3785"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/fujo_miku_from_brazilian_miku.json"
@@ -2273,8 +2273,8 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "fa653f6f15aeb47c5114b20ed14f90f3cc4a524edfb36b32e4b783b64819291e"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/teto_from_bread.json"
-hash = "7709d2072880a0472fc8566e22e48b85c391023c74744bd5672411a7912e7cf5"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/teto_from_birdbrain_teto.json"
+hash = "4b73046b67f8a3cf4ad13f79d7696ab38f7b05a4ca3628dab905f4c9e7637d60"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/wood_campfire.json"
@@ -2350,7 +2350,7 @@ hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/dough_hydrators.json"
-hash = "6684d7d842112367dac2f828d755d1f1fbe67756d8b787e17bcb990716ae9721"
+hash = "42285d6d061069347dcfed7be15e0a34e78952eb325a6e978d11e443c856b112"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/grassy_food_bales.json"
@@ -2367,6 +2367,10 @@ hash = "ec8779b9d3c4ba9eeb4abc81f2f9398bfb7dbf5cd488e047ee0531ae32c8440d"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/soulcandles/recipe/soul_candle.json"
 hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/spuds_shops/recipe/crate_shop.json"
+hash = "6e808656c2fa3cec5be2e8a16208add6a313d3f32e5c3bf2c8683213d7d8be91"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/spuds_shops/recipe/hook_shop.json"

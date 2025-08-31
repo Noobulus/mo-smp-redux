@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:chest"
+    },
+    "-": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "item": "minecraft:barrel"
+    }
+  },
+  "pattern": [
+    "-",
+    "b",
+    "#"
+  ],
+  "result": {
+    "item": "spudaciousshops:crate_shop"
+  },
+  "show_notification": true
+}

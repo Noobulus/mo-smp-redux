@@ -2,7 +2,7 @@
     "replace": true,
     "values": [
         "#c:eggs",
-        "#c:milks",
+        "#c:foods/milk",
         {
             "id": "rusticdelight:cooking_oil",
             "required": false
