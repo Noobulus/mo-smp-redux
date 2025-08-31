@@ -2419,11 +2419,11 @@ hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/worldgen/biome/has_wild_bell_peppers.json"
-hash = "5350f1ffd7badf063b187e7912b97eeb194a9291357f2d2a0d482f3540a7febe"
+hash = "3e37a0ba2f34797457667601c8eabf98a5276af472b7bcfde19012a830f34340"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/worldgen/biome/has_wild_coffee.json"
-hash = "379122c87b186876f49111e4401bede45cc842a4bc76faf32befb7c4fe5eef3e"
+hash = "24e80b445fe88fc1893470ae1bf55ba5091cbd2b812b0f8391d1f8d335f8a13b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/worldgen/biome/has_wild_cotton.json"
@@ -2890,5 +2890,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v73.txt"
+file = "v74.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

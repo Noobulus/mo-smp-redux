@@ -1,6 +1,6 @@
 {
   "values": [
-    "minecraft:desert"
+    "minecraft:desert",
     "#c:is_desert",
     "#minecraft:is_badlands",
     "#c:is_badlands",
