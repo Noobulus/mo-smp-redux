@@ -1548,15 +1548,15 @@ hash = "2be2a4e413719e54981e6ee6afd8f179548d8d5de855a91e11ffd1255f9b3a81"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/fried_egg.json"
-hash = "8b0e556aa6aa56cf056ce5cc116144e63a7b18d83b0d92940a28fd013dbff3ff"
+hash = "873ae42298daf68eaa0c1abcc91ecdb0fa1484127774f454f73cecd69d2e2c8a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/fried_egg_from_campfire_cooking.json"
-hash = "c8d715355b3fbd4d96d355743c86ac903ec133c7732c3f0cf84288ddc86039ed"
+hash = "9738ee2e6311820b7bf5727492eb42dac8946f4008930254c2873ad1b7871c0b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/fried_egg_from_smoking.json"
-hash = "b8e87e74c3941a30dd82dd1f7bde8bb52658e13c8148beb8b9450953233584b3"
+hash = "2024dd00048a7328f43c1d5e22349f9d36ecb6f465cf9ba0c156543e37aa712e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/hanging_canvas_sign.json"
@@ -2895,5 +2895,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v77.txt"
+file = "v78.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
