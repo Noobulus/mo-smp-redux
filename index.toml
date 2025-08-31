@@ -1518,11 +1518,11 @@ hash = "8f23d294d382bc3335d3d97e75082a5968affe46d34c6736a22115ee13ed8a37"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/pie_crust.json"
-hash = "31993b8a9ae9e946c21fe134efc366af7598ead85b620ebe86afd651d4c9e506"
+hash = "4e876ef64c14ff3af96d1772cb812d5d4a5b81d723e78fa8db2dff73ba5ef797"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/wheat_dough.json"
-hash = "7ca22407abc8c8aa00ffab97428f6f366af2d4593918290444e79d74249b4776"
+hash = "0d9a814b685b7dd5b4ba84a9cb453a66fd7ced1548afd831b779283a55fc6a2f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/hoppergadgetry/recipe/chute.json"
@@ -2350,7 +2350,7 @@ hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/dough_hydrators.json"
-hash = "42285d6d061069347dcfed7be15e0a34e78952eb325a6e978d11e443c856b112"
+hash = "6684d7d842112367dac2f828d755d1f1fbe67756d8b787e17bcb990716ae9721"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/grassy_food_bales.json"
@@ -2370,7 +2370,7 @@ hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/spuds_shops/recipe/crate_shop.json"
-hash = "6e808656c2fa3cec5be2e8a16208add6a313d3f32e5c3bf2c8683213d7d8be91"
+hash = "ade8edf48b0d548d9c6f31db82a392b18cc9aed213a65aa284fcde02fe2f99a6"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/spuds_shops/recipe/hook_shop.json"
