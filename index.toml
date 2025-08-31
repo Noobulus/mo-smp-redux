@@ -98,7 +98,7 @@ hash = "76be96157bf939be7e76c05670568939db296daba1216dd80bd1a9a9feeeffd3"
 
 [[files]]
 file = "config/everycomp-entries.json"
-hash = "ebae7d42fee4437f6eae4b8110006d9ce4662d84e1b50bf17bb7679dfb9684c3"
+hash = "8fb3b11fcc20ef1d7923e5cb6f7399e6d40fd456fe70ccf84af48bc42fab9146"
 
 [[files]]
 file = "config/everycomp-hazardous.properties"
@@ -947,6 +947,11 @@ hash = "67c98216ea0434282ef0e70f10481e7efcc278d5097018cd3e45c6172cfd0e14"
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "24c60676a7e047654fe15de6ad4ce2c8f90371f86ff39ae470c00250214ca341"
 metafile = true
 
 [[files]]
@@ -2890,5 +2895,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v75.txt"
+file = "v76.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
