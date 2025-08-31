@@ -688,6 +688,11 @@ hash = "895602d01d010ba10c9662f61d382393cdc270ba02d7cd8fb0d95f5fc7768972"
 metafile = true
 
 [[files]]
+file = "mods/creeperbackguard.pw.toml"
+hash = "156397cf1a6b6b07362947654f90906fbf65ef4e7fa7b20ce752f22db64af3d5"
+metafile = true
+
+[[files]]
 file = "mods/dataloader.pw.toml"
 hash = "db09817086e9e99df3784b74e4a74ef57eceef537ef8443e9d50dacb5040e83f"
 metafile = true
@@ -775,6 +780,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "e8d9a9f63fa3701c4fe7ad62cc24bed46c8984d5994903b2566cd916b8dde042"
 metafile = true
 
 [[files]]

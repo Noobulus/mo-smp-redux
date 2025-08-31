@@ -1,5 +1,10 @@
 {
-  "targets": "#c:potions",
+  "targets": [
+    "#c:potions",
+    "minecraft:potion",
+    "minecraft:splash_potion",
+    "minecraft:lingering_potion"
+  ],
   "components": {
     "minecraft:max_stack_size": 16
   }

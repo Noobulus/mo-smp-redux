@@ -1,0 +1,13 @@
+name = "Creeper Backguard"
+filename = "creeperbackguard-fabric-1.21.4-1.4.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qEyKi4fK/versions/um8DhUcW/creeperbackguard-fabric-1.21.4-1.4.1.jar"
+hash-format = "sha512"
+hash = "7482073fcf2cabb6f5c0ab4a38149fb05fadd26aefa519edd63c07c4145c75adc8801b3480d5c5205527b1a409dce41b5dd69a98a2b82f33586411a1074f6120"
+
+[update]
+[update.modrinth]
+mod-id = "qEyKi4fK"
+version = "um8DhUcW"
