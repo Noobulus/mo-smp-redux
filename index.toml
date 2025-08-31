@@ -106,7 +106,7 @@ hash = "6c1121a06adc3e95d5992a3c81d0e9db87ef176571d15db20b9ac809c93c8c36"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "02a109ffdd74ca9542b8c0fac89267c2fabba5af52176e6c83ba7fcdcb854b73"
+hash = "945f0c4de799920ae96e82c0ee312916dc9623295a60d1eb76bd52d3b1f45e27"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -2862,5 +2862,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v70.txt"
+file = "v71.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
