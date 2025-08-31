@@ -105,6 +105,10 @@ file = "config/everycomp-hazardous.properties"
 hash = "6c1121a06adc3e95d5992a3c81d0e9db87ef176571d15db20b9ac809c93c8c36"
 
 [[files]]
+file = "config/fabrication/features.ini"
+hash = "e0d676c7629089cfe2087c82164b82f408807f43803380417bfd92f963ea2f03"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "b15e935386c6b1c8a9ec606bcb516df64f07a439e54254b916d8db31fb7ced77"
 
@@ -122,7 +126,7 @@ hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
 file = "config/fixed-levels.json5"
-hash = "098a99e2a5a4a77c133cef19984b4993531e8e6d2bb06e49c9e0b8788a3d635d"
+hash = "264ceae34f81b683da2a08d08f58c816696e0527014f2825ddd5517381dbad7f"
 
 [[files]]
 file = "config/forgeconfigapiport.toml"
@@ -868,11 +872,6 @@ hash = "8f416e0c7478f85087c4bd3b11e95da32567fbd3cc667b8e76e1f7ad53ae09bf"
 metafile = true
 
 [[files]]
-file = "mods/improved-anvils.pw.toml"
-hash = "08fe46bf55fe5528a8fdaba97955b724d4a0be9c83c19225fb00913c632903a9"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
 metafile = true
@@ -1061,6 +1060,11 @@ hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
 metafile = true
 
 [[files]]
+file = "mods/pearfection.pw.toml"
+hash = "8bac74adb844bace03b26c731b2630199c96e390220ab3e40f649dbe21b90bda"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
@@ -1145,9 +1149,8 @@ hash = "a92309c5e01f4376f907deb5b01f05205e424908ade2bbac3238499437cd9d6e"
 metafile = true
 
 [[files]]
-file = "mods/rustic-delight.pw.toml"
-hash = "432bd453b982cca6e0f96ab7fb3ca9ccc929ff879d20663266dcafe389660e37"
-metafile = true
+file = "mods/rusticdelight-fabric-1.21.1-1.4.2.jar"
+hash = "e4eb2f67df6b79a3a997b71027102a18832e80ee017039f02f781fb2ec174199"
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -1935,6 +1938,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "3d45d190360ef40e01c986e4b07590e5f2acc68302fe1dd6bed89b62fcd38f3f"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/nears/tags/block/cinder_wheat_placable_on.json"
+hash = "5df9f97c870e0b557bfd45d4487853b47d4689e281e7b23d7cf8aba0e252bb95"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/awning.json"
 hash = "7d42c636d274fb69c565759c30006c30ef8569c12755db369e9288f1a4370e10"
 
@@ -1963,10 +1970,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/bleached_bed.json"
-hash = "a140c8945956b1d8a5a4836ff956ecadd7513732ccccc642326f7f8ba09fa9dc"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/golden_carrot.json"
 hash = "af3e24782304abff77b7bf4d06957e27511eeebf38dc7eb4a4c8c73607b7090f"
 
@@ -1991,16 +1994,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "51a41b2648d22c73368023cd06240978e4a8316167835f7715faddc9f9f57279"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_woods_resist_fire.json"
-hash = "09d79c637f3ac12aab2653613f15a237db5e5d90ec7d48ff3659bb6353896aac"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/netherite.json"
 hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
-hash = "4eb89f6bd0cf7e2510f282e2982d561099c8283c4bde750d7c4bab82ade2264c"
+hash = "6741d906a61c6dc993d368e441ed5160d6368ab3df10767de65ae42d0b4fb8fe"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/spyglass.json"
@@ -2389,6 +2388,18 @@ hash = "0818b395f7d985c5ae6399fc7d71c142919f1ee9c77853fa45adea1b2f715b93"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/veggie_food_crates.json"
 hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/worldgen/biome/has_wild_bell_peppers.json"
+hash = "5350f1ffd7badf063b187e7912b97eeb194a9291357f2d2a0d482f3540a7febe"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/worldgen/biome/has_wild_coffee.json"
+hash = "379122c87b186876f49111e4401bede45cc842a4bc76faf32befb7c4fe5eef3e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/worldgen/biome/has_wild_cotton.json"
+hash = "8efd69f9fbb449b4b5c70a2060e3c529b4abf72d6082114f622b038679fdfa22"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/soulcandles/recipe/soul_candle.json"
@@ -2847,5 +2858,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v66.txt"
+file = "v68.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
