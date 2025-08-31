@@ -2715,7 +2715,7 @@ hash = "400c2533d1f4d94ee1d1c747e98196b4769eda86c105ef8aef32b0f3eaab722e"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/assets/minecraft/optifine/random/entity/sheep/sheep.properties"
-hash = "992a3525448b413766c76b5e2d2f6f1a1fd045f9e33d5ba4077185072c462445"
+hash = "faaf374e29b2885a3ac56d8cf7edbe57f29a5fc9a907a02d5f7cf38398267515"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/assets/minecraft/optifine/random/entity/sheep/sheep1.png"
@@ -2731,7 +2731,7 @@ hash = "fc2389e65fd70dead7bba3f58506794825aabceeb62212ff887a848c6e3d3cc0"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/assets/minecraft/optifine/random/entity/sheep/sheep_wool.properties"
-hash = "992a3525448b413766c76b5e2d2f6f1a1fd045f9e33d5ba4077185072c462445"
+hash = "faaf374e29b2885a3ac56d8cf7edbe57f29a5fc9a907a02d5f7cf38398267515"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/assets/minecraft/optifine/random/entity/sheep/sheep_wool1.png"
@@ -2775,7 +2775,7 @@ hash = "dbf541c4a5274f2f95c4250e50e70d84f0745800a5ef9022a7428cb82d9a1091"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/pack.mcmeta"
-hash = "2f0a6ecca2e104bfd59b5df4855df596fcf6ba56e6180300904efa2ad690588b"
+hash = "d90322c24d5a9d7cfdd31213b1d95563904c66ec6ea8d0e5424e1762bfc79ba3"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/pack.png"
@@ -2822,5 +2822,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v62.txt"
+file = "v63.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
