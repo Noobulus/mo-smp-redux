@@ -961,10 +961,6 @@ hash = "506e5726a9bef2ba84ad8b34009ba4ee2d81453233bb3d8ac72d4bc2e1a8a276"
 metafile = true
 
 [[files]]
-file = "mods/minecart-backport-1.1.0.jar"
-hash = "ab2df8d499c04490f1751edab038849493a241e05e8cc78ea012383c023e58bd"
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "2fcdc63bb2bf97187f3bd67787c4b3a880bf17f332be8c3839408c4115e50884"
 metafile = true
@@ -2369,6 +2365,30 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/soulcandles/rec
 hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/cold_chicken.json"
+hash = "41cc990ff3c6fba73057b57c5c32fdc9149a16e5f1b6b3ca73443356cc190e9d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/cold_cow.json"
+hash = "a6a4c2d24207c3c05dc1645593044cfde4cd2cb0bb78dce63bef5f42fb8efb45"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/cold_pig.json"
+hash = "9a53824b4ce599a36d6188f2d2861b2c66b82a48d17a9471af48991e172fb981"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/warm_chicken.json"
+hash = "578269ebf2a37f74a778b46a105f3388efcf5ae1eb497029487c277f2f6fb2a3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/warm_cow.json"
+hash = "31242269f5c654e29b4869a90b80deb5b56f4b774751ea463be0e106ed9a4f23"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/warm_pig.json"
+hash = "307ab31e3e277ef68d43873cf2ebe306ec55bd5ab14cc0886e5ecc3e52bd08e6"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/spuds_shops/recipe/crate_shop.json"
 hash = "ade8edf48b0d548d9c6f31db82a392b18cc9aed213a65aa284fcde02fe2f99a6"
 
@@ -2737,5 +2757,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v57.txt"
+file = "v58.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
