@@ -1,0 +1,17 @@
+{
+  "values": [
+    "#c:is_cold",
+    "#c:is_icy",
+    "#c:is_snowy",
+    "clifftree:bog",
+    "clifftree:snowy_old_growth_taiga",
+    "clifftree:glacier_valley",
+    "clifftree:tundra",
+    "clifftree:cold_river",
+    "clifftree:cold_caves",
+    "clifftree:frozen_caves",
+    "clifftree:snowy_diorite_shore",
+    "clifftree:diorite_shore",
+    "clifftree:gravelly_beach"
+  ]
+}

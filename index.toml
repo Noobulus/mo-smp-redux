@@ -46,7 +46,7 @@ hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
 file = "config/carpet/default_carpet.conf"
-hash = "a9887024ab932bdb397edbed1c6fc1d886033212f201c96eb0dd78eaa96981de"
+hash = "84a7563e668aede366d15fbe883c45da319233e48e847bede375d70bb8d6ba7d"
 
 [[files]]
 file = "config/cobblegen-meta.json5"
@@ -575,11 +575,6 @@ metafile = true
 [[files]]
 file = "mods/camphor.pw.toml"
 hash = "d0322f9aa5140965976ffe95bf035197eb413aaa2eccb516352f2241acbbe79b"
-metafile = true
-
-[[files]]
-file = "mods/carpet-extra.pw.toml"
-hash = "136593ec659bd0d255a70cd1fa9ee8dac89f942915fc6c14f46d9c783e89341e"
 metafile = true
 
 [[files]]
@@ -1494,6 +1489,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hid
 hash = "471150522bb550b06f7cbc8129522c35c196f6226df074719fb4283c06543328"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/worldgen/biome/is_cold.json"
+hash = "c4a7f4a69baf5598345cdcb5f24858898400bfac5804a78d04e342244395a7a3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/worldgen/biome/is_hot.json"
+hash = "b0680281053327141bfe26eb34302f6c07477c3eedd84a887b4b03f7bc3f4ca8"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/camphor/recipe/coin_purse.json"
 hash = "6e6b8c0b6cff5bee606b2c34ff85ff2637ecd3a9d5e4862dbbf4ee980e24e109"
 
@@ -1908,6 +1911,14 @@ hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/sniffer_food.json"
 hash = "9b6b236408d3d3b031d40d4276b730cd6f7f6456cee202131e2f50711361ba52"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/spawns_cold_variant_farm_animals.json"
+hash = "d70d5eda4470515491501466ce012b4f7f9e451cbe246b7d4a6a03ca0ed5d085"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/spawns_warm_variant_farm_animals.json"
+hash = "879de8b08ac2c954faa58d73f1f5f3220d35661923165557515922177f0d305b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/awning.json"
@@ -2715,7 +2726,7 @@ hash = "400c2533d1f4d94ee1d1c747e98196b4769eda86c105ef8aef32b0f3eaab722e"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/assets/minecraft/optifine/random/entity/sheep/sheep.properties"
-hash = "faaf374e29b2885a3ac56d8cf7edbe57f29a5fc9a907a02d5f7cf38398267515"
+hash = "71b3dfc9dc6aa772d6b25fd07e16aecec64452df9b9a5471fa8cbb4ac37aa431"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/assets/minecraft/optifine/random/entity/sheep/sheep1.png"
@@ -2731,7 +2742,7 @@ hash = "fc2389e65fd70dead7bba3f58506794825aabceeb62212ff887a848c6e3d3cc0"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/assets/minecraft/optifine/random/entity/sheep/sheep_wool.properties"
-hash = "faaf374e29b2885a3ac56d8cf7edbe57f29a5fc9a907a02d5f7cf38398267515"
+hash = "71b3dfc9dc6aa772d6b25fd07e16aecec64452df9b9a5471fa8cbb4ac37aa431"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/assets/minecraft/optifine/random/entity/sheep/sheep_wool1.png"
@@ -2822,5 +2833,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v64.txt"
+file = "v65.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
