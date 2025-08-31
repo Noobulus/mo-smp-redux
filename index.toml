@@ -1913,12 +1913,16 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "9b6b236408d3d3b031d40d4276b730cd6f7f6456cee202131e2f50711361ba52"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/snow_golem_melts.json"
+hash = "7713a2a3a0f8b5fef5100dd69b7c044169c7d083d46b228d28b921b546d5bc88"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/spawns_cold_variant_farm_animals.json"
 hash = "d70d5eda4470515491501466ce012b4f7f9e451cbe246b7d4a6a03ca0ed5d085"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/spawns_warm_variant_farm_animals.json"
-hash = "879de8b08ac2c954faa58d73f1f5f3220d35661923165557515922177f0d305b"
+hash = "3d45d190360ef40e01c986e4b07590e5f2acc68302fe1dd6bed89b62fcd38f3f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/awning.json"
@@ -2833,5 +2837,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v65.txt"
+file = "v66.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

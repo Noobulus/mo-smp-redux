@@ -2,14 +2,41 @@
   "values": [
     "#c:is_hot",
     "#c:is_desert",
-    "clifftree:oasis",
-    "clifftree:shrubland",
-    "clifftree:warm_river",
-    "clifftree:tropical_river",
-    "clifftree:warm_caves",
-    "clifftree:lukewarm_caves",
-    "clifftree:inferno",
-    "clifftree:tropical_beach",
-    "clifftree:granite_shore"
+    {
+      "id": "clifftree:oasis",
+      "required": false
+    },
+    {
+      "id": "clifftree:shrubland",
+      "required": false
+    },
+    {
+      "id": "clifftree:warm_river",
+      "required": false
+    },
+    {
+      "id": "clifftree:tropical_river",
+      "required": false
+    },
+    {
+      "id": "clifftree:warm_caves",
+      "required": false
+    },
+    {
+      "id": "clifftree:lukewarm_caves",
+      "required": false
+    },
+    {
+      "id": "clifftree:inferno",
+      "required": false
+    },
+    {
+      "id": "clifftree:tropical_beach",
+      "required": false
+    },
+    {
+      "id": "clifftree:granite_shore",
+      "required": false
+    }
   ]
 }
