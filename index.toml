@@ -106,7 +106,7 @@ hash = "6c1121a06adc3e95d5992a3c81d0e9db87ef176571d15db20b9ac809c93c8c36"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "80103a944b42a7e43e8f828ff4ba00368713876c0d64463874899801e9d34dbb"
+hash = "02a109ffdd74ca9542b8c0fac89267c2fabba5af52176e6c83ba7fcdcb854b73"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -602,11 +602,6 @@ hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
 metafile = true
 
 [[files]]
-file = "mods/chicken-nerf.pw.toml"
-hash = "836c96f4790e102857a44c3cbdb8a245dec2e0c0a5c00581c32ef6c82d95f698"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
 metafile = true
@@ -819,6 +814,11 @@ metafile = true
 [[files]]
 file = "mods/florum-sporum.pw.toml"
 hash = "816cb0e58987e1f04a4ec8d823c3a17d83b8bc2600ea35801fb54e885da1bd93"
+metafile = true
+
+[[files]]
+file = "mods/foodeffecttooltips.pw.toml"
+hash = "1f288dcc1b4a45b1496c471e0fac389afb2a824fa4db5220d5fec162c3f4474e"
 metafile = true
 
 [[files]]
@@ -1498,6 +1498,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture
 hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/eggs.json"
+hash = "efc649304102262e168e1b0bcbdcf4903349ccc3bd72b27700c1308e0f1e0f27"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "471150522bb550b06f7cbc8129522c35c196f6226df074719fb4283c06543328"
 
@@ -1938,7 +1942,7 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "3d45d190360ef40e01c986e4b07590e5f2acc68302fe1dd6bed89b62fcd38f3f"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/nears/tags/block/cinder_wheat_placable_on.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/nears/tags/block/cinder_wheat_plantable_on.json"
 hash = "5df9f97c870e0b557bfd45d4487853b47d4689e281e7b23d7cf8aba0e252bb95"
 
 [[files]]
@@ -2858,5 +2862,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v69.txt"
+file = "v70.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
