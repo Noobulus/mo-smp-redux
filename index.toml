@@ -1522,7 +1522,7 @@ hash = "4e876ef64c14ff3af96d1772cb812d5d4a5b81d723e78fa8db2dff73ba5ef797"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/wheat_dough.json"
-hash = "0d9a814b685b7dd5b4ba84a9cb453a66fd7ced1548afd831b779283a55fc6a2f"
+hash = "01dfaa555ad89b7020fc8291e8fb5404524eab5787669351c84900fdff6f9157"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/hoppergadgetry/recipe/chute.json"
@@ -2350,19 +2350,19 @@ hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/dough_hydrators.json"
-hash = "6684d7d842112367dac2f828d755d1f1fbe67756d8b787e17bcb990716ae9721"
+hash = "b0bc12d44b4aa60f54f64d640a5b54bcbb9b9ee6631ca8b329f135ee63e0e503"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/grassy_food_bales.json"
-hash = "e8bc3916e04afad914dd6a712f0537917029e94a27fffe5abe26a0241b1395ae"
+hash = "5f2d6f1d6a6ef27c7233417819606e8c1a4933d94c0ee02c4a32cd7d6c41e630"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/vanity_armors.json"
-hash = "cd8f2c82a82e52e1d8de8bb69261c12b287f27e70228fad52b620645ac4d0840"
+hash = "0818b395f7d985c5ae6399fc7d71c142919f1ee9c77853fa45adea1b2f715b93"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/veggie_food_crates.json"
-hash = "ec8779b9d3c4ba9eeb4abc81f2f9398bfb7dbf5cd488e047ee0531ae32c8440d"
+hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/soulcandles/recipe/soul_candle.json"
