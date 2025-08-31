@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/chicken-nerf.pw.toml"
-hash = "59c5735e0406ca01292a4e4d04ff0d76c087af3f9439a12c9b85c606ae4b561e"
+hash = "836c96f4790e102857a44c3cbdb8a245dec2e0c0a5c00581c32ef6c82d95f698"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/datapack-utils.pw.toml"
-hash = "647e2a616760c4a125c90ebd9d8c87341a0e2bc619bae18a474b2745f94bf8d9"
+hash = "caef0b2e679d04368c9492ebd5eddab84b752dd88f6a58ecf188b12cd0256b36"
 metafile = true
 
 [[files]]
@@ -1170,11 +1170,6 @@ hash = "072d663edf6434788b126994b7901a654efb279c4b7f503bcad4938d6d6396a5"
 metafile = true
 
 [[files]]
-file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "9b5b2a56d545eadecab55e361a4516d1aa15ee8cefbad7cef0502b86f5fefa23"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8c79da2a9d2f8f4b628afada45a53ab709fa85e821c5c7071ae768ab57685d59"
 metafile = true
@@ -1287,6 +1282,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
+metafile = true
+
+[[files]]
+file = "mods/worldgen-patches.pw.toml"
+hash = "6cb36f7170ec27472132252faaabbd6d92697996a77153cf4a5ce1268c24e219"
 metafile = true
 
 [[files]]
@@ -2737,5 +2737,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v59.txt"
+file = "v60.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

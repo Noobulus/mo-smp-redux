@@ -1,0 +1,13 @@
+name = "Worldgen Patches"
+filename = "worldgen-patches-1.1.0-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MvC0OwYb/versions/oQLjkv11/worldgen-patches-1.1.0-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "2ecb046e915cec9a5412ed0ca522e7ee791ca2117f7eb029fa19c9209143d2196db314dc4450fe5032d14d0792a372b05161dc6de585d597e66f39fbcfd4ab5a"
+
+[update]
+[update.modrinth]
+mod-id = "MvC0OwYb"
+version = "oQLjkv11"
