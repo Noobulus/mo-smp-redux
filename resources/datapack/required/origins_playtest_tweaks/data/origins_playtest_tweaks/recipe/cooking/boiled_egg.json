@@ -1,12 +1,15 @@
 {
   "type": "farmersdelight:cooking",
+  "cookingtime": 200,
   "experience": 0.35,
   "ingredients": [
     {
       "tag": "c:eggs"
     }
   ],
+  "recipe_book_tab": "meals",
   "result": {
+    "count": 1,
     "id": "mynethersdelight:boiled_egg"
   }
 }
