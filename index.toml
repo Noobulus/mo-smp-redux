@@ -2775,7 +2775,7 @@ hash = "dbf541c4a5274f2f95c4250e50e70d84f0745800a5ef9022a7428cb82d9a1091"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/pack.mcmeta"
-hash = "d90322c24d5a9d7cfdd31213b1d95563904c66ec6ea8d0e5424e1762bfc79ba3"
+hash = "0b3695a51b245d9e4c40eb3c85513a7574f32da31dd4891e90fc9bb9bdd2e21d"
 
 [[files]]
 file = "resources/resourcepack/required/Woolly Wonders/pack.png"
@@ -2822,5 +2822,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v63.txt"
+file = "v64.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
