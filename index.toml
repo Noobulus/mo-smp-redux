@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/chicken-nerf.pw.toml"
-hash = "836c96f4790e102857a44c3cbdb8a245dec2e0c0a5c00581c32ef6c82d95f698"
+hash = "59c5735e0406ca01292a4e4d04ff0d76c087af3f9439a12c9b85c606ae4b561e"
 metafile = true
 
 [[files]]
@@ -1305,7 +1305,7 @@ hash = "357c6da2d89d4ed7bc8d422a5f3b78ba71a958aa2c7bc2c0e0ebb07f9c5ea10c"
 metafile = true
 
 [[files]]
-file = "resources/datapack/required/ClifftreeBackports.zip"
+file = "resources/datapack/required/ClifftreeBackports.zip.old"
 hash = "24067ae7c4227ddc4ddbae1fd57d8e8c560f539921559f68a3a03b60ea7de8fc"
 
 [[files]]
@@ -2365,30 +2365,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/soulcandles/rec
 hash = "b7db815730329f9de410628715f761aeb6c23eefbf9f96d1699a0ca04f142525"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/cold_chicken.json"
-hash = "41cc990ff3c6fba73057b57c5c32fdc9149a16e5f1b6b3ca73443356cc190e9d"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/cold_cow.json"
-hash = "a6a4c2d24207c3c05dc1645593044cfde4cd2cb0bb78dce63bef5f42fb8efb45"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/cold_pig.json"
-hash = "9a53824b4ce599a36d6188f2d2861b2c66b82a48d17a9471af48991e172fb981"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/warm_chicken.json"
-hash = "578269ebf2a37f74a778b46a105f3388efcf5ae1eb497029487c277f2f6fb2a3"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/warm_cow.json"
-hash = "31242269f5c654e29b4869a90b80deb5b56f4b774751ea463be0e106ed9a4f23"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/spring_to_life/loot_table/entities/warm_pig.json"
-hash = "307ab31e3e277ef68d43873cf2ebe306ec55bd5ab14cc0886e5ecc3e52bd08e6"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/spuds_shops/recipe/crate_shop.json"
 hash = "ade8edf48b0d548d9c6f31db82a392b18cc9aed213a65aa284fcde02fe2f99a6"
 
@@ -2721,6 +2697,10 @@ file = "resources/resourcepack/required/Vanilla Extract Resources/pack.mcmeta"
 hash = "9bd5c4877efc86a8fd9588ef1be1ab6b5ab1b996c3e81b6c15ece17c8e642e3e"
 
 [[files]]
+file = "resources/resourcepack/required/Woolly Wonders.zip"
+hash = "b06c4a14222a3ce9ae5a6f8024a260fb02a2048eb5755dce33577f4fffb0623c"
+
+[[files]]
 file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/lang/en_us.json"
 hash = "b50b4e08096d22c5ed0bc367f7c93688d6d031f8a50a56af387e9922223609de"
 
@@ -2757,5 +2737,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v58.txt"
+file = "v59.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
