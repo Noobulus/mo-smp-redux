@@ -1,0 +1,27 @@
+{
+  "replace": true,
+  "type": "brewinandchewin:fermenting",
+  "base_fluid": {
+    "amount": 1000,
+    "ingredient": {
+      "tag": "#c:milk"
+    },
+    "unit": "millibuckets"
+  },
+  "category": "meals",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "mynethersdelight:crimson_fungus_colony"
+    },
+    {
+      "tag": "mynethersdelight:hot_spice"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "brewinandchewin:scarlet_cheese"
+  },
+  "temperature": 5,
+  "unit": "millibuckets"
+}

@@ -12,10 +12,10 @@
   "fermenting_time": 4800,
   "ingredients": [
     {
-      "item": "minecraft:iron_block"
+      "item": "minecraft:iron_boots"
     },
     {
-      "item": "minecraft:rabbit_foot"
+      "item": "minecraft:iron_ingot"
     },
     {
       "tag": "c:crops/grain"

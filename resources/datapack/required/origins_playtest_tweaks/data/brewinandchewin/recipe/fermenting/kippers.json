@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "type": "brewinandchewin:fermenting",
+  "category": "meals",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/safe_raw_fish"
+    },
+    {
+      "tag": "c:foods/safe_raw_fish"
+    },
+    {
+      "tag": "c:foods/safe_raw_fish"
+    },
+    {
+      "tag": "c:foods/safe_raw_fish"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "id": "brewinandchewin:kippers"
+  },
+  "temperature": 4
+}

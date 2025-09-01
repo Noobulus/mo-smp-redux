@@ -1,0 +1,14 @@
+{
+    "values": [
+        "#c:foods/raw_beef",
+        "#c:foods/raw_mutton",
+        {
+            "id": "farmersdelight:brown_mushroom_colony",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:red_mushroom_colony",
+            "required": false
+        }
+    ]
+}

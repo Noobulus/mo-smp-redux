@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "type": "brewinandchewin:fermenting",
+  "category": "meals",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "farmersdelight:cabbage"
+    },
+    {
+      "item": "farmersdelight:cabbage"
+    },
+    {
+      "tag": "c:foods/vegetable"
+    },
+    {
+      "tag": "mynethersdelight:hot_spice"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "id": "brewinandchewin:kimchi"
+  },
+  "temperature": 2
+}
