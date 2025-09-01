@@ -1503,14 +1503,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture
 hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/bundle_pins/bundle_pins/maddy/brookite.json"
-hash = "f8ec5729cda3f99aa08db3c0a6c3d1d25e3616fd947fbc5c10ca2694d4189c39"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/bundle_pins/recipe/maddy/brookite_bundle_pin.json"
-hash = "205327e877e263436d49c8c5671d333fcab3e80191cd766b0ca0ce4ab1a292ad"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/eggs.json"
 hash = "efc649304102262e168e1b0bcbdcf4903349ccc3bd72b27700c1308e0f1e0f27"
 
@@ -2867,22 +2859,6 @@ file = "resources/resourcepack/required/Woolly Wonders/title.png"
 hash = "1b1e8b8cf28f04c1be078ee7032697478557b35ddc5947da4afcb261a9e72942"
 
 [[files]]
-file = "resources/resourcepack/required/maddy_bundle_pins/assets/bundle_pins/lang/en_us.json"
-hash = "ef34d344001eb1a68ca4e3bc68e63d2b3b7e3104330af947e947d5e100bb8baa"
-
-[[files]]
-file = "resources/resourcepack/required/maddy_bundle_pins/assets/bundle_pins/textures/bundle_pins/maddy/brookite.png"
-hash = "44484375d0bb037dd16cd46462a43ac448374872900f27de18a83b8dc55bcb47"
-
-[[files]]
-file = "resources/resourcepack/required/maddy_bundle_pins/assets/bundle_pins/textures/bundle_pins/maddy/brookite_filled.png"
-hash = "44484375d0bb037dd16cd46462a43ac448374872900f27de18a83b8dc55bcb47"
-
-[[files]]
-file = "resources/resourcepack/required/maddy_bundle_pins/pack.mcmeta"
-hash = "9bd5c4877efc86a8fd9588ef1be1ab6b5ab1b996c3e81b6c15ece17c8e642e3e"
-
-[[files]]
 file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/lang/en_us.json"
 hash = "b50b4e08096d22c5ed0bc367f7c93688d6d031f8a50a56af387e9922223609de"
 
@@ -2919,5 +2895,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v83.txt"
+file = "v84.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
