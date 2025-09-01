@@ -1,6 +1,6 @@
 {
 	"type": "lib39:piston_smashing",
-	"input": [ "#minecraft:logs" ],
+	"input": [ "minecraft:logs" ],
 	"catalysts": "#minecraft:beacon_base_blocks",
 	"output": { "id": "minecraft:paper", "count": 2 }
 }

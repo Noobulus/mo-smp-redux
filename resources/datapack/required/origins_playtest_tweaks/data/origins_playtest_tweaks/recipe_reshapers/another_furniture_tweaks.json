@@ -2,7 +2,8 @@
     "common_ingredients": {
         "|": "stick",
         "&": "dirt",
-        "!": "torch"
+        "!": "torch",
+        "?": "composter"
     },
     "id_substrings": {
         "~": "wool",
@@ -23,6 +24,16 @@
         "#": "planks"
     },
     "source_family": [
+        {
+            "pattern": [
+                "- -",
+                "- -",
+                "---"
+            ],
+            "output_token": "?",
+            "output_count": 1,
+            "remove": false
+        },
         {
             "pattern": [
                 "# ",

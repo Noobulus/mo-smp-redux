@@ -2,7 +2,7 @@
   "replace": true,
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "pearfection:twisted_door"
+    "item": "pearfection:callery_door"
   },
   "result": {
     "id": "everycomp:dd/pearfection/short_callery_door",
