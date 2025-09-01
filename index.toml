@@ -601,6 +601,11 @@ hash = "3445c4b0b5e1a7a9e99ec38e6203f8d4ae9ca0ada07fd951ac0c16e728254589"
 metafile = true
 
 [[files]]
+file = "mods/charcoal-blocks.pw.toml"
+hash = "d1ce358e7de11c58f3eb6de6535e3ef307b45676760d7141745daebb5bde9f85"
+metafile = true
+
+[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
 metafile = true
@@ -1359,6 +1364,10 @@ hash = "b62f7e0e450ad3dd9dd1fbcab5ca9df88bf50c59f1ebce75d97c5ef8710788fa"
 [[files]]
 file = "resources/datapack/required/bundle/pack.mcmeta"
 hash = "2df89a377d53ee7c4ef481a5e6ccc7a2ca0258a96fb19cead422490d5c36f3ce"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/.pack.mcmeta.kate-swp"
+hash = "1395cd5fa35ee0a4ef93dd69c9876c63e53b023a8e9455a8700af6ac67a36216"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/furniture_hammer.json"
@@ -3209,5 +3218,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.16.txt"
+file = "v0.2.17.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

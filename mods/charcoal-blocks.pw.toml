@@ -1,0 +1,13 @@
+name = "Charcoal Blocks"
+filename = "CharcoalBlock-1.21.1-0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xoBTgZsD/versions/Ht3YT5rH/CharcoalBlock-1.21.1-0.3.jar"
+hash-format = "sha512"
+hash = "06af707f60a90a650d4a249c5b55616ba3c550e3f129f7af7518678aaa8f0fbd50f431d043f47d1e6a0ef5bec6aebb10fd819f4bc3cb89b7288d3da4ff4b4345"
+
+[update]
+[update.modrinth]
+mod-id = "xoBTgZsD"
+version = "Ht3YT5rH"
