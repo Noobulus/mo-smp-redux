@@ -1,0 +1,24 @@
+{
+  "targets": "brewinandchewin:horror_lasagna",
+  "components": {
+    "minecraft:food": {
+        "saturation": 17.6,
+		"nutrition": 16,
+		"effects": [
+          {
+            "effect": {
+              "show_particles": false,
+              "show_icon": false,
+              "duration": 6000,
+              "id": "farmersdelight:nourishment"
+            },
+            "effect": {
+              "show_icon": true,
+              "duration": 400,
+              "id": "mynethersdelight:b_pungent"
+            }
+          }
+		]
+	}
+  }
+}

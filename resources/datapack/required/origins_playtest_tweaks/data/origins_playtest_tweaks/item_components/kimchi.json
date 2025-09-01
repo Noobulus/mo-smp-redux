@@ -1,0 +1,19 @@
+{
+  "targets": "brewinandchewin:kimchi",
+  "components": {
+    "minecraft:food": {
+        "saturation": 4.8,
+		"nutrition": 4,
+		"eat_seconds": 0.8,
+		"effects": [
+          {
+            "effect": {
+              "show_icon": true,
+              "duration": 200,
+              "id": "mynethersdelight:b_pungent"
+            }
+          }
+		]
+	}
+  }
+}

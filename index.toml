@@ -732,6 +732,11 @@ hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
+file = "mods/emiffect.pw.toml"
+hash = "76be799469466baf22ab606c07861a07ae93159212bd9554eadc4e6beca52968"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "3aa1ea0bc9be0c13cf05b17ded80b3f099ff29371a6550da1df2573b14ea434e"
 metafile = true
@@ -1503,6 +1508,22 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture
 hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/apple_jelly.json"
+hash = "dc2da0ccfd12bc89afc13e1207e82c8e7e5ea957493a5b349c239bce0a5eec51"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/fiery_fondue_pot.json"
+hash = "18d3ad838dd969a6a3b49f5038fa331221c5318cc837ab99093c056a777cf3e8"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/glow_berry_marmalade.json"
+hash = "0f5b490ec5189a1242b4987a668b3743c36a4e4519f10950dbe490177bdfdaaf"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/sweet_berry_jam.json"
+hash = "2c3d4fa0dc4e4c3b582a56bc807c0ffe68ed4a67e65e3d0fed95333465dc4346"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/beer_from_water.json"
 hash = "ae9ab299d1a7036eb6acb97d4700af81941cd5bd0d3ca007297cf46003d096e7"
 
@@ -1528,15 +1549,15 @@ hash = "289a0492ffcdc731d74f381d9b6813e2c3aa2e2f421fdc55093f7d55d7e46fc3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/jerky.json"
-hash = "2337945848224a46769de3dbd604fc3fe5f05917867df91aa1ccfb06ac78fab0"
+hash = "81137732599c347032632d5d8893404a0d7c2a81b7e3d959047060aac81c3c02"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/kimchi.json"
-hash = "47f96c7615ce140a23fef039d79f7592420cbae0b42d27a6bfce01e9713b2a25"
+hash = "e664838c8987c2e171d923fcb5d6200d22233d50d2f3ffba7dd4c2de635b5e3e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/kippers.json"
-hash = "4ec4def7b63eefb238b5c0b7d0bd5a7abee49de65475bdaf62be711d6049fd9b"
+hash = "9f8216c8b2b919af0db2bdc7c34eb75de2e13669d02650f17ae09344c3ab5fe1"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/mead_from_honey.json"
@@ -1601,6 +1622,10 @@ hash = "b904637783d6d2906fbb7e326d17b8a21add7e0aaca67a45dde481ae2a9a997e"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/eggs.json"
 hash = "efc649304102262e168e1b0bcbdcf4903349ccc3bd72b27700c1308e0f1e0f27"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/foods/bread.json"
+hash = "87e74a2beb1798d1de09cfb12aea43aca33e87668652c9889d235a0e99f54428"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/foods/fruit.json"
@@ -2095,6 +2120,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fiery_fondue.json"
+hash = "faa7fa35cc016f91ff0f30fa2504544c2b26bd7bc5446c00ef2de4adc819511e"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/golden_carrot.json"
 hash = "af3e24782304abff77b7bf4d06957e27511eeebf38dc7eb4a4c8c73607b7090f"
 
@@ -2103,12 +2132,28 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "8981a0cac6f5bd089d7f04b60c7a90bd3b70e28fe83ab043bfa40bd0418265ad"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/horror_lasagna.json"
+hash = "053cc44c1ea74a88bd864ad946ca91a398462b1a5eaa483fc66ab2f0595c523d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/jerky.json"
+hash = "a4af8ff2ea983aafe88bc51f68e0c67855443a1ef01aceb57d63e1eb0acfb9b0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/kimchi.json"
+hash = "de0269d3b7340755b35fce3ef638ae6cf5bd6889f28d97a7499e148424b5c7bb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/kippers.json"
+hash = "04fe7f16cf0f7342863a9a12e94b60fc51dfd8e93f6fd3f32779d162226422a4"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/mace.json"
 hash = "bee183d588775f676513975756e04a25ec4f530c237b2f1055f685255d34bf89"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/miku_plushies.json"
-hash = "91858e94156f30925480b45f974460efecb38fe1f9dbbb7c131db9ab53c87717"
+hash = "fcb4d467f5ffa754850d438dbd6b69c9ff25bdccaa9b00942154e521bf13cc49"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_blocks_resist_fire.json"
@@ -2125,6 +2170,14 @@ hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
 hash = "6741d906a61c6dc993d368e441ed5160d6368ab3df10767de65ae42d0b4fb8fe"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/scarlet_cheese.json"
+hash = "43e9f6fb9eb5f425652a0f400378923a3e9e167de14443f4970aa9c19b5d19fe"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/scarlet_pierogi.json"
+hash = "6e9efe3252cb9644e614c7703eb2a71d911b8dc2cc8c4e08e763f9bd5d03b016"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/spyglass.json"
@@ -2161,6 +2214,10 @@ hash = "369e470317d27c327020da9f40ebd4270d1b947b7a00382d26d7f4dcda261ddd"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/boiled_egg.json"
 hash = "c5fea9f8d994abf557817d26c1f600b4187776d5911118ca32dd27df353ce422"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/cocoa_fudge.json"
+hash = "a81f76825580c0d274800ccc15ae08c24e0366e47eae42ddd42f053467986d74"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/benches.json"
@@ -2600,7 +2657,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "2796eb65e2ea89fe2d4877c34a39025851010d0f658a781ad8af3bd9de740e6c"
+hash = "56a060a30b67d9f9ac6564cc5c0454b1147d442ed318cc751333bb0c4b0dc6fa"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3007,5 +3064,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.5.txt"
+file = "v0.2.6.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

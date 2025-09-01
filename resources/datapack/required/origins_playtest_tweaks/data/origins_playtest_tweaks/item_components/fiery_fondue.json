@@ -1,0 +1,24 @@
+{
+  "targets": "brewinandchewin:fiery_fondue",
+  "components": {
+    "minecraft:food": {
+        "saturation": 21,
+		"nutrition": 14,
+		"effects": [
+          {
+            "effect": {
+              "show_particles": false,
+              "show_icon": false,
+              "duration": 8400,
+              "id": "farmersdelight:nourishment"
+            },
+            "effect": {
+              "show_icon": true,
+              "duration": 1200,
+              "id": "mynethersdelight:b_pungent"
+            }
+          }
+		]
+	}
+  }
+}

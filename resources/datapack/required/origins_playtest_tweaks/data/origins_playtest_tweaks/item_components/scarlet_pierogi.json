@@ -1,0 +1,24 @@
+{
+  "targets": "brewinandchewin:scarlet_pierogi",
+  "components": {
+    "minecraft:food": {
+        "saturation": 24,
+		"nutrition": 12,
+		"effects": [
+          {
+            "effect": {
+              "show_particles": false,
+              "show_icon": false,
+              "duration": 8400,
+              "id": "farmersdelight:nourishment"
+            },
+            "effect": {
+              "show_icon": true,
+              "duration": 200,
+              "id": "mynethersdelight:b_pungent"
+            }
+          }
+		]
+	}
+  }
+}

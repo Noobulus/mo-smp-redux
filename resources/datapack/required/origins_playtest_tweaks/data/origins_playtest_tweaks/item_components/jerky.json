@@ -1,0 +1,10 @@
+{
+  "targets": "brewinandchewin:jerky",
+  "components": {
+    "minecraft:food": {
+        "saturation": 7,
+		"nutrition": 5,
+		"eat_seconds": 0.8
+	}
+  }
+}

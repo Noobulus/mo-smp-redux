@@ -1,0 +1,18 @@
+{
+  "targets": "brewinandchewin:scarlet_cheese_wedge",
+  "components": {
+    "minecraft:food": {
+        "saturation": 8.0,
+		"nutrition": 4,
+		"effects": [
+          {
+            "effect": {
+              "show_icon": true,
+              "duration": 600,
+              "id": "mynethersdelight:b_pungent"
+            }
+          }
+		]
+	}
+  }
+}

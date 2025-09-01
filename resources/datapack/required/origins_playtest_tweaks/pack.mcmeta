@@ -142,6 +142,10 @@
     {
         "namespace": "brewinandchewin",
         "path": "recipe/ice_crate.json"
+    },
+    {
+        "namespace": "brewinandchewin",
+        "path": "recipe/fermenting/cocoa_fudge_from_milk.json"
     }]
   }
 }

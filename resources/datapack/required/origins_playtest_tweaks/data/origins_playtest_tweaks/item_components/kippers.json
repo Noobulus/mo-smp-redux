@@ -1,0 +1,10 @@
+{
+  "targets": "brewinandchewin:kippers",
+  "components": {
+    "minecraft:food": {
+        "saturation": 6,
+		"nutrition": 6,
+		"eat_seconds": 0.8
+	}
+  }
+}
