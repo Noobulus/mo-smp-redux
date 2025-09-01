@@ -150,7 +150,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "b847bc59ce93fbfde23a731825ee7dfa77319f4b7cf6fab25484f6c15eecf172"
+hash = "47c5a922afe55f563b776cc2bf63d25d294232d2da8ec5c59a3a20b888035bfb"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -1607,7 +1607,7 @@ hash = "7661aad596d86577fc1eb27538657d0b114b08a27172489e288ec52b95b046ed"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/steel_toe_stout_from_strongroot_ale.json"
-hash = "e5808b14401daa93f93af57b962aec29153618c2b0f3e4e88273ed098d22aa96"
+hash = "c3b10ef355c6529fdcf845e7d90b55c66c16044a217627bde2dfb436e70a96d2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/strongroot_ale_from_beer.json"
@@ -1626,8 +1626,28 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin
 hash = "107939405797460015a3cdb73c78c1960bf3507f41445ed9f288c1484ed3df43"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/pouring/unripe_flaxen_cheese_wheel.json"
+hash = "a516e7651fa4fa131dfa30dcbe44a83014b3d96b4ee892791759db3adad9c2ef"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/pouring/unripe_scarlet_cheese_wheel.json"
+hash = "095e5564172978ff9d5952cec8f271b81167f22b773540755d4be7d862d08c60"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/tankard.json"
 hash = "33b159211d34d0b21be89e0297c98d28dac93ab4bfa5d3376e047d721980554f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/block/cobblestones.json"
+hash = "81187572341d1e5f4d5ddb9bc8266f6aa2e1e4d1aa7379f8afd8e8c52415ed9f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/block/storage_blocks.json"
+hash = "56daadf1031a75d537e8c96775a3a4f1b514d1524ea07a0f92e3995d811ae94e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/cobblestones.json"
+hash = "81187572341d1e5f4d5ddb9bc8266f6aa2e1e4d1aa7379f8afd8e8c52415ed9f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/crops/grain.json"
@@ -1652,6 +1672,10 @@ hash = "b637d41ec63578bf29548f5e8e451f1dd1962cda52900922d82afeed8efeff35"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hidden_from_recipe_viewers.json"
 hash = "471150522bb550b06f7cbc8129522c35c196f6226df074719fb4283c06543328"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/storage_blocks.json"
+hash = "56daadf1031a75d537e8c96775a3a4f1b514d1524ea07a0f92e3995d811ae94e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/worldgen/biome/is_cold.json"
@@ -2066,12 +2090,20 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recip
 hash = "0bab128275057ce506cf4062bffac2d33434c3997bc11f974ed6a822751bc70f"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/block/beacon_base_blocks.json"
+hash = "56daadf1031a75d537e8c96775a3a4f1b514d1524ea07a0f92e3995d811ae94e"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/armadillo_food.json"
 hash = "dc26544cbfcaef9965b700f12b8baf7919a292bc23df525dbff7b804bd6b1f02"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/axolotl_food.json"
 hash = "87261475805040bf6dc4e6c1fa9d21167f4e57063a9681c20f3ec07791201884"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/beacon_payment_items.json"
+hash = "b9260a29cf276c91ae8b50c46aa9b9ccb17059b6696a4f52567a43396335d7e3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/bee_food.json"
@@ -2518,16 +2550,8 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "7f7d4dd8464bfe610d1cf6647145a317b422e1d3cfb88ebc99434e66cfecdc70"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/short_cork_door.json"
-hash = "173c047c27a89039728ca0807ae8e33ae04249febe50dc2bf42e01e42d760044"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/tall_callery_door.json"
 hash = "7a4f2b058fe771665c1d6c06bc6561acf88a5f8ed5ebdc2722b55d50cacc6f3d"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/tall_cork_door.json"
-hash = "c98840bf28a79794a3b54c60f94b551f98bd3f65e4b60be7954993e9c7f8fc16"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_bench.json"
@@ -2651,11 +2675,19 @@ hash = "92ee82b03409b3ade884d5a71d90ef11ad4cf2c3c25c26d95dbc7fd0206165b2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/gravel_from_cobble.json"
-hash = "6bc58652bc8eae780d6eafaceff5ae19a333500da6f06bd6e09817741dda9da5"
+hash = "54a8a8b3a524bcd1cee0882b5e6baeec740da6650cf6919313da0c74700339aa"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/lumisene.json"
-hash = "bd5e1b28b85394ac2a7079ea1587fa8297f19895ded7fc3c7a8922f4dc8ef03d"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/paper_from_cotton.json"
+hash = "46626e6dc6ba109ea0ee963386e4d09be69c7b0ca47fe031a73e16d8a470c35d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/paper_from_logs.json"
+hash = "a17742c574e74e0259decc80b6b99ef13a0e6cb6afe3cf996ed10c2a41aa1d3d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/sand_from_gravel.json"
+hash = "301ad8f67119a32da0920ea7e26103c192799b15293b1c720565d7c3b6812a51"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/teto_plushie.json"
@@ -2719,7 +2751,7 @@ hash = "fe192c07d758e74cee4ccdb65281ced6c6149edfd6d66f74bd0611acc72efa15"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/another_furniture_tweaks.json"
-hash = "993df69c37cc79058735e577d08200dac142c674dd05f407e335629198d28349"
+hash = "e7a99ac3b875eccd8633ae9b95f8817b845f13ae02a49aa51588e867f4e1271a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/banner_encheapening.json"
@@ -2943,7 +2975,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "1738bafc152359d66d283e7d53f8b8b4bdce273985d9ba476213bbe920735580"
+hash = "6a42fd7fa871d37c05da37afb17102c6342c4713dacf8cb99c9391efec43ebe7"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3350,5 +3382,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.19.txt"
+file = "v0.2.20.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

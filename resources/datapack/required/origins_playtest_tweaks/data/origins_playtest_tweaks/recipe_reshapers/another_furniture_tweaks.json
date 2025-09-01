@@ -2,8 +2,7 @@
     "common_ingredients": {
         "|": "stick",
         "&": "dirt",
-        "!": "torch",
-        "?": "composter"
+        "!": "torch"
     },
     "id_substrings": {
         "~": "wool",
@@ -19,19 +18,11 @@
         "F": "flower_box",
         "E": "curtain",
         "W": "sofa",
-        "D": "drawer"
+        "D": "drawer",
+        "-": "slab",
+        "#": "planks"
     },
     "source_family": [
-        {
-            "pattern": [
-                "- -",
-                "- -",
-                "---"
-            ],
-            "output_token": "?",
-            "output_count": 1,
-            "remove": false
-        },
         {
             "pattern": [
                 "# ",

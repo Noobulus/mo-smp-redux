@@ -198,7 +198,9 @@
     "architects_palette:bread_nub",
     "vanillabackport:music_disc_lava_chicken",
     "supplementaries:flax",
-    "supplementaries:flax_seeds"
+    "supplementaries:flax_seeds",
+    "horseman:copper_horn",
+    "suppmentaries:flint_block"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.

@@ -178,6 +178,14 @@
     {
         "namespace": "rusticdelight",
         "path": "recipe/chocolate_pancakes.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/paper_from_cotton_boll.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/canvas_from_cotton_boll.json"
     }]
   }
 }
