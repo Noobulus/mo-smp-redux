@@ -146,7 +146,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "74487f6c6de48c6866e5c1ccc6215f6c6776c02c0e20e963bbd416a6510bbb50"
+hash = "b847bc59ce93fbfde23a731825ee7dfa77319f4b7cf6fab25484f6c15eecf172"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -3007,5 +3007,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.3.txt"
+file = "v0.2.4.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
