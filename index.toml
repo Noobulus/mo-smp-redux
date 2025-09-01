@@ -502,11 +502,6 @@ hash = "44d9396d125bb52c203526b86feef205af632365df2baa41d6fc01ff34c12f8e"
 metafile = true
 
 [[files]]
-file = "mods/beans-backpacks-3.pw.toml"
-hash = "46e8e21ad07ed18a3d674074e4306ac87881e22089b0b6448c1261e30c4510f5"
-metafile = true
-
-[[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "b0e5fd52c2c511e862d9e32abc6050468f52cef242a0e37f6629ae1869227621"
 metafile = true
@@ -1710,7 +1705,7 @@ hash = "d369063dc4c0be550da157b9b518c666fb8d3f10fb9c907e0e2cbe4489582f5f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/sweet_berry_cookie.json"
-hash = "babb0edd42583f4fc91bd6e634b9eaa80f67b937fd6934ad28daf661f8ab409c"
+hash = "3b4a7c3d2188e9d2999da5d8829416a7b1ad473a62f9386cf5e435f7b3634bd3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/wheat_dough.json"
@@ -3157,5 +3152,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.8.txt"
+file = "v0.2.9.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
