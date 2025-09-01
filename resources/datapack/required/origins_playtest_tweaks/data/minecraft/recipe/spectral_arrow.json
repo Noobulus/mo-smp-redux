@@ -4,16 +4,24 @@
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:glowstone_dust"
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        {
+          "item": "minecraft:glowstone_dust"
+        },
+        {
+          "item": "supplementaries:lumisene_bottle"
+        }
+      ]
     },
     "X": {
       "item": "minecraft:arrow"
     }
   },
   "pattern": [
-    " X ",
+    "XXX",
     "X#X",
-    " X "
+    "XXX"
   ],
   "result": {
     "count": 8,

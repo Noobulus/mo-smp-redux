@@ -9,19 +9,19 @@
   "experience": 2.0,
   "ingredients": [
     {
-      "item": "brewinandchewin:scarlet_cheese_wheel"
-    },
-    {
       "tag": "c:foods/milk"
     },
     {
-      "item": "brewinandchewin:red_rum"
+      "tag": "mynethersdelight:hot_spice"
+    },
+    {
+      "tag": "mynethersdelight:hot_spice"
     },
     {
       "tag": "c:foods/bread"
     },
     {
-      "tag": "c:foods/bread"
+      "item": "brewinandchewin:scarlet_cheese_wheel"
     },
     {
       "item": "farmersdelight:ham"

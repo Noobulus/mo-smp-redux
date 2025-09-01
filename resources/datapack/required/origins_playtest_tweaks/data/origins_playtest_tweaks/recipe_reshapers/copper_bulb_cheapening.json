@@ -1,0 +1,46 @@
+{
+    "common_ingredients": {
+        "/": "blaze_rod",
+        "^": "redstone_dust",
+        "-": "copper_ingot"
+    },
+    "id_substrings": {
+        "#": "copper_block",
+        "@": "copper_bulb",
+        "|": "copper_lantern"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                " # ",
+                "#/#",
+                " ^ "
+            ],
+            "output_token": "@",
+            "output_count": 4
+        },
+        {
+            "pattern": [
+                "-",
+                "?",
+                "-"
+            ],
+            "output_token": "|",
+            "output_count": 2,
+            "remove": false
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_bulbs",
+            "pattern": [
+                " # ",
+                "#/#",
+                " ^ "
+            ],
+            "output_token": "@",
+            "output_count": 4,
+            "category": "building"
+        }
+    ]
+}

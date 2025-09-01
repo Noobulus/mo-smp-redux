@@ -14,15 +14,12 @@
       "item": "minecraft:sweet_berries"
     },
     {
-      "item": "minecraft:sweet_berries"
-    },
-    {
       "item": "minecraft:sugar"
     }
   ],
   "recipe_book_tab": "misc",
   "result": {
-    "count": 2,
+    "count": 1,
     "id": "brewinandchewin:sweet_berry_jam"
   }
 }

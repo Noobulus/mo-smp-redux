@@ -1,0 +1,41 @@
+{
+  "replace": true,
+  "fabric:load_conditions": [
+    {
+      "condition": "suppsquared:flag",
+      "flag": "lanterns"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "suppsquared:flag",
+      "flag": "lanterns"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1",
+    "2",
+    "1"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:copper_ingot"
+    },
+    "2": {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        {
+          "item": "minecraft:blaze_powder"
+        },
+        {
+          "item": "supplementaries:lumisene_bottle"
+        }
+      ]
+    }
+  },
+  "result": {
+    "id": "suppsquared:copper_lantern",
+    "count": 2
+  }
+}

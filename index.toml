@@ -1509,19 +1509,19 @@ hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/apple_jelly.json"
-hash = "dc2da0ccfd12bc89afc13e1207e82c8e7e5ea957493a5b349c239bce0a5eec51"
+hash = "b3b4d31458e0c42b599a8798f2ab59f1cb4d86d92c3604621d798b239d2a0a60"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/fiery_fondue_pot.json"
-hash = "18d3ad838dd969a6a3b49f5038fa331221c5318cc837ab99093c056a777cf3e8"
+hash = "8433e631e314e8e60fedc20ce224285d067ca0a44789b2383f5447766858422e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/glow_berry_marmalade.json"
-hash = "0f5b490ec5189a1242b4987a668b3743c36a4e4519f10950dbe490177bdfdaaf"
+hash = "0217604a6e28d37f22c4eb4e64ca1b95034eeec940f05438858221e1598f6672"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/sweet_berry_jam.json"
-hash = "2c3d4fa0dc4e4c3b582a56bc807c0ffe68ed4a67e65e3d0fed95333465dc4346"
+hash = "748e89bf88ab2591c79d4b67e12535bed0d6572d5d4b571783e2e34f3783cc08"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/beer_from_water.json"
@@ -1833,7 +1833,7 @@ hash = "387e9116dcfae74db20a0cb8a33a27fc46a800f890546309f368b53a5c80a58e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/comparator.json"
-hash = "70796bff4428f7603f24558d373c760c956dc57ea74ec6ebb229a848ea5c45f2"
+hash = "66158cd735fb2d5f457886763e674eb4b4ed9ab8f89705df48d25ad3261fa8f7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/copper_block.json"
@@ -2001,7 +2001,7 @@ hash = "5e2d6eea740853284f9733a480c454d1cfa81d3a62676dce09f128fbac15c40f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/repeater.json"
-hash = "abce31d9f2d5c5d83b78f36f254155afed55dffdc99ae958c3b2664228b5a29e"
+hash = "8a7f06b40b64504019d855d0443b8ac3ed268bf8a09440f63f4f136e6b369e48"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/sea_lantern.json"
@@ -2013,7 +2013,7 @@ hash = "c121bdb13f8f1b6bcead8ca470e9e2c3e098ed475f578067014bf17052be8c67"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/spectral_arrow.json"
-hash = "ee449baee652c1de9f2f0c0e6a7a2e5478fbb1d5e50c2be25e0292190f59d59d"
+hash = "8a23b4f250c8e8b4f88687c94939c5038b71526a9fb0592af965dbaed88aa289"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/spyglass.json"
@@ -2146,6 +2146,10 @@ hash = "de0269d3b7340755b35fce3ef638ae6cf5bd6889f28d97a7499e148424b5c7bb"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/kippers.json"
 hash = "04fe7f16cf0f7342863a9a12e94b60fc51dfd8e93f6fd3f32779d162226422a4"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/lumisene.json"
+hash = "103e3909999ec975d20c0378c8fa56d91ca3ec0eb9bcecf210feb92ffe56cd4f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/mace.json"
@@ -2408,6 +2412,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "08f7179957680c535e6aa647ae4f30d3b63b756ce166001b084cb481c4d78175"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt.json"
+hash = "046bc31f99b47534f1d7b4a2bf57ba461c027e7694904f4e1ddadc77cef8bcb3"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/miku_plushie.json"
 hash = "8f4b709f2b9704e297f5f5114a156f3470e648987d181a53cb14886a989b46b0"
 
@@ -2430,6 +2438,10 @@ hash = "0edded1b3ac83348bf835fb7b3c17f7bc1b89f81e7212e9f77b4cdd33e1924a3"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/netherite_ingot_from_smelting.json"
 hash = "ec423ec1e54123566ace287d60a35e9cf214fb29790da5c9667f65cf945bdaa0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/quiche.json"
+hash = "9673cb1179f3acb1a1c50a42d81831cabefcc14689e8870825773bfcc88fd136"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/shark_plushie.json"
@@ -2524,6 +2536,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "9648efb4850773e3726b6a098153dda38450cb0bc3ae4482e1e7f67106250007"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_bulb_cheapening.json"
+hash = "aa467c8d29042d76ac8c38ef812ec4df3f46c42e5d404f099f08d92012ff138f"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_cutting_buff.json"
 hash = "b50d9a1e8a6ebb216cffe702a250d12da705fdfaeedd0d4abf2ca5d67ac18c27"
 
@@ -2584,12 +2600,20 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "5f2d6f1d6a6ef27c7233417819606e8c1a4933d94c0ee02c4a32cd7d6c41e630"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/quiche_toppings.json"
+hash = "eb45043bc5735907862b71b4193822c2597f06f2de08d9d8c4daedd2e311e0fd"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/vanity_armors.json"
 hash = "0818b395f7d985c5ae6399fc7d71c142919f1ee9c77853fa45adea1b2f715b93"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/veggie_food_crates.json"
 hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/item/cooking_oil_ingredients.json"
+hash = "2cc138c16dbd8036b80e65daa5432ed07e0a58678eb3442000ec5f5746148539"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/worldgen/biome/has_wild_bell_peppers.json"
@@ -2624,6 +2648,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "7b14ad6cf4f9cc4208ec1240e9a4f2747c9d8a5022d7b145f00027ae8d1e6314"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/lumisene_bottle.json"
+hash = "56f82c377d12538057e4d91705f64b87acee678e247764f69335a58a0b35dacc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/suppsquared/recipe/copper_lantern.json"
+hash = "59be78bd89a360e7617d24de104bd5214b012401df0924dd61f6dc7a38c57076"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/suppsquared/recipe/daub_frame_slab.json"
 hash = "d60dda465071a1bfd3d586aa5420725af3832c01042aca540fda666bf8f6ff71"
 
@@ -2652,12 +2684,16 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/craf
 hash = "8ec277300bf73f8af5aed62cc2576ab6b164ba982b9dfca00fde2a2d98b624c2"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/crafting/lamp/lamp.json"
+hash = "baa69ebf50cedd61c301dcd4153911a9f5b356eda47db9cbe0b86c3365b8ca4a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/y21/recipe/crafting/lamp/lazor_emitter.json"
 hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "56a060a30b67d9f9ac6564cc5c0454b1147d442ed318cc751333bb0c4b0dc6fa"
+hash = "4c7dbf934bfabbda8119c6a9a0c25c4bd9bedc3fb6139d9895ee089493a427c9"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3064,5 +3100,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.6.txt"
+file = "v0.2.7.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

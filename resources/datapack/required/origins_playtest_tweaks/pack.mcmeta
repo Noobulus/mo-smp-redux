@@ -146,6 +146,18 @@
     {
         "namespace": "brewinandchewin",
         "path": "recipe/fermenting/cocoa_fudge_from_milk.json"
+    },
+    {
+        "namespace": "brewinandchewin",
+        "path": "recipe/quiche_from_bacon.json"
+    },
+    {
+        "namespace": "brewinandchewin",
+        "path": "recipe/quiche_from_mushroom.json"
+    },
+    {
+        "namespace": "supplementaries",
+        "path": "recipe/lumisene_bucket.json"
     }]
   }
 }

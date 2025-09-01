@@ -1,0 +1,24 @@
+{
+	"replace": true,
+	"type": "y21:lamp_crafting",
+	"lib39:discovered_via": "supplementaries:lumisene_bottle",
+	"pattern": [
+		"YGY",
+		"GBG",
+		"YRY"
+	],
+	"key": {
+		"G": { "item": "minecraft:glass_pane" },
+		"R": [
+			{ "item": "minecraft:redstone" },
+			{ "item": "minecraft:redstone_torch" }
+		],
+		"Y": { "item": "iron_nugget" },
+		"B": { "item": "supplementaries:lumisene_bottle" }
+	},
+	"result": {
+		"id": "y21:lamp",
+		"count": 4
+	},
+	"y21:important": true
+}

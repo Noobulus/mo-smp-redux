@@ -1,0 +1,31 @@
+{
+  "replace": true,
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "lumisene_bottle"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "item": "supplementaries:lumisene_bottle",
+    "count": 1
+  }
+}

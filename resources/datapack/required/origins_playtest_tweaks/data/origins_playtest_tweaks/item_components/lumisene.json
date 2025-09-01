@@ -1,0 +1,8 @@
+{
+  "targets": [
+    "supplementaries:lumisene_bottle"
+  ],
+  "components": {
+    "minecraft:max_stack_size": 16
+  }
+}
