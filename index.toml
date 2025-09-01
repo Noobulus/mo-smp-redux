@@ -1504,7 +1504,7 @@ hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/bundle_pins/bundle_pins/maddy/brookite.json"
-hash = "85ef4eda7f28fa32754ded24f648eab881062111cafb2f26679fc9be42d5df1e"
+hash = "f8ec5729cda3f99aa08db3c0a6c3d1d25e3616fd947fbc5c10ca2694d4189c39"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/bundle_pins/recipe/maddy/brookite_bundle_pin.json"
@@ -2868,7 +2868,7 @@ hash = "1b1e8b8cf28f04c1be078ee7032697478557b35ddc5947da4afcb261a9e72942"
 
 [[files]]
 file = "resources/resourcepack/required/maddy_bundle_pins/assets/bundle_pins/lang/en_us.json"
-hash = "8a7ca617f314b0f9d435c2a023d23c0bcb025885d66e557fbcdd124e39cee0a1"
+hash = "ef34d344001eb1a68ca4e3bc68e63d2b3b7e3104330af947e947d5e100bb8baa"
 
 [[files]]
 file = "resources/resourcepack/required/maddy_bundle_pins/assets/bundle_pins/textures/bundle_pins/maddy/brookite.png"
@@ -2919,5 +2919,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v82.txt"
+file = "v83.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
