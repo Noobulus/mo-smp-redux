@@ -1,0 +1,23 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "benches",
+    "key": {
+        "S": {
+            "item": "mynethersdelight:powdery_slab"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "/  ",
+        "SSS",
+        "/ /"
+    ],
+    "result": {
+        "count": 3,
+        "id": "everycomp:af/mynethersdelight/powdery_bench"
+    }
+}

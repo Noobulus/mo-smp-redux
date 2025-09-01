@@ -1366,10 +1366,6 @@ file = "resources/datapack/required/bundle/pack.mcmeta"
 hash = "2df89a377d53ee7c4ef481a5e6ccc7a2ca0258a96fb19cead422490d5c36f3ce"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/.pack.mcmeta.kate-swp"
-hash = "1395cd5fa35ee0a4ef93dd69c9876c63e53b023a8e9455a8700af6ac67a36216"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/furniture_hammer.json"
 hash = "f833c28a5dd1d6479e7e7ab5f328367f2f55eac59a72731ff434e3a6502c3692"
 
@@ -2390,6 +2386,38 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "e86f2d2ce6edfcaa0bc3e5cd96629101179dc30f6921ce9aa7f4898c4bf6cda0"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/callery_bench.json"
+hash = "1dc696ce33e303b445ede3680f658639542ab9e3bd68d803978c280b248a92d2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/callery_cabinet.json"
+hash = "e181368f8d9f32a63419f930ede5f9e64391c51eb9ab4ba29d67fe174ece0482"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/callery_chair.json"
+hash = "1f63019c96ceff922941637a5166e2e2f4c17a427df96733930727581e695e56"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/callery_drawer.json"
+hash = "3e18c210fd1ceb4c395f9dc064a234805344d41be9925dcedfbbf7cee9be3618"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/callery_flower_box.json"
+hash = "e9dea3df61a6964f383518230963bc83f7a2eb81f8ed79f1bec4ff928160e0cb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/callery_shelf.json"
+hash = "25f26fd2c0d09a1abe8024924b6c93373f81411e740c42ba809698fb02f10eb3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/callery_shutter.json"
+hash = "62f31da8c866d807a1e675279fc1a1f7d1254ab25454b0ac3125284cb6d4d7b2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/callery_table.json"
+hash = "3dfe346e21f49d9b881abd38d9cf52c8be5d7ebc2f8072aa2b3416d995644023"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/cork_bench.json"
 hash = "f4e2c2e96725cd8f3e4b405e5bd029093c794bced773d2c76f4a95ca4af7409c"
 
@@ -2422,12 +2450,116 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "dc3ca507e13796133f7672bd31aa82daae1ed140f3f5484425b3e32f3eff8d20"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/pale_oak_bench.json"
+hash = "a9463a69267c3ebff8af08c4453a0e14b0e9108d9d69c7e5d095f12bc356e183"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/pale_oak_cabinet.json"
+hash = "103ac571ae1bc3c9cc1b80a61b4dc277faf5f44044eee05b4935abc2b6403701"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/pale_oak_chair.json"
+hash = "fad37ed93e5ae5964cafff28ec4a4cc907f0c135850f15714f140755de5020db"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/pale_oak_drawer.json"
+hash = "0afa4db5780f29063c4efc86a67a26c8af0063067e5f7a6d11126f3aabc14104"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/pale_oak_flower_box.json"
+hash = "07ab9dbba0c046eccdeb4ad255262c9397b1b4df95c8ec7e0ae2e761a8571c31"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/pale_oak_shelf.json"
+hash = "8d5b59ff9d40d30b891b5270fca614a7d5cf7dd5840c25fc0a1d96f2bc3986f9"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/pale_oak_shutter.json"
+hash = "6d3a24cfb6aeedd1e4e8d866db01518748774eccf5a56cf15f9454ba19bfa49b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/pale_oak_table.json"
+hash = "c1dcef8cbed5e78fc98b8b09e539bead9635cc6f98b55253ec643ff0eeb0a9a2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_bench.json"
+hash = "fc1708e632a7b46a80aff53797ea65f4cc8d4680b8aad10574d5843c9581239c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_cabinet.json"
+hash = "fd851f49b0cfa120b83882790b07fbbb2cab52886b005bea7be314524c0ed9bb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_chair.json"
+hash = "26bfffeb87fd20fbe8d5878c4681815af52b14f067eb460d0af9237d34356f57"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_drawer.json"
+hash = "c0b7f04853d0b80df5570a107a552c04d163f861155c9e32494e7fc8d611d95f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_flower_box.json"
+hash = "a7a4a5290f7daeb24c29cc9a626b256e49eae9fc3914bceafb6413983ad8d25b"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_shelf.json"
+hash = "43d6f3cc8274cec106cc6a5dc0f0e0a1906160a10a28854a781fd8e381e49a41"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_shutter.json"
+hash = "06dce1e31f6a2ca16c9a53b2ebeeec6cbffcb6858f7a0770242ff0c5bdfcbbc6"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_table.json"
+hash = "01acd4097070ddb7fba384ad095f214735b2249cf592022d00ecdaa09b3c5647"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/short_callery_door.json"
+hash = "7f7d4dd8464bfe610d1cf6647145a317b422e1d3cfb88ebc99434e66cfecdc70"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/short_cork_door.json"
 hash = "173c047c27a89039728ca0807ae8e33ae04249febe50dc2bf42e01e42d760044"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/tall_callery_door.json"
+hash = "7a4f2b058fe771665c1d6c06bc6561acf88a5f8ed5ebdc2722b55d50cacc6f3d"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/tall_cork_door.json"
 hash = "c98840bf28a79794a3b54c60f94b551f98bd3f65e4b60be7954993e9c7f8fc16"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_bench.json"
+hash = "f2b6cf8c461e70299b96d9fd8c81a47f0947757f23273bacf13069a01d8ff77e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_cabinet.json"
+hash = "68623a97717884e3363a8fb8b46c27ad91f3ebae5bc0d22f570be9f034c379ba"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_chair.json"
+hash = "1dee3a07714ab25050264cb9c0e832682ead61945afe403c058e7f7b6d859adb"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_drawer.json"
+hash = "47699f3c02e3c3bf6aa69c424f276cf75e92a5041bd0d39e805db6bbd23fbbf3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_flower_box.json"
+hash = "46ddf55400c9a2e6f83a6c99c0f8ccd9fd5295898377b5d2fb1388c7a566a608"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_shelf.json"
+hash = "18b50282f2b8457f10ca55b92ef8ad8215b6290e0fc4ee21e64af9ae84981bb1"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_shutter.json"
+hash = "96acf31136f877dea16eeb8693040cc482b5b82386d1a3b9b54877b5f841f620"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_table.json"
+hash = "cef3f4ee2335050a93518b1c1a740e7e63c8cf9ad09a2885017b2ba297204e2c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fire_coral_block.json"
@@ -2479,7 +2611,7 @@ hash = "7dd2bcdd7701659db6685110f5fc2a1f4093be12381752245ef0f099ea03582d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_bottle_from_bucket.json"
-hash = "a877a312138d5d53d4976ffd7d82ca51a1d33b13c06e97997c9bde3f1fa200f1"
+hash = "2a6c138e22f9f44c42929079fbe2b949069527d327c04495952d642f8e10f2a0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_bucket_from_bottles.json"
@@ -2811,7 +2943,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "183b5ba474445c2ce8a48254b1ce9df66280bc757ca423f81659c1b72f47c01d"
+hash = "1738bafc152359d66d283e7d53f8b8b4bdce273985d9ba476213bbe920735580"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3218,5 +3350,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.17.txt"
+file = "v0.2.19.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

@@ -1,0 +1,23 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "chairs",
+    "key": {
+        "#": {
+            "item": "pearfection:callery_planks"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "# ",
+        "##",
+        "//"
+    ],
+    "result": {
+        "count": 3,
+        "id": "everycomp:af/pearfection/callery_chair"
+    }
+}

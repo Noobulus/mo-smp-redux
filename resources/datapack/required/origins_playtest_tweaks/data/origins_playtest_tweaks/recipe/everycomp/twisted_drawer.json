@@ -1,0 +1,26 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "drawers",
+    "key": {
+        "#": {
+            "item": "architects_palette:twisted_planks"
+        },
+        "S": {
+            "item": "architects_palette:twisted_slab"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "###",
+        "S/S",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "everycomp:af/architects_palette/twisted_drawer"
+    }
+}

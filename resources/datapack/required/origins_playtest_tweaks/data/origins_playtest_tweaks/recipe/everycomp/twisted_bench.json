@@ -1,0 +1,23 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "benches",
+    "key": {
+        "S": {
+            "item": "architects_palette:twisted_slab"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "/  ",
+        "SSS",
+        "/ /"
+    ],
+    "result": {
+        "count": 3,
+        "id": "everycomp:af/architects_palette/twisted_bench"
+    }
+}

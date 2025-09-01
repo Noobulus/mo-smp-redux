@@ -1,0 +1,20 @@
+{
+  "replace": true,
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pearfection:twisted_door"
+  },
+  "result": {
+    "id": "everycomp:dd/pearfection/short_callery_door",
+    "count": 2
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:mod_loaded",
+        "modid": "woodworks"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "tables",
+    "key": {
+        "#": {
+            "item": "architects_palette:twisted_planks"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "###",
+        "/  "
+    ],
+    "result": {
+        "count": 3,
+        "id": "everycomp:af/architects_palette/twisted_shelf"
+    }
+}

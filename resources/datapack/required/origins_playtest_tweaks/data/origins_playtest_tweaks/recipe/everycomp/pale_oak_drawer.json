@@ -1,0 +1,26 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "drawers",
+    "key": {
+        "#": {
+            "item": "vanillabackport:pale_oak_planks"
+        },
+        "S": {
+            "item": "vanillabackport:pale_oak_slab"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "###",
+        "S/S",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "everycomp:af/vanillabackport/pale_oak_drawer"
+    }
+}

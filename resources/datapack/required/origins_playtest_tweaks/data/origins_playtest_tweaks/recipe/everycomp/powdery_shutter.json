@@ -1,0 +1,20 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "shutters",
+    "key": {
+        "S": {
+            "item": "mynethersdelight:powdery_slab"
+        }
+    },
+    "pattern": [
+        "SS",
+        "SS",
+        "SS"
+    ],
+    "result": {
+        "count": 4,
+        "id": "everycomp:af/mynethersdelight/powdery_shutter"
+    }
+}

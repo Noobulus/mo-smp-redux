@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "architects_palettes:twisted_trapdoor"
+    },
+    "_": {
+      "item": "architects_palette:twisted_slab"
+    }
+  },
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "result": {
+    "count": 1,
+    "id": "everycomp:fd/architects_palette/twisted_cabinet"
+  },
+  "show_notification": true
+}

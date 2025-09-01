@@ -1,0 +1,23 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "pearfection:callery_trapdoor"
+    },
+    "_": {
+      "item": "pearfection:callery_slab"
+    }
+  },
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "result": {
+    "count": 1,
+    "id": "everycomp:fd/pearfection/callery_cabinet"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,26 @@
+{
+    "replace": true,
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "drawers",
+    "key": {
+        "#": {
+            "item": "pearfection:callery_planks"
+        },
+        "S": {
+            "item": "pearfection:callery_slab"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "pattern": [
+        "###",
+        "S/S",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "everycomp:af/pearfection/callery_drawer"
+    }
+}
