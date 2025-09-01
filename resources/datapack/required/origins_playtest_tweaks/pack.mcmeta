@@ -166,6 +166,30 @@
     {
         "namespace": "minecraft",
         "path": "recipe/cookie.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/pancakes.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/cherry_blossom_pancakes.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/honey_pancakes.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/pumpkin_pancakes.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/vegetable_pancakes.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/chocolate_pancakes.json"
     }]
   }
 }
