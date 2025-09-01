@@ -2,7 +2,7 @@
   "asset_id": "bundle_pins:maddy/brookite",
   "description": {
     "color": "#B1461E",
-    "translate": "maddy_bundle_pins.bundle_pins.maddy.brookite"
+    "translate": "bundle_pins.maddy.brookite"
   },
-  "item_bar_color": "#D1461E"
+  "item_bar_color": "#B1461E"
 }

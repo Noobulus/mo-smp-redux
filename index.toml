@@ -1503,6 +1503,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/betterfurniture
 hash = "701683a44f416293bd209ce1a0b3411130c41657cdf96c5ae97c4d5f90b0a857"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/bundle_pins/bundle_pins/maddy/brookite.json"
+hash = "85ef4eda7f28fa32754ded24f648eab881062111cafb2f26679fc9be42d5df1e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/bundle_pins/recipe/maddy/brookite_bundle_pin.json"
+hash = "205327e877e263436d49c8c5671d333fcab3e80191cd766b0ca0ce4ab1a292ad"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/eggs.json"
 hash = "efc649304102262e168e1b0bcbdcf4903349ccc3bd72b27700c1308e0f1e0f27"
 
@@ -1625,10 +1633,6 @@ hash = "44283d6526918923c81d347169c40b172acde4b0ca2f92212639bea16e6df27b"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/kaleidoscopic/arts_and_crafts/paintbrush_palette/rock_wall.json"
 hash = "7265d4e644049884c7f15adf43cdc500c0bd646daad05e038c98e120985146bc"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_bundle_pins/bundle_pins/maddy/brookite.json"
-hash = "6434874eeb2740cb23e7562aeb7c6f6025f00f09a874efa77b040bb1c23a9fcc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/advancement/adventure/use_lodestone.json"
@@ -2061,10 +2065,6 @@ hash = "0aeb7fcc854345d9f423cd16afebea95d49a076d532429922cee6d6f54c6e09d"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brain_coral_block.json"
 hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brookite_bundle_pin.json"
-hash = "d2738bb28395c9279045bacab02e61feb2184585392c73cba994e13a827d1cef"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
@@ -2867,15 +2867,15 @@ file = "resources/resourcepack/required/Woolly Wonders/title.png"
 hash = "1b1e8b8cf28f04c1be078ee7032697478557b35ddc5947da4afcb261a9e72942"
 
 [[files]]
-file = "resources/resourcepack/required/maddy_bundle_pins/assets/lang/en_us.json"
-hash = "bc050f3389956bb98b11d97ab5337bbb8d8249345a9073e6da3ae9229d49cec3"
+file = "resources/resourcepack/required/maddy_bundle_pins/assets/bundle_pins/lang/en_us.json"
+hash = "8a7ca617f314b0f9d435c2a023d23c0bcb025885d66e557fbcdd124e39cee0a1"
 
 [[files]]
-file = "resources/resourcepack/required/maddy_bundle_pins/assets/textures/bundle_pins/maddy/brookite.png"
+file = "resources/resourcepack/required/maddy_bundle_pins/assets/bundle_pins/textures/bundle_pins/maddy/brookite.png"
 hash = "44484375d0bb037dd16cd46462a43ac448374872900f27de18a83b8dc55bcb47"
 
 [[files]]
-file = "resources/resourcepack/required/maddy_bundle_pins/assets/textures/bundle_pins/maddy/brookite_filled.png"
+file = "resources/resourcepack/required/maddy_bundle_pins/assets/bundle_pins/textures/bundle_pins/maddy/brookite_filled.png"
 hash = "44484375d0bb037dd16cd46462a43ac448374872900f27de18a83b8dc55bcb47"
 
 [[files]]
@@ -2919,5 +2919,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v81.txt"
+file = "v82.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
