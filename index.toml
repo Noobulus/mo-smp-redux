@@ -37,6 +37,10 @@ file = "config/brainierbees.properties"
 hash = "c6f9def940add188b7d8eb68c09da0591ada334aa55e4b24a046e08d8e768ea6"
 
 [[files]]
+file = "config/brewinandchewin-common.toml"
+hash = "302756fa7ed9bc786cd9ec0219da9d526dae41d538b6a3c21b3b55e916220ca6"
+
+[[files]]
 file = "config/bsdfwmi/bsdfwmi.json5"
 hash = "ba88fc49daa5d65fc3ca1b520fdb2fb16e6a50eee93a23ca5d2365ca2d4356e4"
 
