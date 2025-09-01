@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "e175d2ef1d5af85b8bc7c53dcf37fa9a7427317b91064af2e4e89ff0b0458aef"
+hash = "321543ed29b59b94b29cb25230bde53a023024a626d5886d39fe00620add0e72"
 metafile = true
 
 [[files]]
@@ -1208,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8c79da2a9d2f8f4b628afada45a53ab709fa85e821c5c7071ae768ab57685d59"
+hash = "2aaee059eaa1359a51f8a56a5e9a2e94417f84f13245c766b88b9a90ab683d10"
 metafile = true
 
 [[files]]
@@ -3209,5 +3209,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.15.txt"
+file = "v0.2.16.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
