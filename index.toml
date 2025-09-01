@@ -1519,8 +1519,24 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin
 hash = "458c0988c44e074f422818bff25090dedaa5f80419641b72f01f4c4f1edc255a"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/flaxen_cheese_from_milk.json"
+hash = "03d5264ad699c21a6789391efa257f2a921b55185af93bb99f6a56cb6cbedc71"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/glittering_grenadine_from_water.json"
 hash = "289a0492ffcdc731d74f381d9b6813e2c3aa2e2f421fdc55093f7d55d7e46fc3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/jerky.json"
+hash = "2337945848224a46769de3dbd604fc3fe5f05917867df91aa1ccfb06ac78fab0"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/kimchi.json"
+hash = "47f96c7615ce140a23fef039d79f7592420cbae0b42d27a6bfce01e9713b2a25"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/kippers.json"
+hash = "4ec4def7b63eefb238b5c0b7d0bd5a7abee49de65475bdaf62be711d6049fd9b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/mead_from_honey.json"
@@ -1529,6 +1545,10 @@ hash = "b2016b99cdc6109aa10da865e2de816a2a3d5ce4e60ea96796e98ade9eb1bb0a"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/pale_jane_from_rice_wine.json"
 hash = "90505ee6b2cb699a90e6fe9fe53d873db258ead3c337eb3eaf901a4eab876ccd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/pickled_pickled_from_honey.json"
+hash = "9e1dec58a3df7dfac1417eb3044729a91febdb0d9af04bf91de598e5931ca027"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/red_rum_from_bloody_mary.json"
@@ -1547,8 +1567,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin
 hash = "11e742ccc6882a7f0aa6dc892647a9be5287ce965c1ce92f045c9f7de5e35554"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/scarlet_cheese_from_milk.json"
+hash = "7661aad596d86577fc1eb27538657d0b114b08a27172489e288ec52b95b046ed"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/steel_toe_stout_from_strongroot_ale.json"
-hash = "a147c6b7fe0e64e9f1192fa6647fe304c3d99ce7c71ecdedd76cb6fe48976f8f"
+hash = "e5808b14401daa93f93af57b962aec29153618c2b0f3e4e88273ed098d22aa96"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/strongroot_ale_from_beer.json"
@@ -1561,6 +1585,10 @@ hash = "11d9164e78f1ca244938fc292c26dea39a77933c6ac9f5b5fc1a3641093cf25d"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/withering_dross_from_salty_folly.json"
 hash = "856fec131a9c8eab07ff72bacdb4f547d65c7469f30010e4cf1fc2207ce18939"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/item_coaster.json"
+hash = "107939405797460015a3cdb73c78c1960bf3507f41445ed9f288c1484ed3df43"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/tankard.json"
@@ -2312,7 +2340,7 @@ hash = "59e200ef773f790547b0e48c852af9c5d519a2be6d0f2a60887ce2b25b31b681"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/ice_crate.json"
-hash = "d4d0254195fbb4373f364ad3b9f6c7dc88ce0980c1bc9c974cbbf21080e1476c"
+hash = "15e4e51189c5f51ba72e7387faa9677645ab10d884b28e648f33cd644e85fb54"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/iron_block_from_blasting_raw_iron.json"
@@ -2481,6 +2509,10 @@ hash = "726faa0caeb3b87a138130411d06e12c2af455a3800db57512c78a62871dc2aa"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/wood_buff.json"
 hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/cheese_starters.json"
+hash = "889426b6a8d4d4d0646abb681646f6d835970fa9b78b944e8a6d911d04418e27"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/dough_hydrators.json"
@@ -2971,5 +3003,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v85.txt"
+file = "v87.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
