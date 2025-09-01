@@ -1,0 +1,9 @@
+{
+  "type": "bundle_pins:bundle_pin",
+  "bundle_pin": "maddy_bundle_pins:brookite",
+  "category": "equipment",
+  "group": "bundle_pins",
+  "ingredient": {
+    "item": "y21:brookite"
+  }
+}

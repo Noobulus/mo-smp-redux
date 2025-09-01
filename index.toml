@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeperbackguard.pw.toml"
-hash = "156397cf1a6b6b07362947654f90906fbf65ef4e7fa7b20ce752f22db64af3d5"
+hash = "df0aa38b3b7bfc94c9c251bf9693103c9168f52b90858feb9c181dc0efc47654"
 metafile = true
 
 [[files]]
@@ -951,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "24c60676a7e047654fe15de6ad4ce2c8f90371f86ff39ae470c00250214ca341"
+hash = "d800291b6cf390d763ac8d8cdcb718e66b3a6c2e605f8ea30d6642958d3ec1d8"
 metafile = true
 
 [[files]]
@@ -1995,6 +1995,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "4ebe3ed2c073f6755d880e35674e3909a6363a81344ef37fd73125591d0a5aa3"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/bundle_pins/brookite.json"
+hash = "71560782efa45d5334cf68aa7423b8671740ef401b79dc54e65da5e87fc18a3c"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
 hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 
@@ -2057,6 +2061,10 @@ hash = "0aeb7fcc854345d9f423cd16afebea95d49a076d532429922cee6d6f54c6e09d"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brain_coral_block.json"
 hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brookite_bundle_pin.json"
+hash = "d2738bb28395c9279045bacab02e61feb2184585392c73cba994e13a827d1cef"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
@@ -2859,6 +2867,14 @@ file = "resources/resourcepack/required/Woolly Wonders/title.png"
 hash = "1b1e8b8cf28f04c1be078ee7032697478557b35ddc5947da4afcb261a9e72942"
 
 [[files]]
+file = "resources/resourcepack/required/origins_playtest_tweaks/assets/lang/en_us.json"
+hash = "abd801edb84516fcd53abe63b0dd132497aedfb04eca00e791bea8b56422c213"
+
+[[files]]
+file = "resources/resourcepack/required/origins_playtest_tweaks/pack.mcmeta"
+hash = "9bd5c4877efc86a8fd9588ef1be1ab6b5ab1b996c3e81b6c15ece17c8e642e3e"
+
+[[files]]
 file = "resources/resourcepack/required/spoingly slimes paintings/assets/spoinglypaintings/lang/en_us.json"
 hash = "b50b4e08096d22c5ed0bc367f7c93688d6d031f8a50a56af387e9922223609de"
 
@@ -2895,5 +2911,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v78.txt"
+file = "v79.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
