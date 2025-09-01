@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/dont-break-your-tools.pw.toml"
-hash = "ad10d6babf5369b0ed38c99e4055fa9d7ac06226d6f23531b78f493c7f46249e"
+hash = "641b34712bbebd850e1b0e33908c70a921bf99147f02b4145dc79ccb1db1eb93"
 metafile = true
 
 [[files]]
