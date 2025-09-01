@@ -1627,6 +1627,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/kaleidoscopic/a
 hash = "7265d4e644049884c7f15adf43cdc500c0bd646daad05e038c98e120985146bc"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddy_bundle_pins/bundle_pins/maddy/brookite.json"
+hash = "6434874eeb2740cb23e7562aeb7c6f6025f00f09a874efa77b040bb1c23a9fcc"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/advancement/adventure/use_lodestone.json"
 hash = "060454d44a58fa99d443d23ec891ac5ed52a9177f3c48dbf7c3c7da8057d219d"
 
@@ -1993,10 +1997,6 @@ hash = "058b6f9a539a688fd1e73ea8369db3188f56fe6dcd10ca226fd8f5a29474f275"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/tall_stools.json"
 hash = "4ebe3ed2c073f6755d880e35674e3909a6363a81344ef37fd73125591d0a5aa3"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/bundle_pins/brookite.json"
-hash = "affea28f558f3951af270c0f2da4d54e30b1c5f91094480b445e2c7680d243dc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
@@ -2868,14 +2868,14 @@ hash = "1b1e8b8cf28f04c1be078ee7032697478557b35ddc5947da4afcb261a9e72942"
 
 [[files]]
 file = "resources/resourcepack/required/maddy_bundle_pins/assets/lang/en_us.json"
-hash = "b44d52e6008d312ed26b2ccf4edf5ad61b609c8c2a967e42acb9139e51d46075"
+hash = "bc050f3389956bb98b11d97ab5337bbb8d8249345a9073e6da3ae9229d49cec3"
 
 [[files]]
-file = "resources/resourcepack/required/maddy_bundle_pins/assets/textures/bundle_pins/brookite.png"
+file = "resources/resourcepack/required/maddy_bundle_pins/assets/textures/bundle_pins/maddy/brookite.png"
 hash = "44484375d0bb037dd16cd46462a43ac448374872900f27de18a83b8dc55bcb47"
 
 [[files]]
-file = "resources/resourcepack/required/maddy_bundle_pins/assets/textures/bundle_pins/brookite_filled.png"
+file = "resources/resourcepack/required/maddy_bundle_pins/assets/textures/bundle_pins/maddy/brookite_filled.png"
 hash = "44484375d0bb037dd16cd46462a43ac448374872900f27de18a83b8dc55bcb47"
 
 [[files]]
@@ -2919,5 +2919,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v80.txt"
+file = "v81.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
