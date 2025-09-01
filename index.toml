@@ -146,7 +146,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "748b29d81d9f6636e71752da82c736e3bf4a3d0927db41d89057fc91eddfe0a3"
+hash = "74487f6c6de48c6866e5c1ccc6215f6c6776c02c0e20e963bbd416a6510bbb50"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -1547,7 +1547,7 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin
 hash = "90505ee6b2cb699a90e6fe9fe53d873db258ead3c337eb3eaf901a4eab876ccd"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/pickled_pickled_from_honey.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/fermenting/pickled_pickles_from_honey.json"
 hash = "9e1dec58a3df7dfac1417eb3044729a91febdb0d9af04bf91de598e5931ca027"
 
 [[files]]
@@ -2435,8 +2435,12 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "fa653f6f15aeb47c5114b20ed14f90f3cc4a524edfb36b32e4b783b64819291e"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/teto_from_birdbrain_teto.json"
-hash = "4b73046b67f8a3cf4ad13f79d7696ab38f7b05a4ca3628dab905f4c9e7637d60"
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/smots_teto_from_birdbrain_teto.json"
+hash = "97ed5d8423e7f0fbbca1b272a5acd586193e79836cafb08c16553abc0c3fb6c3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/warping/teto_from_smots_teto.json"
+hash = "eb12d15d5f2c10a3da9b88f98dca9e0e4a1dc7386b773fbcd3d68d03deaca562"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/wood_campfire.json"
@@ -2596,7 +2600,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "61a1fd786d8a1f03bd6667f80f1fe404107ae85875d10e111a0ea6a83cd16907"
+hash = "2796eb65e2ea89fe2d4877c34a39025851010d0f658a781ad8af3bd9de740e6c"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3003,5 +3007,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.2.txt"
+file = "v0.2.3.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

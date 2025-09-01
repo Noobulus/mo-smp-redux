@@ -138,6 +138,10 @@
     {
         "namespace": "brewinandchewin",
         "path": "recipe/heating_cask.json"
+    },
+    {
+        "namespace": "brewinandchewin",
+        "path": "recipe/ice_crate.json"
     }]
   }
 }
