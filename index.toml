@@ -971,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/miku-plushies.pw.toml"
-hash = "506e5726a9bef2ba84ad8b34009ba4ee2d81453233bb3d8ac72d4bc2e1a8a276"
+hash = "e8b154b3304db27b2ef01110b270684c7f97c4cf4f653a65a2d0c8c3670b79f2"
 metafile = true
 
 [[files]]
@@ -1269,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "09295cb26331c203a51fa23600f2a8677aa9801a9c8386818ca2d2c1bd5642b3"
+hash = "3f4c51c7e2be2e402e39334a5ad172f852d039f8d751ddd8f55a471c1f4f8108"
 metafile = true
 
 [[files]]
@@ -3003,5 +3003,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.1.txt"
+file = "v0.2.2.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
