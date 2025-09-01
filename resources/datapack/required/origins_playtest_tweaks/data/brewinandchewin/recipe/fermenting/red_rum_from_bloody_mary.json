@@ -1,0 +1,33 @@
+{
+  "replace": true,
+  "type": "brewinandchewin:fermenting",
+  "base_fluid": {
+    "amount": 1000,
+    "ingredient": {
+      "tag": "#brewinandchewin:bloody_mary"
+    },
+    "unit": "millibuckets"
+  },
+  "experience": 1.0,
+  "fermenting_time": 4800,
+  "ingredients": [
+    {
+      "item": "nears:near"
+    },
+    {
+      "item": "nears:near"
+    },
+    {
+      "item": "nears:cinder_grain"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "brewinandchewin:red_rum"
+  },
+  "temperature": 5,
+  "unit": "millibuckets"
+}

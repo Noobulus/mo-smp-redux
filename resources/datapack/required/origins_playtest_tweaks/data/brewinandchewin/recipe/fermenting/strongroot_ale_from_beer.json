@@ -1,0 +1,32 @@
+{
+  "replace": true,
+  "type": "brewinandchewin:fermenting",
+  "base_fluid": {
+    "amount": 1000,
+    "ingredient": {
+      "tag": "#brewinandchewin:beer"
+    },
+    "unit": "millibuckets"
+  },
+  "experience": 1.0,
+  "fermenting_time": 4800,
+  "ingredients": [
+    {
+      "item": "minecraft:mangrove_roots"
+    },
+    {
+      "item": "minecraft:mangrove_roots"
+    },
+    {
+      "tag": "c:foods/vegetable"
+    },
+    {
+      "tag": "c:foods/vegetable"
+    }
+  ],
+  "result": {
+    "amount": 1000,
+    "id": "brewinandchewin:strongroot_ale"
+  },
+  "unit": "millibuckets"
+}
