@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "supplementaries:lumisene_bottle"
+    },
+    {
+      "item": "supplementaries:lumisene_bottle"
+    },
+    {
+      "item": "supplementaries:lumisene_bottle"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "supplementaries:lumisene_bucket"
+  }
+}

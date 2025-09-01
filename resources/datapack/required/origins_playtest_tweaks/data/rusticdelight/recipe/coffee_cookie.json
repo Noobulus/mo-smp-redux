@@ -1,0 +1,20 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "item": "rusticdelight:roasted_coffee_beans"
+    },
+    {
+      "tag": "c:foods/dough"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "rusticdelight:coffee_cookie"
+  }
+}

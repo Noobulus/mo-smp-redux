@@ -1,0 +1,24 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "s": {
+      "item": "nears:soul_berries"
+    },
+    "x": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "pattern": [
+    "sss",
+    "xOx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "nears:soulless_pastry"
+  }
+}

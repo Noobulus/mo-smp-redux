@@ -158,6 +158,14 @@
     {
         "namespace": "supplementaries",
         "path": "recipe/lumisene_bucket.json"
+    },
+    {
+        "namespace": "nears",
+        "path": "recipe/cookie_from_cinder_grain.json"
+    },
+    {
+        "namespace": "minecraft",
+        "path": "recipe/cookie.json"
     }]
   }
 }

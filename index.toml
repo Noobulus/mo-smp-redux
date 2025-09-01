@@ -206,7 +206,7 @@ hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "c6c1d2d117b0b20f1ab96f7d7505e65a1697915737014bafae989dbad6f6cbac"
+hash = "67172ffffbc74ae90d800eee707e880716f17d7e8ccedc45e2f148a1ccce506f"
 
 [[files]]
 file = "config/sit!/server-config.json"
@@ -499,6 +499,11 @@ metafile = true
 [[files]]
 file = "mods/bandutys-dfwmi.pw.toml"
 hash = "44d9396d125bb52c203526b86feef205af632365df2baa41d6fc01ff34c12f8e"
+metafile = true
+
+[[files]]
+file = "mods/beans-backpacks-3.pw.toml"
+hash = "46e8e21ad07ed18a3d674074e4306ac87881e22089b0b6448c1261e30c4510f5"
 metafile = true
 
 [[files]]
@@ -1684,12 +1689,28 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/
 hash = "77457e573a17cea89ea8a17664a21192310a9dc683613ab681c66c86eb6e9c6d"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/honey_cookie.json"
+hash = "766c19a5a387129281b0d1c773643830c3e8db0b29f854ba92da80956132e728"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/melon_popsicle.json"
 hash = "8f23d294d382bc3335d3d97e75082a5968affe46d34c6736a22115ee13ed8a37"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/milk_bottle.json"
+hash = "5776655c5e8fcaf3c8e4241468b82467b4630685cd2e4a28d235da6a68cab120"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/milk_bucket_from_bottles.json"
+hash = "a40029801b253ba0f5ff7b339feb4ffa37464c23c6a33ed07410a83b8be30d68"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/pie_crust.json"
-hash = "4e876ef64c14ff3af96d1772cb812d5d4a5b81d723e78fa8db2dff73ba5ef797"
+hash = "d369063dc4c0be550da157b9b518c666fb8d3f10fb9c907e0e2cbe4489582f5f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/sweet_berry_cookie.json"
+hash = "babb0edd42583f4fc91bd6e634b9eaa80f67b937fd6934ad28daf661f8ab409c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/wheat_dough.json"
@@ -2073,7 +2094,7 @@ hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/sniffer_food.json"
-hash = "9b6b236408d3d3b031d40d4276b730cd6f7f6456cee202131e2f50711361ba52"
+hash = "a0b5050ada5b8839fdc237c1b1e6da89e79fe9fc27b208d3a9fe3b1f4b7133a5"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/snow_golem_melts.json"
@@ -2086,6 +2107,10 @@ hash = "d70d5eda4470515491501466ce012b4f7f9e451cbe246b7d4a6a03ca0ed5d085"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/spawns_warm_variant_farm_animals.json"
 hash = "3d45d190360ef40e01c986e4b07590e5f2acc68302fe1dd6bed89b62fcd38f3f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/nears/recipe/soulless_pastry.json"
+hash = "f346c49033b766608dc74e65c4d41de066d8e8871e38badfcb3151377cc3d575"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/nears/tags/block/cinder_wheat_plantable_on.json"
@@ -2214,6 +2239,10 @@ hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
 hash = "369e470317d27c327020da9f40ebd4270d1b947b7a00382d26d7f4dcda261ddd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cookie.json"
+hash = "63fb7f20e0101235cdab3c000f1f19830534dcbb2e2d1ad083882ad6f0fc1517"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/boiled_egg.json"
@@ -2413,7 +2442,15 @@ hash = "08f7179957680c535e6aa647ae4f30d3b63b756ce166001b084cb481c4d78175"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt.json"
-hash = "046bc31f99b47534f1d7b4a2bf57ba461c027e7694904f4e1ddadc77cef8bcb3"
+hash = "7dd2bcdd7701659db6685110f5fc2a1f4093be12381752245ef0f099ea03582d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_bottle_from_bucket.json"
+hash = "a877a312138d5d53d4976ffd7d82ca51a1d33b13c06e97997c9bde3f1fa200f1"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_bucket_from_bottles.json"
+hash = "55e4d7b6e2e7d6b9989d0418e3a53ce79604ee0d84c03a459e57531ff4a85138"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/miku_plushie.json"
@@ -2537,7 +2574,7 @@ hash = "9648efb4850773e3726b6a098153dda38450cb0bc3ae4482e1e7f67106250007"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_bulb_cheapening.json"
-hash = "aa467c8d29042d76ac8c38ef812ec4df3f46c42e5d404f099f08d92012ff138f"
+hash = "93f62e9a227cbf3eccd6c55f322bac886b162dc3fca204ef8b255191f9c73c05"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_cutting_buff.json"
@@ -2612,8 +2649,28 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "9a8f268c55fd16c9cae0fb3b6dd1c7e39d8a4cf496f5fdfa48b796d1ac057560"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/pearfection/recipe/pear_tart.json"
+hash = "51ed737b2207d7e7d00084cb4889389485984e114ecc3044ca538f6449d3bafc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/recipe/cherry_blossom_cookie.json"
+hash = "2076f04ef92fedd4359699166384b0abf8217875f1595b43c9452fbbbc6493a3"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/recipe/coffee_cookie.json"
+hash = "43c2b7667ff64e44af38608fd0aa873d0dc9059f847c7a972552dbe4d1504a3d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/recipe/syrup_cookie.json"
+hash = "317ac94dcf0b1c060258e37ca8c7971d44ba51518c4fe2438c28baae7555db57"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/item/cooking_oil_ingredients.json"
 hash = "2cc138c16dbd8036b80e65daa5432ed07e0a58678eb3442000ec5f5746148539"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/item/syrup_ingredients.json"
+hash = "3277b2efb60a5600bda8795aa673ae6c6f55ba0604839e4d7090a7697bae469e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/rusticdelight/tags/worldgen/biome/has_wild_bell_peppers.json"
@@ -2649,7 +2706,7 @@ hash = "7b14ad6cf4f9cc4208ec1240e9a4f2747c9d8a5022d7b145f00027ae8d1e6314"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/lumisene_bottle.json"
-hash = "56f82c377d12538057e4d91705f64b87acee678e247764f69335a58a0b35dacc"
+hash = "5f1fa900f5728b9914ea411cfa78c7fb571ccb0f93ffbb01f81d1c7dbbef9a4c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/suppsquared/recipe/copper_lantern.json"
@@ -2693,7 +2750,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "4c7dbf934bfabbda8119c6a9a0c25c4bd9bedc3fb6139d9895ee089493a427c9"
+hash = "0f627a0e48eb295d80eb85a570a3f3e3105227e76d480fd2b510de777f6bf6f6"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3100,5 +3157,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v0.2.7.txt"
+file = "v0.2.8.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
