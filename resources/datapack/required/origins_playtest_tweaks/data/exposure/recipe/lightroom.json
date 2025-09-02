@@ -6,8 +6,8 @@
     "G": {
       "item": "minecraft:tinted_glass"
     },
-    "T": {
-      "item": "minecraft:redstone_torch"
+    "P": {
+      "tag": "minecraft:planks"
     }
   },
   "pattern": [

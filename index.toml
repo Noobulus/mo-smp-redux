@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "e680418b7ffa803d1e71e0be1ffc7b67f07d00f574f06165c40030cc8fdf8b5e"
+hash = "1b8cfd23e5f1f406957d5f337f8c514d5095c16adbd3d0830d29bd001aac845d"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "e8d9a9f63fa3701c4fe7ad62cc24bed46c8984d5994903b2566cd916b8dde042"
+hash = "a6c42a656889b7adb61f13dd0f4e59cc66ae5feca859a02f9c97656c414c7307"
 metafile = true
 
 [[files]]
@@ -1754,7 +1754,7 @@ hash = "48b2dc8780e75edcf0e494670badc167860c9f8830945883ef2354d775dd1a37"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/camera.json"
-hash = "3adfbf46623d348df14d0ae6fe0e1d9833eea7551c78770398b7120a89bc1ace"
+hash = "3be239981530bb996a9ec43a80625f2597f875267a84be31335e99be59a6d7a4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/color_film.json"
@@ -1770,7 +1770,7 @@ hash = "3e670b803bf74da8edae06820b6118b23514b10e5d70dd768a582b21531dfef7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/lightroom.json"
-hash = "585b7aaa9f3df9ac4c477800da6fac9ea46a075a7be071c1a138cce4bb594d37"
+hash = "6ef384339bb5e3689365aeee47fb94b5a6a7869494119ecd2cbd4e2c776983ac"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
@@ -3477,5 +3477,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.4.txt"
+file = "v1.0.5.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
