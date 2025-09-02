@@ -12,11 +12,14 @@
     },
     "I": {
       "tag": "c:ingots/iron"
+    },
+    "M": {
+      "tag": "c:nuggets/iron"
     }
   },
   "pattern": [
-    "IIB",
-    "IIG"
+    "BN ",
+    "MIG"
   ],
   "result": {
     "id": "exposure:camera"

@@ -97,6 +97,10 @@ file = "config/connectiblechains.toml"
 hash = "0e90f3e1102154437f7caaafaf84b26b8538ab8e304a9a7f0ce3f13e7979533f"
 
 [[files]]
+file = "config/cpm.json"
+hash = "f7add01a8b4850d740e1ee846900613746760262d5cc8968a72a6b2fda7e9405"
+
+[[files]]
 file = "config/data-loader.json"
 hash = "f476c1f7ff31376f1d4e7564f1ae647ba988d84554d4c8f2bfd2dac52cd8c146"
 
@@ -303,6 +307,10 @@ hash = "c115485d6dfc5ef6da828b18b15ae63b2c68a7f0bc5e626cd399d19dda4e4232"
 [[files]]
 file = "config/spark/config.json"
 hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
+
+[[files]]
+file = "config/splashwrap.json"
+hash = "c89d973e2cc157fde0dc34fb5b56469415e7de5286d0ce91ac3a7309bd8fbc1b"
 
 [[files]]
 file = "config/stackdeobf.json"
@@ -864,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/drogstyle.pw.toml"
-hash = "430b432cf43c66161a21eeb3a62fe1c5e1c374812f9411679a172744acd6db82"
+hash = "060981d6866a73e34cdd2236ec18d7ed291840590611923b25af9880fb14b288"
 metafile = true
 
 [[files]]
@@ -1433,7 +1441,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "e8ae114624b21b91cada4ed8241b829d2a6b1979b98bf9b994bd2c8320740f66"
+hash = "9137c688c724db6215a475abe5ec71e1dd4a508860434eb2b35933c5079c8e70"
 metafile = true
 
 [[files]]
@@ -1746,7 +1754,7 @@ hash = "48b2dc8780e75edcf0e494670badc167860c9f8830945883ef2354d775dd1a37"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/camera.json"
-hash = "5298fa0c1e67a6c7398618780df632d7c9b0900e0995eddba67aec156a4a99ae"
+hash = "3adfbf46623d348df14d0ae6fe0e1d9833eea7551c78770398b7120a89bc1ace"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/color_film.json"
@@ -1758,7 +1766,7 @@ hash = "b528d52c52f7019b76952a313ef0cd2e008a11a7811d923782ac5abc753fa6ab"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/high_sensitivity_color_film.json"
-hash = "42ef9a1aafe82739515e5f1ed72ed426a46599e59e259eb846be4f62134eb97e"
+hash = "3e670b803bf74da8edae06820b6118b23514b10e5d70dd768a582b21531dfef7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/lightroom.json"
@@ -2379,6 +2387,10 @@ hash = "b7c6e4f1800c9f09fc2d249675e1fb01e9e416dcb35d5f661eabe12f76c23365"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bubble_coral_block.json"
 hash = "369e470317d27c327020da9f40ebd4270d1b947b7a00382d26d7f4dcda261ddd"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/camera_stand.json"
+hash = "3bf1c80acb4decec4ce095375b58b64bb6c2d5d3741ed15c39b98bd3f80a682d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cookie.json"
@@ -3062,7 +3074,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "6a42fd7fa871d37c05da37afb17102c6342c4713dacf8cb99c9391efec43ebe7"
+hash = "0e9c3ffeba3faf11daec4266949af774c6e3ed94144b41495a20f3e76fd7fb5b"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3334,7 +3346,7 @@ hash = "644c0aa4fc07cf4a62a84e54ba6b5e1322e43971f524a62c793f18c089d5f230"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "54ccbda25992faa9a1664c09d0420c6d6d741b9690c43955f16aad23e2831922"
+hash = "320d8cc628169116cccd86054dbe0f61adf2b2210493f27acab742567a7c1adf"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
@@ -3465,5 +3477,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.3.txt"
+file = "v1.0.4.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
