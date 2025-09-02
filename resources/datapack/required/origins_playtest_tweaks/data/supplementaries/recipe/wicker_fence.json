@@ -14,7 +14,7 @@
     }
   },
   "result": {
-    "item": "supplementaries:wicker_fence",
+    "id": "supplementaries:wicker_fence",
     "count": 6
   },
   "conditions": [

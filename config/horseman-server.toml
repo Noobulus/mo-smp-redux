@@ -25,7 +25,7 @@
 	rotate_horse_instead_of_player = true
 	#Max distance (in blocks) from last dismount position that saddled horse can wander to. Set to -1 for vanilla behavior. Default: 16
 	#Range: -1 ~ 64
-	saddled_horse_wander_radius = 45=
+	saddled_horse_wander_radius = 4
 	#Prevents rearing (horse stopping and standing up) when it's being ridden. Default: true.
 	ridden_horse_prevent_rearing = true
 
