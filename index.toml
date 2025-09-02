@@ -3414,13 +3414,9 @@ file = "resources/resourcepack/required/spoingly slimes paintings/pack.mcmeta"
 hash = "c108e655bd3408a5504d196a2a56e42775f1c7fb89802fabc0c74dcc976f7e48"
 
 [[files]]
-file = "unsup.ini"
-hash = "a2d72e3c1bc0a3c1507dd5db2a58eb2d22c35acaad49b8d73d0bd5d9bec37709"
-
-[[files]]
 file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.2.txt"
+file = "v1.0.3.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
