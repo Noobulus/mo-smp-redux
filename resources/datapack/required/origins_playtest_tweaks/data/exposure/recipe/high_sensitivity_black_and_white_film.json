@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "R": {
+      "item": "vanillabackport:resin_clump"
+    },
+    "N": {
+      "tag": "c:nuggets/iron"
+    }
+  },
+  "pattern": [
+    "NB",
+    "NR"
+  ],
+  "result": {
+    "id": "exposure:high_sensitivity_black_and_white_film"
+  }
+}
