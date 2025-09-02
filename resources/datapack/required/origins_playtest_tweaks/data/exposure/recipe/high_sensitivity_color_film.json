@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "arts_and_crafts:bleachdew"
+    },
+    "R": {
+      "item": "vanillabackport:resin_clump"
+    },
+    "N": {
+      "tag": "c:nuggets/gold"
+    }
+  },
+  "pattern": [
+    "NB",
+    "NR"
+  ],
+  "result": {
+    "id": "exposure:high_sensitivity_color_film"
+  }
+}

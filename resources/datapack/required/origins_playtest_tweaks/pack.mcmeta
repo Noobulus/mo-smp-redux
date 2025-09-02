@@ -186,6 +186,10 @@
     {
         "namespace": "rusticdelight",
         "path": "recipe/canvas_from_cotton_boll.json"
+    },
+    {
+        "namespace": "exposure",
+        "path": "recipe/camera_stand.json"
     }]
   }
 }

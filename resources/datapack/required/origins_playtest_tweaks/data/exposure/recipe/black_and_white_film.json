@@ -1,0 +1,22 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "K": {
+      "item": "minecraft:dried_kelp"
+    },
+    "N": {
+      "tag": "c:nuggets/iron"
+    }
+  },
+  "pattern": [
+    "NB",
+    "NK"
+  ],
+  "result": {
+    "id": "exposure:black_and_white_film"
+  }
+}

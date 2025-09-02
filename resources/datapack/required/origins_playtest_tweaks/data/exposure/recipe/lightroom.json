@@ -1,0 +1,21 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:tinted_glass"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "GG",
+    "PP",
+    "PP"
+  ],
+  "result": {
+    "id": "exposure:lightroom"
+  }
+}
