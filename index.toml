@@ -154,7 +154,7 @@ hash = "945f0c4de799920ae96e82c0ee312916dc9623295a60d1eb76bd52d3b1f45e27"
 
 [[files]]
 file = "config/fabrication/features.ini.orig"
-hash = "02a109ffdd74ca9542b8c0fac89267c2fabba5af52176e6c83ba7fcdcb854b73"
+hash = "945f0c4de799920ae96e82c0ee312916dc9623295a60d1eb76bd52d3b1f45e27"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -366,7 +366,7 @@ hash = "8b982a13bd0d8b4b557b1fcd3621a2bc362443b561679be23e4ecfa215581152"
 
 [[files]]
 file = "config/watut-item-arm-adjustments.json"
-hash = "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982"
+hash = "0c365ed28f78c9ace3d822ca6e11043c7600d92822bc1fc1817bb2661766b96b"
 
 [[files]]
 file = "config/watut-server.toml"
@@ -3422,5 +3422,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.0.txt"
+file = "v1.0.1.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
