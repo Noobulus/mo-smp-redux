@@ -214,7 +214,7 @@ hash = "3a92b2441baadaa96802e26a040162e1f87b02aa59ec046c0b39ed1dc9ebecef"
 
 [[files]]
 file = "config/horseman-server.toml"
-hash = "e4d5efa5cb835fb1c5c228e86bbc04b9e1af77385411fc401781afc2c69a88bb"
+hash = "15dd5604cae06d903b362d6178039f2fece60e7aa4abb3b37dab4eb02748983b"
 
 [[files]]
 file = "config/indypets.json"
@@ -542,7 +542,7 @@ hash = "6a0481760b3293318021c1621ba536eace096cefe2d4e3f1f157f445dcb06bab"
 
 [[files]]
 file = "icon.png"
-hash = "83ca7f56511682fc315a87b118d187f3109b832847bcfb66c3376250e82c4991"
+hash = "9367f61e2656ae392f0fee3b9fc7471657a3cef8341fbeba77fc8d9d6d9cd5bc"
 
 [[files]]
 file = "mods/OxyTools-1.1.1.jar"
@@ -2119,7 +2119,7 @@ hash = "0bab128275057ce506cf4062bffac2d33434c3997bc11f974ed6a822751bc70f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/white_wool_from_string.json"
-hash = "1e67a38d77559753b91b63313383242c36bd3fd04211a6332283e5455900a529"
+hash = "ad03c9d3e382b2bc9e966924d2f53cb7b91902ef273f5d3308e221ba3b6a8ff0"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/block/beacon_base_blocks.json"
@@ -2583,7 +2583,7 @@ hash = "1143851eb303e698d41e65c3d42d6681f8b751ae1dde4d278042b83a516152c7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/tall_callery_door.json"
-hash = "7a4f2b058fe771665c1d6c06bc6561acf88a5f8ed5ebdc2722b55d50cacc6f3d"
+hash = "9d6e71c22b63584c9c2aa6edd28c12354b9c946d962d3a4524337c5171550b4b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_bench.json"
@@ -2591,7 +2591,7 @@ hash = "f2b6cf8c461e70299b96d9fd8c81a47f0947757f23273bacf13069a01d8ff77e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_cabinet.json"
-hash = "68623a97717884e3363a8fb8b46c27ad91f3ebae5bc0d22f570be9f034c379ba"
+hash = "bc15e8b6e431ee45a690b50ab84cd0b42d8dbb91b496c65a1b19beffefa75c0e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/twisted_chair.json"
@@ -2707,7 +2707,7 @@ hash = "92ee82b03409b3ade884d5a71d90ef11ad4cf2c3c25c26d95dbc7fd0206165b2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/gravel_from_cobble.json"
-hash = "54a8a8b3a524bcd1cee0882b5e6baeec740da6650cf6919313da0c74700339aa"
+hash = "4cf84238599a3e8ae74fd07aad586b5552f0587a276902e1a3a91a4e4ac321ea"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/paper_from_cotton.json"
@@ -2967,7 +2967,7 @@ hash = "5f1fa900f5728b9914ea411cfa78c7fb571ccb0f93ffbb01f81d1c7dbbef9a4c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/recipe/wicker_fence.json"
-hash = "8e8776fe5c5c7513dbc6d2d47ca180c5fb820aa6ef7cfc1896a3a140edc91c30"
+hash = "54bf984ad8d10945ce1f3520fee1aa95547bb27bb5fdacd6260b0e2ea04749e8"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/tag/item/straw.json"
