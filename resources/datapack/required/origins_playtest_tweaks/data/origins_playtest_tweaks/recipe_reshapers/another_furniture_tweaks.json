@@ -9,7 +9,7 @@
         "~": "wool",
         "=": "slab",
         "C": "chair",
-        "S": "stool",
+        "S": "!tall_stool",
         "B": "bench",
         "H": "shutter",
         "T": "tall_stool",
@@ -54,7 +54,7 @@
         },
         {
             "pattern": [
-                "@~@",
+                "#~#",
                 "| |"
             ],
             "output_token": "S",
@@ -166,7 +166,7 @@
             "id_suffix": "_tweaked_stools",
             "pattern": [
                 "~",
-                "-"
+                "#"
             ],
             "output_token": "S",
             "output_count": 1,

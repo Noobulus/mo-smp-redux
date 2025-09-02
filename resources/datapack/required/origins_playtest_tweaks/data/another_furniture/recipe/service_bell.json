@@ -4,22 +4,19 @@
   "category": "misc",
   "key": {
     "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    ",": {
       "item": "minecraft:iron_block"
     },
-    "O": {
-      "item": "minecraft:obsidian"
-    },
-    "E": {
-      "item": "minecraft:end_crystal"
-    },
-    "N": {
-      "item": "minecraft:netherite_ingot"
+    "A": {
+      "item": "minecraft:amethyst_shard"
     }
   },
   "pattern": [
-    " N ",
-    "IEI",
-    "OOO"
+    " I ",
+    ",A,",
+    ",,,"
   ],
   "result": {
     "count": 1,

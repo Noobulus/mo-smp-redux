@@ -1,0 +1,26 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "101",
+    "101"
+  ],
+  "key": {
+    "0": {
+      "item": "farmersdelight:straw"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "supplementaries:wicker_fence",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "wicker_fence"
+    }
+  ]
+}
