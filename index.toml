@@ -1168,7 +1168,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8d418075860a8b033aa4906fba26ff298f67f6d51efa8a23052a1b2d8e45eb44"
+hash = "c7a4bc8cd0de146976dd822e9cfb826baa27db3c59c355bf1309d2d89ff9c032"
 metafile = true
 
 [[files]]
@@ -1482,11 +1482,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
-metafile = true
-
-[[files]]
-file = "mods/worldgen-patches.pw.toml"
-hash = "6cb36f7170ec27472132252faaabbd6d92697996a77153cf4a5ce1268c24e219"
 metafile = true
 
 [[files]]
@@ -3477,5 +3472,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.5.txt"
+file = "v1.0.6.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
