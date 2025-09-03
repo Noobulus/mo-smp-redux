@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "eb4979620b2be5307bd3e8476f60b6db74af5c72fe1c27d401f85655f47d64ed"
+hash = "62b54d6fd6c1aecec4c2490d4486bb1a46784d04c30eb25d14ba322dfe62f4a0"
 metafile = true
 
 [[files]]
@@ -3544,5 +3544,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.16.txt"
+file = "v1.0.17.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
