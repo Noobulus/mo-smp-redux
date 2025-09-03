@@ -1180,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c7a4bc8cd0de146976dd822e9cfb826baa27db3c59c355bf1309d2d89ff9c032"
+hash = "a873a5ee571204b63826fae1591f68d1e92811e366b1470a91ab3017d44bb8ba"
 metafile = true
 
 [[files]]
@@ -3544,5 +3544,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.14.txt"
+file = "v1.0.15.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
