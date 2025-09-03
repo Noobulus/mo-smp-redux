@@ -222,7 +222,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "4c3e39d41bbfa571657311e93cc729db66df1f666fbef38d739ac7e11055397e"
+hash = "7e742b36dbe223db12a8bedc9a7966fa0c1c73dff98442f3b67f89e1a068bbdc"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -877,6 +877,16 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
+metafile = true
+
+[[files]]
+file = "mods/easy-sacks-compat.pw.toml"
+hash = "e388fb74dda549d46a31c9e9c2b653b4cc632d84ad15561f0102aaedf4bb5ac2"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "3f79aadc20ee02e53d1810892f0cd9e037575b1a6cf26505a3a514c24f2a55c7"
 metafile = true
 
 [[files]]
@@ -1545,7 +1555,7 @@ hash = "59be918dab60784e0f7b734dc178773f7ce1bc639627d9ea94e876fb205b4b7d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/nether_brass_torch.json"
-hash = "5f974deb50db47be3938ef654a038c8a51bdb3a0ac89ce6203a6a0b963dd7a4d"
+hash = "ae38aeef7b2f813cea8c482e869e2bc52df202fa79216022c5be1adbccc0037e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/spool.json"
@@ -2288,6 +2298,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "4ebe3ed2c073f6755d880e35674e3909a6363a81344ef37fd73125591d0a5aa3"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/function/cpm.mcfunction"
+hash = "8ef38c04e599a7a225a05159457a18328612d62877dc45314ca96d5334a40c38"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
 hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 
@@ -2932,6 +2946,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/function/load.json"
+hash = "ee1544182342546c458b90135983937f800242ea4038c6eecb847c6c2a8ca54a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/cheese_starters.json"
 hash = "889426b6a8d4d4d0646abb681646f6d835970fa9b78b944e8a6d911d04418e27"
 
@@ -3093,7 +3111,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "0e9c3ffeba3faf11daec4266949af774c6e3ed94144b41495a20f3e76fd7fb5b"
+hash = "23b0ac05a6b6653b690d346c88ffd9c4b0aaadebdb5431bd1bbfa9a2855641b7"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3496,5 +3514,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.7.txt"
+file = "v1.0.8.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
