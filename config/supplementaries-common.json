@@ -391,7 +391,7 @@
       "extract_from_bundles": true
     },
     "throwable_bricks": {
-      "enabled": true
+      "enabled": false
     },
     "placeable_sticks": {
       "sticks": true,

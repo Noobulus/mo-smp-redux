@@ -8,7 +8,8 @@
     "mynethersdelight:strider_rock",
     "mynethersdelight:strider_egg",
     "mynethersdelight:strider_slice",
-    "mynethersdelight:minced_strider"
+    "mynethersdelight:minced_strider",
+    "vanillabackport:dried_ghast"
   ],
   "components": {
     "minecraft:fire_resistant": {}

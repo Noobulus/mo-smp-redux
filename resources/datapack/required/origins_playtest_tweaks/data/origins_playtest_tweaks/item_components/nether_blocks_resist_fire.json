@@ -6,7 +6,9 @@
     "minecraft:respawn_anchor",
     "minecraft:enchanting_table",
     "minecraft:beacon",
-    "minecraft:ender_chest"
+    "minecraft:ender_chest",
+    "mnemonics:fossil",
+    "mnemonics:aggregator"
   ],
   "components": {
     "minecraft:fire_resistant": {}

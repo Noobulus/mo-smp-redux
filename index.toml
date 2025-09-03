@@ -290,7 +290,7 @@ hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "7319bcef316406f1baa245b768a31b56d5b2fedd4345c386bb56dcdca012a9a1"
+hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/sit!/server-config.json"
@@ -322,7 +322,7 @@ hash = "20119d8d594619635f73531b9419a3028e5a4520672d1a2b51ae3cf653ba5e11"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "e5f742605a1395eede7e10a6ab93dbf80b9e7d986fbc2b2020a69dbb70a10345"
+hash = "92a7cac96de8cb2474a619d06e66eb8d023da26b241cae14df0c1a61375f5ee5"
 
 [[files]]
 file = "config/suppsquared-common.json"
@@ -450,7 +450,7 @@ hash = "dc642a023bdc32ae1afb8fac0229df4d1f40de3bdd7269f4d71639c57c9dd442"
 
 [[files]]
 file = "config/yosbr/config/horseman-client.toml"
-hash = "76e9b0861c419b6d938bfdd0b7bf192d778227e424bc35cb7847bf751eac9332"
+hash = "d0abea86721a08ec95a375ecc597273738ee1ff246fd93bc330b16465b8703e3"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -551,6 +551,10 @@ hash = "64e03b74c1e889fb3ad11661c5226b73c53dce8d51e120bb76e6aebeb2e31e6d"
 [[files]]
 file = "icon.png"
 hash = "9367f61e2656ae392f0fee3b9fc7471657a3cef8341fbeba77fc8d9d6d9cd5bc"
+
+[[files]]
+file = "mods/NoCoords-1.2.jar"
+hash = "28837b834d7b86862720d63a20d968b5d9255f221df829087399010c07fcff38"
 
 [[files]]
 file = "mods/OxyTools-1.1.1.jar"
@@ -940,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "eb4979620b2be5307bd3e8476f60b6db74af5c72fe1c27d401f85655f47d64ed"
+hash = "62b54d6fd6c1aecec4c2490d4486bb1a46784d04c30eb25d14ba322dfe62f4a0"
 metafile = true
 
 [[files]]
@@ -1176,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c7a4bc8cd0de146976dd822e9cfb826baa27db3c59c355bf1309d2d89ff9c032"
+hash = "a873a5ee571204b63826fae1591f68d1e92811e366b1470a91ab3017d44bb8ba"
 metafile = true
 
 [[files]]
@@ -1736,6 +1740,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hid
 hash = "471150522bb550b06f7cbc8129522c35c196f6226df074719fb4283c06543328"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/music_discs.json"
+hash = "913f0401620ced405f2551537c4c5092c6454d390cbfde462eb940ce5906761d"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/storage_blocks.json"
 hash = "56daadf1031a75d537e8c96775a3a4f1b514d1524ea07a0f92e3995d811ae94e"
 
@@ -1794,6 +1802,10 @@ hash = "6ef384339bb5e3689365aeee47fb94b5a6a7869494119ecd2cbd4e2c776983ac"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
 hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cooking/apple_cider.json"
+hash = "2b9f3bfb507c8517bd8c7989f39cb160bbf1a5ad1c2765db2c431a736460c42c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cutting/melon.json"
@@ -2328,6 +2340,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "faa7fa35cc016f91ff0f30fa2504544c2b26bd7bc5446c00ef2de4adc819511e"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fireproof_booty_jams.json"
+hash = "82305969d5b3b1af645e27e140870f0ab995390c5cfc07c6ed2c850a2950cca2"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/golden_carrot.json"
 hash = "af3e24782304abff77b7bf4d06957e27511eeebf38dc7eb4a4c8c73607b7090f"
 
@@ -2365,11 +2381,11 @@ hash = "fcb4d467f5ffa754850d438dbd6b69c9ff25bdccaa9b00942154e521bf13cc49"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_blocks_resist_fire.json"
-hash = "44672f08af8681e77045fb875b9b034225e0532df4421a0b3a8c16e7fb4ccc5f"
+hash = "ad5a4e2894af2588e78823ad70d0cbc1a5150d0c347cf83ecbd268930cad4b74"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_drops_resist_fire.json"
-hash = "51a41b2648d22c73368023cd06240978e4a8316167835f7715faddc9f9f57279"
+hash = "110557e03d8e11d25d7c6577d2e8229bbe8a3b94962b7738d256959e702cdfe4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/netherite.json"
@@ -2901,7 +2917,7 @@ hash = "c02c06cabaedba508e23a09b05c2a4175640752881ae02d26dc5d36a7cc030ba"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/comforts_tweaks.json"
-hash = "9648efb4850773e3726b6a098153dda38450cb0bc3ae4482e1e7f67106250007"
+hash = "4256a57015ce52529503e44539d6f026655afe28a396bff77300c42f2fbce969"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_bulb_cheapening.json"
@@ -3076,7 +3092,7 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "54bf984ad8d10945ce1f3520fee1aa95547bb27bb5fdacd6260b0e2ea04749e8"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/tag/item/straw.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/tags/item/straw.json"
 hash = "b904637783d6d2906fbb7e326d17b8a21add7e0aaca67a45dde481ae2a9a997e"
 
 [[files]]
@@ -3397,7 +3413,7 @@ hash = "644c0aa4fc07cf4a62a84e54ba6b5e1322e43971f524a62c793f18c089d5f230"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "320d8cc628169116cccd86054dbe0f61adf2b2210493f27acab742567a7c1adf"
+hash = "6c4e9e21180a8f43d138290d04cd3750de0c4a51d1733de55cfe00460397ceda"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
@@ -3528,5 +3544,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.10.txt"
+file = "v1.0.17.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
