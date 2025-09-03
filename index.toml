@@ -2917,7 +2917,7 @@ hash = "c02c06cabaedba508e23a09b05c2a4175640752881ae02d26dc5d36a7cc030ba"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/comforts_tweaks.json"
-hash = "9648efb4850773e3726b6a098153dda38450cb0bc3ae4482e1e7f67106250007"
+hash = "4256a57015ce52529503e44539d6f026655afe28a396bff77300c42f2fbce969"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/copper_bulb_cheapening.json"
@@ -3544,5 +3544,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.12.txt"
+file = "v1.0.13.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

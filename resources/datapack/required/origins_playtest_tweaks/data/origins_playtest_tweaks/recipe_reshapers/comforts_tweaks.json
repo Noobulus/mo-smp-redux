@@ -6,7 +6,8 @@
     },
     "id_substrings": {
         "=": "hammock",
-        "-": "sleeping_bag"
+        "-": "sleeping_bag",
+        "#": "wool"
     },
     "source_family": [
         {
