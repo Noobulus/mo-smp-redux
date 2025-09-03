@@ -2299,7 +2299,7 @@ hash = "4ebe3ed2c073f6755d880e35674e3909a6363a81344ef37fd73125591d0a5aa3"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/function/cpm.mcfunction"
-hash = "8ef38c04e599a7a225a05159457a18328612d62877dc45314ca96d5334a40c38"
+hash = "43280ed895b54889d7bd1b5a5d686aeb82af6760a059e485259a9b5b7cec8341"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
@@ -3514,5 +3514,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.8.txt"
+file = "v1.0.9.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
