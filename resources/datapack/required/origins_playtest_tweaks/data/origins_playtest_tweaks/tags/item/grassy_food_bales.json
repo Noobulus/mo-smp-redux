@@ -8,10 +8,6 @@
         {
             "id": "farmersdelight:rice_bag",
             "required": false
-        },
-        {
-            "id": "farmersdelight:straw_bale",
-            "required": false
         }
     ]
 }

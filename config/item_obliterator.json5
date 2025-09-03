@@ -298,7 +298,9 @@
     "architects_palette:bamboo_board_wall",
     "architects_palette:crimson_board_wall",
     "architects_palette:warped_board_wall",
-    "architects_palette:twisted_board_wall"
+    "architects_palette:twisted_board_wall",
+    "supplementaries:fodder",
+    "supplementaries:flax_block"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.

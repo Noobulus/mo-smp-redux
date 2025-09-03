@@ -1,0 +1,27 @@
+{
+  "targets": "pearfection:copper_lampear",
+  "components": {
+    "minecraft:food": {
+      "can_always_eat": true,
+      "saturation": 9.6,
+      "nutrition": 6,
+      "effects": [
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 1800,
+            "id": "minecraft:haste",
+            "amplifier": 1
+          }
+        },
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 900,
+            "id": "minecraft:glowing"
+          }
+        }
+      ]
+	}
+  }
+}

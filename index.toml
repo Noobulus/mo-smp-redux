@@ -222,7 +222,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "7e742b36dbe223db12a8bedc9a7966fa0c1c73dff98442f3b67f89e1a068bbdc"
+hash = "2bd3552e155c06cca080443081bd86f7bae06e608b34f8dfb7050d16e9679b72"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -290,7 +290,7 @@ hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "67172ffffbc74ae90d800eee707e880716f17d7e8ccedc45e2f148a1ccce506f"
+hash = "7319bcef316406f1baa245b768a31b56d5b2fedd4345c386bb56dcdca012a9a1"
 
 [[files]]
 file = "config/sit!/server-config.json"
@@ -545,6 +545,10 @@ file = "config/yosbr/options.txt"
 hash = "6a0481760b3293318021c1621ba536eace096cefe2d4e3f1f157f445dcb06bab"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "64e03b74c1e889fb3ad11661c5226b73c53dce8d51e120bb76e6aebeb2e31e6d"
+
+[[files]]
 file = "icon.png"
 hash = "9367f61e2656ae392f0fee3b9fc7471657a3cef8341fbeba77fc8d9d6d9cd5bc"
 
@@ -793,11 +797,6 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
-metafile = true
-
-[[files]]
-file = "mods/component-viewer.pw.toml"
-hash = "194361e1aa340ee9ee63eda79ed8b5f156ee2781b13eef97e005513d55fa6f3a"
 metafile = true
 
 [[files]]
@@ -1364,11 +1363,6 @@ hash = "43500505cd9ccb41d9722586a0040be415ce71b6a93758b45d8176e925bd7851"
 metafile = true
 
 [[files]]
-file = "mods/simple-loot-viewer.pw.toml"
-hash = "e217d3575d65fd8e3856368f4de0e07f9d185cbf27130074864eac9d1b299611"
-metafile = true
-
-[[files]]
 file = "mods/simple-netherite-horse-armor.pw.toml"
 hash = "02845c4794b9bfc924d6a2b0b130e6f1a93ddc07a7bce6c19e008d29002f995e"
 metafile = true
@@ -1906,6 +1900,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/kaleidoscopic/a
 hash = "7265d4e644049884c7f15adf43cdc500c0bd646daad05e038c98e120985146bc"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddysmanyminiaturemodifications/tags/item/horse_bulk_food.json"
+hash = "0a631251584bd34077e16951a71f351c201bc0bea84e21b7c303cae055928c9d"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/advancement/adventure/use_lodestone.json"
 hash = "060454d44a58fa99d443d23ec891ac5ed52a9177f3c48dbf7c3c7da8057d219d"
 
@@ -2230,6 +2228,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/horse_food.json"
+hash = "78be14d8619b3c5600e601f8036cf5b3cc49218a67a723cfeb28547da15e60b7"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/pig_food.json"
 hash = "5aa8f8880901475582ad80e2ae1f82a610a8098baa47abe2e17427bddeb6370f"
 
@@ -2256,6 +2258,10 @@ hash = "d70d5eda4470515491501466ce012b4f7f9e451cbe246b7d4a6a03ca0ed5d085"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/spawns_warm_variant_farm_animals.json"
 hash = "3d45d190360ef40e01c986e4b07590e5f2acc68302fe1dd6bed89b62fcd38f3f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/utils/inverse-tags/item/horse_tempt_item.json"
+hash = "f316ea312b5c8068ab5477306e420ad7155829cc4330c86147e78b1882f9c465"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/mnemonics/recipe/jar.json"
@@ -2308,6 +2314,10 @@ hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/bloody_mary.json"
 hash = "d73b2dca25370c9a0eee0ad5497f6aa03bacbc79102b9597050808aa4346f142"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/copper_lampear.json"
+hash = "16b0e305594bfb752447d8f82f12cb73b225fc687c488d91ad22ef3283215b8a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/elytra.json"
@@ -2959,7 +2969,7 @@ hash = "7464242ecf89d7241e01eef829da7fe1e9d2c588077209fff728ab156c572e4a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/grassy_food_bales.json"
-hash = "5f2d6f1d6a6ef27c7233417819606e8c1a4933d94c0ee02c4a32cd7d6c41e630"
+hash = "4253eccd9c0400137e47bf37f88bf1efbdfcd59dc6829b8b0b349f45086e291a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/quiche_toppings.json"
@@ -3111,7 +3121,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "23b0ac05a6b6653b690d346c88ffd9c4b0aaadebdb5431bd1bbfa9a2855641b7"
+hash = "f224dff483690ab682b0bb40e807a5b70ae192a7fb309fd5cfbd3c3d1dffd08d"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3370,6 +3380,10 @@ file = "resources/datapack/required/trade_rebalance/pack.mcmeta"
 hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
+file = "resources/resourcepack/required/Enchanting Table Lapis Icons.zip"
+hash = "744da9505a8afb9d828a68cfa42713a5a66f701291bccccdafe77efbc4025fdb"
+
+[[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/c/models/tag/item/eggs.json"
 hash = "37dc3aa026274d55d108ea17edeadb0b2ea3e520d019e6b6675b12245219f80e"
 
@@ -3514,5 +3528,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.9.txt"
+file = "v1.0.10.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

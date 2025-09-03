@@ -194,6 +194,10 @@
     {
         "namespace": "pearfection",
         "path": "recipe/callery_pickets.json"
+    },
+    {
+        "namespace": "mynethersdelight",
+        "path": "recipe/cutting/cutting/bullet_pepper.json"
     }]
   }
 }
