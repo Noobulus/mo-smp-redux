@@ -3,7 +3,7 @@ version = 1
 
 [disabler]
 disablerEnabled = false
-disabledEnchantments = [ "origins:water_protection", "eleron:smokestack" ]
+disabledEnchantments = [ "origins:water_protection", "eleron:smokestack", "minecraft:mending" ]
 
 [maxLevel]
 modifyMaxLevels = false

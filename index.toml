@@ -118,11 +118,11 @@ hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
 
 [[files]]
 file = "config/enchantmentdisabler-config.json5"
-hash = "0eed1f159b7a9df3da43afd9a9226669f17ae09b791bda669fe4f7b45f53da65"
+hash = "d253a9f5e67cce41995c96ac15106f5ac393c4cc7b5d49d777d19e77e59f2783"
 
 [[files]]
 file = "config/enchantmentdisabler/config.toml"
-hash = "184c8a728d4bb311667c6c22e3f28de23f113f6bf73a137cc5130b93b2b2abc0"
+hash = "c47a23b610b71f9f75ad93ab56d9614782c85de3f759bf2b2ece9854f0013c28"
 
 [[files]]
 file = "config/everycomp-common.json"
@@ -222,7 +222,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "47c5a922afe55f563b776cc2bf63d25d294232d2da8ec5c59a3a20b888035bfb"
+hash = "4c3e39d41bbfa571657311e93cc729db66df1f666fbef38d739ac7e11055397e"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -711,11 +711,6 @@ hash = "9e8faaa798e6239138dea2d033b944a9534bb11e6a8646fc58633ff1cb6bd481"
 metafile = true
 
 [[files]]
-file = "mods/bundle-pins.pw.toml"
-hash = "ab46e199edeec40be9257af33b82ca2402625ba4fce0722274623bd2f919dc9b"
-metafile = true
-
-[[files]]
 file = "mods/bundle-scroll.pw.toml"
 hash = "5d217c8ce2812fbb2661ab2a5637b5846a03bf5073de68ca5c2f1333e84bf25e"
 metafile = true
@@ -861,9 +856,8 @@ hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
-file = "mods/dont-break-your-tools.pw.toml"
-hash = "641b34712bbebd850e1b0e33908c70a921bf99147f02b4145dc79ccb1db1eb93"
-metafile = true
+file = "mods/dont-break-your-tools-1.3.1-1.21.1.jar"
+hash = "24c2d5462224ff425200e4946cee58d65a4d7be519df7660f85f85288cef051c"
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
@@ -908,6 +902,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-disabler.pw.toml"
 hash = "e6299efce5a4fb6d53ceefcef675c5b081fec5c40610ded0770843020ea467cf"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "e8bd31ca64c5348efea94cca1ffd1301fb488e890f140cc5ee0f6f55f51824a5"
 metafile = true
 
 [[files]]
@@ -1154,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/mnemonics-1.4.1.jar"
-hash = "b59018956c318d111f91d947ae6be96c0791965eee381bd5e8eaf97c00613288"
+hash = "53203150bacf813ccff191a9d561ccdc203d6e37b4bccceeecf6f9a9ed2c3ba2"
 
 [[files]]
 file = "mods/modelfix.pw.toml"
@@ -1435,6 +1434,11 @@ hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
+file = "mods/stacksizefix.pw.toml"
+hash = "b41bfc171003e0a439f1bb123b1a47c63455e1926ed108e45bcd7ba6d07e65ba"
+metafile = true
+
+[[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
 hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
 metafile = true
@@ -1530,6 +1534,18 @@ hash = "f833c28a5dd1d6479e7e7ab5f328367f2f55eac59a72731ff434e3a6502c3692"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/service_bell.json"
 hash = "6ddcc20dbcd8dc150aefeb19904f5dc3e1dc2f2073794b44b00c31f7ba34bcc2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/nether_brass_chain.json"
+hash = "49efe64d0f6cc56a230ab20579df5e49766a72d4c0b33d9281604c0d6373ca30"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/nether_brass_lantern.json"
+hash = "59be918dab60784e0f7b734dc178773f7ce1bc639627d9ea94e876fb205b4b7d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/nether_brass_torch.json"
+hash = "5f974deb50db47be3938ef654a038c8a51bdb3a0ac89ce6203a6a0b963dd7a4d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/spool.json"
@@ -1738,6 +1754,10 @@ hash = "f076f5e0b7731886b87ed1a708ebfc434a36812fac5c74780e5d8bd98975a1e6"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/camphor/recipe/mint.json"
 hash = "cc77bd2542082416af54014f33c052b26a06445343754721cbb2d4b0e08a9324"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/dont-break-your-tools/tags/item/exempt_from_break_protection.json"
+hash = "b1bfb8f7e8b3cfeedddc3583342dd3662123c8428f34db2dee770694bd766dcc"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/album.json"
@@ -2276,6 +2296,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "d73b2dca25370c9a0eee0ad5497f6aa03bacbc79102b9597050808aa4346f142"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/elytra.json"
+hash = "04662016e7b32f6d40a854cb89aa7fa13718af5439a0519aff8254ff36e65186"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fiery_fondue.json"
 hash = "faa7fa35cc016f91ff0f30fa2504544c2b26bd7bc5446c00ef2de4adc819511e"
 
@@ -2604,10 +2628,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "fc1708e632a7b46a80aff53797ea65f4cc8d4680b8aad10574d5843c9581239c"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_cabinet.json"
-hash = "fd851f49b0cfa120b83882790b07fbbb2cab52886b005bea7be314524c0ed9bb"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_chair.json"
 hash = "26bfffeb87fd20fbe8d5878c4681815af52b14f067eb460d0af9237d34356f57"
 
@@ -2718,6 +2738,10 @@ hash = "08f7179957680c535e6aa647ae4f30d3b63b756ce166001b084cb481c4d78175"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt.json"
 hash = "7dd2bcdd7701659db6685110f5fc2a1f4093be12381752245ef0f099ea03582d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt_shit.json"
+hash = "94b31e736d1aa978bc8ca04498e8090b459666fa31592f437b252fa40033326b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_bottle_from_bucket.json"
@@ -3472,5 +3496,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.6.txt"
+file = "v1.0.7.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
