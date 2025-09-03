@@ -1,0 +1,13 @@
+name = "Easy Sacks Compat"
+filename = "easy-sacks-compat-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1BlaZBp4/versions/rKRs8kxb/easy-sacks-compat-1.0.0.jar"
+hash-format = "sha512"
+hash = "1ef0079361a951dc9233efcbcc3af501469b52aa425c2221e17927d489cc31f6fda3bd6d8b401888fd9d1551a8d0d04c616013b3d1cf6d9367307ba51924568c"
+
+[update]
+[update.modrinth]
+mod-id = "1BlaZBp4"
+version = "rKRs8kxb"

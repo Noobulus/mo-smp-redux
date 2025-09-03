@@ -1,0 +1,7 @@
+{
+  "targets": "minecraft:elytra",
+  "components": {
+    "minecraft:fire_resistant": {},
+    "minecraft:max_damage": 1000
+  }
+}

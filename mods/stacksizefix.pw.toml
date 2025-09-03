@@ -1,0 +1,13 @@
+name = "Stack Size Fix"
+filename = "stacksizefix-1.0.0-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H0bsOhot/versions/TnGL6osA/stacksizefix-1.0.0-fabric.jar"
+hash-format = "sha512"
+hash = "1d0dbb75f79003a39ac97c7ebf97656bb8ab37e2f52d1d3a6ec5b12d0693cea41c2a35f52752b4e96b9ca2be88b0ff0424806822bab1ced86a3f7fe0c685d312"
+
+[update]
+[update.modrinth]
+mod-id = "H0bsOhot"
+version = "TnGL6osA"

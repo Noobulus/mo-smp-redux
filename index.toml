@@ -118,11 +118,11 @@ hash = "0f9036961d390490b910b0a4364bd542a7273cbe74fc95b4299575139739286e"
 
 [[files]]
 file = "config/enchantmentdisabler-config.json5"
-hash = "0eed1f159b7a9df3da43afd9a9226669f17ae09b791bda669fe4f7b45f53da65"
+hash = "d253a9f5e67cce41995c96ac15106f5ac393c4cc7b5d49d777d19e77e59f2783"
 
 [[files]]
 file = "config/enchantmentdisabler/config.toml"
-hash = "184c8a728d4bb311667c6c22e3f28de23f113f6bf73a137cc5130b93b2b2abc0"
+hash = "c47a23b610b71f9f75ad93ab56d9614782c85de3f759bf2b2ece9854f0013c28"
 
 [[files]]
 file = "config/everycomp-common.json"
@@ -222,7 +222,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "47c5a922afe55f563b776cc2bf63d25d294232d2da8ec5c59a3a20b888035bfb"
+hash = "2bd3552e155c06cca080443081bd86f7bae06e608b34f8dfb7050d16e9679b72"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -290,7 +290,7 @@ hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "67172ffffbc74ae90d800eee707e880716f17d7e8ccedc45e2f148a1ccce506f"
+hash = "7319bcef316406f1baa245b768a31b56d5b2fedd4345c386bb56dcdca012a9a1"
 
 [[files]]
 file = "config/sit!/server-config.json"
@@ -545,6 +545,10 @@ file = "config/yosbr/options.txt"
 hash = "6a0481760b3293318021c1621ba536eace096cefe2d4e3f1f157f445dcb06bab"
 
 [[files]]
+file = "config/yosbr/servers.dat"
+hash = "64e03b74c1e889fb3ad11661c5226b73c53dce8d51e120bb76e6aebeb2e31e6d"
+
+[[files]]
 file = "icon.png"
 hash = "9367f61e2656ae392f0fee3b9fc7471657a3cef8341fbeba77fc8d9d6d9cd5bc"
 
@@ -711,11 +715,6 @@ hash = "9e8faaa798e6239138dea2d033b944a9534bb11e6a8646fc58633ff1cb6bd481"
 metafile = true
 
 [[files]]
-file = "mods/bundle-pins.pw.toml"
-hash = "ab46e199edeec40be9257af33b82ca2402625ba4fce0722274623bd2f919dc9b"
-metafile = true
-
-[[files]]
 file = "mods/bundle-scroll.pw.toml"
 hash = "5d217c8ce2812fbb2661ab2a5637b5846a03bf5073de68ca5c2f1333e84bf25e"
 metafile = true
@@ -801,11 +800,6 @@ hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
 metafile = true
 
 [[files]]
-file = "mods/component-viewer.pw.toml"
-hash = "194361e1aa340ee9ee63eda79ed8b5f156ee2781b13eef97e005513d55fa6f3a"
-metafile = true
-
-[[files]]
 file = "mods/connectiblechains.pw.toml"
 hash = "5f4a2827868ba96bdcf5d33b59c04a7c45d9306a12a407fc612aae4824186d83"
 metafile = true
@@ -861,9 +855,8 @@ hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
 metafile = true
 
 [[files]]
-file = "mods/dont-break-your-tools.pw.toml"
-hash = "641b34712bbebd850e1b0e33908c70a921bf99147f02b4145dc79ccb1db1eb93"
-metafile = true
+file = "mods/dont-break-your-tools-1.3.1-1.21.1.jar"
+hash = "24c2d5462224ff425200e4946cee58d65a4d7be519df7660f85f85288cef051c"
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
@@ -883,6 +876,16 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
+metafile = true
+
+[[files]]
+file = "mods/easy-sacks-compat.pw.toml"
+hash = "e388fb74dda549d46a31c9e9c2b653b4cc632d84ad15561f0102aaedf4bb5ac2"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "3f79aadc20ee02e53d1810892f0cd9e037575b1a6cf26505a3a514c24f2a55c7"
 metafile = true
 
 [[files]]
@@ -908,6 +911,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-disabler.pw.toml"
 hash = "e6299efce5a4fb6d53ceefcef675c5b081fec5c40610ded0770843020ea467cf"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "e8bd31ca64c5348efea94cca1ffd1301fb488e890f140cc5ee0f6f55f51824a5"
 metafile = true
 
 [[files]]
@@ -1154,7 +1162,7 @@ metafile = true
 
 [[files]]
 file = "mods/mnemonics-1.4.1.jar"
-hash = "b59018956c318d111f91d947ae6be96c0791965eee381bd5e8eaf97c00613288"
+hash = "53203150bacf813ccff191a9d561ccdc203d6e37b4bccceeecf6f9a9ed2c3ba2"
 
 [[files]]
 file = "mods/modelfix.pw.toml"
@@ -1355,11 +1363,6 @@ hash = "43500505cd9ccb41d9722586a0040be415ce71b6a93758b45d8176e925bd7851"
 metafile = true
 
 [[files]]
-file = "mods/simple-loot-viewer.pw.toml"
-hash = "e217d3575d65fd8e3856368f4de0e07f9d185cbf27130074864eac9d1b299611"
-metafile = true
-
-[[files]]
 file = "mods/simple-netherite-horse-armor.pw.toml"
 hash = "02845c4794b9bfc924d6a2b0b130e6f1a93ddc07a7bce6c19e008d29002f995e"
 metafile = true
@@ -1432,6 +1435,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
+file = "mods/stacksizefix.pw.toml"
+hash = "b41bfc171003e0a439f1bb123b1a47c63455e1926ed108e45bcd7ba6d07e65ba"
 metafile = true
 
 [[files]]
@@ -1530,6 +1538,18 @@ hash = "f833c28a5dd1d6479e7e7ab5f328367f2f55eac59a72731ff434e3a6502c3692"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/another_furniture/recipe/service_bell.json"
 hash = "6ddcc20dbcd8dc150aefeb19904f5dc3e1dc2f2073794b44b00c31f7ba34bcc2"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/nether_brass_chain.json"
+hash = "49efe64d0f6cc56a230ab20579df5e49766a72d4c0b33d9281604c0d6373ca30"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/nether_brass_lantern.json"
+hash = "59be918dab60784e0f7b734dc178773f7ce1bc639627d9ea94e876fb205b4b7d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/nether_brass_torch.json"
+hash = "ae38aeef7b2f813cea8c482e869e2bc52df202fa79216022c5be1adbccc0037e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/recipe/spool.json"
@@ -1740,6 +1760,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/camphor/recipe/
 hash = "cc77bd2542082416af54014f33c052b26a06445343754721cbb2d4b0e08a9324"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/dont-break-your-tools/tags/item/exempt_from_break_protection.json"
+hash = "b1bfb8f7e8b3cfeedddc3583342dd3662123c8428f34db2dee770694bd766dcc"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/album.json"
 hash = "b5bb7d5e6390c54ee74162a47a3dde8e59ef92a2e7ebedc15c7f4610cf362888"
 
@@ -1874,6 +1898,10 @@ hash = "44283d6526918923c81d347169c40b172acde4b0ca2f92212639bea16e6df27b"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/kaleidoscopic/arts_and_crafts/paintbrush_palette/rock_wall.json"
 hash = "7265d4e644049884c7f15adf43cdc500c0bd646daad05e038c98e120985146bc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/maddysmanyminiaturemodifications/tags/item/horse_bulk_food.json"
+hash = "0a631251584bd34077e16951a71f351c201bc0bea84e21b7c303cae055928c9d"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/advancement/adventure/use_lodestone.json"
@@ -2200,6 +2228,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/horse_food.json"
+hash = "78be14d8619b3c5600e601f8036cf5b3cc49218a67a723cfeb28547da15e60b7"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/pig_food.json"
 hash = "5aa8f8880901475582ad80e2ae1f82a610a8098baa47abe2e17427bddeb6370f"
 
@@ -2226,6 +2258,10 @@ hash = "d70d5eda4470515491501466ce012b4f7f9e451cbe246b7d4a6a03ca0ed5d085"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/spawns_warm_variant_farm_animals.json"
 hash = "3d45d190360ef40e01c986e4b07590e5f2acc68302fe1dd6bed89b62fcd38f3f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/utils/inverse-tags/item/horse_tempt_item.json"
+hash = "f316ea312b5c8068ab5477306e420ad7155829cc4330c86147e78b1882f9c465"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/mnemonics/recipe/jar.json"
@@ -2268,12 +2304,24 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "4ebe3ed2c073f6755d880e35674e3909a6363a81344ef37fd73125591d0a5aa3"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/function/cpm.mcfunction"
+hash = "43280ed895b54889d7bd1b5a5d686aeb82af6760a059e485259a9b5b7cec8341"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/beds.json"
 hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/bloody_mary.json"
 hash = "d73b2dca25370c9a0eee0ad5497f6aa03bacbc79102b9597050808aa4346f142"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/copper_lampear.json"
+hash = "16b0e305594bfb752447d8f82f12cb73b225fc687c488d91ad22ef3283215b8a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/elytra.json"
+hash = "04662016e7b32f6d40a854cb89aa7fa13718af5439a0519aff8254ff36e65186"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fiery_fondue.json"
@@ -2604,10 +2652,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "fc1708e632a7b46a80aff53797ea65f4cc8d4680b8aad10574d5843c9581239c"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_cabinet.json"
-hash = "fd851f49b0cfa120b83882790b07fbbb2cab52886b005bea7be314524c0ed9bb"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/everycomp/powdery_chair.json"
 hash = "26bfffeb87fd20fbe8d5878c4681815af52b14f067eb460d0af9237d34356f57"
 
@@ -2718,6 +2762,10 @@ hash = "08f7179957680c535e6aa647ae4f30d3b63b756ce166001b084cb481c4d78175"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt.json"
 hash = "7dd2bcdd7701659db6685110f5fc2a1f4093be12381752245ef0f099ea03582d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_alt_shit.json"
+hash = "94b31e736d1aa978bc8ca04498e8090b459666fa31592f437b252fa40033326b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/lumisene_bottle_from_bucket.json"
@@ -2908,6 +2956,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/function/load.json"
+hash = "ee1544182342546c458b90135983937f800242ea4038c6eecb847c6c2a8ca54a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/cheese_starters.json"
 hash = "889426b6a8d4d4d0646abb681646f6d835970fa9b78b944e8a6d911d04418e27"
 
@@ -2917,7 +2969,7 @@ hash = "7464242ecf89d7241e01eef829da7fe1e9d2c588077209fff728ab156c572e4a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/grassy_food_bales.json"
-hash = "5f2d6f1d6a6ef27c7233417819606e8c1a4933d94c0ee02c4a32cd7d6c41e630"
+hash = "4253eccd9c0400137e47bf37f88bf1efbdfcd59dc6829b8b0b349f45086e291a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/quiche_toppings.json"
@@ -3069,7 +3121,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "0e9c3ffeba3faf11daec4266949af774c6e3ed94144b41495a20f3e76fd7fb5b"
+hash = "f224dff483690ab682b0bb40e807a5b70ae192a7fb309fd5cfbd3c3d1dffd08d"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3328,6 +3380,10 @@ file = "resources/datapack/required/trade_rebalance/pack.mcmeta"
 hash = "de6293ba25968db3b556adecd61daad836c2e3c682f3fccbb83472925c7b128a"
 
 [[files]]
+file = "resources/resourcepack/required/Enchanting Table Lapis Icons.zip"
+hash = "744da9505a8afb9d828a68cfa42713a5a66f701291bccccdafe77efbc4025fdb"
+
+[[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/c/models/tag/item/eggs.json"
 hash = "37dc3aa026274d55d108ea17edeadb0b2ea3e520d019e6b6675b12245219f80e"
 
@@ -3472,5 +3528,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.6.txt"
+file = "v1.0.10.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

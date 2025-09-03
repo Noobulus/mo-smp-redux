@@ -2,7 +2,8 @@
 	"disablerEnabled": true,
 	"disabledEnchantments": [
 		"origins:water_protection",
-		"eleron:smokestack"
+		"eleron:smokestack",
+		"minecraft:mending"
 	],
 	"maxLevel": {
 		"modifyMaxLevels": false,
