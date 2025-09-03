@@ -290,7 +290,7 @@ hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "7319bcef316406f1baa245b768a31b56d5b2fedd4345c386bb56dcdca012a9a1"
+hash = "aac52b7879097a68f0090758fdef1f383f23f0440f791fdb99868b3c9de04ff7"
 
 [[files]]
 file = "config/sit!/server-config.json"
@@ -322,7 +322,7 @@ hash = "20119d8d594619635f73531b9419a3028e5a4520672d1a2b51ae3cf653ba5e11"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "e5f742605a1395eede7e10a6ab93dbf80b9e7d986fbc2b2020a69dbb70a10345"
+hash = "92a7cac96de8cb2474a619d06e66eb8d023da26b241cae14df0c1a61375f5ee5"
 
 [[files]]
 file = "config/suppsquared-common.json"
@@ -450,7 +450,7 @@ hash = "dc642a023bdc32ae1afb8fac0229df4d1f40de3bdd7269f4d71639c57c9dd442"
 
 [[files]]
 file = "config/yosbr/config/horseman-client.toml"
-hash = "76e9b0861c419b6d938bfdd0b7bf192d778227e424bc35cb7847bf751eac9332"
+hash = "d0abea86721a08ec95a375ecc597273738ee1ff246fd93bc330b16465b8703e3"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -551,6 +551,10 @@ hash = "64e03b74c1e889fb3ad11661c5226b73c53dce8d51e120bb76e6aebeb2e31e6d"
 [[files]]
 file = "icon.png"
 hash = "9367f61e2656ae392f0fee3b9fc7471657a3cef8341fbeba77fc8d9d6d9cd5bc"
+
+[[files]]
+file = "mods/NoCoords-1.2.jar"
+hash = "28837b834d7b86862720d63a20d968b5d9255f221df829087399010c07fcff38"
 
 [[files]]
 file = "mods/OxyTools-1.1.1.jar"
@@ -1794,6 +1798,10 @@ hash = "6ef384339bb5e3689365aeee47fb94b5a6a7869494119ecd2cbd4e2c776983ac"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
 hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cooking/apple_cider.json"
+hash = "55a12fdc9956e6849daf81f6aeb5eb68a56c3a3739272e9c628b3ffd46b8fd45"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cutting/melon.json"
@@ -3076,7 +3084,7 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries
 hash = "54bf984ad8d10945ce1f3520fee1aa95547bb27bb5fdacd6260b0e2ea04749e8"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/tag/item/straw.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/supplementaries/tags/item/straw.json"
 hash = "b904637783d6d2906fbb7e326d17b8a21add7e0aaca67a45dde481ae2a9a997e"
 
 [[files]]
@@ -3397,7 +3405,7 @@ hash = "644c0aa4fc07cf4a62a84e54ba6b5e1322e43971f524a62c793f18c089d5f230"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "320d8cc628169116cccd86054dbe0f61adf2b2210493f27acab742567a7c1adf"
+hash = "6c4e9e21180a8f43d138290d04cd3750de0c4a51d1733de55cfe00460397ceda"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
@@ -3528,5 +3536,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.10.txt"
+file = "v1.0.11.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
