@@ -290,7 +290,7 @@ hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
 
 [[files]]
 file = "config/preferred-gamerules.properties"
-hash = "aac52b7879097a68f0090758fdef1f383f23f0440f791fdb99868b3c9de04ff7"
+hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
 
 [[files]]
 file = "config/sit!/server-config.json"
@@ -1740,6 +1740,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/hid
 hash = "471150522bb550b06f7cbc8129522c35c196f6226df074719fb4283c06543328"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/music_discs.json"
+hash = "913f0401620ced405f2551537c4c5092c6454d390cbfde462eb940ce5906761d"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/storage_blocks.json"
 hash = "56daadf1031a75d537e8c96775a3a4f1b514d1524ea07a0f92e3995d811ae94e"
 
@@ -1801,7 +1805,7 @@ hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cooking/apple_cider.json"
-hash = "55a12fdc9956e6849daf81f6aeb5eb68a56c3a3739272e9c628b3ffd46b8fd45"
+hash = "2b9f3bfb507c8517bd8c7989f39cb160bbf1a5ad1c2765db2c431a736460c42c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/cutting/melon.json"
@@ -2336,6 +2340,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "faa7fa35cc016f91ff0f30fa2504544c2b26bd7bc5446c00ef2de4adc819511e"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/fireproof_booty_jams.json"
+hash = "82305969d5b3b1af645e27e140870f0ab995390c5cfc07c6ed2c850a2950cca2"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/golden_carrot.json"
 hash = "af3e24782304abff77b7bf4d06957e27511eeebf38dc7eb4a4c8c73607b7090f"
 
@@ -2373,11 +2381,11 @@ hash = "fcb4d467f5ffa754850d438dbd6b69c9ff25bdccaa9b00942154e521bf13cc49"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_blocks_resist_fire.json"
-hash = "44672f08af8681e77045fb875b9b034225e0532df4421a0b3a8c16e7fb4ccc5f"
+hash = "ad5a4e2894af2588e78823ad70d0cbc1a5150d0c347cf83ecbd268930cad4b74"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_drops_resist_fire.json"
-hash = "51a41b2648d22c73368023cd06240978e4a8316167835f7715faddc9f9f57279"
+hash = "110557e03d8e11d25d7c6577d2e8229bbe8a3b94962b7738d256959e702cdfe4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/netherite.json"
@@ -3536,5 +3544,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.11.txt"
+file = "v1.0.12.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

@@ -1,0 +1,6 @@
+{
+  "targets": "#c:music_discs",
+  "components": {
+    "minecraft:fire_resistant": {}
+  }
+}
