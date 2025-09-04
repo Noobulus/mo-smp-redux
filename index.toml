@@ -154,7 +154,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "f3cde0d18d2db5cda2b636e7d0d8518663b5c3d8ea09cb858efa2b5e3d5a1893"
+hash = "3cf46ac2dbde645502c56ab3e137984d783c1ee47f241543d93c35bdf113cc8a"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "a7bdd807416a497616ce9278dc2482639200b55cbcfb9cdfa8383721f1e32d2b"
+hash = "880867437a710d18a3cb89c9b314e8b69a8972fe7eb277681e5191a05b035ce7"
 metafile = true
 
 [[files]]
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "62b54d6fd6c1aecec4c2490d4486bb1a46784d04c30eb25d14ba322dfe62f4a0"
+hash = "aa7e3aa02cbdf7d652d6229ebcd69b2f2bcb1c5d4b869449ecbb8398440fdc12"
 metafile = true
 
 [[files]]
@@ -1180,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a873a5ee571204b63826fae1591f68d1e92811e366b1470a91ab3017d44bb8ba"
+hash = "c18a67aff4a25db1fff35ed2e72834d8aef5d2302514ca4f670ed048fcdc47d3"
 metafile = true
 
 [[files]]
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "3f3cd8f19e6c720d34646c60a2be057a0773f67b964f176476a1cae64f822bfe"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
 metafile = true
 
 [[files]]
@@ -1378,7 +1378,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2aaee059eaa1359a51f8a56a5e9a2e94417f84f13245c766b88b9a90ab683d10"
+hash = "cd120571d9b92a15f5e5d1732bbe8bff0a5cc9791f3350be70d8a469476ac157"
 metafile = true
 
 [[files]]
@@ -2068,10 +2068,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recip
 hash = "fe2a02e007093639d062d03b8a5959fd81bf24cb934c9bd3b26aed798ef80c3e"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/iron_bars.json"
-hash = "967074331b98765c63abe79166ba138c4f113b3a7b637dfd0341b4770245336e"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/iron_nugget_from_blasting.json"
 hash = "c939fb9b88d24e6bec6f0508f0b61d18629bb537eef657e0aeb780e46a48b334"
 
@@ -2210,6 +2206,10 @@ hash = "ad03c9d3e382b2bc9e966924d2f53cb7b91902ef273f5d3308e221ba3b6a8ff0"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/block/beacon_base_blocks.json"
 hash = "56daadf1031a75d537e8c96775a3a4f1b514d1524ea07a0f92e3995d811ae94e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/function/load.json"
+hash = "ee1544182342546c458b90135983937f800242ea4038c6eecb847c6c2a8ca54a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/armadillo_food.json"
@@ -2908,6 +2908,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "fc222eae0b48786c4a7ac442cf2bb48daa6e998e3910a122504c5ec8d9de7cdd"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/bars_buff.json"
+hash = "1f7f4fe8586a899138cfec5009cc605d1289efc3fac3afc77924b0c1ea239840"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/candle_dyeing_buff.json"
 hash = "649cb08b1539617305b9a153e4065643ea29d66e0189c3fcce3d129b83adadca"
 
@@ -2941,7 +2945,7 @@ hash = "104418c19da590e727aca8fc3d41bfb3a743242aa82b1e10db965d59a6291ead"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/pane_buff.json"
-hash = "392f8414f9808d04592583dbacf2441bc1e38363f1504476839a516384498be9"
+hash = "32e24db4d7925e098ffa2a6969b84ee546819986be82f9829ddb81bd5740041a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/shops.json"
@@ -2970,10 +2974,6 @@ hash = "726faa0caeb3b87a138130411d06e12c2af455a3800db57512c78a62871dc2aa"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/wood_buff.json"
 hash = "a2f2efb98cbcda7391888e8d868420a3abe02fb329946109c3246446e32e2056"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/function/load.json"
-hash = "ee1544182342546c458b90135983937f800242ea4038c6eecb847c6c2a8ca54a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/tags/item/cheese_starters.json"
@@ -3400,6 +3400,10 @@ file = "resources/resourcepack/required/Enchanting Table Lapis Icons.zip"
 hash = "744da9505a8afb9d828a68cfa42713a5a66f701291bccccdafe77efbc4025fdb"
 
 [[files]]
+file = "resources/resourcepack/required/Experience Bar Resize.zip"
+hash = "05fdcb1198a20f6906a937b6406fb0b67c324faa1597639eccd10106dda66f82"
+
+[[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/c/models/tag/item/eggs.json"
 hash = "37dc3aa026274d55d108ea17edeadb0b2ea3e520d019e6b6675b12245219f80e"
 
@@ -3544,5 +3548,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.17.txt"
+file = "v1.0.20.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

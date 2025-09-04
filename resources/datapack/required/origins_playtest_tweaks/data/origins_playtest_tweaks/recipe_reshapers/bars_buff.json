@@ -1,7 +1,7 @@
 {
     "id_substrings": {
-        "=": "pane",
-        "#": "glass"
+        "=": "bars",
+        "#": "!glass"
     },
     "source_family": [
         {
@@ -15,10 +15,11 @@
     ],
     "result_family": [
         {
-            "id_suffix": "_cheaper_panes",
+            "id_suffix": "_cheaper_bars",
             "pattern": [
-                "##",
-                "##"
+                "#  ",
+                "# #",
+                "  #"
             ],
             "output_token": "=",
             "output_count": 16,
