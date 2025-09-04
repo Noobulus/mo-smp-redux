@@ -2909,7 +2909,7 @@ hash = "fc222eae0b48786c4a7ac442cf2bb48daa6e998e3910a122504c5ec8d9de7cdd"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/bars_buff.json"
-hash = "ee9fe67130f6645124d8360e9b16e4fd8b3a3b1017ea74ee6c64c70b225a4af4"
+hash = "1f7f4fe8586a899138cfec5009cc605d1289efc3fac3afc77924b0c1ea239840"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/candle_dyeing_buff.json"
@@ -3548,5 +3548,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.18.txt"
+file = "v1.0.19.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

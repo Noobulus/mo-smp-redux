@@ -17,8 +17,9 @@
         {
             "id_suffix": "_cheaper_bars",
             "pattern": [
+                "#  ",
                 "# #",
-                "# #"
+                "  #"
             ],
             "output_token": "=",
             "output_count": 16,
