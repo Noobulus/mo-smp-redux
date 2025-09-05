@@ -206,7 +206,7 @@ hash = "0bdeb65a9261ae426ee70ce754f2059303a29f62ef04053f9f1d2ae90d9473b0"
 
 [[files]]
 file = "config/harvest_with_ease-common.toml"
-hash = "34c46c268008a790442fc410aae585220d95f7dd4eb9eb0dfa5b6d9de9896596"
+hash = "3e881a7bdc4fd61c0a3db0ce1524b21a446669dbe1e8a8fa9722dd2129711af4"
 
 [[files]]
 file = "config/horseman-common.toml"
@@ -804,6 +804,11 @@ hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
 metafile = true
 
 [[files]]
+file = "mods/connected-doors.pw.toml"
+hash = "1d912783e5a27dfd863ee3228ca0f907631b7ff30c0ea6fc4764968ca1e3341a"
+metafile = true
+
+[[files]]
 file = "mods/connectiblechains.pw.toml"
 hash = "5f4a2827868ba96bdcf5d33b59c04a7c45d9306a12a407fc612aae4824186d83"
 metafile = true
@@ -860,7 +865,12 @@ metafile = true
 
 [[files]]
 file = "mods/dont-break-your-tools-1.3.1-1.21.1.jar"
-hash = "24c2d5462224ff425200e4946cee58d65a4d7be519df7660f85f85288cef051c"
+hash = "571a3e60083a1f099993b108906556053c645abfefb54b0b85a45d6de0b01c3c"
+
+[[files]]
+file = "mods/door-jam.pw.toml"
+hash = "7821cf0b443c676ac6576a84da6323de5bda9154874d8e7c0dce8f0a278b0fd6"
+metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
@@ -2080,10 +2090,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recip
 hash = "206db681e11a238fa29bb4c7f54801e1c41aaac7b62d91b03a5b761ac2c15583"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/jack_o_lantern.json"
-hash = "213d63212629b60539adcad144c06123acd5e83265c32c9fba01039ace142492"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/jukebox.json"
 hash = "39322907f9c3f9fc7d0bd67edd3210e11a287d25c83ba4390023d7ed11469f6b"
 
@@ -2280,7 +2286,7 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/mnemonics/recip
 hash = "7072374558c1988501fa0a119cfd594e454037436918f61c5774fbdef9c6ad23"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/fried_hoglin_chop.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/mynethersdelight/recipe/cooking/cooking/fried_hoglin_chop.json"
 hash = "f507a6d02f34b3c0dff9e8d6c2ed035de3434fd0d31af904d02f2a7b524381bf"
 
 [[files]]
@@ -3548,5 +3554,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.20.txt"
+file = "v1.0.21.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

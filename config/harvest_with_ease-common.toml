@@ -1,7 +1,7 @@
 # List of in-game IDs of additional crops.
 crops = []
 # List of in-game IDs for crops that under no condition can be right-click harvested.
-blacklist = []
+blacklist = ["farmersdelight:tomatoes"]
 # Require holding a hoe (either hands) to right-click harvest.
 "require hoe" = false
 # If [require hoe] is set to true, damage the hoe of the given amount (0 to disable, must be an integer).
@@ -20,7 +20,7 @@ blacklist = []
 # The tier name is made of two parts: a namespace and a name.
 # The namespace is an optional mod ID and defaults to "minecraft" if not specified. The name can be either the tier name, e.g. "iron" (this is not granted to work aside from Vanilla tiers) or the tier tag, e.g. "incorrect_for_iron_tool".
 # Examples: "iron", "incorrect_for_iron_tool", "minecraft:iron", "minecraft:incorrect_for_iron_tool".
-tiers = ["none", "wood", "stone", "gold", "iron", "diamond", "netherite"]
+tiers = ["incorrect_for_iron_tool", "incorrect_for_diamond_tool", "incorrect_for_netherite_tool"]
 # Tool tier starting from which it is possible to harvest multiple crops at once.
 # All tiers that cannot multi-harvest will have a 1x1 square area of effect (a single crop).
 # If [starting harvest area size] is set to "single" and [area increment step] to "none" multi-harvest will be effectively disabled, regardless of this config option value.
@@ -29,7 +29,7 @@ tiers = ["none", "wood", "stone", "gold", "iron", "diamond", "netherite"]
 # The tier name is made of two parts: a namespace and a name.
 # The namespace is an optional mod ID and defaults to "minecraft" if not specified. The name can be either the tier name, e.g. "iron" (this is not granted to work aside from Vanilla tiers) or the tier tag, e.g. "incorrect_for_iron_tool".
 # Examples: "iron", "incorrect_for_iron_tool", "minecraft:iron", "minecraft:incorrect_for_iron_tool".
-"multi-harvest starting tier" = "iron"
+"multi-harvest starting tier" = "incorrect_for_iron_tool"
 # Starting multi-harvest area size (square side length).
 # The area is always a square centered on the right-clicked crop.
 # Setting this to "single" and [area increment step] to "none" will effectively disable multi-harvest.
