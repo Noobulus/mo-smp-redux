@@ -2321,6 +2321,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/nears/tags/bloc
 hash = "5df9f97c870e0b557bfd45d4487853b47d4689e281e7b23d7cf8aba0e252bb95"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/neoforge/loot_modifiers/global_loot_modifiers.json"
+hash = "d36124a3fd65c8e92701a521b4a8f0e1e9b648a3cfd3365223565e6ae152c33e"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/awning.json"
 hash = "7d42c636d274fb69c565759c30006c30ef8569c12755db369e9288f1a4370e10"
 
@@ -3585,5 +3589,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.24.txt"
+file = "v1.0.25.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
