@@ -1969,14 +1969,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_
 hash = "58c2dd9c492bda82c5e92cc449eed75c219c7fa1f98dea21e899e25e128c2866"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/short_dry_grass.json"
-hash = "49a7f87dbfd43140c89d9134a180d9854299bfdcf10c1ea11c27941a7c2bd6da"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/tall_dry_grass.json"
-hash = "7640c9551f28b64768f3910d92ed05747868e0aeceddad86442e49f92f2a13e8"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/activator_rail.json"
 hash = "7f545e9ff5efad12e4b8311fa3dda5940411afaa6a37b1385a5c134be321ff46"
 
@@ -2319,10 +2311,6 @@ hash = "f346c49033b766608dc74e65c4d41de066d8e8871e38badfcb3151377cc3d575"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/nears/tags/block/cinder_wheat_plantable_on.json"
 hash = "5df9f97c870e0b557bfd45d4487853b47d4689e281e7b23d7cf8aba0e252bb95"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/neoforge/loot_modifiers/global_loot_modifiers.json"
-hash = "d36124a3fd65c8e92701a521b4a8f0e1e9b648a3cfd3365223565e6ae152c33e"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/arts_and_crafts/paintbrush_palette/awning.json"
@@ -3589,5 +3577,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.25.txt"
+file = "v1.0.26.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
