@@ -1589,6 +1589,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/arts_and_crafts
 hash = "8096015b4da0e9390412425c81880407b0fd64bc0a49f6a40ff65543bd2898d5"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/arts_and_crafts/loot_table/blocks/cork_leaves.json"
+hash = "a8204c21126589109f7e006558701120505ed6b5d5fced98cbd06bca6cf997bc"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/apple_jelly.json"
 hash = "b3b4d31458e0c42b599a8798f2ab59f1cb4d86d92c3604621d798b239d2a0a60"
 
@@ -1955,6 +1959,14 @@ hash = "50596765fcb6d59f8ce1f561915423f1f33d552fcd8649e4dc6745a889f2a474"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/sea_lantern.json"
 hash = "58c2dd9c492bda82c5e92cc449eed75c219c7fa1f98dea21e899e25e128c2866"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/short_dry_grass.json"
+hash = "1c7da4e232d7a8b0292ebcfb7d436e9723bed6dadf0105191f146b2952020d56"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/tall_dry_grass.json"
+hash = "8dc5097e5569e6f800df8b0ce87426cf1ca39e77b759e46dd2e4b4b1633a0703"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/activator_rail.json"
@@ -3565,5 +3577,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.22.txt"
+file = "v1.0.23.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
