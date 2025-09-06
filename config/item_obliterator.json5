@@ -19,7 +19,6 @@
     "supplementaries:rope",
     "build_tools:cloud_bucket",
     "moonlight:placeable_item",
-    "origins:orb_of_origin",
     "porting_lib:area_selector",
     "everycomp:all_woods",
     "miku-plushie:canudinho",
@@ -300,7 +299,18 @@
     "architects_palette:warped_board_wall",
     "architects_palette:twisted_board_wall",
     "supplementaries:fodder",
-    "supplementaries:flax_block"
+    "supplementaries:flax_block",
+    "spudaciousshops:shop_acacia_red",
+    "spudaciousshops:shop_bamboo_red",
+    "spudaciousshops:shop_birch_red",
+    "spudaciousshops:shop_cherry_red",
+    "spudaciousshops:shop_crimson_red",
+    "spudaciousshops:shop_dark_oak_red",
+    "spudaciousshops:shop_mangrove_red",
+    "spudaciousshops:shop_oak_red",
+    "spudaciousshops:shop_spruce_red",
+    "spudaciousshops:shop_warped_red",
+    "spudaciousshops:shop_jungle_red"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.

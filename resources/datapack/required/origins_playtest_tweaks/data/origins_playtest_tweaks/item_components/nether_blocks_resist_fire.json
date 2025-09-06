@@ -8,7 +8,10 @@
     "minecraft:beacon",
     "minecraft:ender_chest",
     "mnemonics:fossil",
-    "mnemonics:aggregator"
+    "mnemonics:aggregator",
+    "mynethersdelight:letios_compost",
+    "mynethersdelight:resurgent_soil",
+    "mynethersdelight:resurgent_soil_farmland"
   ],
   "components": {
     "minecraft:fire_resistant": {}

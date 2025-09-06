@@ -1,0 +1,15 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredients": [
+    {
+      "item": "vanillabackport:dried_ghast"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 3,
+    "id": "mynethersdelight:ghasta"
+  }
+}

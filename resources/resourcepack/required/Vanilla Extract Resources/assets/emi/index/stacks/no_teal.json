@@ -6,9 +6,10 @@
     "item:y21:panel{\"y21:lamp_color\":\"teal\",\"y21:lamp_inverted\":1b}",
     "item:y21:panel{\"y21:lamp_color\":\"teal\",\"y21:lamp_inverted\":0b}",
     "item:y21:cage_lamp{\"y21:lamp_color\":\"teal\",\"y21:lamp_inverted\":1b}",
+    "item:y21:cage_lamp{\"y21:lamp_color\":\"teal\",\"y21:lamp_inverted\":0b}",
     "item:y21:fixture{\"y21:lamp_color\":\"teal\",\"y21:lamp_inverted\":1b}",
-    "item:y21:lamp{\"y21:lamp_color\":\"teal\",\"y21:lamp_inverted\":1b}",
     "item:y21:fixture{\"y21:lamp_color\":\"teal\",\"y21:lamp_inverted\":0b}",
+    "item:y21:lamp{\"y21:lamp_color\":\"teal\",\"y21:lamp_inverted\":1b}",
     "item:y21:lamp{\"y21:lamp_color\":\"teal\",\"y21:lamp_inverted\":0b}"
   ],
   "filters": [

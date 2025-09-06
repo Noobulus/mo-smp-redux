@@ -122,7 +122,7 @@ hash = "d253a9f5e67cce41995c96ac15106f5ac393c4cc7b5d49d777d19e77e59f2783"
 
 [[files]]
 file = "config/enchantmentdisabler/config.toml"
-hash = "c47a23b610b71f9f75ad93ab56d9614782c85de3f759bf2b2ece9854f0013c28"
+hash = "86856b5b74caa8c3215f10d869afd0190831ae30d662d27f421f4dc212c9f66b"
 
 [[files]]
 file = "config/everycomp-common.json"
@@ -206,7 +206,7 @@ hash = "0bdeb65a9261ae426ee70ce754f2059303a29f62ef04053f9f1d2ae90d9473b0"
 
 [[files]]
 file = "config/harvest_with_ease-common.toml"
-hash = "3e881a7bdc4fd61c0a3db0ce1524b21a446669dbe1e8a8fa9722dd2129711af4"
+hash = "f91a8af90dc6cf7d5c6a8bc7c6f46498bc133b6424ef6e8a5a7f45bd916f81fc"
 
 [[files]]
 file = "config/horseman-common.toml"
@@ -222,7 +222,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "2bd3552e155c06cca080443081bd86f7bae06e608b34f8dfb7050d16e9679b72"
+hash = "6e19af649b86a764a963286a25a0a9c75a6edbe4c41da3652a3ac42f99bf3a90"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -274,7 +274,7 @@ hash = "9bd850707a07e9eb59ecbff6a86384ce7521784492431ba09de00fa950ebe81e"
 
 [[files]]
 file = "config/pehkui/config.json"
-hash = "22a6ec961fb61ce3f23d3479e5e277f315cb7625f28231f09865ae95ffcbcefe"
+hash = "4a569d11fb17c117b637cc729add99e2a74f0210be0cecfb802c190a213ee251"
 
 [[files]]
 file = "config/pigs_have_litters.json5"
@@ -291,10 +291,6 @@ hash = "1925c7c43ff020efd13819c76293879788f6c9f1516c92f31fc2b9a624048a44"
 [[files]]
 file = "config/preferred-gamerules.properties"
 hash = "edad55a7c0fd23a9397c42ce2c851ea3c0893755b2738e49068d830036748b2b"
-
-[[files]]
-file = "config/sit!/server-config.json"
-hash = "87c4b4ace0221addc06b36542eec3535f44911a06b206ffc710ecc6fb7564ed9"
 
 [[files]]
 file = "config/smarterfarmers-common.json"
@@ -1397,11 +1393,6 @@ hash = "cabe8fb83bb069431798b84da7678892ac2bdaf8b6100cedd9c2744efdca3c08"
 metafile = true
 
 [[files]]
-file = "mods/sit!.pw.toml"
-hash = "4f9e06263d17a6ae3bc46c78d5a79d09ee55202d261fd15c505945a89259486b"
-metafile = true
-
-[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "4cb5ac541d7f72b33a4b406bd4695b7c731b5a6ce65cc38fd4ca7532f689cb3b"
 metafile = true
@@ -1720,6 +1711,10 @@ hash = "81187572341d1e5f4d5ddb9bc8266f6aa2e1e4d1aa7379f8afd8e8c52415ed9f"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/block/storage_blocks.json"
 hash = "56daadf1031a75d537e8c96775a3a4f1b514d1524ea07a0f92e3995d811ae94e"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/chains.json"
+hash = "0536b0d1f83fdc9043456e82ee108adec2aa20bdb94eb163d46ba3fc994978f2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/c/tags/item/cobblestones.json"
@@ -2066,6 +2061,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recip
 hash = "a25c32f88d3f31aa0a142b33169be0a2b92cc9a32e962a60436ac6271d35f695"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/golden_coffee_beans.json"
+hash = "069d17bb9581f2ad0f32f078201fe6da0bb4dd6514978888cb267afaa04880de"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/green_dye.json"
 hash = "15e87884b346f01cd02665d32c979587e2932fe1b1b8eaa8c4531e0a9ec67642"
 
@@ -2250,6 +2249,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "78be14d8619b3c5600e601f8036cf5b3cc49218a67a723cfeb28547da15e60b7"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/horse_tempt_items.json"
+hash = "3f98754f9b9bcd13b701d7976eec3080fdcc21ac0f7991274284e2a6ddbc5e9f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/non_flammable_wood.json"
+hash = "231d86a1f71e17fa3259501490aec30a292fa54f4b1db5cd67f101829d57e8d2"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/pig_food.json"
 hash = "5aa8f8880901475582ad80e2ae1f82a610a8098baa47abe2e17427bddeb6370f"
 
@@ -2276,10 +2283,6 @@ hash = "d70d5eda4470515491501466ce012b4f7f9e451cbe246b7d4a6a03ca0ed5d085"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/worldgen/biome/spawns_warm_variant_farm_animals.json"
 hash = "3d45d190360ef40e01c986e4b07590e5f2acc68302fe1dd6bed89b62fcd38f3f"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/utils/inverse-tags/item/horse_tempt_item.json"
-hash = "f316ea312b5c8068ab5477306e420ad7155829cc4330c86147e78b1882f9c465"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/mnemonics/recipe/jar.json"
@@ -2387,7 +2390,7 @@ hash = "fcb4d467f5ffa754850d438dbd6b69c9ff25bdccaa9b00942154e521bf13cc49"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_blocks_resist_fire.json"
-hash = "ad5a4e2894af2588e78823ad70d0cbc1a5150d0c347cf83ecbd268930cad4b74"
+hash = "9d1eeae1048cd2aeb53cdfa556ac6f338dadfee21a83cf9236f4dae594b1873a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/nether_drops_resist_fire.json"
@@ -2468,6 +2471,10 @@ hash = "c5fea9f8d994abf557817d26c1f600b4187776d5911118ca32dd27df353ce422"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/cocoa_fudge.json"
 hash = "a81f76825580c0d274800ccc15ae08c24e0366e47eae42ddd42f053467986d74"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cooking/ghasta_from_dried_ghast.json"
+hash = "ee5e7a7e2c9e172e2e782ced8a79d11a0eef88ff5980e89bcb8276a6f2722962"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/cutting/benches.json"
@@ -2810,6 +2817,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "eda9308632ee46f77bcfecb11508753dea72c1ed60243c85a3db889a2c04536e"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/mud.json"
+hash = "46fccfc791b2e1123b96ecdbc7e44bb7c95b28d893af1e328483e733f84010f1"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/name_tag.json"
 hash = "f848a4d9b7ea5dfcccd193a093b317c13d5fdad19c1d738ab15dd95e02f4fce1"
 
@@ -2844,6 +2855,10 @@ hash = "43692e3ce8f2ddac5569829e9796695d9d0f9cc52d50238ad1b20bdbc37a94c7"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/sand_from_gravel.json"
 hash = "301ad8f67119a32da0920ea7e26103c192799b15293b1c720565d7c3b6812a51"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/spool_to_string.json"
+hash = "2c8c4a274490bfac9bc63532400f863548fd8d3d8c40f6de4c6b110047483dad"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/teto_plushie.json"
@@ -3143,7 +3158,7 @@ hash = "77ae7d6ed583c4d2325e82a8ea7568c93260250850d4ab05c4f49c378a1eaa71"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/pack.mcmeta"
-hash = "f224dff483690ab682b0bb40e807a5b70ae192a7fb309fd5cfbd3c3d1dffd08d"
+hash = "6b93e53c2ace54180bbfd77a9bbeec55193e0949c49f39f42456678c7a178ffd"
 
 [[files]]
 file = "resources/datapack/required/spoinglypaintings.zip"
@@ -3414,12 +3429,8 @@ file = "resources/resourcepack/required/Vanilla Extract Resources/assets/c/model
 hash = "37dc3aa026274d55d108ea17edeadb0b2ea3e520d019e6b6675b12245219f80e"
 
 [[files]]
-file = "resources/resourcepack/required/Vanilla Extract Resources/assets/emi/stacks/no_display_case_shops.json"
-hash = "87d57078fff19f51a2ac319030103038bb1a97d60ca4453a962b6d3c2b645e0f"
-
-[[files]]
-file = "resources/resourcepack/required/Vanilla Extract Resources/assets/emi/stacks/no_teal.json"
-hash = "644c0aa4fc07cf4a62a84e54ba6b5e1322e43971f524a62c793f18c089d5f230"
+file = "resources/resourcepack/required/Vanilla Extract Resources/assets/emi/index/stacks/no_teal.json"
+hash = "48efb47f5e976967567c34da590f6d4e0993ed38f0ecca75b269e6265ea3a146"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
@@ -3554,5 +3565,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.21.txt"
+file = "v1.0.22.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

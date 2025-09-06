@@ -1,0 +1,76 @@
+{
+    "values": [
+        {
+            "id": "farmersdelight:crimson_cabinet",
+            "required": false
+        },
+        {
+            "id": "another_furniture:crimson_flower_box",
+            "required": false
+        },
+        {
+            "id": "supplementaries:way_sign_crimson",
+            "required": false
+        },
+        {
+            "id": "supplsquared:item_shelf_crimson",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:warped_cabinet",
+            "required": false
+        },
+        {
+            "id": "another_furniture:warped_flower_box",
+            "required": false
+        },
+        {
+            "id": "supplementaries:way_sign_warped",
+            "required": false
+        },
+        {
+            "id": "suppsquared:item_shelf_warped",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:powdery_cabinet",
+            "required": false
+        },
+        {
+            "id": "everycomp:af/mynethersdelight/powdery_shutter",
+            "required": false
+        },
+        {
+            "id": "everycomp:af/mynethersdelight/powdery_table",
+            "required": false
+        },
+        {
+            "id": "everycomp:af/mynethersdelight/powdery_chair",
+            "required": false
+        },
+        {
+            "id": "everycomp:af/mynethersdelight/powdery_shelf",
+            "required": false
+        },
+        {
+            "id": "everycomp:af/mynethersdelight/powdery_drawer",
+            "required": false
+        },
+        {
+            "id": "everycomp:af/mynethersdelight/powdery_bench",
+            "required": false
+        },
+        {
+            "id": "everycomp:af/mynethersdelight/powdery_flower_box",
+            "required": false
+        },
+        {
+            "id": "supplementaries:mynethersdelight/way_sign_powdery",
+            "required": false
+        },
+        {
+            "id": "suppsquared:mynethersdelight/item_shelf_powdery",
+            "required": false
+        }
+    ]
+}
