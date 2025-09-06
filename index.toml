@@ -1809,14 +1809,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe
 hash = "6ef384339bb5e3689365aeee47fb94b5a6a7869494119ecd2cbd4e2c776983ac"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/loot_modifiers/straw_from_dry_grass.json"
-hash = "839b73af9ee28b19372ff973912b8fa20ecc1c9d6b41ef3570f3bf46e0e941f5"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/loot_modifiers/straw_from_tall_dry_grass.json"
-hash = "0a24ec868c8160c5c0377fea0a4186ad17a0307c6338b83c60a89b5a6f115d99"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
 hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
 
