@@ -198,6 +198,14 @@
     {
         "namespace": "mynethersdelight",
         "path": "recipe/cutting/cutting/bullet_pepper.json"
+    },
+    {
+        "namespace": "rusticdelight",
+        "path": "recipe/golden_coffee_beans.json"
+    },
+    {
+        "namespace": "nears",
+        "path": "recipe/packed_mud_from_cinder_grain.json"
     }]
   }
 }

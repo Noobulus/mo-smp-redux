@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "D": {
+      "item": "minecraft:dirt"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DWD",
+    "DDD"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:mud"
+  }
+}
