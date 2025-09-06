@@ -1809,6 +1809,14 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe
 hash = "6ef384339bb5e3689365aeee47fb94b5a6a7869494119ecd2cbd4e2c776983ac"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/loot_modifiers/straw_from_dry_grass.json"
+hash = "839b73af9ee28b19372ff973912b8fa20ecc1c9d6b41ef3570f3bf46e0e941f5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/loot_modifiers/straw_from_tall_dry_grass.json"
+hash = "0a24ec868c8160c5c0377fea0a4186ad17a0307c6338b83c60a89b5a6f115d99"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
 hash = "2860a553516515ce9e5df63805508a4f329693852e43198681a337789ee3bfa7"
 
@@ -1962,11 +1970,11 @@ hash = "58c2dd9c492bda82c5e92cc449eed75c219c7fa1f98dea21e899e25e128c2866"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/short_dry_grass.json"
-hash = "1c7da4e232d7a8b0292ebcfb7d436e9723bed6dadf0105191f146b2952020d56"
+hash = "49a7f87dbfd43140c89d9134a180d9854299bfdcf10c1ea11c27941a7c2bd6da"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/loot_table/blocks/tall_dry_grass.json"
-hash = "8dc5097e5569e6f800df8b0ce87426cf1ca39e77b759e46dd2e4b4b1633a0703"
+hash = "7640c9551f28b64768f3910d92ed05747868e0aeceddad86442e49f92f2a13e8"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/recipe/activator_rail.json"
@@ -3577,5 +3585,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.23.txt"
+file = "v1.0.24.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
