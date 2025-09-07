@@ -1830,7 +1830,7 @@ hash = "6ef384339bb5e3689365aeee47fb94b5a6a7869494119ecd2cbd4e2c776983ac"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/photograph_copying_black_and_white.json"
-hash = "f7f5ce881c375234a82e4ef12b23ab8064727cf2be6feeaf4f0d4f77d9d6937b"
+hash = "9fd11294430ed3e5f37144fabbab6e9aa03733c4c28a527ca2b18f1513b2f6a6"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
