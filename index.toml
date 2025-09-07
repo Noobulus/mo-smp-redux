@@ -90,7 +90,7 @@ hash = "d1ff6e8f5aa2b77d6708b9d4a566d2de96e6f1ec594139742162b1dfdf92c476"
 
 [[files]]
 file = "config/comforts-server.toml"
-hash = "1b14431f3d46cdefd0c03077179b78f4b8b9e8cec6f436a924990fa1ef10c211"
+hash = "df8c22d711027f00999dbdbdf82524705679b643a4acd5f6919e036145f3243f"
 
 [[files]]
 file = "config/connectiblechains.toml"
@@ -222,7 +222,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "6e19af649b86a764a963286a25a0a9c75a6edbe4c41da3652a3ac42f99bf3a90"
+hash = "8b63a16fbd21052e75d0c536f365d2436244b64f04c304c42069f093bf6a0137"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -630,6 +630,11 @@ hash = "5dde461c1f6c0127ed8f4e4492adec5656af768185f6fde123d04fd303e7dff4"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "7c147aa6a8497f8ebd1c341398a30c6479f2eaafe750aab7de6c2777ecc01422"
+metafile = true
+
+[[files]]
 file = "mods/audaki-cart-engine.pw.toml"
 hash = "064816e4959da51774d36e41bee51b265eb053cf6ffe66dc5abbc2795da6b705"
 metafile = true
@@ -702,6 +707,11 @@ metafile = true
 [[files]]
 file = "mods/branded-logs.pw.toml"
 hash = "05ab115365fb3de4507d557865eee6a8e828d0800bc7980236185c4b948d1d6d"
+metafile = true
+
+[[files]]
+file = "mods/breakerplacer.pw.toml"
+hash = "a4695100ca0d6525dca30f4cbea5c0e6744f76d6ac8009124f6fa96ad091dd19"
 metafile = true
 
 [[files]]
@@ -1004,6 +1014,11 @@ hash = "816cb0e58987e1f04a4ec8d823c3a17d83b8bc2600ea35801fb54e885da1bd93"
 metafile = true
 
 [[files]]
+file = "mods/flourish.pw.toml"
+hash = "7366720e35bc14b7250c479b80f75755091b93b8649ede8ed58a5da5c965aa78"
+metafile = true
+
+[[files]]
 file = "mods/foodeffecttooltips.pw.toml"
 hash = "1f288dcc1b4a45b1496c471e0fac389afb2a824fa4db5220d5fec162c3f4474e"
 metafile = true
@@ -1147,8 +1162,8 @@ hash = "0d4ab0caa71480b72aaad92ec66d063d2b5a3995efd018b6af1bec01f4b82dbe"
 metafile = true
 
 [[files]]
-file = "mods/maddysmanyminiaturemodifications-1.0.0.jar"
-hash = "b2df94d442ac87cbb7d28b403deac68f6c468ee7cccf581e215200083a2d3448"
+file = "mods/maddysmanyminiaturemodifications-1.0.1.jar"
+hash = "14ff06f8cc7d1f64a7ca3b7abed005b550a101e42a2ad28ea1ab584520e635bd"
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
@@ -1227,6 +1242,11 @@ metafile = true
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "5e6b1524c18561c25a71d0842116ef3e047684c1b57bc5a9fb12fcc5d30c7ade"
+metafile = true
+
+[[files]]
+file = "mods/nostalgic-tweaks.pw.toml"
+hash = "332f1e871c8ed251a4b91fce517ab05a437ab5dc019fcd38498f0049ce80bdcf"
 metafile = true
 
 [[files]]
@@ -1807,6 +1827,10 @@ hash = "3e670b803bf74da8edae06820b6118b23514b10e5d70dd768a582b21531dfef7"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/lightroom.json"
 hash = "6ef384339bb5e3689365aeee47fb94b5a6a7869494119ecd2cbd4e2c776983ac"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/exposure/recipe/photograph_copying_black_and_white.json"
+hash = "f7f5ce881c375234a82e4ef12b23ab8064727cf2be6feeaf4f0d4f77d9d6937b"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/canvas_sign.json"
@@ -3438,7 +3462,7 @@ hash = "48efb47f5e976967567c34da590f6d4e0993ed38f0ecca75b269e6265ea3a146"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/texts/splashes.txt"
-hash = "6c4e9e21180a8f43d138290d04cd3750de0c4a51d1733de55cfe00460397ceda"
+hash = "79611580fd1870ecbde2de00eb17800f5c259d0e1eadb1bce48941168ef537bb"
 
 [[files]]
 file = "resources/resourcepack/required/Vanilla Extract Resources/assets/minecraft/textures/block/powered_rail.png"
@@ -3569,5 +3593,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.26.txt"
+file = "v1.0.27.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

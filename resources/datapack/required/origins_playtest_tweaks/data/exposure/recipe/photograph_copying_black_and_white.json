@@ -1,0 +1,24 @@
+{
+  "replace": true,
+  "type": "exposure:photograph_copying",
+  "photograph": {
+    "fabric:type": "fabric:components",
+    "base": {
+      "item": "exposure:photograph"
+    },
+    "components": {
+      "exposure:photograph_type": "black_and_white"
+    }
+  },
+  "ingredients": [
+    {
+      "tag": "exposure:photo_papers"
+    },
+    {
+      "tag": "exposure:black_printing_dyes"
+    }
+  ],
+  "result": {
+    "id": "exposure:photograph"
+  }
+}

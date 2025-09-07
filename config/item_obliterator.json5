@@ -310,7 +310,8 @@
     "spudaciousshops:shop_oak_red",
     "spudaciousshops:shop_spruce_red",
     "spudaciousshops:shop_warped_red",
-    "spudaciousshops:shop_jungle_red"
+    "spudaciousshops:shop_jungle_red",
+    "breakerplacer:breaker"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.

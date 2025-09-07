@@ -1,0 +1,13 @@
+name = "Flourish"
+filename = "flourish-fabric-21.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nNI4DwbW/versions/ly9ddZo8/flourish-fabric-21.1.0.jar"
+hash-format = "sha512"
+hash = "8c8eeef7b403a48d850a0417625c14b57dbb8f298d46973cc9dbd5babfa81ebf817a2d1cd75ac623309fd1f47bff01625755c7c840719fb163ea52cc719e922d"
+
+[update]
+[update.modrinth]
+mod-id = "nNI4DwbW"
+version = "ly9ddZo8"
