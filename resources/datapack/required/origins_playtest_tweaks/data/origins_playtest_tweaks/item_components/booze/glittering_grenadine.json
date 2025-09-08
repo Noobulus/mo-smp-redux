@@ -1,0 +1,33 @@
+{
+  "targets": "brewinandchewin:glittering_grenadine",
+  "components": {
+    "minecraft:food": {
+      "can_always_eat": true,
+      "saturation": 0,
+      "nutrition": 0,
+      "effects": [
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 2400,
+            "id": "brewinandchewin:tipsy"
+          }
+        },
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 600,
+            "id": "minecraft:glowing"
+          }
+        },
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 900,
+            "id": "minecraft:night_vision"
+          }
+        }
+      ]
+	}
+  }
+}

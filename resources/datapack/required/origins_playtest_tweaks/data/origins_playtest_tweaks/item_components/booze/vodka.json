@@ -1,0 +1,19 @@
+{
+  "targets": "brewinandchewin:vodka",
+  "components": {
+    "minecraft:food": {
+      "can_always_eat": true,
+      "saturation": 0,
+      "nutrition": 0,
+      "effects": [
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 3000,
+            "id": "brewinandchewin:tipsy"
+          }
+        }
+      ]
+	}
+  }
+}

@@ -1,0 +1,54 @@
+{
+    "values": [
+        "minecraft:powder_snow",
+        {
+            "id": "architects_palette:nether_brass_fire",
+            "required": false
+        },
+        {
+            "id": "supplementaries:fire_pit",
+            "required": false
+        },
+        {
+            "id": "supplementaries:blaze_rod",
+            "required": false
+        },
+        {
+            "id": "farmersdelight:stove",
+            "required": false
+        },
+        {
+            "id": "brewinandchewin:heating_cask",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:powdery_chubby_sapling",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:powdery_cannon",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:bullet_pepper",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:powdery_cane",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:bullet_pepper_crate",
+            "required": false
+        },
+        {
+            "id": "mynethersdelight:nether_bricks_stove",
+            "required": false
+        },
+        {
+            "id": "y21:lazor_beam",
+            "required": false
+        }
+    ]
+}
+ 

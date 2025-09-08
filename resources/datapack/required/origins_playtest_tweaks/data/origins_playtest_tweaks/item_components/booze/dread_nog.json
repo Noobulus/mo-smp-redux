@@ -1,0 +1,27 @@
+{
+  "targets": "brewinandchewin:dread_nog",
+  "components": {
+    "minecraft:food": {
+      "can_always_eat": true,
+      "saturation": 0,
+      "nutrition": 0,
+      "effects": [
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 3600,
+            "id": "brewinandchewin:tipsy",
+            "amplifier": 2
+          }
+        },
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 72000,
+            "id": "minecraft:bad_omen"
+          }
+        }
+      ]
+	}
+  }
+}

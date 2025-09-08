@@ -1,6 +1,6 @@
 {
 	"type": "lib39:piston_smashing",
-	"input": [ "c:cobblestones" ],
+	"input": [ "c:cobblestones", "c:stones" ],
 	"catalysts": "#minecraft:beacon_base_blocks",
 	"output": { "id": "minecraft:gravel" }
 }

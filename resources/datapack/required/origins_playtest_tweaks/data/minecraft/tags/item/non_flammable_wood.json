@@ -17,6 +17,26 @@
             "required": false
         },
         {
+            "id": "architects_palette:crimson_boards",
+            "required": false
+        },
+        {
+            "id": "architects_palette:crimson_board_slab",
+            "required": false
+        },
+        {
+            "id": "architects_palette:crimson_board_stair",
+            "required": false
+        },
+        {
+            "id": "architects_palette:crimson_board_wall",
+            "required": false
+        },
+        {
+            "id": "architects_palette:crimson_railing",
+            "required": false
+        },
+        {
             "id": "farmersdelight:warped_cabinet",
             "required": false
         },
@@ -30,6 +50,26 @@
         },
         {
             "id": "suppsquared:item_shelf_warped",
+            "required": false
+        },
+        {
+            "id": "architects_palette:warped_boards",
+            "required": false
+        },
+        {
+            "id": "architects_palette:warped_board_slab",
+            "required": false
+        },
+        {
+            "id": "architects_palette:warped_board_stair",
+            "required": false
+        },
+        {
+            "id": "architects_palette:warped_board_wall",
+            "required": false
+        },
+        {
+            "id": "architects_palette:warped_railing",
             "required": false
         },
         {
@@ -71,6 +111,26 @@
         {
             "id": "suppsquared:mynethersdelight/item_shelf_powdery",
             "required": false
-        }
+        },
+        {
+            "id": "everycomp:ap/mynethersdelight/powdery_boards",
+            "required": false
+        },
+        {
+            "id": "everycomp:ap/mynethersdelight/powdery_board_slab",
+            "required": false
+        },
+        {
+            "id": "everycomp:ap/mynethersdelight/powdery_board_stair",
+            "required": false
+        },
+        {
+            "id": "everycomp:ap/mynethersdelight/powdery_board_wall",
+            "required": false
+        },
+        {
+            "id": "everycomp:ap/mynethersdelight/powdery_railing",
+            "required": false
+        },
     ]
 }

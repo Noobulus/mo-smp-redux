@@ -9,6 +9,18 @@
   },
   "experience": 0,
   "ingredients": [
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:snowball"
+    }
   ],
   "result": {
     "id": "minecraft:ice"

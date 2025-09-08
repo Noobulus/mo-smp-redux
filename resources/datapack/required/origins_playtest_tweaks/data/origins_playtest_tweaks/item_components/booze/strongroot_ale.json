@@ -1,0 +1,27 @@
+{
+  "targets": "brewinandchewin:strongroot_ale",
+  "components": {
+    "minecraft:food": {
+      "can_always_eat": true,
+      "saturation": 0,
+      "nutrition": 0,
+      "effects": [
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 2400,
+            "id": "brewinandchewin:tipsy",
+            "amplifier": 1
+          }
+        },
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 900,
+            "id": "minecraft:resistance"
+          }
+        }
+      ]
+	}
+  }
+}

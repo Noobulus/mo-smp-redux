@@ -1162,7 +1162,7 @@ metafile = true
 
 [[files]]
 file = "mods/maddy-origins.pw.toml"
-hash = "0d4ab0caa71480b72aaad92ec66d063d2b5a3995efd018b6af1bec01f4b82dbe"
+hash = "efa5d39d637100462a286f2667b869e3bb5065e72151bb7dc65057d524e87993"
 metafile = true
 
 [[files]]
@@ -1585,6 +1585,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/architects_pale
 hash = "3838f551f977503770261fdfb1aa394e07508b11cc79fbbc40157290b71d1cde"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/architects_palette/tags/item/boards.json"
+hash = "13f588612c1270964d6e5db7e43cf0060a70ff70e70676ebeb0734e9214d2010"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/arts_and_crafts/arts_and_crafts/paintbrush_palette/bed.json"
 hash = "757e476f4b8d08f7121ab53ae7a87dbc4c362018805e1a783582a389cfa9468f"
 
@@ -1615,6 +1619,10 @@ hash = "8096015b4da0e9390412425c81880407b0fd64bc0a49f6a40ff65543bd2898d5"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/arts_and_crafts/loot_table/blocks/cork_leaves.json"
 hash = "a8204c21126589109f7e006558701120505ed6b5d5fced98cbd06bca6cf997bc"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/breakerplacer/recipe/placer.json"
+hash = "007b2619d718e1b372871cf7bdae8c5973e7e53ba2cdaf79aa834820519225a4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/cooking/apple_jelly.json"
@@ -1719,6 +1727,10 @@ hash = "856fec131a9c8eab07ff72bacdb4f547d65c7469f30010e4cf1fc2207ce18939"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/item_coaster.json"
 hash = "107939405797460015a3cdb73c78c1960bf3507f41445ed9f288c1484ed3df43"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/pizza.json"
+hash = "df6279d292f165d48bb3e0234936b1145cede9fb94830fbee527bc1004145985"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/brewinandchewin/recipe/pouring/unripe_flaxen_cheese_wheel.json"
@@ -1889,7 +1901,7 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/
 hash = "3b4a7c3d2188e9d2999da5d8829416a7b1ad473a62f9386cf5e435f7b3634bd3"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/wheat_dough.json"
+file = "resources/datapack/required/origins_playtest_tweaks/data/farmersdelight/recipe/wheat_dough_from_egg.json"
 hash = "0d9a814b685b7dd5b4ba84a9cb453a66fd7ced1548afd831b779283a55fc6a2f"
 
 [[files]]
@@ -2245,6 +2257,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "56daadf1031a75d537e8c96775a3a4f1b514d1524ea07a0f92e3995d811ae94e"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/block/happy_ghast_avoids.json"
+hash = "f8474ff23f45671c32b058341274cd36ebf41e7704a1c44442cc1cc824ee6052"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/function/load.json"
 hash = "ee1544182342546c458b90135983937f800242ea4038c6eecb847c6c2a8ca54a"
 
@@ -2277,6 +2293,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/
 hash = "f137b054eb94ca14a4d02e0a00cee6dbf053a1e2d1d288258dddf972575ca631"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/happy_ghast_tempt_items.json"
+hash = "76f70540a37f32e3d4f16c8775a8709e2913e7f9f75887efa45a61c0d7ae25c9"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/horse_food.json"
 hash = "78be14d8619b3c5600e601f8036cf5b3cc49218a67a723cfeb28547da15e60b7"
 
@@ -2286,7 +2306,7 @@ hash = "3f98754f9b9bcd13b701d7976eec3080fdcc21ac0f7991274284e2a6ddbc5e9f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/non_flammable_wood.json"
-hash = "231d86a1f71e17fa3259501490aec30a292fa54f4b1db5cd67f101829d57e8d2"
+hash = "6030b5b7b9de3bf86dea82de0bd9b922863f3ff4add178a1b540cafb5ad490e4"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/pig_food.json"
@@ -2367,6 +2387,66 @@ hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/bloody_mary.json"
 hash = "d73b2dca25370c9a0eee0ad5497f6aa03bacbc79102b9597050808aa4346f142"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/beer.json"
+hash = "9cda119cb38377cd50e7d793b00e40380c2408bd7141a8502d6e4689d0a2487a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/bloody_mary.json"
+hash = "11739e3d779173f1014343c0582a0fd8d35097b8b9bf2f6ffaed8583fc48ec97"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/dread_nog.json"
+hash = "51503d88d27da8acfa1e2eb4bf5f7092fc770f906258ada5bb56700941544874"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/egg_grog.json"
+hash = "a550a479961b9840dda2f2eb1545ca1fbb112cb13c87df5cee9b8eed6d43978d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/glittering_grenadine.json"
+hash = "ebab82124b0890cbb6c9b310461e11d766e8dedad98ae802c565b57ffd2f651f"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/mead.json"
+hash = "fba9c18712443bd0ba6456b78abc7883d2302295e3c769ada9ccea58f8b0a75d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/pale_jane.json"
+hash = "0636b4dc137fc3c9894c8fba6e25adcd736181b186880de435ca3dcd5ca67793"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/red_rum.json"
+hash = "77a553e0f49136d94cb701015ef4c3f373a11fd29115a5c87f3a4c063569fffa"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/rice_wine.json"
+hash = "28cc1f9a7b937225c496f0165a53d6d0a882b48e0dab058ccf00af8ce8b7246c"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/saccharine_rum.json"
+hash = "8346a4f54369f62563b5d1e246b670df46ceb27baa2775f429964ac5c71f6066"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/salty_folly.json"
+hash = "f3869f66a951110c455c0cbbb1b89908157189c4647e5a32ebe6e3fa5b1377a5"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/steel_toe_stout.json"
+hash = "629964006aa006f6216b3f386c419bd54517fce522fe2e3a09be942819ef7c28"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/strongroot_ale.json"
+hash = "680bab76dafc4ed00d01cf0f23eaafac73329b474256dcab6e5f74f39e5c735d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/vodka.json"
+hash = "c2587e8b578ede8eb54d2e313ec6fcd02a4fcee193debc99b8b22cc76b7bb091"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/withering_dross.json"
+hash = "14974ec80df669e9a5a22813b3e79b541db45e20c0cf0cb2f58ed7da4f8f613a"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/copper_lampear.json"
@@ -2778,7 +2858,7 @@ hash = "cef3f4ee2335050a93518b1c1a740e7e63c8cf9ad09a2885017b2ba297204e2c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fermenting/ice_from_water.json"
-hash = "f595e3900d1f15135e8571fcd17c71deaae8128fffdc249390e348b3085a6716"
+hash = "ec6c05e2410cdd09b7d433694664045e6cfc9f363ed462c51f2100113b6ca343"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fire_coral_block.json"
@@ -2878,7 +2958,7 @@ hash = "92ee82b03409b3ade884d5a71d90ef11ad4cf2c3c25c26d95dbc7fd0206165b2"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/gravel_from_cobble.json"
-hash = "4cf84238599a3e8ae74fd07aad586b5552f0587a276902e1a3a91a4e4ac321ea"
+hash = "d2b4f53961e546d46aa2b3aaebbde9f9509bad1a2063c19894acdb07983e5f14"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/smashing/paper_from_cotton.json"
@@ -3005,6 +3085,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "32e24db4d7925e098ffa2a6969b84ee546819986be82f9829ddb81bd5740041a"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/railing_encheapening.json"
+hash = "9424f0342608adfcb70b6fd4d47fc4d0f59492eee65ba88a6c5bb445b3ed921a"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/shops.json"
 hash = "b599a9924aee06371b4c18e2630e46ceaf57407dde3dcc10c9f51ed4a1871cea"
 
@@ -3022,7 +3106,7 @@ hash = "66f1feb21144949ec9d3f443b6fe29f3f96f6503711db8d340f9843ad79f3304"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/wall_uncrafting.json"
-hash = "6680a4a63355e511b16bd166b4fe65e09289b44ffd7231eb88dba01b6d290ea4"
+hash = "1f2384b0afe1f96492c8f3475d5dc80043ac519b0f46d3128bb425528c4a69c7"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/whatever_go_my_button.json"
