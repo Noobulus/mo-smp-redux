@@ -1,5 +1,5 @@
 {
-  "targets": "brewinandchewin:saccharine_rum",
+  "targets": "brewinandchewin:mead",
   "components": {
     "minecraft:food": {
       "can_always_eat": true,
@@ -9,7 +9,7 @@
         {
           "effect": {
             "show_icon": true,
-            "duration": 3600,
+            "duration": 1800,
             "id": "brewinandchewin:tipsy"
           }
         },
@@ -17,14 +17,6 @@
           "effect": {
             "show_icon": false,
             "duration": 2400,
-            "id": "brewinandchewin:intoxication",
-            "show_particles": false
-          }
-        },
-        {
-          "effect": {
-            "show_icon": false,
-            "duration": 3600,
             "id": "brewinandchewin:sweet_heart",
             "show_particles": false
           }

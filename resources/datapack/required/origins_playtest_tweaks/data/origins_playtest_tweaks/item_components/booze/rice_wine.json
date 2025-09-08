@@ -1,5 +1,5 @@
 {
-  "targets": "brewinandchewin:bloody_mary",
+  "targets": "brewinandchewin:rice_wine",
   "components": {
     "minecraft:food": {
       "can_always_eat": true,
@@ -9,23 +9,15 @@
         {
           "effect": {
             "show_icon": true,
-            "duration": 2400,
-            "id": "brewinandchewin:tipsy"
-          }
-        },
-        {
-          "effect": {
-            "show_icon": false,
             "duration": 1800,
-            "id": "brewinandchewin:intoxication",
-            "show_particles": false
+            "id": "brewinandchewin:tipsy"
           }
         },
         {
           "effect": {
             "show_icon": true,
             "duration": 1200,
-            "id": "brewinandchewin:raging"
+            "id": "farmersdelight:comfort"
           }
         }
       ]

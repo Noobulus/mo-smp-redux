@@ -1,0 +1,29 @@
+{
+    "common_ingredients": {
+        "|": "stick"
+    },
+    "id_substrings": {
+        "=": "railing",
+        "#": "planks"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "#|#"
+            ],
+            "output_token": "=",
+            "output_count": 3
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_cheaper_railings",
+            "pattern": [
+                "#|#"
+            ],
+            "output_token": "=",
+            "output_count": 6,
+            "category": "building"
+        }
+    ]
+}

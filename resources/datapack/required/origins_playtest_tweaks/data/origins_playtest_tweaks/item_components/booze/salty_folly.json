@@ -15,14 +15,6 @@
         },
         {
           "effect": {
-            "show_icon": false,
-            "duration": 3000,
-            "id": "brewinandchewin:intoxication",
-            "show_particles": false
-          }
-        },
-        {
-          "effect": {
             "show_icon": true,
             "duration": 2400,
             "id": "minecraft:water_breathing"

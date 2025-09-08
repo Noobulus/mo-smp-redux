@@ -1,0 +1,28 @@
+{
+  "targets": "brewinandchewin:steel_toe_stout",
+  "components": {
+    "minecraft:food": {
+      "can_always_eat": true,
+      "saturation": 0,
+      "nutrition": 0,
+      "effects": [
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 2400,
+            "id": "brewinandchewin:tipsy",
+            "amplifier": 2
+          }
+        },
+        {
+          "effect": {
+            "show_icon": true,
+            "duration": 1200,
+            "id": "minecraft:resistance",
+            "amplifier": 1
+          }
+        }
+      ]
+	}
+  }
+}

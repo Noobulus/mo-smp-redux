@@ -208,6 +208,7 @@ Peep the horror!
 You have alerted the hog.
 hogchamp
 dogchamp
+bogchamp
 §bHouse§r-like carpets!
 Opinionated!
 guys trge qweed'
@@ -220,8 +221,7 @@ MY LEG
 Fat Tail Friday!
 Fear seems like such a distant emotion.
 A terrifying presence has entered the room!
-Did you know?
-spuce
+Did you know? spuce
 Far cow!
 Conscious rocks!
 GET ENTERTAINED
@@ -243,13 +243,23 @@ It's beak!
 Clumsy deergirls!
 the Quest
 the Power
-evil attack power
 Made with Java!
 Maid with Java!
 ABORMAL
 smots gaming
 Birdbrained!
 Hot dwellers in your area!
+Armchair Game Design!
+Contains Dungeons!
+literally cutes
+i will become back my money
+Cow on a trash farm!
+public static final int EVIL_ATTACK_POWER = 8;
+public static final int EVIL_ARMOR_VALUE = 8;
+public static void youJustLostTheGame()
+Notarized!
+Contains treats!
+7-10 layers of Mixins!
 Also try Raspberry Flavoured!
 Also try Musketeer!
 Also try Bliss!

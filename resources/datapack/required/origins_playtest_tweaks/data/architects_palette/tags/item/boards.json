@@ -1,0 +1,20 @@
+{
+    "values": [
+        {
+            "id": "everycomp:ap/mynethersdelight/powdery_boards",
+            "required": false
+        },
+        {
+            "id": "everycomp:ap/arts_and_crafts/cork_boards",
+            "required": false
+        },
+        {
+            "id": "everycomp:ap/pearfection/callery_boards",
+            "required": false
+        },
+        {
+            "id": "everycomp:ap/vanillabackport/pale_oak_boards",
+            "required": false
+        }
+    ]
+}

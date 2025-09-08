@@ -1,5 +1,5 @@
 {
-  "targets": "brewinandchewin:red_rum",
+  "targets": "brewinandchewin:strongroot_ale",
   "components": {
     "minecraft:food": {
       "can_always_eat": true,
@@ -16,17 +16,9 @@
         },
         {
           "effect": {
-            "show_icon": false,
-            "duration": 1800,
-            "id": "brewinandchewin:intoxication",
-            "show_particles": false
-          }
-        },
-        {
-          "effect": {
             "show_icon": true,
-            "duration": 2400,
-            "id": "brewinandchewin:raging"
+            "duration": 900,
+            "id": "minecraft:resistance"
           }
         }
       ]
