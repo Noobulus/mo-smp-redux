@@ -222,7 +222,7 @@ hash = "33ab834fa5b90042d12ec4875cbf8c616425c83050570f4ec93fca3aba722670"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "8b63a16fbd21052e75d0c536f365d2436244b64f04c304c42069f093bf6a0137"
+hash = "44f8da8229aa66ae34e9ab03b0a9aa94198ef95592356193be0d78a224c7bfbf"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -259,6 +259,10 @@ hash = "4854d5612fee14c39ba056a0fa731233172df6723b7f5882261d56139e4be2e9"
 [[files]]
 file = "config/nohostilesaroundcampfire.json5"
 hash = "b724d15f7fc25ce235ddff8e9c27a3137f94f7826d9a2390df8df1d2a5cc8a91"
+
+[[files]]
+file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
+hash = "142612f001e4cd77547ff6f86da45650fd0a68652db1bf1fdfa9145f61ae521e"
 
 [[files]]
 file = "config/onsoulfire.json"
@@ -960,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "aa7e3aa02cbdf7d652d6229ebcd69b2f2bcb1c5d4b869449ecbb8398440fdc12"
+hash = "680759995f2ccf87a3bc180f21a5728f9471f9670d6a6bd7ac55afea908a6fe2"
 metafile = true
 
 [[files]]
@@ -985,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "f153bb989055178aacb8d919283a32697f7342ff2e244b883867e47fe94b28d6"
+hash = "0c1c4cb3282a20a758665c5e6877efd237bbe10214e0118c8719205fde87582f"
 metafile = true
 
 [[files]]
@@ -1065,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "173ff766a371c2902734cec81b935904d4317ab17b4d04cb96c8a0a9bb0f4111"
+hash = "da880b4a7e24cb2465ff67aca6e2b332b19f0dc101543395d9b70c0ccace20d7"
 metafile = true
 
 [[files]]
@@ -1201,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c18a67aff4a25db1fff35ed2e72834d8aef5d2302514ca4f670ed048fcdc47d3"
+hash = "5520f248532a46c16e41a42212720fd558e5324481f7b613820f8517b8668cb7"
 metafile = true
 
 [[files]]
@@ -2773,6 +2777,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "cef3f4ee2335050a93518b1c1a740e7e63c8cf9ad09a2885017b2ba297204e2c"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fermenting/ice_from_water.json"
+hash = "f595e3900d1f15135e8571fcd17c71deaae8128fffdc249390e348b3085a6716"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/fire_coral_block.json"
 hash = "62106853219d24a6d3067951ab397ce8672e8429922d086c56955c3879ed0f76"
 
@@ -3593,5 +3601,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.27.txt"
+file = "v1.0.28.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
