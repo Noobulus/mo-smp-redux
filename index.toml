@@ -2385,10 +2385,6 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "0f47acab804376aa8ef20ba98f0278ab4d41f88581ad4634897bac275c38b330"
 
 [[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/bloody_mary.json"
-hash = "d73b2dca25370c9a0eee0ad5497f6aa03bacbc79102b9597050808aa4346f142"
-
-[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/booze/beer.json"
 hash = "9cda119cb38377cd50e7d793b00e40380c2408bd7141a8502d6e4689d0a2487a"
 
@@ -2515,18 +2511,6 @@ hash = "ecec1ad4626a1d071f7ae2b8896074b05b72281e2a59d1adef6d7e53a4060473"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/potions.json"
 hash = "6741d906a61c6dc993d368e441ed5160d6368ab3df10767de65ae42d0b4fb8fe"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/red_rum.json"
-hash = "81c14442c5e67f1ded4e606ba7af0b5933fabe89c53ef4e0568d6fa1577e5113"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/saccharine_rum.json"
-hash = "b1e2fa83c3c418f7016f858920bd136b9ce931185f592c122e58c8a781c5fc40"
-
-[[files]]
-file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/salty_folly.json"
-hash = "8f68130c6c6aeb23965be2c63ef314a14c359af13098054f783acb72336b19ed"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/item_components/scarlet_cheese.json"
@@ -3685,5 +3669,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.28.txt"
+file = "v1.0.29.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
