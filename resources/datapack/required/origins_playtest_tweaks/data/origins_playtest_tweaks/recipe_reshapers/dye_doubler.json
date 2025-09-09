@@ -1,0 +1,21 @@
+{
+    "id_substrings": {
+        "~": "dye"
+    },
+    "source_family": [
+        {
+            "pattern": "#",
+            "output_token": "~",
+            "output_count": 1
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_double_dyes",
+            "pattern": "#",
+            "output_token": "~",
+            "output_count": 2,
+            "category": "building"
+        }
+    ]
+}

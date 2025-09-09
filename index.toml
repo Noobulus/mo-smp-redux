@@ -78,7 +78,7 @@ hash = "b1dfb0d7502b981bc41e34512a767e9b5073aca2e9d6af10452eb84bb2db906e"
 
 [[files]]
 file = "config/cobblegen.json5"
-hash = "04415418bcea703749191a554703ebd4fecd36b6e5a439c8b714141fc9a416cf"
+hash = "65a44e4c902a086ec17b9b94d4ae0b4e8415d7767c43de19696244428834332c"
 
 [[files]]
 file = "config/collective.json5"
@@ -261,8 +261,12 @@ file = "config/nohostilesaroundcampfire.json5"
 hash = "b724d15f7fc25ce235ddff8e9c27a3137f94f7826d9a2390df8df1d2a5cc8a91"
 
 [[files]]
+file = "config/nostalgic_tweaks/nostalgic_tweaks-server.json"
+hash = "4ab832d4602ed49eea3c53de187eb46c9ca072f7268a03f89aa5f8a488986b15"
+
+[[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
-hash = "142612f001e4cd77547ff6f86da45650fd0a68652db1bf1fdfa9145f61ae521e"
+hash = "b1425008dda10c2da41b1b23f9485a1f010ddf91c5ee7a676d3abf5b9f638825"
 
 [[files]]
 file = "config/onsoulfire.json"
@@ -551,6 +555,10 @@ hash = "64e03b74c1e889fb3ad11661c5226b73c53dce8d51e120bb76e6aebeb2e31e6d"
 [[files]]
 file = "icon.png"
 hash = "9367f61e2656ae392f0fee3b9fc7471657a3cef8341fbeba77fc8d9d6d9cd5bc"
+
+[[files]]
+file = "mods/Apoli-2.12.0-alpha.15+mc.1.21.1+winfylobo~1.jar"
+hash = "83fe164ce27efeb202f9db5e9a1da333658c15b12f856069a8e5cdce222c81ff"
 
 [[files]]
 file = "mods/NoCoords-1.2.jar"
@@ -2311,7 +2319,7 @@ hash = "3f98754f9b9bcd13b701d7976eec3080fdcc21ac0f7991274284e2a6ddbc5e9f"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/non_flammable_wood.json"
-hash = "6030b5b7b9de3bf86dea82de0bd9b922863f3ff4add178a1b540cafb5ad490e4"
+hash = "b8dc0f0d36eaf683880d2d0d6972d8aeddee34e629ae6fe51a67c13c54f3e1e6"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/minecraft/tags/item/pig_food.json"
@@ -2548,6 +2556,10 @@ hash = "2445eb810d79a9f8259c74a371ae9d8af0dc8e5e255a5c29263649e10c8a5ae4"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/bamboo_block_uncraft.json"
 hash = "0aeb7fcc854345d9f423cd16afebea95d49a076d532429922cee6d6f54c6e09d"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/black_dye_from_crafting_coals.json"
+hash = "bbdac1a87e4bc0be53ffb835f280148368073a4f8b7a8f199c819f8dd9e5f61c"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/brain_coral_block.json"
@@ -2942,6 +2954,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "9673cb1179f3acb1a1c50a42d81831cabefcc14689e8870825773bfcc88fd136"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/red_sand.json"
+hash = "6d854b628365ab50f34ecdca53bd29644791719eb6a689d4335f9cc8798c0f41"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe/shark_plushie.json"
 hash = "92ee82b03409b3ade884d5a71d90ef11ad4cf2c3c25c26d95dbc7fd0206165b2"
 
@@ -3030,6 +3046,10 @@ file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtes
 hash = "e39f531038570cf6a2e1cc39ddb84b8d86f7996df6a5274b532d90dc837db4cb"
 
 [[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/arts_and_crafts_charcoal_not_coal.json"
+hash = "7fb8758b8a4290bfe7b06ea3fe6aa3b02d138957a19c863c5da2812b18f177b7"
+
+[[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/banner_encheapening.json"
 hash = "fc222eae0b48786c4a7ac442cf2bb48daa6e998e3910a122504c5ec8d9de7cdd"
 
@@ -3060,6 +3080,10 @@ hash = "b50d9a1e8a6ebb216cffe702a250d12da705fdfaeedd0d4abf2ca5d67ac18c27"
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/door_and_trapdoor_buff.json"
 hash = "c01b88f63ef4b282b2d63e4f8eb5962f46ad68e6d8df03511f2c8cc92390d85a"
+
+[[files]]
+file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/dye_doubler.json"
+hash = "f875b224a46b8682b3272e1bff96442d5de4ad156f4553e2dd5828ea9005f018"
 
 [[files]]
 file = "resources/datapack/required/origins_playtest_tweaks/data/origins_playtest_tweaks/recipe_reshapers/fence_encheapening.json"
@@ -3674,5 +3698,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.0.31.txt"
+file = "v1.1.0.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"

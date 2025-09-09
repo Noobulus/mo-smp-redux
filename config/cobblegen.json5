@@ -10,176 +10,6 @@
                     ]
                 }
             },
-            "b:minecraft:tube_coral_block": {
-                "results": {
-                    "minecraft:raw_iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "minecraft:iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "*": [
-                        {
-                            "id": "minecraft:sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:sandstone",
-                            "weight": 10
-                        }
-                    ]
-                }
-            },
-            "b:minecraft:brain_coral_block": {
-                "results": {
-                    "minecraft:raw_iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "minecraft:iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "*": [
-                        {
-                            "id": "minecraft:sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:sandstone",
-                            "weight": 10
-                        }
-                    ]
-                }
-            },
-            "b:minecraft:bubble_coral_block": {
-                "results": {
-                    "minecraft:raw_iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "minecraft:iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "*": [
-                        {
-                            "id": "minecraft:sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:sandstone",
-                            "weight": 10
-                        }
-                    ]
-                }
-            },
-            "b:minecraft:fire_coral_block": {
-                "results": {
-                    "minecraft:raw_iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "minecraft:iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "*": [
-                        {
-                            "id": "minecraft:sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:sandstone",
-                            "weight": 10
-                        }
-                    ]
-                }
-            },
-            "b:minecraft:horn_coral_block": {
-                "results": {
-                    "minecraft:raw_iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "minecraft:iron_block": [
-                        {
-                            "id": "minecraft:red_sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:red_sandstone",
-                            "weight": 10
-                        }
-                    ],
-                    "*": [
-                        {
-                            "id": "minecraft:sand",
-                            "weight": 90
-                        },
-                        {
-                            "id": "minecraft:sandstone",
-                            "weight": 10
-                        }
-                    ]
-                }
-            },
             "b:minecraft:packed_ice": {
                 "results": {
                     "minecraft:magma_block": [
@@ -187,19 +17,29 @@
                             "id": "minecraft:tuff"
                         }
                     ],
+                    "minecraft:bone_block": [
+                        {
+                            "id": "minecraft:calcite"
+                        }
+                    ],
                     "minecraft:clay": [
                         {
                             "id": "arts_and_crafts:soapstone"
                         }
                     ],
-                    "minecraft:sandstone": [
+                    "minecraft:calcite": [
                         {
                             "id": "arts_and_crafts:gypsum"
                         }
                     ],
-                    "minecraft:bone_block": [
+                    "minecraft:sandstone": [
                         {
-                            "id": "minecraft:calcite"
+                            "id": "arts_and_crafts:verdant_pietraforte"
+                        }
+                    ],
+                    "minecraft:red_sandstone": [
+                        {
+                            "id": "arts_and_crafts:ochre_pietraforte"
                         }
                     ]
                 }
