@@ -1,0 +1,41 @@
+{
+    "id_substrings": {
+        "#": "pietraforte"
+    },
+    "common_ingredients": {
+        "C": "coal",
+        "|": "stick",
+        "H": "charcoal"
+    },
+    "source_family": [
+        {
+            "pattern": [
+                "H",
+                "|"
+            ],
+            "output_token": "!",
+            "output_count": 4,
+            "remove": false
+        },
+        {
+            "pattern": [
+                "C#",
+                "#C"
+            ],
+            "output_token": "@",
+            "output_count": 4
+        }
+    ],
+    "result_family": [
+        {
+            "id_suffix": "_charcoal_not_coal",
+            "pattern": [
+                "H#",
+                "#H"
+            ],
+            "output_token": "@",
+            "output_count": 4,
+            "category": "building"
+        }
+    ]
+}
