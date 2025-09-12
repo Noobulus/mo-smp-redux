@@ -557,8 +557,8 @@ file = "icon.png"
 hash = "9367f61e2656ae392f0fee3b9fc7471657a3cef8341fbeba77fc8d9d6d9cd5bc"
 
 [[files]]
-file = "mods/Apoli-2.12.0-alpha.15+mc.1.21.1+winfylobo~1.jar"
-hash = "83fe164ce27efeb202f9db5e9a1da333658c15b12f856069a8e5cdce222c81ff"
+file = "mods/Apoli-2.12.0-alpha.15+mc.1.21.1+winfylobo~2.jar"
+hash = "c6a69974262b8ff18ae1e77f9778c01c7d158a115ed22a0765aa9113673c8852"
 
 [[files]]
 file = "mods/NoCoords-1.2.jar"
@@ -3698,5 +3698,5 @@ file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.0.txt"
+file = "v1.1.1.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
