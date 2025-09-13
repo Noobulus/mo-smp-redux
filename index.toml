@@ -369,6 +369,14 @@ file = "config/vanityslots-server.toml"
 hash = "9809c24f7f50079843c63f6b1e54dc5e93611efe97c99d8d53e1685b4a1d9941"
 
 [[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "39d88df26dfd8081aa6d332bb0dc53090991b063a6ec46ef11648bfb2338b847"
+
+[[files]]
 file = "config/watut-common.toml"
 hash = "8b982a13bd0d8b4b557b1fcd3621a2bc362443b561679be23e4ecfa215581152"
 
@@ -658,12 +666,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "699010afc3867305441c3d5b3bcdf491a7aa3614ad199b0589f368689a68859e"
+hash = "47aaa2693fff2f75cc994e2398a751ae1da4d78f77c979c1f7f8c906a4f32dbf"
 metafile = true
 
 [[files]]
 file = "mods/bandutys-dfwmi.pw.toml"
-hash = "44d9396d125bb52c203526b86feef205af632365df2baa41d6fc01ff34c12f8e"
+hash = "c19edb5c3735723a7d5294f12ddf595c77cfb2c07110049c004e0dfdcd746cfc"
 metafile = true
 
 [[files]]
@@ -688,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "7c06a70ffeb5acc38cb9f9a9b2acfb8d85d6ab7622e1b79a2b3d98c0730dbac6"
+hash = "68b8e377cf09d0b131fd42548a4bb5ff171e70e064991823c5fb2911a93bc528"
 metafile = true
 
 [[files]]
@@ -788,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "880867437a710d18a3cb89c9b314e8b69a8972fe7eb277681e5191a05b035ce7"
+hash = "18961a8f9d5cd6b84729858f43b6ad22c52b6bdfc36e635f9cb2a535d190185a"
 metafile = true
 
 [[files]]
@@ -879,6 +887,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
+metafile = true
+
+[[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "445ee1518efe3cb7d80e14e05380757586c6ba84083fcce0f0f2a19e4f902150"
 metafile = true
 
 [[files]]
@@ -992,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -1087,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-overlays.pw.toml"
-hash = "8f416e0c7478f85087c4bd3b11e95da32567fbd3cc667b8e76e1f7ad53ae09bf"
+hash = "84c237a14db88cb31e937a7699d7cd3052e70104a4ae27de43ddf1d65f5f79c5"
 metafile = true
 
 [[files]]
@@ -1218,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c18a67aff4a25db1fff35ed2e72834d8aef5d2302514ca4f670ed048fcdc47d3"
+hash = "65ec71f9c53dc504377be8f91b941d46fbf0e8cb3abfd4163ff04792ec5d4eb3"
 metafile = true
 
 [[files]]
@@ -1362,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
-hash = "c886c2971a0a0aedd4f05286d845874cd1701b25e28245a35a42d0bae821a28d"
+hash = "d53903ed8bf2cbc1f8402a31dd92f8a14ab5f14012cfd17bf32107da825b506d"
 metafile = true
 
 [[files]]
@@ -1421,7 +1434,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cd120571d9b92a15f5e5d1732bbe8bff0a5cc9791f3350be70d8a469476ac157"
+hash = "158906efa43038115d87385d1f8b9329d9c5688d43bac0ccd95de7ae8f0a332c"
 metafile = true
 
 [[files]]
@@ -3694,9 +3707,13 @@ file = "resources/resourcepack/required/spoingly slimes paintings/pack.mcmeta"
 hash = "c108e655bd3408a5504d196a2a56e42775f1c7fb89802fabc0c74dcc976f7e48"
 
 [[files]]
+file = "servers.dat"
+hash = "12fa7874a0e1638c52005492cca277d3f76f87c908ccaffc900b1a8eb0e90845"
+
+[[files]]
 file = "unsup.toml"
 hash = "ec945ed742c174393499195c7cf98a151fe6fa6cbf27e861ac30c38bd70cd50b"
 
 [[files]]
-file = "v1.1.1.txt"
+file = "v1.1.2.txt"
 hash = "0d370775ee324d3390dac08dfa0caedb7d790ba52a53b6514446458645f84396"
