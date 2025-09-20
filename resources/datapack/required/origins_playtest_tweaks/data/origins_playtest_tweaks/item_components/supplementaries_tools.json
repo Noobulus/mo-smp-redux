@@ -1,0 +1,12 @@
+{
+  "targets": [
+    "supplementaries:wrench",
+    "supplementaries:flute",
+    "supplementaries:slingshot"
+  ],
+    "components": {
+        "minecraft:unbreakable": {
+            "show_in_tooltip": false
+        }
+    }
+}

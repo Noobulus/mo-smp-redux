@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "transmog:void_fragment"
+    },
+    "Y": {
+      "item": "minecraft:tinted_glass"
+    },
+    "Z": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "pattern": [
+    " X ",
+    "YZY",
+    "ZZZ"
+  ],
+  "result": {
+    "count": 1,
+    "id": "transmog:transmogrification_table"
+  }
+}
